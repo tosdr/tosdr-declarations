@@ -1,4 +1,4 @@
-# Declarations of terms tracked in the *tosdr* collection
+# Declarations of terms tracked in the *ToS;DR* collection
 
 The terms in this collection are declared by [Terms of Service; Didn’t Read](https://tosdr.org/) and tracked using [Open Terms Archive](https://opentermsarchive.org).
 
