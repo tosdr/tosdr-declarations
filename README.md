@@ -1,6 +1,6 @@
 # Declarations of terms tracked in the *tosdr* collection
 
-The terms in this collection are declared by _ _ _ _ _ ✍️ and tracked using [Open Terms Archive](https://opentermsarchive.org).
+The terms in this collection are declared by [Terms of Service; Didn’t Read](https://tosdr.org/) and tracked using [Open Terms Archive](https://opentermsarchive.org).
 
 You can [explore the tracked versions](https://github.com/OpenTermsArchive/tosdr-versions) interactively or [download them as a dataset](https://github.com/OpenTermsArchive/tosdr-versions/releases) in the `OpenTermsArchive/tosdr-versions` repository.
 
@@ -8,9 +8,9 @@ You can [explore the tracked versions](https://github.com/OpenTermsArchive/tosdr
 
 The terms you will find in this collection match the following scope:
 
-- **Topic:** _ _ _ _ _ ✍️
-- **Jurisdictions:** _ _ _ _ _ ✍️
-- **Languages:** _ _ _ _ _ ✍️
+- **Topic:** Any terms or policy document of any service that has a review written in ToS;DR
+- **Jurisdictions:** Global
+- **Languages:** English
 
 - - -
 
