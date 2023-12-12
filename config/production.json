@@ -1,15 +1,15 @@
 {
-  "name": "demo",
+  "name": "tosdr",
   "services": {
-    "repository": "https://github.com/OpenTermsArchive/demo-declarations.git",
+    "repository": "https://github.com/OpenTermsArchive/tosdr-declarations.git",
     "declarationsPath": "./declarations"
   },
   "recorder": {
     "versions": {
       "storage": {
         "git": {
-          "snapshotIdentiferTemplate": "https://github.com/OpenTermsArchive/demo-snapshots/commit/%SNAPSHOT_ID",
-          "repository": "git@github.com:OpenTermsArchive/demo-versions.git",
+          "snapshotIdentiferTemplate": "https://github.com/OpenTermsArchive/tosdr-snapshots/commit/%SNAPSHOT_ID",
+          "repository": "git@github.com:OpenTermsArchive/tosdr-versions.git",
           "path": "./data/versions"
         }
       }
@@ -17,7 +17,7 @@
     "snapshots": {
       "storage": {
         "git": {
-          "repository": "git@github.com:OpenTermsArchive/demo-snapshots.git",
+          "repository": "git@github.com:OpenTermsArchive/tosdr-snapshots.git",
           "path": "./data/snapshots"
         }
       }
@@ -35,15 +35,15 @@
   "reporter": {
     "githubIssues": {
       "repositories": {
-        "declarations": "OpenTermsArchive/demo-declarations",
-        "versions": "OpenTermsArchive/demo-versions",
-        "snapshots": "OpenTermsArchive/demo-snapshots"
+        "declarations": "OpenTermsArchive/tosdr-declarations",
+        "versions": "OpenTermsArchive/tosdr-versions",
+        "snapshots": "OpenTermsArchive/tosdr-snapshots"
       }
     }
   },
   "dataset": {
-    "title": "demo",
-    "versionsRepositoryURL": "https://github.com/OpenTermsArchive/demo-versions"
+    "title": "tosdr",
+    "versionsRepositoryURL": "https://github.com/OpenTermsArchive/tosdr-versions"
   },
   "api": {
     "port": 3000
