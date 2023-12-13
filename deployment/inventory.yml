@@ -1,5 +1,5 @@
 all:
   hosts:
-    _ _ _ _ _ ✍️:
-      ansible_user: _ _ _ _ _ ✍️
-      ed25519_fingerprint: _ _ _ _ _ ✍️
+    51.195.149.220:
+      ansible_user: debian
+      ed25519_fingerprint: AAAAC3NzaC1lZDI1NTE5AAAAIPdUmZiOSEsgrXI9hsW6EsIHdMzLXbQOVdi2OFVfzF8e
