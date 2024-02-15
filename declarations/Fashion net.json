@@ -1,0 +1,1 @@
+{"name":"Fashion Net","documents":{"Privacy Policy":{"fetch":"https://www.fashion.net/privacy.php","select":"html > body > div > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div > div > span"}}}

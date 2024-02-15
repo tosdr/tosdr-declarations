@@ -1,0 +1,1 @@
+{"name":"El Mundo (Spain)","documents":{"Terms of Service":{"fetch":"https://www.elmundo.es/registro/avisolegal.html","select":"html > body > main > div:nth-of-type(4) > div > div > div:first-of-type"},"Privacy Policy":{"fetch":"https://www.elmundo.es/registro/privacidad.html","select":"html > body > main > div:nth-of-type(4) > div > div > div:first-of-type"}}}

@@ -1,0 +1,1 @@
+{"name":"Ancestry & services","documents":{"Trackers Policy":{"fetch":"https://www.ancestry.com/cs/legal/AboutCookies","select":"body"},"Terms of Service":{"fetch":"https://www.ancestry.com/cs/legal/renewal-cancellation-terms"}}}

@@ -1,0 +1,1 @@
+{"name":"Metager","documents":{"Privacy Policy":{"fetch":"https://metager.org/datenschutz","select":"html > body > div:first-of-type"}}}

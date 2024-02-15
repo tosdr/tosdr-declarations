@@ -1,0 +1,1 @@
+{"name":"Jumbo Privacy","documents":{"Terms of Service":{"fetch":"https://blog.jumboprivacy.com/terms-of-use.html","select":"html > body > div:nth-of-type(4)"}}}

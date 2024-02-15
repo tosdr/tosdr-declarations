@@ -1,0 +1,1 @@
+{"name":"Streamable","documents":{"Privacy Policy":{"fetch":"https://privacy.streamable.com/","select":"html > body > div:nth-of-type(2) > div > div > div > div"},"Terms of Service":{"fetch":"https://terms.streamable.com/","select":"html > body > div:nth-of-type(2) > div > div > div > div"}}}

@@ -1,0 +1,1 @@
+{"name":"Dropbox","documents":{"Privacy Policy":{"fetch":"https://www.dropbox.com/privacy","select":" > div > div > div"},"Acceptable Use Policy":{"fetch":"https://www.dropbox.com/acceptable_use"},"Terms of Service":{"fetch":"https://www.dropbox.com/terms","select":" > div > div > div > div"}}}

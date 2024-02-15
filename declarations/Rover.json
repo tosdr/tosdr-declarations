@@ -1,0 +1,1 @@
+{"name":"Rover","documents":{"Privacy Policy":{"fetch":"https://www.rover.com/terms/privacy/","select":"body"},"Trackers Policy":{"fetch":"https://www.rover.com/terms/cookies/","select":"body"}}}

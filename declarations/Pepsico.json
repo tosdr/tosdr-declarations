@@ -1,0 +1,1 @@
+{"name":"PepsiCo","documents":{"Privacy Policy":{"fetch":"https://www.pepsico.com/legal/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.pepsico.com/legal/terms-of-use","select":"body"}}}

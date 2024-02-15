@@ -1,0 +1,1 @@
+{"name":"MCProHosting","documents":{"Acceptable Use Policy":{"fetch":"https://mcprohosting.com/tos","select":"html > body > div:nth-of-type(3)"},"Privacy Policy":{"fetch":"https://mcprohosting.com/privacy","select":"html > body > div:nth-of-type(3)"},"Terms of Service":{"fetch":"https://drive.google.com/file/d/1hrJJJFqSD8XH1RIRXhUwTvAkB_Tm9Bg_/view","select":"body"}}}

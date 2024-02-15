@@ -1,0 +1,1 @@
+{"name":"Mailfence","documents":{"Terms of Service":{"fetch":"https://mailfence.com/en/terms.jsp","select":"div.content"}}}

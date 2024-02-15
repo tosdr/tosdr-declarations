@@ -1,0 +1,1 @@
+{"name":"OpenTTD","documents":{"Privacy Policy":{"fetch":"https://www.openttd.org/policy.html","select":" > div:nth-of-type(2) > div"}}}

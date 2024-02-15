@@ -1,0 +1,1 @@
+{"name":"Virgin Australia","documents":{"Trackers Policy":{"fetch":"https://www.virginaustralia.com/au/en/about-us/legal-policies/privacy/cookies-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.virginaustralia.com/au/en/about-us/legal-policies/terms-of-use/","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"Bloomberg L. P.","documents":{"Terms of Service":{"fetch":"https://www.bloomberg.com/notices/tos/"},"Privacy Policy":{"fetch":"https://www.bloomberg.com/notices/privacy/","select":"body"}}}

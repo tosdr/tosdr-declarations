@@ -1,0 +1,1 @@
+{"name":"NewPipe","documents":{"Privacy Policy":{"fetch":"https://newpipe.net/legal/privacy/","select":"html > body > div:first-of-type"}}}

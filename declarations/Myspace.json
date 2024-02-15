@@ -1,0 +1,1 @@
+{"name":"Myspace","documents":{"Privacy Policy":{"fetch":"https://myspace.com/pages/privacy","select":"body"}}}

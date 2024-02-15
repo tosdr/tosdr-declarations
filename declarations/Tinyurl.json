@@ -1,0 +1,1 @@
+{"name":"tinyurl","documents":{"Privacy Policy":{"fetch":"https://tinyurl.com/app/privaicy-policy","select":"body"}}}

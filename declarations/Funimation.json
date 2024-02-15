@@ -1,0 +1,1 @@
+{"name":"Funimation","documents":{"Terms of Service":{"fetch":"https://www.funimation.com/terms-of-sale/","select":"body"}}}

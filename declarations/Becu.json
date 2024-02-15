@@ -1,0 +1,1 @@
+{"name":"BECU","documents":{"Privacy Policy":{"fetch":"https://becu.org/online-privacy-notice#info-collected","select":"html > body > main > div:first-of-type > div"},"Terms of Service":{"fetch":"https://becu.org/-/media/Files/PDF/BECUTermsandConditions.pdf","select":"body"}}}

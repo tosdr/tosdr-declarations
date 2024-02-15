@@ -1,0 +1,1 @@
+{"name":"Gemotest","documents":{"Terms of Service":{"fetch":"https://gemotest.ru/company/payments/","select":"html > body > div:nth-of-type(3) > main > div:nth-of-type(2) > div > div > div > div:first-of-type > div"},"Privacy Policy":{"fetch":"https://gemotest.ru/upload/pdf/personal_data_policy.pdf","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"Discourse","documents":{"Privacy Policy":{"fetch":"https://www.discourse.org/privacy","select":"html > body > main"}}}

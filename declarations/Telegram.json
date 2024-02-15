@@ -1,0 +1,1 @@
+{"name":"Telegram","documents":{"Terms of Service":{"fetch":"https://telegram.org/tos"},"Privacy Policy":{"fetch":"https://telegram.org/privacy","select":"body"}}}

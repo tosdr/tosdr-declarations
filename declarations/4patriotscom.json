@@ -1,0 +1,1 @@
+{"name":"4patriots.com","documents":{"Terms of Service":{"fetch":"https://4patriots.com/pages/terms-service","select":"body"},"Privacy Policy":{"fetch":"https://4patriots.com/pages/privacy-policy","select":"body"}}}

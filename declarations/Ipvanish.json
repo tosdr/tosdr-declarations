@@ -1,0 +1,1 @@
+{"name":"IPVanish","documents":{"Privacy Policy":{"fetch":"https://www.ipvanish.com/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.ipvanish.com/tos/","select":"body"}}}

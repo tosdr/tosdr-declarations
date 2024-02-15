@@ -1,0 +1,1 @@
+{"name":"eBay","documents":{"Privacy Policy":{"fetch":"https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260","select":"html > body > div:nth-of-type(5) > div > div:first-of-type > div:nth-of-type(3) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2)"}}}

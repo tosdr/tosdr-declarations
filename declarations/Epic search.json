@@ -1,0 +1,1 @@
+{"name":"Epic Search","documents":{"Privacy Policy":{"fetch":"https://www.epicbrowser.com/privacypolicy.html","select":"html > body > div > div:first-of-type > div:nth-of-type(2)"},"Terms of Service":{"fetch":"https://www.epicbrowser.com/tou.html","select":"body"}}}

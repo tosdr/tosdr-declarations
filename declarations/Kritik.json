@@ -1,0 +1,1 @@
+{"name":"Kritik","documents":{"Acceptable Use Policy":{"fetch":"https://www.kritik.io/policy/acceptable-use-policy","select":"html > body > div:nth-of-type(2)"},"Privacy Policy":{"fetch":"https://www.kritik.io/policy/privacy-policy","select":"html > body > div:nth-of-type(2)"}}}

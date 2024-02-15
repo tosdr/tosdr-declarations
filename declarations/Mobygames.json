@@ -1,0 +1,1 @@
+{"name":"MobyGames","documents":{"Privacy Policy":{"fetch":"https://www.mobygames.com/info/privacy","select":" > div"},"Terms of Service":{"fetch":"https://www.mobygames.com/info/terms","select":" > div"}}}

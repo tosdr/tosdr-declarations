@@ -1,0 +1,1 @@
+{"name":"Kaspersky","documents":{"Trackers Policy":{"fetch":"https://my.kaspersky.com/Home/ThirdPartyCode","select":"html > body > section:first-of-type > div > div > section > div"}}}

@@ -1,0 +1,1 @@
+{"name":"Thimatic ","documents":{"Terms of Service":{"fetch":"https://thimatic.com/pages/terms-conditions","select":"html > body > div:nth-of-type(5) > main > div > section > div > div"},"Privacy Policy":{"fetch":"https://thimatic.com/pages/privacy-policy","select":"body"}}}

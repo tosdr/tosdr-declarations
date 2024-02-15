@@ -1,0 +1,1 @@
+{"name":"Rofkin","documents":{"Privacy Policy":{"fetch":"https://rokfin.com/privacy","select":"html > body > div:first-of-type > section > main > div"}}}

@@ -1,0 +1,1 @@
+{"name":"VSCO","documents":{"Privacy Policy":{"fetch":"https://vsco.co/about/privacy_policy","select":" > div > div"},"Trackers Policy":{"fetch":"https://vsco.co/about/cookie_policy","select":" > div > div"},"Terms of Service":{"fetch":"https://vsco.co/about/terms_of_use","select":"body"}}}

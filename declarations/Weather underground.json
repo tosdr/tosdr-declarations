@@ -1,0 +1,1 @@
+{"name":"Weather Underground","documents":{"Privacy Policy":{"fetch":"https://www.wunderground.com/company/privacy-policy","select":"body"}}}

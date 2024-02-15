@@ -1,0 +1,1 @@
+{"name":"Tribune Publishing","documents":{"Terms of Service":{"fetch":"https://www.tribpub.com/subscriber-terms-and-conditions/","select":"body"},"Privacy Policy":{"fetch":"https://www.tribpub.com/privacy-policy","select":"body"}}}

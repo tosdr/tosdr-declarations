@@ -1,0 +1,1 @@
+{"name":"Travis CI Enterprise (Idera Inc.)","documents":{"Terms of Service":{"fetch":"https://www.ideracorp.com/Legal/Terms-of-Use","select":"html > body > div:nth-of-type(2)"},"Privacy Policy":{"fetch":"https://www.ideracorp.com/Legal/TravisCI/PrivacyStatement","select":"html > body > div:nth-of-type(2) > div > div"}}}

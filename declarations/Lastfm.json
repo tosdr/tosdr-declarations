@@ -1,0 +1,1 @@
+{"name":"last.fm","documents":{"Privacy Policy":{"fetch":"https://privacy.cbs/","select":"html > body"},"Terms of Service":{"fetch":"https://www.last.fm/legal/terms"}}}

@@ -1,0 +1,1 @@
+{"name":"LightyearVPN","documents":{"Privacy Policy":{"fetch":"https://app.termly.io/document/privacy-policy/4f9dfea9-b414-436b-b842-92a72620cc1c","select":"body"},"Terms of Service":{"fetch":"https://app.termly.io/document/terms-of-use-for-website/6d5d3982-3978-4650-a945-1e74138154db","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"Built In","documents":{"Privacy Policy":{"fetch":"https://builtin.com/privacy-policy","select":"html > body > div:first-of-type > div > main > div > div > div > div > div > div > div > div"},"Terms of Service":{"fetch":"https://builtin.com/community-terms-of-use","select":"html > body > div:first-of-type > div > main > div > div > div > div > div > div > div > div"}}}

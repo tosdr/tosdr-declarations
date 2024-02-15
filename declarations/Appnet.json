@@ -1,0 +1,1 @@
+{"name":"App.net","documents":{"Privacy Policy":{"fetch":"https://app.net/privacy","select":"html > body > main > section > div > div > div"},"Terms of Service":{"fetch":"https://app.net/terms","select":"html > body > main > section > div > div > div > div"}}}

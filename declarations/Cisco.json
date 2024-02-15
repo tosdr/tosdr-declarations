@@ -1,0 +1,1 @@
+{"name":"Cisco","documents":{"Privacy Policy":{"fetch":"https://www.cisco.com/c/en/us/about/legal/privacy-full.html","select":"html > body > div:nth-of-type(2) > div:nth-of-type(2)"},"Terms of Service":{"fetch":"https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html","select":"html > body > div:nth-of-type(2) > div:nth-of-type(2)"}}}

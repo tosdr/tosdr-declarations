@@ -1,0 +1,1 @@
+{"name":"Ring LLC","documents":{"Trackers Policy":{"fetch":"https://ring.com/cookie-policy","select":"html > body > section > main > div:first-of-type"},"Privacy Policy":{"fetch":"https://ring.com/privacy-notice","select":"html > body > section > main > div"},"Terms of Service":{"fetch":"https://ring.com/terms","select":"html > body > section > main"}}}

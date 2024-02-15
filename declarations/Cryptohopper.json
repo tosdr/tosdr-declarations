@@ -1,0 +1,1 @@
+{"name":"Cryptohopper","documents":{"Privacy Policy":{"fetch":"https://www.cryptohopper.com/privacy","select":" > div > div > div > div:nth-of-type(2) > div:nth-of-type(2)"}}}

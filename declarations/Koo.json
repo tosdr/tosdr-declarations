@@ -1,0 +1,1 @@
+{"name":"Koo","documents":{"Terms of Service":{"fetch":"https://info.kooapp.com/terms-of-service/","select":"body"},"Privacy Policy":{"fetch":"https://info.kooapp.com/privacy-policy/","select":"body"},"Community Guidelines":{"fetch":"https://info.kooapp.com/community-guidelines/","select":"body"}}}

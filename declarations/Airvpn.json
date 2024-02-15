@@ -1,0 +1,1 @@
+{"name":"AirVPN","documents":{"Terms of Service":{"fetch":"https://airvpn.org/tos/"},"Privacy Policy":{"fetch":"https://airvpn.org/privacy/","select":"html > body > main > div > div > div > div > div > div:first-of-type"}}}

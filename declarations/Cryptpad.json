@@ -1,0 +1,1 @@
+{"name":"CryptPad","documents":{"Terms of Service":{"fetch":"https://cryptpad.fr/terms.html","select":"html > body > div:first-of-type > div > div:nth-of-type(2)"},"Privacy Policy":{"fetch":"https://cryptpad.fr/privacy.html"}}}

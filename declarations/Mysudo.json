@@ -1,0 +1,1 @@
+{"name":"MySudo","documents":{"Terms of Service":{"fetch":"https://mysudo.com/tos/","select":"body"},"Privacy Policy":{"fetch":"https://mysudo.com/privacypolicy/","select":"body"}}}

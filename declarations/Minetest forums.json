@@ -1,0 +1,1 @@
+{"name":"Minetest Forums","documents":{"Privacy Policy":{"fetch":"https://forum.minetest.net/ucp.php?mode=privacy"},"Terms of Service":{"fetch":"https://forum.minetest.net/ucp.php?mode=terms","select":"body"}}}

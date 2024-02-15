@@ -1,0 +1,1 @@
+{"name":"Stack Overflow","documents":{"Acceptable Use Policy":{"fetch":"https://stackoverflow.com/legal/acceptable-use-policy","select":"main"},"Trackers Policy":{"fetch":"https://stackoverflow.com/legal/cookie-policy","select":"main"},"Terms of Service":{"fetch":"https://stackoverflow.com/legal/terms-of-service/public","select":"main"}}}

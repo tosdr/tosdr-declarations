@@ -1,0 +1,1 @@
+{"name":"Webcompat","documents":{"Terms of Service":{"fetch":"https://webcompat.com/terms","select":" > section > article > div"},"Privacy Policy":{"fetch":"https://webcompat.com/privacy","select":"body"}}}

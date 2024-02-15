@@ -1,0 +1,1 @@
+{"name":"Independent Australia","documents":{"Privacy Policy":{"fetch":"https://independentaustralia.net/about-ia/privacy-policy","select":"html > body > div:nth-of-type(4) > div > div:first-of-type > div"}}}

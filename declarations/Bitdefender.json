@@ -1,0 +1,1 @@
+{"name":"BitDefender","documents":{"Privacy Policy":{"fetch":"https://www.bitdefender.com/site/view/legal-privacy-policy-for-bitdefender-websites.html","select":"html > body > section:nth-of-type(3) > div"},"Legal Information":{"fetch":"https://www.bitdefender.com/site/view/legal-intellectual-property.html","select":"html > body > section:nth-of-type(4) > div"}}}

@@ -1,0 +1,1 @@
+{"name":"iCloud","documents":{"Terms of Service":{"fetch":"https://www.apple.com/legal/internet-services/icloud/en/terms.html","select":"html > body > main"},"Privacy Policy":{"fetch":"https://www.apple.com/legal/privacy/en-ww/","select":"html > body > main"}}}

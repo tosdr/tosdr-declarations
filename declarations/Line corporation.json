@@ -1,0 +1,1 @@
+{"name":"Line Corporation","documents":{"Privacy Policy":{"fetch":"https://line.me/en/terms/policy/","select":"body"},"Law Enforcement":{"fetch":"https://linecorp.com/en/security/article/35","select":"html > body > div > div:nth-of-type(2) > div"},"Terms of Service":{"fetch":"https://terms.line.me/line_terms?lang=en","select":"html > body > section > div > section > div"}}}

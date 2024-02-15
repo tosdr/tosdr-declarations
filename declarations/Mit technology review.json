@@ -1,0 +1,1 @@
+{"name":"MIT Technology Review","documents":{"Privacy Policy":{"fetch":"https://www.technologyreview.com/privacy","select":" > div > div:first-of-type > div > div > div > div"},"Terms of Service":{"fetch":"https://www.technologyreview.com/terms-of-service/","select":" > div > div:first-of-type > div > div > div > div"}}}

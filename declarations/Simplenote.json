@@ -1,0 +1,1 @@
+{"name":"Simplenote","documents":{"Privacy Policy":{"fetch":"https://automattic.com/privacy/","select":"div.tertiary + div:first-of-type"},"Terms of Service":{"fetch":"https://simplenote.com/terms/","select":"header.entry-header.responsive-max-width + div:first-of-type"},"Trackers Policy":{"fetch":"https://automattic.com/cookies/","select":"div.tertiary + div:first-of-type"}}}

@@ -1,0 +1,1 @@
+{"name":"EU Login","documents":{"Privacy Policy":{"fetch":"https://ecas.ec.europa.eu/cas/privacyStatement.html","select":"body"}}}

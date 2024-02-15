@@ -1,0 +1,1 @@
+{"name":"Anchor","documents":{"Privacy Policy":{"fetch":"https://anchor.fm/privacy","select":"html > body > div:first-of-type > div > main > div > div"}}}

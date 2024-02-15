@@ -1,0 +1,1 @@
+{"name":"Job Accomodation Network","documents":{"Privacy Policy":{"fetch":"https://askjan.org/privacy-statement.cfm","select":"html > body > div:nth-of-type(3) > section:nth-of-type(3) > div > div > div > div > div > div > div > div > div > div > div"}}}

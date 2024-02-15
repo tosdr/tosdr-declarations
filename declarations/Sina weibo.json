@@ -1,0 +1,1 @@
+{"name":"Sina Weibo","documents":{"Terms of Service":{"fetch":"https://weibo.com/signup/v5/protocol","select":"body"},"Privacy Policy":{"fetch":"https://weibo.com/signup/v5/privacy","select":"body"}}}

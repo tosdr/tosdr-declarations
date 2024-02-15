@@ -1,0 +1,1 @@
+{"name":"ello","documents":{"Privacy Policy":{"fetch":"https://ello.co/wtf/policies/data-policy/","select":"html > body > div > div:nth-of-type(2) > section > article"},"Community Guidelines":{"fetch":"https://ello.co/wtf/policies/community-guidelines/","select":"html > body > div > div:nth-of-type(2) > section > article"}}}

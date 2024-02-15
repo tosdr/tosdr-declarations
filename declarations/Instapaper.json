@@ -1,0 +1,1 @@
+{"name":"Instapaper","documents":{"Trackers Policy":{"fetch":"https://www.instapaper.com/privacy","select":" > div:nth-of-type(2) > div > div"},"Terms of Service":{"fetch":"https://www.instapaper.com/terms","select":"body"}}}

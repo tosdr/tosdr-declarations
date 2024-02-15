@@ -1,0 +1,1 @@
+{"name":"pagebin (discontinued?)","documents":{"Privacy Policy":{"fetch":"http://pagebin.com/datenschutz-bestimmungen.html","select":"div.container.content"}}}

@@ -1,0 +1,1 @@
+{"name":"GOG","documents":{"Privacy Policy":{"fetch":"https://support.gog.com/hc/en-us/articles/360004559077?product=gog","select":"html > body > div:nth-of-type(2) > div:nth-of-type(2) > main > div > div > div:nth-of-type(2) > div:first-of-type > article > div:first-of-type"}}}

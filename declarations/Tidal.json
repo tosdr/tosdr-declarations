@@ -1,0 +1,1 @@
+{"name":"Tidal","documents":{"Trackers Policy":{"fetch":"https://tidal.com/cookie-policy","select":"body"},"Privacy Policy":{"fetch":"https://tidal.com/privacy","select":"body"}}}

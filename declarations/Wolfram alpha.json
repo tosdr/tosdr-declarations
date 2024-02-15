@@ -1,0 +1,1 @@
+{"name":"Wolfram Alpha","documents":{"Terms of Service":{"fetch":"https://www.wolframalpha.com/termsofuse","select":"html > body > div:first-of-type > div > div:first-of-type"}}}

@@ -1,0 +1,1 @@
+{"name":"INKR","documents":{"Trackers Policy":{"fetch":"https://inkr.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://inkr.com/terms","select":"body"}}}

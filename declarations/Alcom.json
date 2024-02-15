@@ -1,0 +1,1 @@
+{"name":"Al.com","documents":{"Privacy Policy":{"fetch":"https://www.al.com/privacy-policy/","select":" > div > main"}}}

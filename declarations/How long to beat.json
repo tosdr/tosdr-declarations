@@ -1,0 +1,1 @@
+{"name":"How Long To Beat","documents":{"Privacy Policy":{"fetch":"https://howlongtobeat.com/privacy","select":"html > body > div:first-of-type > div > div:nth-of-type(2) > div"}}}

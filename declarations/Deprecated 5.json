@@ -1,0 +1,1 @@
+{"name":"DEPRECATED #5","documents":{"Privacy Policy":{"fetch":"https://signal.org/legal/","select":"html > body > section > div > div > div"}}}

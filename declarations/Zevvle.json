@@ -1,0 +1,1 @@
+{"name":"Zevvle","documents":{"Privacy Policy":{"fetch":"https://zevvle.com/privacy/"},"Terms of Service":{"fetch":"https://zevvle.com/terms","select":"html > body > article > article"}}}

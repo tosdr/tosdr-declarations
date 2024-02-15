@@ -1,0 +1,1 @@
+{"name":"The Wall Street Journal","documents":{"Privacy Policy":{"fetch":"https://www.wsj.com/policy/data-policy","select":"body"},"Terms of Service":{"fetch":"https://www.wsj.com/policy/additional-terms-conditions"}}}

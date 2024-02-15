@@ -1,0 +1,1 @@
+{"name":"Fandango","documents":{"Privacy Policy":{"fetch":"https://www.fandango.com/policies/privacy-policy","select":"html > body > main > div > div > section > div:nth-of-type(2)"},"Terms of Service":{"fetch":"https://www.fandango.com/policies/terms-of-use","select":"html > body > main > div > div > section > div:nth-of-type(2)"}}}

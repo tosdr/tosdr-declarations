@@ -1,0 +1,1 @@
+{"name":"MakeUseOf.com","documents":{"Terms of Service":{"fetch":"https://www.makeuseof.com/terms-of-use","select":"body"},"Privacy Policy":{"fetch":"https://www.makeuseof.com/privacy-policy","select":"body"}}}

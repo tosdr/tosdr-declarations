@@ -1,0 +1,1 @@
+{"name":"Minecraft","documents":{"Privacy Policy":{"fetch":"https://privacy.microsoft.com/en-us/privacystatement","select":"html > body > div:first-of-type > div"}}}

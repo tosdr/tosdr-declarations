@@ -1,0 +1,1 @@
+{"name":"Hackster","documents":{"Trackers Policy":{"fetch":"https://hackster.io/cookies","select":" > div > div > div:nth-of-type(2)"},"Privacy Policy":{"fetch":"https://www.hackster.io/privacy"},"Terms of Service":{"fetch":"https://www.hackster.io/terms"}}}

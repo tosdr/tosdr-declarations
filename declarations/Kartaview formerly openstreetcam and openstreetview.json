@@ -1,0 +1,1 @@
+{"name":"KartaView (formerly OpenStreetCam and OpenStreetView)","documents":{"Terms of Service":{"fetch":"https://kartaview.org/terms","select":"body"},"Privacy Policy":{"fetch":"https://kartaview.org/privacy-policy","select":"body"}}}

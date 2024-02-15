@@ -1,0 +1,1 @@
+{"name":"BandLab","documents":{"Privacy Policy":{"fetch":"https://blog.bandlab.com/privacy-policy/","select":"body main"},"Terms of Service":{"fetch":"https://blog.bandlab.com/terms-of-use/","select":"body main"}}}

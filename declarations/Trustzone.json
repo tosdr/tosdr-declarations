@@ -1,0 +1,1 @@
+{"name":"Trust.Zone","documents":{"Terms of Service":{"fetch":"https://trust.zone/terms","select":"html > body > div:nth-of-type(6)"}}}

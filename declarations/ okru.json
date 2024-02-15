@@ -1,0 +1,1 @@
+{"name":"Однокла́ссники (Ok.ru)","documents":{"Trackers Policy":{"fetch":"https://ok.ru/cookiepolicy"},"Privacy Policy":{"fetch":"https://ok.ru/privacypolicy","select":"html > body"}}}

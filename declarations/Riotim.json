@@ -1,0 +1,1 @@
+{"name":"Riot.im","documents":{"Terms of Service":{"fetch":"https://matrix.org/legal/terms-and-conditions/","select":" > div:first-of-type > div > div > div > div"},"Privacy Policy":{"fetch":"https://matrix-client.matrix.org/_matrix/consent?v=1.0","select":"html > body"}}}

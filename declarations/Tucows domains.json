@@ -1,0 +1,1 @@
+{"name":"Tucows Domains","documents":{"Legal Information":{"fetch":"https://www.tucowsdomains.com/help/legal-policies/","select":"html > body > div:first-of-type > div:first-of-type > div:first-of-type > ul > li:nth-of-type(2)"}}}

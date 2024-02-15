@@ -1,0 +1,1 @@
+{"name":"FileInfo","documents":{"Privacy Policy":{"fetch":"https://fileinfo.com:443/privacy","select":"article"},"Terms of Service":{"fetch":"https://fileinfo.com:443/terms","select":"article"}}}

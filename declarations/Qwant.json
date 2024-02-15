@@ -1,0 +1,1 @@
+{"name":"Qwant","documents":{"Privacy Policy":{"fetch":"https://about.qwant.com/legal/privacy/","select":"body"}}}

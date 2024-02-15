@@ -1,0 +1,1 @@
+{"name":"wtfismyip","documents":{"Privacy Policy":{"fetch":"https://myip.wtf/privacy","select":"body"}}}

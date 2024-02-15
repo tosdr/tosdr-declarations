@@ -1,0 +1,1 @@
+{"name":"Midland Credit Management","documents":{"Terms of Service":{"fetch":"https://www.midlandcredit.com/terms-of-use/","select":" > div > div"},"Privacy Policy":{"fetch":"https://www.midlandcredit.com/privacy-policy-and-state-disclosures/","select":"body"}}}

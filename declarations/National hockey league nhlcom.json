@@ -1,0 +1,1 @@
+{"name":"National Hockey League (NHL.com)","documents":{"Privacy Policy":{"fetch":"https://www.nhl.com/info/privacy-policy","select":"body"}}}

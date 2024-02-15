@@ -1,0 +1,1 @@
+{"name":"Choose Your Card","documents":{"Terms of Service":{"fetch":"https://chooseyourcard.com/terms/","select":"body"},"Privacy Policy":{"fetch":"https://chooseyourcard.com/privacy-policy/","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"Snapchat","documents":{"Privacy Policy":{"fetch":"https://www.snap.com/en-US/privacy/privacy-policy/","select":".textarticle-container.privacy-policy"}}}

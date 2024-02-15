@@ -1,0 +1,1 @@
+{"name":"Moddb.com","documents":{"Terms of Service":{"fetch":"https://www.moddb.com/terms-of-use","select":"html > body > div:first-of-type > div > div:nth-of-type(4)"},"Privacy Policy":{"fetch":"https://www.moddb.com/privacy-policy","select":"html > body > div:first-of-type > div > div:nth-of-type(4) > div > div:nth-of-type(2) > div"}}}

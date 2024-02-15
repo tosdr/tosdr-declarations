@@ -1,0 +1,1 @@
+{"name":"France Université Numérique","documents":{"Terms of Service":{"fetch":"https://www.fun-mooc.fr/payment/terms/"},"Privacy Policy":{"fetch":"https://www.fun-mooc.fr/en/privacy-policy/","select":"body"}}}

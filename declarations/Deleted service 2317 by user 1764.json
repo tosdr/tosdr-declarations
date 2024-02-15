@@ -1,0 +1,1 @@
+{"name":"Deleted Service 2317 by user 1764","documents":{"Terms of Service":{"fetch":"https://www.codeaco.com/tos","select":"html > body > div:first-of-type > div > div:nth-of-type(3) > section"},"Privacy Policy":{"fetch":"https://www.codeaco.com/privacy","select":"html > body > div:first-of-type > div > div:nth-of-type(3) > section"}}}

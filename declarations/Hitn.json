@@ -1,0 +1,1 @@
+{"name":"HITN","documents":{"Privacy Policy":{"fetch":"https://www.hitn.org/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.hitn.org/terms-of-service/","select":"body"}}}

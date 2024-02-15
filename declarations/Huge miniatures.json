@@ -1,0 +1,1 @@
+{"name":"Huge Miniatures","documents":{"Privacy Policy":{"fetch":"https://hugeminis.com/privacy-policy/","select":"html > body > div:nth-of-type(5) > div:nth-of-type(2) > div > div:nth-of-type(2) > main > article"}}}

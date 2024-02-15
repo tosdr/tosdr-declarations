@@ -1,0 +1,1 @@
+{"name":"Free Code Camp","documents":{"Privacy Policy":{"fetch":"https://privacy-policy.freecodecamp.org/","select":"html > body > div > main > div > article > section"},"Terms of Service":{"fetch":"https://terms-of-service.freecodecamp.org/","select":"html > body > div > main > div > article > section > div:first-of-type"}}}

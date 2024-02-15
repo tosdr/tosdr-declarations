@@ -1,0 +1,1 @@
+{"name":"Anki","documents":{"Privacy Policy":{"fetch":"https://support.anki.com/hc/en-us/articles/236021007-COZMO-Cozmo-Privacy-Basics","select":"html > body > div:nth-of-type(3) > main > div:nth-of-type(2) > div:nth-of-type(2) > article"}}}

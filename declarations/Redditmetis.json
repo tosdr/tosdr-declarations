@@ -1,0 +1,1 @@
+{"name":"RedditMetis","documents":{"Trackers Policy":{"fetch":"https://redditmetis.com/cookies","select":"html > body > div:first-of-type > div:first-of-type"}}}

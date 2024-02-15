@@ -1,0 +1,1 @@
+{"name":"Traffic Authority","documents":{"Privacy Policy":{"fetch":"https://www.trafficauthority.net/legal/privacy.php","select":" > div > div:first-of-type > div"},"Terms of Service":{"fetch":"https://www.trafficauthority.net/legal/terms.php","select":" > div > div:first-of-type > div"}}}

@@ -1,0 +1,1 @@
+{"name":"Any.do","documents":{"Trackers Policy":{"fetch":"https://www.any.do/legal/cookies-policy","select":"html > body > div:nth-of-type(2) > main > section"},"Privacy Policy":{"fetch":"https://www.any.do/legal/privacy-policy","select":"html > body > div:nth-of-type(2) > main > section"}}}

@@ -1,0 +1,1 @@
+{"name":"Archive of Our Own","documents":{"Privacy Policy":{"fetch":"https://archiveofourown.org/tos#privacy","select":"body"},"Terms of Service":{"fetch":"https://archiveofourown.org/tos"}}}

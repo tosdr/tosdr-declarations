@@ -1,0 +1,1 @@
+{"name":"Tree Top","documents":{"Privacy Policy":{"fetch":"https://www.treetop.com/privacy-policy/","select":" > article > div > div > div > main > article"},"Terms of Service":{"fetch":"https://www.treetop.com/terms-conditions/","select":" > article > div > div > div > main > article"}}}

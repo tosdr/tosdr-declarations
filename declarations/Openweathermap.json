@@ -1,0 +1,1 @@
+{"name":"OpenWeatherMap","documents":{"Privacy Policy":{"fetch":"https://agromonitoring.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://agromonitoring.com/storage/app/media/Terms/ExtremeElectronics_terms_and_conditions_of_sale.pdf","select":"body"}}}

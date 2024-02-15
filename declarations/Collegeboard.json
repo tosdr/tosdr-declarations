@@ -1,0 +1,1 @@
+{"name":"CollegeBoard","documents":{"Privacy Policy":{"fetch":"https://privacy.collegeboard.org/privacy-center/privacy-statement","select":"body"}}}

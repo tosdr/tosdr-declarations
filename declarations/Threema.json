@@ -1,0 +1,1 @@
+{"name":"Threema","documents":{"Privacy Policy":{"fetch":"https://threema.ch/en/privacy","select":"html > body > div:first-of-type > main > div"},"Terms of Service":{"fetch":"https://shop.threema.ch/en/terms","select":"html > body > main > section > div"}}}

@@ -1,0 +1,1 @@
+{"name":"Xiaomi","documents":{"Privacy Policy":{"fetch":"https://www.mi.com/global/about/privacy/","select":"html > body > div:nth-of-type(5)"}}}

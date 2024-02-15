@@ -1,0 +1,1 @@
+{"name":"Greenpeace","documents":{"Trackers Policy":{"fetch":"https://www.greenpeace.org/international/privacy/","select":"html > body > div:nth-of-type(3)"}}}

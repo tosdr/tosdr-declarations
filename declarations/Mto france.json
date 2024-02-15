@@ -1,0 +1,1 @@
+{"name":"Météo France","documents":{"Trackers Policy":{"fetch":"https://meteofrance.com/gestion-des-cookies","select":" > div:nth-of-type(2) > article > div:nth-of-type(2) > div"},"Privacy Policy":{"fetch":"https://meteofrance.com/politique-de-confidentialite","select":" > div:nth-of-type(2) > article > div:nth-of-type(2) > div"}}}

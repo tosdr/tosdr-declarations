@@ -1,0 +1,1 @@
+{"name":"Trumba","documents":{"Terms of Service":{"fetch":"https://www.trumba.com/connect/about/terms_of_use.aspx"},"Privacy Policy":{"fetch":"https://www.trumba.com/connect/about/privacy_policy.aspx","select":"body"}}}

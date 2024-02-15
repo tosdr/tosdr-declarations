@@ -1,0 +1,1 @@
+{"name":"Rockstar Games","documents":{"Terms of Service":{"fetch":"https://www.rockstargames.com/legal","select":" > main > div"},"Privacy Policy":{"fetch":"https://www.rockstargames.com/privacy","select":" > main > div"}}}

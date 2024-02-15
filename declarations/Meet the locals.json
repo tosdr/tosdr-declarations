@@ -1,0 +1,1 @@
+{"name":"Meet The Locals","documents":{"Privacy Policy":{"fetch":"https://meetthelocals.se/en/privacy-notice/","select":"div.page-body"},"Terms of Service":{"fetch":"https://meetthelocals.se/en/terms/","select":"div.page-body"}}}
