@@ -1,0 +1,1 @@
+{"name":"bms.com","documents":{"Legal Information":{"fetch":"https://www.bms.com/legal-notice.html","select":"body"},"Privacy Policy":{"fetch":"https://www.bms.com/privacy-policy.html","select":"body"}}}

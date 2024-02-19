@@ -1,0 +1,1 @@
+{"name":"WriteMyEssay.today","documents":{"Privacy Policy":{"fetch":"https://writemyessay.today/manage/terms","select":"html > body > div:first-of-type > div > div:nth-of-type(2)"}}}

@@ -1,0 +1,1 @@
+{"name":"Modrinth","documents":{"Terms of Service":{"fetch":"https://modrinth.com/legal/terms","select":" > div:nth-of-type(2) > div"},"Privacy Policy":{"fetch":"https://modrinth.com/legal/privacy","select":" > div:nth-of-type(2) > div"}}}

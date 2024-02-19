@@ -1,0 +1,1 @@
+{"name":"myORCA","documents":{"Terms of Service":{"fetch":"https://www.myorca.com/terms-of-use/","select":"html > body > main > div > section"},"Privacy Policy":{"fetch":"https://www.myorca.com/privacy/","select":"html > body > main > div > section:nth-of-type(2)"}}}

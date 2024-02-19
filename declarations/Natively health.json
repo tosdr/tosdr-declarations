@@ -1,0 +1,1 @@
+{"name":"Natively Health","documents":{"Privacy Policy":{"fetch":"https://www.nativelyhealth.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.nativelyhealth.com/terms-conditions","select":"body"}}}

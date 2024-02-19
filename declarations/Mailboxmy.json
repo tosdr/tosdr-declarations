@@ -1,0 +1,1 @@
+{"name":"mailbox.my","documents":{"Privacy Policy":{"fetch":"https://www.mailbox.my/legal.html?tab=privacypolicy"},"Terms of Service":{"fetch":"https://www.mailbox.my/legal.html?tab=termsofuse","select":"body"}}}

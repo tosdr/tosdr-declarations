@@ -1,0 +1,1 @@
+{"name":"Class Central ","documents":{"Privacy Policy":{"fetch":"https://www.classcentral.com/about/privacy-policy","select":"html > body > div:first-of-type"}}}

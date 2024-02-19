@@ -1,0 +1,1 @@
+{"name":"TwitPic","documents":{"Privacy Policy":{"fetch":"https://twitpic.com/static/privacy","select":"body"},"Terms of Service":{"fetch":"https://twitpic.com/static/tos","select":"body"}}}

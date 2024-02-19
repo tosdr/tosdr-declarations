@@ -1,0 +1,1 @@
+{"name":"DEPRECATED #68","documents":{"Terms of Service":{"fetch":"https://www.bbc.co.uk/usingthebbc/terms-of-use/","select":"html > body > div:nth-of-type(3) > section > div > div > div:nth-of-type(5)"},"Trackers Policy":{"fetch":"https://www.bbc.co.uk/usingthebbc/privacy-policy/","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"best-deal","documents":{"Terms of Service":{"fetch":"https://www.best-deal.com/service/terms/","select":"body"}}}

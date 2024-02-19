@@ -1,0 +1,1 @@
+{"name":"The Wrap News Inc","documents":{"Privacy Policy":{"fetch":"https://www.thewrap.com/privacy-policy/","select":"body"}}}

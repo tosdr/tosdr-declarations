@@ -1,0 +1,1 @@
+{"name":"8mb.video","documents":{"Privacy Policy":{"fetch":"https://8mb.video/privacy.html","select":"html > body"}}}

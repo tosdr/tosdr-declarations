@@ -1,0 +1,1 @@
+{"name":"In-N-Out Burger","documents":{"Privacy Policy":{"fetch":"https://www.in-n-out.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.in-n-out.com/terms-and-conditions","select":"body"}}}

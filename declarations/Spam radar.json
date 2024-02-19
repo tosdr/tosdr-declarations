@@ -1,0 +1,1 @@
+{"name":"Spam Radar","documents":{"Terms of Service":{"fetch":"https://spamradar.app/terms_and_conditions.html","select":"body"},"Privacy Policy":{"fetch":"https://spamradar.app/privacy-policy.html","select":"body"}}}

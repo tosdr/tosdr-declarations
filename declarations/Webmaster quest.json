@@ -1,0 +1,1 @@
+{"name":"Webmaster Quest","documents":{"Terms of Service":{"fetch":"https://webmasterquest.com/terms.php","select":"html > body > div:first-of-type > div:nth-of-type(2) > table > tbody > tr > td"},"Privacy Policy":{"fetch":"https://webmasterquest.com/privacy.php","select":"html > body > div:first-of-type > div:nth-of-type(2) > table > tbody > tr > td"}}}

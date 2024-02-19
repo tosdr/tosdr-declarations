@@ -1,0 +1,1 @@
+{"name":"Click a Snap","documents":{"Privacy Policy":{"fetch":"https://www.clickasnap.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.clickasnap.com/terms-and-conditions","select":"body"}}}

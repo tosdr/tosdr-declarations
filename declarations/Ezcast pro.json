@@ -1,0 +1,1 @@
+{"name":"EZCast Pro","documents":{"Terms of Service":{"fetch":"https://ezcast-pro.com/terms-of-use/","select":"body"},"Privacy Policy":{"fetch":"https://ezcast-pro.com/privacy-policy/","select":"body"}}}

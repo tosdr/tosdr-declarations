@@ -1,0 +1,1 @@
+{"name":"BudgetPetCare ","documents":{"Privacy Policy":{"fetch":"https://www.budgetpetcare.com/privacy.aspx","select":"html > body > div:nth-of-type(5)"},"Terms of Service":{"fetch":"https://www.budgetpetcare.com/terms-of-use.aspx","select":"body"}}}

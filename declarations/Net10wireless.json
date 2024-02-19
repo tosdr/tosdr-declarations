@@ -1,0 +1,1 @@
+{"name":"net10wireless","documents":{"Terms of Service":{"fetch":"https://www.net10wireless.com/termsandconditions","select":"body"},"Privacy Policy":{"fetch":"https://www.net10wireless.com/privacypolicy","select":"body"}}}

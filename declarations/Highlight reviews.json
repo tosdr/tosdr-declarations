@@ -1,0 +1,1 @@
+{"name":"Highlight Reviews","documents":{"Privacy Policy":{"fetch":"https://highlightreviews.com/privacy","select":"html > body > section > div > div"},"Terms of Service":{"fetch":"https://highlightreviews.com/tos","select":"html > body > section > div > div"}}}

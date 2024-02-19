@@ -1,0 +1,1 @@
+{"name":"UnifiedLayers","documents":{"Privacy Policy":{"fetch":"https://www.unifiedlayers.com/privacy-policy.html","select":"html > body > div:nth-of-type(5)"},"Terms of Service":{"fetch":"https://www.unifiedlayers.com/tos.html","select":"html > body > div:nth-of-type(5)"}}}

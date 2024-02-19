@@ -1,0 +1,1 @@
+{"name":"Klarna","documents":{"Privacy Policy":{"fetch":"https://www.klarna.com/us/privacy/","select":"body"}}}

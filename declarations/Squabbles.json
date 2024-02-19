@@ -1,0 +1,1 @@
+{"name":"Squabbles","documents":{"Privacy Policy":{"fetch":"https://squabbles.io/privacy","select":"body"},"Terms of Service":{"fetch":"https://squabbles.io/terms","select":"body"}}}

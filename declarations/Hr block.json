@@ -1,0 +1,1 @@
+{"name":"H&R Block","documents":{"Terms of Service":{"fetch":"https://www.hrblock.com/universal/terms/","select":"body"},"Privacy Policy":{"fetch":"https://www.hrblock.com/universal/digital-online-mobile-privacy-principles/","select":"body"}}}

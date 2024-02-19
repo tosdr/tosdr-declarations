@@ -1,0 +1,1 @@
+{"name":"Massachusetts General Court","documents":{"Privacy Policy":{"fetch":"https://malegislature.gov/StateHouse/Privacy","select":"html > body > div:nth-of-type(2) > main > div:nth-of-type(2)"},"Terms of Service":{"fetch":"https://malegislature.gov/StateHouse/TermsAndConditions","select":"html > body > div:nth-of-type(2) > main > div:nth-of-type(2)"}}}

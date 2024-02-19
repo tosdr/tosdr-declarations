@@ -1,0 +1,1 @@
+{"name":"Terraria Shop","documents":{"Privacy Policy":{"fetch":"https://terraria.shop/policies/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://terraria.shop/policies/terms-of-service","select":"body"}}}

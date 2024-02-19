@@ -1,0 +1,1 @@
+{"name":"inflact","documents":{"Privacy Policy":{"fetch":"https://inflact.com/privacy-policy/","select":"html > body > div:first-of-type > main"},"Terms of Service":{"fetch":"https://inflact.com/terms-of-service/","select":"html > body > div:first-of-type > main"}}}

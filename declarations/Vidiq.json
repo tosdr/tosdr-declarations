@@ -1,0 +1,1 @@
+{"name":"VidIQ","documents":{"Terms of Service":{"fetch":"https://vidiq.com/terms/","select":"body"},"Privacy Policy":{"fetch":"https://vidiq.com/privacy/","select":"body"}}}

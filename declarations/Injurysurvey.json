@@ -1,0 +1,1 @@
+{"name":"injurysurvey","documents":{"Privacy Policy":{"fetch":"https://injurysurvey.com/privacy/","select":"body"}}}

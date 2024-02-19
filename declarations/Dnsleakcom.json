@@ -1,0 +1,1 @@
+{"name":"dnsleak.com","documents":{"Terms of Service":{"fetch":"https://dnsleak.com/terms_of_service","select":"body"},"Privacy Policy":{"fetch":"https://dnsleak.com/privacy_policy","select":"body"}}}

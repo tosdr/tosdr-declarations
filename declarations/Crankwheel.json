@@ -1,0 +1,1 @@
+{"name":"CrankWheel ","documents":{"Privacy Policy":{"fetch":"https://crankwheel.com/privacy-policy/","select":"html > body > div:first-of-type > div:nth-of-type(2)"}}}

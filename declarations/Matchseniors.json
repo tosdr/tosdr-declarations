@@ -1,0 +1,1 @@
+{"name":"MatchSeniors ","documents":{"Trackers Policy":{"fetch":"https://www.matchseniors.com/cookies.php","select":"body"},"Privacy Policy":{"fetch":"https://www.matchseniors.com/privacy.php","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"Art by Thomas Brodhead","documents":{"Privacy Policy":{"fetch":"https://thomasbrodhead.com/privacy-policy/","select":"html > body > main"}}}

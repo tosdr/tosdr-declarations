@@ -1,0 +1,1 @@
+{"name":"Cinemark Theaters","documents":{"Terms of Service":{"fetch":"https://www.cinemark.com/terms-conditions","select":"html > body > div:nth-of-type(4)"},"Privacy Policy":{"fetch":"https://www.cinemark.com/privacy-policy","select":"body"}}}

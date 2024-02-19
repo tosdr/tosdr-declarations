@@ -1,0 +1,1 @@
+{"name":"My Nuzzle","documents":{"Privacy Policy":{"fetch":"https://www.mynuzzle.com/Privacy-Policy.dtm","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"Sankaku Complex","documents":{"Terms of Service":{"fetch":"https://login.sankakucomplex.com/terms-of-service","select":"body"},"Privacy Policy":{"fetch":"https://login.sankakucomplex.com/privacy-policy","select":"body"}}}

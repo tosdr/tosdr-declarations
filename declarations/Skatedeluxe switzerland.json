@@ -1,0 +1,1 @@
+{"name":"Skatedeluxe (Switzerland)","documents":{"Terms of Service":{"fetch":"https://www.skatedeluxe.ch/en/terms-and-conditions","select":"body"},"Privacy Policy":{"fetch":"https://www.skatedeluxe.ch/en/privacy","select":"body"}}}

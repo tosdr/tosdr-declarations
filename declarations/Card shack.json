@@ -1,0 +1,1 @@
+{"name":"Card Shack","documents":{"Terms of Service":{"fetch":"https://www.cardshack.co.uk/s/terms-conditions","select":"html > body > main > div > div"},"Privacy Policy":{"fetch":"https://www.cardshack.co.uk/s/privacy","select":"html > body > main > div > div"}}}

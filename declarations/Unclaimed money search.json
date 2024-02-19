@@ -1,0 +1,1 @@
+{"name":"Unclaimed Money search","documents":{"Privacy Policy":{"fetch":"https://www.unclaimed-moneysearch.com/pp.php","select":"body"}}}

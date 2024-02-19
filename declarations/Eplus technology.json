@@ -1,0 +1,1 @@
+{"name":"ePlus Technology","documents":{"Privacy Policy":{"fetch":"https://www.eplus.com/investors/privacy","select":"body"},"Trackers Policy":{"fetch":"https://eplus.com/investors/privacy/cookie-policy","select":"body"}}}

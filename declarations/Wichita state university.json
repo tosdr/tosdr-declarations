@@ -1,0 +1,1 @@
+{"name":"Wichita State University","documents":{"Privacy Policy":{"fetch":"https://www.wichita.edu/about/privacy.php","select":"html > body > main"}}}

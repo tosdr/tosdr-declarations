@@ -1,0 +1,1 @@
+{"name":"Newell Brands","documents":{"Privacy Policy":{"fetch":"https://privacy.newellbrands.com/index_en.html"},"Terms of Service":{"fetch":"https://www.newellbrands.com/terms-of-use","select":"html > body > main > div"},"Trackers Policy":{"fetch":"https://privacy.newellbrands.com/cookie_en.html"}}}

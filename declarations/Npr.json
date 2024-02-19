@@ -1,0 +1,1 @@
+{"name":"NPR","documents":{"Privacy Policy":{"fetch":"https://text.npr.org/179878450","select":"body"},"Terms of Service":{"fetch":"https://shopnpr.org/conditions-of-use","select":"html > body > div:nth-of-type(6) > div:nth-of-type(5)"}}}

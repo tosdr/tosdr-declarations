@@ -1,0 +1,1 @@
+{"name":"Themarany.com ","documents":{"Privacy Policy":{"fetch":"https://themarany.com/privacy-policy","select":"html > body > div:first-of-type > div:first-of-type > div > main > article > div > div > div:nth-of-type(2)"}}}

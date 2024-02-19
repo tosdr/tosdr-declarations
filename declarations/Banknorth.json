@@ -1,0 +1,1 @@
+{"name":"BankNorth","documents":{"Terms of Service":{"fetch":"https://www.ibanknorth.com/terms-of-use","select":"body"},"Privacy Policy":{"fetch":"https://www.ibanknorth.com/wp-content/uploads/2018/07/privacy_policy.pdf","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"Glarysoft","documents":{"Privacy Policy":{"fetch":"https://www.glarysoft.com/inf/privacy-policy/","select":"html > body > div:nth-of-type(4)"},"Terms of Service":{"fetch":"https://www.glarysoft.com/inf/termsofuse/","select":"html > body > div:nth-of-type(4)"}}}

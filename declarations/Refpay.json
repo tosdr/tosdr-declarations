@@ -1,0 +1,1 @@
+{"name":"RefPay","documents":{"Privacy Policy":{"fetch":"https://www.arbitersports.com/privacy-policy/","select":"html > body > div:first-of-type > main > article > section > div:nth-of-type(2) > div > div > div > div > div > div"}}}

@@ -1,0 +1,1 @@
+{"name":"S&S Activewear ","documents":{"Terms of Service":{"fetch":"https://www.ssactivewear.com/about/termsofuse"},"Privacy Policy":{"fetch":"https://www.ssactivewear.com/about/privacypolicy","select":"body"}}}

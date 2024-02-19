@@ -1,0 +1,1 @@
+{"name":"AMC Theatres ","documents":{"Terms of Service":{"fetch":"https://www.amctheatres.com/terms-and-conditions/on-demand","select":"body"},"Privacy Policy":{"fetch":"https://www.amctheatres.com/privacy-policy","select":"body"}}}

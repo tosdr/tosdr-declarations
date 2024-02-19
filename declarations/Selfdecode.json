@@ -1,0 +1,1 @@
+{"name":"SelfDecode","documents":{"Terms of Service":{"fetch":"https://selfdecode.com/page/terms-of-service/","select":"#primary"},"Privacy Policy":{"fetch":"https://selfdecode.com/page/privacy/","select":"#primary"}}}

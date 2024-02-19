@@ -1,0 +1,1 @@
+{"name":"Dave Zoller","documents":{"Privacy Policy":{"fetch":"https://www.davezoller.com/pages/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.davezoller.com/pages/terms","select":"body"}}}

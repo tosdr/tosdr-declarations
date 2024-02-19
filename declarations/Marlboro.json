@@ -1,0 +1,1 @@
+{"name":"Marlboro","documents":{"Privacy Policy":{"fetch":"https://www.marlboro.com/gtc/privacy-statement.html","select":"body"}}}

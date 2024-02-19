@@ -1,0 +1,1 @@
+{"name":"Chipotle Mexican Grill","documents":{"Privacy Policy":{"fetch":"https://www.chipotle.com/about-us/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.chipotle.com/about-us/terms-of-use","select":"html > body > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div"}}}

@@ -1,0 +1,1 @@
+{"name":"abstultus.com","documents":{"Terms of Service":{"fetch":"https://abstultus.com/terms","select":"body"},"Privacy Policy":{"fetch":"https://abstultus.com/privacy","select":"body"}}}

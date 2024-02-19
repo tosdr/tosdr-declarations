@@ -1,1 +1,1 @@
-{"name":"NRC","documents":{}}
+{"name":"NRC","documents":{"Trackers Policy":{"fetch":"https://www.nrc.nl/cookies/","select":"html > body > main > div:nth-of-type(2) > div > article > div > div"}}}

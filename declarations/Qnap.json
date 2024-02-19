@@ -1,0 +1,1 @@
+{"name":"QNAP","documents":{"Terms of Service":{"fetch":"https://www.qnap.com/en/legal/qnap-terms-of-use","select":"body"},"Privacy Policy":{"fetch":"https://www.qnap.com/en/about/con_show.php?op=showone&cid=4","select":"body"}}}

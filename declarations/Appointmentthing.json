@@ -1,0 +1,1 @@
+{"name":"AppointmentThing","documents":{"Privacy Policy":{"fetch":"https://appointmentthing.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://appointmentthing.com/terms","select":"body"}}}

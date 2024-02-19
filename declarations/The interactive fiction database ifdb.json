@@ -1,0 +1,1 @@
+{"name":"the Interactive Fiction Database (IFDB)","documents":{"Terms of Service":{"fetch":"https://ifdb.org/tos","select":"body"},"Privacy Policy":{"fetch":"https://ifdb.org/privacy","select":"body"}}}

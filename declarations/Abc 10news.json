@@ -1,0 +1,1 @@
+{"name":"ABC 10News","documents":{"Privacy Policy":{"fetch":"https://www.10news.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.10news.com/terms-of-use","select":"body"}}}

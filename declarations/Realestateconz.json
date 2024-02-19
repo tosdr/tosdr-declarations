@@ -1,0 +1,1 @@
+{"name":"Realestate.co.nz","documents":{"Terms of Service":{"fetch":"https://www.realestate.co.nz/terms-and-conditions","select":"body"},"Privacy Policy":{"fetch":"https://www.realestate.co.nz/privacy-policy","select":"body"}}}

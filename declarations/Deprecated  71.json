@@ -1,0 +1,1 @@
+{"name":"DEPRECATED # 71","documents":{"Privacy Policy":{"fetch":"https://help.netflix.com/legal/fastprivacy","select":"html > body > div:nth-of-type(2) > div:nth-of-type(4) > div > div:nth-of-type(2) > div:first-of-type > section > div > div"}}}

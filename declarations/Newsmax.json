@@ -1,0 +1,1 @@
+{"name":"Newsmax ","documents":{"Privacy Policy":{"fetch":"https://www.newsmax.com/privacystatement/"},"Terms of Service":{"fetch":"https://www.newsmax.com/termsconditions/","select":"body"}}}

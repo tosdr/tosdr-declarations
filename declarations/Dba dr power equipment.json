@@ -1,0 +1,1 @@
+{"name":"DBA DR Power Equipment","documents":{"Privacy Policy":{"fetch":"https://www.drpower.com/pages/content/company/privacy","select":"html > body > main > div > div:nth-of-type(3)"},"Legal Information":{"fetch":"https://www.drpower.com/pages/content/company/legal","select":"html > body > main > div"}}}

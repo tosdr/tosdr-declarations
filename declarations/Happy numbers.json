@@ -1,0 +1,1 @@
+{"name":"Happy Numbers","documents":{"Terms of Service":{"fetch":"https://happynumbers.com/terms-of-service","select":"body"},"Privacy Policy":{"fetch":"https://happynumbers.com/privacy-policy","select":"body"}}}

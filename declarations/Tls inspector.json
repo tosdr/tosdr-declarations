@@ -1,0 +1,1 @@
+{"name":"TLS Inspector","documents":{"Privacy Policy":{"fetch":"https://tlsinspector.com/privacy.html","select":"html > body > div:nth-of-type(3)"}}}

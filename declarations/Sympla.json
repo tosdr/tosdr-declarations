@@ -1,0 +1,1 @@
+{"name":"Sympla","documents":{"Trackers Policy":{"fetch":"https://termos-e-politicas.sympla.com.br/hc/pt-br/articles/360031094131-Vers%C3%A3o-completa","select":"body article section"},"Developer Terms":{"fetch":"https://termos-e-politicas.sympla.com.br/hc/pt-br/articles/360031078511-5-Privacidade-e-Prote%C3%A7%C3%A3o-de-dados-pessoais","select":"body article div"}}}

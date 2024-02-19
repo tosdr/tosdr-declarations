@@ -1,0 +1,1 @@
+{"name":"Trilby Multimedia ","documents":{"Privacy Policy":{"fetch":"https://www.trilbytv.co.uk/privacy-notice/","select":"body"},"Trackers Policy":{"fetch":"https://www.trilbytv.co.uk/cookie-notice/","select":"body"},"Terms of Service":{"fetch":"https://www.trilbytv.co.uk/terms-of-service/","select":"body"}}}

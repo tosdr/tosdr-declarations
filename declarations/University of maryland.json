@@ -1,0 +1,1 @@
+{"name":"University of Maryland","documents":{"Privacy Policy":{"fetch":"https://umd.edu/privacy-notice","select":"html > body > div:nth-of-type(4) > div > div:first-of-type"}}}

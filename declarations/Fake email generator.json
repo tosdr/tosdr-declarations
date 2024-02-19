@@ -1,0 +1,1 @@
+{"name":"Fake Email Generator","documents":{"Privacy Policy":{"fetch":"https://emailfake.com/privacy-policy","select":"body"}}}

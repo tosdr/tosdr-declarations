@@ -1,0 +1,1 @@
+{"name":"Feddit.it","documents":{"Privacy Policy":{"fetch":"https://feddit.it/legal","select":"body"}}}

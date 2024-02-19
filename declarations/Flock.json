@@ -1,0 +1,1 @@
+{"name":"flock","documents":{"Privacy Policy":{"fetch":"https://support.flock.com/hc/en-us/articles/115004312874-Flock-Privacy-Policy","select":"html > body > main"}}}

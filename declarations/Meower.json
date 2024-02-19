@@ -1,0 +1,1 @@
+{"name":"Meower","documents":{"Terms of Service":{"fetch":"https://meower.org/legal","select":"html > body > section:nth-of-type(6)"},"Privacy Policy":{"fetch":"https://meower.org/legal","select":"html > body > section:nth-of-type(7)"}}}

@@ -1,0 +1,1 @@
+{"name":"DbModeller","documents":{"Privacy Policy":{"fetch":"https://dbmodeller.net/privacy","select":"body"},"Terms of Service":{"fetch":"https://dbmodeller.net/terms-of-service","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"Chatovod","documents":{"Terms of Service":{"fetch":"https://chatovod.com/terms/","select":"html > body > div:first-of-type > div"}}}

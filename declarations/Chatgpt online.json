@@ -1,0 +1,1 @@
+{"name":"ChatGPT Online","documents":{"Terms of Service":{"fetch":"https://gptonline.ai/terms-of-use/","select":"body"}}}

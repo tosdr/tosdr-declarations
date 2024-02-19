@@ -1,0 +1,1 @@
+{"name":"RedCard Relodable","documents":{"Privacy Policy":{"fetch":"https://www.redcardreloadable.com/legal/bankaccount-privacy","select":"body"},"Terms of Service":{"fetch":"https://www.redcardreloadable.com/legal/terms-of-use","select":"body"}}}

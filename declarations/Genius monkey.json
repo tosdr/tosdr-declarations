@@ -1,0 +1,1 @@
+{"name":"Genius Monkey","documents":{"Privacy Policy":{"fetch":"https://geniusmonkey.com/privacy/","select":"html > body > div:first-of-type > main > section"},"Terms of Service":{"fetch":"https://geniusmonkey.com/terms-of-service/","select":"html > body > div:first-of-type > main > section"}}}

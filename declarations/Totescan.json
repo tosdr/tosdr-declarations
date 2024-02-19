@@ -1,0 +1,1 @@
+{"name":"ToteScan","documents":{"Privacy Policy":{"fetch":"https://www.totescan.com/privacy/","select":"html > body > div:first-of-type > div > p"}}}

@@ -1,0 +1,1 @@
+{"name":"Behaviour Interactive Inc","documents":{"Terms of Service":{"fetch":"https://www.bhvr.com/terms-of-use/","select":"body"},"Privacy Policy":{"fetch":"https://www.bhvr.com/privacy-policy/","select":"body"}}}

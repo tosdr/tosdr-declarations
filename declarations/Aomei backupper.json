@@ -1,0 +1,1 @@
+{"name":"AOMEI Backupper","documents":{"Terms of Service":{"fetch":"https://www.ubackup.com/terms.html","select":"html > body > div:first-of-type"},"Privacy Policy":{"fetch":"https://www.ubackup.com/privacy.html","select":"html > body > div:first-of-type"}}}

@@ -1,0 +1,1 @@
+{"name":"Kroger Wireless","documents":{"Privacy Policy":{"fetch":"https://www.krogerwireless.com/support/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.krogerwireless.com/support/terms-and-conditions","select":"body"}}}

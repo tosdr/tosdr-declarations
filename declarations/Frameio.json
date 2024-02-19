@@ -1,0 +1,1 @@
+{"name":"frame.io","documents":{"Privacy Policy":{"fetch":"https://frame.io/privacy","select":"html > body > div:first-of-type > div > section:nth-of-type(3) > div"}}}

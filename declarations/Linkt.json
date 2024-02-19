@@ -1,0 +1,1 @@
+{"name":"Linkt","documents":{"Terms of Service":{"fetch":"https://www.linkt.com.au/legal/policies/terms-linkt-app/brisbane","select":"body"},"Privacy Policy":{"fetch":"https://www.linkt.com.au/legal/policies/europcar-offer-privacy-statement/brisbane","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"SongFinderBot","documents":{"Privacy Policy":{"fetch":"https://pigeonburger.xyz/songfinderbot/terms/","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"Truist Financial","documents":{"Privacy Policy":{"fetch":"https://www.truist.com/privacy"},"Terms of Service":{"fetch":"https://www.truist.com/terms-and-conditions","select":"html > body > div:first-of-type > div:first-of-type > div > div:nth-of-type(3) > main > div > div > div:first-of-type > div > div > div"}}}

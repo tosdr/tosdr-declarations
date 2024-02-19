@@ -1,0 +1,1 @@
+{"name":"soda.bot","documents":{"Privacy Policy":{"fetch":"https://soda.bot/privacy","select":"body"},"Terms of Service":{"fetch":"https://soda.bot/terms","select":"body"}}}

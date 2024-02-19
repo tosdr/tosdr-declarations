@@ -1,0 +1,1 @@
+{"name":"I2P support forum","documents":{"Privacy Policy":{"fetch":"http://i2pforum.net/ucp.php?mode=privacy","select":"body"}}}

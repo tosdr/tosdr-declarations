@@ -1,0 +1,1 @@
+{"name":"Seattle Public Library ","documents":{"Privacy Policy":{"fetch":"https://www.spl.org/about-us/policies/confidentiality-of-patron-information","select":"body"},"Terms of Service":{"fetch":"https://www.spl.org/about-us/policies/online-privacy-and-terms-of-use","select":"body"}}}

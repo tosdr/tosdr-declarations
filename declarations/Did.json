@@ -1,0 +1,1 @@
+{"name":"D-ID","documents":{"Privacy Policy":{"fetch":"https://www.d-id.com/privacy-policy/","select":"html > body > section > div"}}}

@@ -1,0 +1,1 @@
+{"name":"MYAPPFREE ","documents":{"Privacy Policy":{"fetch":"https://www.myappfree.com/en/privacy-policy/","select":"html > body > div:nth-of-type(2) > main > div:nth-of-type(2) > div > div"}}}

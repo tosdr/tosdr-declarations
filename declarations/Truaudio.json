@@ -1,0 +1,1 @@
+{"name":"TruAudio ","documents":{"Privacy Policy":{"fetch":"https://www.truaudio.com/privacy-policy","select":"html > body > div:first-of-type > div"}}}

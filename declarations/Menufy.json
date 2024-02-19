@@ -1,0 +1,1 @@
+{"name":"Menufy","documents":{"Terms of Service":{"fetch":"https://restaurant.menufy.com/customer-terms-of-use"},"Privacy Policy":{"fetch":"https://restaurant.menufy.com/privacy","select":"body"}}}

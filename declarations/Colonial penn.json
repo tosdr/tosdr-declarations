@@ -1,0 +1,1 @@
+{"name":"Colonial Penn","documents":{"Terms of Service":{"fetch":"https://colonialpenn.com/","select":"html > body > footer > div:nth-of-type(8) > div > div > div:nth-of-type(2) > div:nth-of-type(2)"}}}

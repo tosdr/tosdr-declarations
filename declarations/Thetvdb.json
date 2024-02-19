@@ -1,0 +1,1 @@
+{"name":"TheTVDB","documents":{"Copyright Claims Policy":{"fetch":"https://thetvdb.com/dmca","select":"body"},"Terms of Service":{"fetch":"https://thetvdb.com/tos","select":"body"},"Privacy Policy":{"fetch":"https://www.thetvdb.com/privacy-policy","select":"body"}}}

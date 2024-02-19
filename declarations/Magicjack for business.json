@@ -1,0 +1,1 @@
+{"name":"magicJack for BUSINESS","documents":{"Privacy Policy":{"fetch":"https://www.magicjackforbusiness.com/legal/","select":"html > body > section > div"}}}

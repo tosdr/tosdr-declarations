@@ -1,0 +1,1 @@
+{"name":"AgeChecked","documents":{"Terms of Service":{"fetch":"https://www.agechecked.com/terms-of-use/","select":"html > body > div:nth-of-type(2) > div > div:first-of-type > div:nth-of-type(2)"}}}

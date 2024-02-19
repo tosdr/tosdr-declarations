@@ -1,0 +1,1 @@
+{"name":"Sketch","documents":{"Terms of Service":{"fetch":"https://www.sketch.com/tos/","select":"body"},"Privacy Policy":{"fetch":"https://www.sketch.com/privacy/","select":"body"}}}

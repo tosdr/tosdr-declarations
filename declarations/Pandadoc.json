@@ -1,0 +1,1 @@
+{"name":"PandaDoc ","documents":{"Privacy Policy":{"fetch":"https://www.pandadoc.com/privacy-notice/","select":"body"},"Terms of Service":{"fetch":"https://www.pandadoc.com/terms-of-use/","select":"body"}}}

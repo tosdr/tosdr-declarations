@@ -1,0 +1,1 @@
+{"name":"Clean Email","documents":{"Privacy Policy":{"fetch":"https://clean.email/privacy","select":"body"}}}

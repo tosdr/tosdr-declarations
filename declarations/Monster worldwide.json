@@ -1,0 +1,1 @@
+{"name":"Monster Worldwide","documents":{"Terms of Service":{"fetch":"https://www.monster.com/inside/terms-of-use","select":"html > body > div:first-of-type > div:nth-of-type(2) > div > div"},"Privacy Policy":{"fetch":"https://www.monster.com/inside/privacy-notice","select":"html > body > div:first-of-type > div:nth-of-type(2) > div > div"}}}

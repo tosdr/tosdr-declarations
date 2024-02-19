@@ -1,0 +1,1 @@
+{"name":"Natus Medical Incorporate","documents":{"Privacy Policy":{"fetch":"https://natus.com/privacy-statement","select":"body"},"Terms of Service":{"fetch":"https://natus.com/terms-conditions","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"IMVU","documents":{"Privacy Policy":{"fetch":"https://www.imvu.com/next/policyhub/privacypolicy/","select":"body"},"Terms of Service":{"fetch":"https://www.imvu.com/next/policyhub/termsofservice/","select":"body"}}}

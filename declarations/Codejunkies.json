@@ -1,0 +1,1 @@
+{"name":"codejunkies","documents":{"Trackers Policy":{"fetch":"https://www.codejunkies.com/Cookies.aspx","select":"body"},"Privacy Policy":{"fetch":"https://www.codejunkies.com/Privacy.aspx","select":"body"},"Terms of Service":{"fetch":"https://www.codejunkies.com/Terms.aspx","select":"html > body > form > div:nth-of-type(4)"}}}

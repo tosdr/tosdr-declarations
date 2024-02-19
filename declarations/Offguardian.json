@@ -1,0 +1,1 @@
+{"name":"OffGuardian","documents":{"Privacy Policy":{"fetch":"https://off-guardian.org/privacy-policy","select":"html > body > div:first-of-type > div > div:first-of-type > article > div:nth-of-type(2)"}}}

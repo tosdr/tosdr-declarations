@@ -1,0 +1,1 @@
+{"name":"Tile","documents":{"Terms of Service":{"fetch":"https://www.thetileapp.com/en-us/terms-of-service","select":"body"},"Privacy Policy":{"fetch":"https://uk.tile.com/docs/privacy","select":"body"}}}

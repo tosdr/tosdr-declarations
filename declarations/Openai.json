@@ -1,0 +1,1 @@
+{"name":"OpenAI","documents":{"Terms of Service":{"fetch":"https://openai.com/policies/terms-of-use","select":" > div:nth-of-type(3)"},"Privacy Policy":{"fetch":"https://openai.com/policies/privacy-policy"}}}

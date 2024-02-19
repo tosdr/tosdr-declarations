@@ -1,0 +1,1 @@
+{"name":"RedTeamTools","documents":{"Terms of Service":{"fetch":"https://www.redteamtools.com/terms-conditions/","select":"body"},"Privacy Policy":{"fetch":"https://www.redteamtools.com/privacy-policy/","select":"body"}}}

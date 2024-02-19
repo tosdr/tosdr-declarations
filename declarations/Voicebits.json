@@ -1,0 +1,1 @@
+{"name":"Voicebits","documents":{"Privacy Policy":{"fetch":"https://voicebits.co/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://voicebits.co/terms-of-service","select":"body"}}}

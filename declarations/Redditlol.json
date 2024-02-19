@@ -1,0 +1,1 @@
+{"name":"reddit.lol","documents":{"Privacy Policy":{"fetch":"https://reddit.lol/privacy","select":"body"}}}

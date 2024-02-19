@@ -1,1 +1,1 @@
-{"name":"Lode.one","documents":{"Terms of Service":{"fetch":"https://lode.one/terms-of-service/","select":"body"}}}
+{"name":"Lode.one","documents":{"Terms of Service":{"fetch":"https://lode.one/terms-of-service/","select":"body"},"Privacy Policy":{"fetch":"https://lode.one/gdpr-notice/","select":" > div"}}}

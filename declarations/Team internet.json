@@ -1,0 +1,1 @@
+{"name":"Team Internet","documents":{"Privacy Policy":{"fetch":"https://teaminternet.com/privacy.html","select":"html > body > main"}}}

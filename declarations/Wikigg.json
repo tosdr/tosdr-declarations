@@ -1,0 +1,1 @@
+{"name":"Wiki.gg","documents":{"Terms of Service":{"fetch":"https://wiki.gg/termsofservice/","select":"body"}}}

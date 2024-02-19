@@ -1,0 +1,1 @@
+{"name":"American Wolves","documents":{"Privacy Policy":{"fetch":"https://americanwolves.com/pages/privacy-policy","select":"html > body > div:nth-of-type(2) > main > div:nth-of-type(2) > div:first-of-type"}}}

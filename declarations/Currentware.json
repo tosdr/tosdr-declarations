@@ -1,0 +1,1 @@
+{"name":"CurrentWare","documents":{"Terms of Service":{"fetch":"https://www.currentware.com/terms-of-service/","select":"html > body > div:first-of-type > div:nth-of-type(2) > div > main > div > section:first-of-type > div > div > div > div > div > div > div"}}}

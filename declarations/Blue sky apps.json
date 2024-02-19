@@ -1,0 +1,1 @@
+{"name":"Blue Sky Apps","documents":{"Privacy Policy":{"fetch":"https://blueskyapps.org/privacy","select":"body"},"Terms of Service":{"fetch":"https://blueskyapps.org/terms","select":"body"}}}

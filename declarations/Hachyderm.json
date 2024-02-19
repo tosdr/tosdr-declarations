@@ -1,0 +1,1 @@
+{"name":"Hachyderm","documents":{"Privacy Policy":{"fetch":"https://hachyderm.io/privacy-policy","select":"div[aria-label=\"\"Privacy Policy\"\"] > div"}}}

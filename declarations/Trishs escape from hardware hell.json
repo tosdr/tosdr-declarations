@@ -1,0 +1,1 @@
+{"name":" Trish's Escape from Hardware Hell ","documents":{"Privacy Policy":{"fetch":"https://www.hardwarehell.com/privacy.shtml","select":"html > body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2)"}}}

@@ -1,0 +1,1 @@
+{"name":"U.S. Department of Agriculture","documents":{"Privacy Policy":{"fetch":"https://www.usda.gov/privacy-policy","select":"html > body > div:first-of-type > main > div"}}}

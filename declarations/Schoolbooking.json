@@ -1,0 +1,1 @@
+{"name":"SchoolBooking","documents":{"Privacy Policy":{"fetch":"https://www.schoolbooking.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.schoolbooking.com/terms","select":"body"}}}

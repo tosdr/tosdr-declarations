@@ -1,0 +1,1 @@
+{"name":"GMA Network","documents":{"Privacy Policy":{"fetch":"https://www.gmanetwork.com/privacypolicy","select":"html > body > div:first-of-type"}}}

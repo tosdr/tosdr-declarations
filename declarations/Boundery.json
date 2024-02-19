@@ -1,0 +1,1 @@
+{"name":"Boundery","documents":{"Privacy Policy":{"fetch":"https://deals.boundery.com/legal/pp/","select":"body"}}}

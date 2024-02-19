@@ -1,0 +1,1 @@
+{"name":"Synology","documents":{"Terms of Service":{"fetch":"https://www.synology.com/en-global/company/legal/terms_conditions","select":"body"},"Trackers Policy":{"fetch":"https://www.synology.com/en-global/company/legal/cookie_policy","select":"body"}}}

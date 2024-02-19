@@ -1,1 +1,1 @@
-{"name":"W3Schools","documents":{"Terms of Service":{"fetch":"https://www.w3schools.com/about/about_copyright.asp","select":"#main"},"Privacy Policy":{"fetch":"https://www.w3schools.com/about/about_privacy.asp","select":"#main"}}}
+{"name":"W3Schools","documents":{"Copyright Claims Policy":{"fetch":"https://www.w3schools.com/about/about_copyright.asp","select":"#main"},"Trackers Policy":{"fetch":"https://www.w3schools.com/about/about_privacy.asp","select":"#main"}}}

@@ -1,0 +1,1 @@
+{"name":"Seattle Times","documents":{"Terms of Service":{"fetch":"https://www.seattletimes.com/notices/terms.html","select":"body"},"Copyright Claims Policy":{"fetch":"https://www.seattletimes.com/notices/copyright.html","select":"body"}}}

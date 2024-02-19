@@ -1,0 +1,1 @@
+{"name":"Helena Express","documents":{"Privacy Policy":{"fetch":"https://helena.express/privacy","select":"body section#main div.inner"},"Terms of Service":{"fetch":"https://helena.express/das/terms","select":"body section#main div.inner"}}}

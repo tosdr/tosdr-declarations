@@ -1,0 +1,1 @@
+{"name":"Gofile","documents":{"Terms of Service":{"fetch":"https://gofile.io/terms","select":"body"},"Copyright Claims Policy":{"fetch":"https://gofile.io/copyright","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"copyright.gov","documents":{"Privacy Policy":{"fetch":"https://copyright.gov/about/privacy-policy.html","select":"html > body > div:first-of-type"}}}

@@ -1,0 +1,1 @@
+{"name":"WalmartPetRx ","documents":{"Terms of Service":{"fetch":"https://www.walmartpetrx.com/t-terms-and-conditions.aspx","select":"html > body > div:nth-of-type(4)"}}}

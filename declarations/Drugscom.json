@@ -1,0 +1,1 @@
+{"name":"Drugs.com","documents":{"Terms of Service":{"fetch":"https://www.drugs.com/support/terms.html"},"Privacy Policy":{"fetch":"https://www.drugs.com/support/privacy.html","select":"body"}}}

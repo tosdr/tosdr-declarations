@@ -1,1 +1,1 @@
-{"name":"Bilibili","documents":{}}
+{"name":"Bilibili","documents":{"Terms of Service":{"fetch":"https://www.bilibili.com/protocal/licence.html","select":"html > body > article > section > div > div > div > div"}}}

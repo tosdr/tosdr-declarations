@@ -1,0 +1,1 @@
+{"name":"Red Shield VPN","documents":{"Privacy Policy":{"fetch":"https://redshieldvpn.com/en/pp","select":"body"},"Terms of Service":{"fetch":"https://redshieldvpn.com/en/tos","select":"body"}}}

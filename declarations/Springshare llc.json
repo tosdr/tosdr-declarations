@@ -1,0 +1,1 @@
+{"name":"SpringShare LLC","documents":{"Privacy Policy":{"fetch":"https://springshare.com/privacy.html","select":"html > body > main > div > section"}}}

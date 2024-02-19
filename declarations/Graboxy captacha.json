@@ -1,0 +1,1 @@
+{"name":"Graboxy Captacha","documents":{"Privacy Policy":{"fetch":"https://captcha.graboxy.com/#/privacy","select":"body"}}}

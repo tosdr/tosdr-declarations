@@ -1,0 +1,1 @@
+{"name":"theinspiredtreehouse","documents":{"Privacy Policy":{"fetch":"https://theinspiredtreehouse.com/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://theinspiredtreehouse.com/terms-of-use/","select":"body"}}}

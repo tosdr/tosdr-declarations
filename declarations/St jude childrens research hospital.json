@@ -1,0 +1,1 @@
+{"name":"St. Jude Children's Research Hospital","documents":{"Privacy Policy":{"fetch":"https://www.stjude.org/legal/notice-of-privacy-practices.html","select":"body"},"Copyright Claims Policy":{"fetch":"https://www.stjude.org/legal.html","select":"body"}}}

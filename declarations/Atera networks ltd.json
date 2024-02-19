@@ -1,0 +1,1 @@
+{"name":"ATERA NETWORKS LTD ","documents":{"Terms of Service":{"fetch":"https://www.atera.com/terms-of-use/","select":"html > body > div:first-of-type"},"Privacy Policy":{"fetch":"https://www.atera.com/privacy/","select":"html > body > div:first-of-type"}}}

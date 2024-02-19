@@ -1,0 +1,1 @@
+{"name":"CVS","documents":{"Terms of Service":{"fetch":"https://www.cvs.com/help/terms_of_use.jsp"},"Privacy Policy":{"fetch":"https://www.cvs.com/help/privacy_policy.jsp","select":"body"}}}

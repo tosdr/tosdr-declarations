@@ -1,0 +1,1 @@
+{"name":"CyberTrust IT Solutions","documents":{"Privacy Policy":{"fetch":"https://www.cybertrust-it.com/privacy-policy/","select":"html > body > div:nth-of-type(2) > div:first-of-type > div > div > div > div > div > article > div > div"}}}

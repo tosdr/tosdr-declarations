@@ -1,0 +1,1 @@
+{"name":"College Advisor","documents":{"Trackers Policy":{"fetch":"https://www.collegeadvisor.com/privacy-policy/","select":"html > body > div:nth-of-type(2) > div"}}}

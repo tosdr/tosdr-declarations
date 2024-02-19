@@ -1,0 +1,1 @@
+{"name":"easyfeedback ","documents":{"Privacy Policy":{"fetch":"https://easy-feedback.com/privacy/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://easy-feedback.com/terms-and-conditions/","select":"body"}}}

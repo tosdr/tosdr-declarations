@@ -1,0 +1,1 @@
+{"name":"Pl@ntNet","documents":{"Terms of Service":{"fetch":"https://identify.plantnet.org/terms_of_use","select":"html > body > div:first-of-type > div > div > main"}}}

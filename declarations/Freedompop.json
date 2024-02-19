@@ -1,0 +1,1 @@
+{"name":"FreedomPop","documents":{"Privacy Policy":{"fetch":"https://www.freedompop.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.freedompop.com/terms_and_conditions","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"John Woodward's Software","documents":{"Privacy Policy":{"fetch":"https://thewoodwards.us/sw/Privacy.html","select":"html > body > div:nth-of-type(2) > div"}}}

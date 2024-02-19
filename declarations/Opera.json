@@ -1,0 +1,1 @@
+{"name":"Opera","documents":{"Terms of Service":{"fetch":"https://legal.opera.com/terms/","select":"html > body > main > section > div"},"Trackers Policy":{"fetch":"https://legal.opera.com/cookies/","select":"html > body > main > section > div"}}}

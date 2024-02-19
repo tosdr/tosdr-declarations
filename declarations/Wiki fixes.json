@@ -1,0 +1,1 @@
+{"name":"Wiki Fixes","documents":{"Privacy Policy":{"fetch":"https://wikifixes.com/pages/legal/privacy-policy","select":"body"}}}

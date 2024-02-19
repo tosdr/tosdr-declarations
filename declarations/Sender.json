@@ -1,0 +1,1 @@
+{"name":"Sender","documents":{"Privacy Policy":{"fetch":"https://www.sender.net/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.sender.net/terms-of-service/","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"SoftSeller","documents":{"Terms of Service":{"fetch":"https://softseller.com/ss/TOS.htm","select":"html > body > font > blockquote"}}}

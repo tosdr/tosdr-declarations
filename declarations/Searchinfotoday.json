@@ -1,0 +1,1 @@
+{"name":"searchinfotoday ","documents":{"Trackers Policy":{"fetch":"https://www.searchinfotoday.com/cookies","select":"body"},"Privacy Policy":{"fetch":"https://www.searchinfotoday.com/privacy","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"Life Style Surveys Promoflo.com","documents":{"Privacy Policy":{"fetch":"https://promoflo.com/?ix=Legal-PrivacyPolicy","select":"body"},"Terms of Service":{"fetch":"https://promoflo.com/?ix=Legal-Terms","select":"body"}}}

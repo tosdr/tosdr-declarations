@@ -1,0 +1,1 @@
+{"name":"Roommates.com","documents":{"Terms of Service":{"fetch":"https://my.roommates.com/tos","select":"body"},"Privacy Policy":{"fetch":"https://my.roommates.com/privacy-policy","select":"body"}}}

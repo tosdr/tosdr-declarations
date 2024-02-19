@@ -1,0 +1,1 @@
+{"name":"SpaceTraders","documents":{"Trackers Policy":{"fetch":"https://spacetraders.io/cookies-policy","select":"body"},"Terms of Service":{"fetch":"https://spacetraders.io/terms-and-conditions","select":"body"},"Privacy Policy":{"fetch":"https://spacetraders.io/privacy-policy","select":"body"}}}

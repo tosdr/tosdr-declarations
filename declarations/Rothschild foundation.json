@@ -1,0 +1,1 @@
+{"name":"Rothschild Foundation","documents":{"Privacy Policy":{"fetch":"https://rothschildfoundation.org.uk/privacy-policy/","select":"html > body > main > main > section:nth-of-type(2)"}}}

@@ -1,0 +1,1 @@
+{"name":"AddonSearch","documents":{"Terms of Service":{"fetch":"https://www.addonsearch.net/terms.html","select":"body"},"Privacy Policy":{"fetch":"https://www.addonsearch.net/privacy.html","select":"body"}}}

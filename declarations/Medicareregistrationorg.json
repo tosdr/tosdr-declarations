@@ -1,0 +1,1 @@
+{"name":"Medicare-Registration.org","documents":{"Privacy Policy":{"fetch":"https://www.medicare-registration.org/privacy-policy.html","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"creator-spring.com","documents":{"Terms of Service":{"fetch":"https://www.creator-spring.com/terms-of-use","select":"html > body > div:nth-of-type(2) > div > div > div > div:nth-of-type(2)"}}}

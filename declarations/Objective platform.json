@@ -1,0 +1,1 @@
+{"name":"Objective Platform","documents":{"Trackers Policy":{"fetch":"https://www.objectiveplatform.com/cookie-policy-and-privacy-statement/","select":"html > body > div:first-of-type > main > div:nth-of-type(5) > div"}}}

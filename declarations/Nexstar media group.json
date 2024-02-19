@@ -1,0 +1,1 @@
+{"name":"Nexstar Media Group","documents":{"Terms of Service":{"fetch":"https://www.nexstar.tv/terms-of-use/"},"Privacy Policy":{"fetch":"https://www.nexstar.tv/privacy-policy/"},"Trackers Policy":{"fetch":"https://www.nexstar.tv/advertisingterms/","select":"body"}}}

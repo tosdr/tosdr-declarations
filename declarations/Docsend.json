@@ -1,0 +1,1 @@
+{"name":"DocSend ","documents":{"Privacy Policy":{"fetch":"https://www.docsend.com/privacy-policy/"},"Copyright Claims Policy":{"fetch":"https://www.docsend.com/copyright-and-ip-policy/","select":"body"}}}

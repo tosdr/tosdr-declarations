@@ -1,0 +1,1 @@
+{"name":"Retrospring","documents":{"Terms of Service":{"fetch":"https://retrospring.net/terms","select":"body"},"Privacy Policy":{"fetch":"https://retrospring.net/privacy","select":"body"}}}

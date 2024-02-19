@@ -1,0 +1,1 @@
+{"name":"Insight Browser","documents":{"Privacy Policy":{"fetch":"https://insightbrowser.com/privacy"},"Terms of Service":{"fetch":"https://insightbrowser.com/terms","select":"body"}}}

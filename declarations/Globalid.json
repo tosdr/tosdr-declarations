@@ -1,0 +1,1 @@
+{"name":"GlobaliD","documents":{"Trackers Policy":{"fetch":"https://www.global.id/cookie-policy/"},"Terms of Service":{"fetch":"https://www.global.id/terms-conditions/","select":" > div > div"},"Developer Terms":{"fetch":"https://www.global.id/developer-agreement/","select":" > div > div"}}}

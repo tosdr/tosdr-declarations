@@ -1,0 +1,1 @@
+{"name":"This Person Does Not Exist","documents":{"Terms of Service":{"fetch":"https://this-person-does-not-exist.com/en/terms-of-use","select":"body"},"Privacy Policy":{"fetch":"https://this-person-does-not-exist.com/privacy-policy/en","select":"body"}}}

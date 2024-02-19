@@ -1,0 +1,1 @@
+{"name":"iGram","documents":{"Privacy Policy":{"fetch":"https://igram.world/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://igram.world/terms-and-conditions","select":"body"}}}

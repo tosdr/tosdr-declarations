@@ -1,0 +1,1 @@
+{"name":"Banbye","documents":{"Trackers Policy":{"fetch":"https://banbye.pl/polityka-cookies","select":"html > body > div:first-of-type > div > div > div > main > div > div"}}}

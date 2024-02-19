@@ -1,0 +1,1 @@
+{"name":"Choice Hotels International","documents":{"Privacy Policy":{"fetch":"https://www.choicehotels.com/legal/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.choicehotels.com/legal/terms-of-use","select":"body"}}}

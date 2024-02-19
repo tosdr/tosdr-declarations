@@ -1,1 +1,1 @@
-{"name":"Atlassian","documents":{"Terms of Service":{"fetch":"https://www.atlassian.com/legal/cloud-terms-of-service","select":"body"},"Privacy Policy":{"fetch":"https://www.atlassian.com/legal/privacy-policy","select":"body"}}}
+{"name":"Atlassian","documents":{"Copyright Claims Policy":{"fetch":"https://trello.com/legal/dmca","select":"div.layout-centered-content"},"Terms of Service":{"fetch":"https://www.atlassian.com/legal/cloud-terms-of-service","select":"body"},"Privacy Policy":{"fetch":"https://www.atlassian.com/legal/privacy-policy","select":"body"}}}

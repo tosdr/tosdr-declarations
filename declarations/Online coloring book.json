@@ -1,0 +1,1 @@
+{"name":"Online Coloring Book ","documents":{"Privacy Policy":{"fetch":"https://www.thecolor.com/PrivacyPolicy.aspx"},"Terms of Service":{"fetch":"https://www.thecolor.com/Terms.aspx","select":"body"}}}

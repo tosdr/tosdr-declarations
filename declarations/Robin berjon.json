@@ -1,0 +1,1 @@
+{"name":"Robin Berjon","documents":{"Privacy Policy":{"fetch":"https://berjon.com/privacy-policy/","select":"html > body > main > article"}}}

@@ -1,0 +1,1 @@
+{"name":"Florida State University ","documents":{"Copyright Claims Policy":{"fetch":"https://www.fsu.edu//misc/copyright.html","select":"html > body > div:first-of-type"},"Privacy Policy":{"fetch":"https://www.fsu.edu//misc/policy.html","select":"html > body > div:first-of-type"}}}

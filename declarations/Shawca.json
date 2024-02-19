@@ -1,0 +1,1 @@
+{"name":"Shaw.ca","documents":{"Privacy Policy":{"fetch":"https://www.shaw.ca/dns-statement","select":"body"},"Terms of Service":{"fetch":"https://www.shaw.ca/terms-of-use","select":"html > body > div:first-of-type"}}}

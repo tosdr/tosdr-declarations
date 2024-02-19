@@ -1,0 +1,1 @@
+{"name":"make survey money","documents":{"Terms of Service":{"fetch":"https://www.makesurveymoney.com/terms-of-services.asp","select":"body"}}}

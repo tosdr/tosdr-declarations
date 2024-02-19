@@ -1,0 +1,1 @@
+{"name":"Single Digits","documents":{"Privacy Policy":{"fetch":"https://www.singledigits.com/privacy/","select":"html > body > div:first-of-type > section:nth-of-type(4) > div > div"}}}

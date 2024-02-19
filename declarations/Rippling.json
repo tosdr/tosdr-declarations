@@ -1,0 +1,1 @@
+{"name":"Rippling","documents":{"Privacy Policy":{"fetch":"https://app.rippling.com/legal/privacy","select":"body"},"Trackers Policy":{"fetch":"https://app.rippling.com/legal/cookie-notice","select":"body"}}}

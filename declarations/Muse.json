@@ -1,0 +1,1 @@
+{"name":"Muse","documents":{"Privacy Policy":{"fetch":"https://museapp.com/privacy/","select":"body"},"Terms of Service":{"fetch":"https://museapp.com/terms/","select":"body"}}}

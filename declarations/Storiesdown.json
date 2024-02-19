@@ -1,0 +1,1 @@
+{"name":"StoriesDown","documents":{"Privacy Policy":{"fetch":"https://storiesdown.com/privacy-policy-2/","select":"html > body > div:first-of-type > main > section"}}}

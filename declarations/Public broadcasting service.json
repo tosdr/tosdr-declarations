@@ -1,0 +1,1 @@
+{"name":"Public Broadcasting Service ","documents":{"Terms of Service":{"fetch":"https://pbskids.org/privacy/termsofuse.html","select":"html > body > div:nth-of-type(2)"},"Privacy Policy":{"fetch":"https://pbskids.org/privacy/","select":"html > body > div:nth-of-type(2)"}}}

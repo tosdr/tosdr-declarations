@@ -1,0 +1,1 @@
+{"name":"Waste Today Magazine","documents":{"Privacy Policy":{"fetch":"https://www.wastetodaymagazine.com/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.wastetodaymagazine.com/terms-of-use/","select":"body"}}}

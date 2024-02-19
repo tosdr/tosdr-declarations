@@ -1,0 +1,1 @@
+{"name":"MinIO","documents":{"Privacy Policy":{"fetch":"https://min.io/privacy-policy","select":"html > body > div:nth-of-type(2)"}}}

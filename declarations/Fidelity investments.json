@@ -1,0 +1,1 @@
+{"name":"Fidelity Investments","documents":{"Privacy Policy":{"fetch":"https://www.fidelity.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.fidelity.com/terms-of-use","select":"body"}}}

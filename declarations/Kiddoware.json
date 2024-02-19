@@ -1,0 +1,1 @@
+{"name":"Kiddoware ","documents":{"Privacy Policy":{"fetch":"https://kiddoware.com/privacy-policy/","select":"html > body > div:first-of-type > div > div"},"Trackers Policy":{"fetch":"https://kiddoware.com/cookie-policy-2/","select":"html > body > div:first-of-type > div > div > section > div > div > div > section:nth-of-type(3)"}}}

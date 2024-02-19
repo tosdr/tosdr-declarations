@@ -1,0 +1,1 @@
+{"name":"bhphotovideo","documents":{"Terms of Service":{"fetch":"https://www.bhphotovideo.com/find/HelpCenter/UserAgreement.jsp","select":"body"},"Privacy Policy":{"fetch":"https://www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp","select":"body"}}}

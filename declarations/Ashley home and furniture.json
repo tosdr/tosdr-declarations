@@ -1,0 +1,1 @@
+{"name":"Ashley Home And Furniture","documents":{"Privacy Policy":{"fetch":"https://www.ashleyfurniture.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.ashleyfurniture.com/terms-and-conditions/","select":"body"}}}

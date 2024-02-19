@@ -1,0 +1,1 @@
+{"name":"TP-Link","documents":{"Privacy Policy":{"fetch":"https://www.tapo.com/us/privacy/","select":"body"}}}

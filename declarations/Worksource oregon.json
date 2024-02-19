@@ -1,0 +1,1 @@
+{"name":"Worksource Oregon","documents":{"Privacy Policy":{"fetch":"https://www.worksourceoregon.org/privacy-policy","select":"html > body > main > div:nth-of-type(2)"}}}

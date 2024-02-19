@@ -1,1 +1,1 @@
-{"name":"Crowdin","documents":{}}
+{"name":"Crowdin","documents":{"Privacy Policy":{"fetch":"https://support.crowdin.com/security-policy/","select":"body"},"Trackers Policy":{"fetch":"https://support.crowdin.com/cookies/","select":"body"}}}

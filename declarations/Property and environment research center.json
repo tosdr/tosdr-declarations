@@ -1,0 +1,1 @@
+{"name":"Property and Environment Research Center","documents":{"Privacy Policy":{"fetch":"https://www.perc.org/privacy-policy/","select":"html > body > div:nth-of-type(2) > div > section > main > article > div > div"}}}

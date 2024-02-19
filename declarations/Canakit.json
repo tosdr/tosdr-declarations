@@ -1,0 +1,1 @@
+{"name":"CanaKit ","documents":{"Privacy Policy":{"fetch":"https://www.canakit.com/Privacy.aspx","select":"html > body > div:nth-of-type(2) > div:nth-of-type(2) > div"}}}

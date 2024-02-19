@@ -1,0 +1,1 @@
+{"name":"LoopCV","documents":{"Privacy Policy":{"fetch":"http://www.loopcv.pro/privacy","select":"html > body > div:first-of-type > div > div > main > div"},"Terms of Service":{"fetch":"http://www.loopcv.pro/terms","select":"body"}}}

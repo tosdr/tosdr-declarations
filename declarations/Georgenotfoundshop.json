@@ -1,0 +1,1 @@
+{"name":"georgenotfound.shop","documents":{"Privacy Policy":{"fetch":"https://georgenotfound.shop/policies/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://georgenotfound.shop/policies/terms-of-service","select":"html > body > section > div"}}}

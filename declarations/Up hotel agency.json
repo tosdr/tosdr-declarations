@@ -1,0 +1,1 @@
+{"name":"UP Hotel Agency","documents":{"Trackers Policy":{"fetch":"https://uphotel.agency/cookie-policy/","select":"body"},"Privacy Policy":{"fetch":"https://uphotel.agency/privacy-policy/","select":"body"}}}

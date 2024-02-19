@@ -1,0 +1,1 @@
+{"name":"eFundraising Connections","documents":{"Privacy Policy":{"fetch":"https://www.efundraisingconnections.com/privacy-policy/","select":"html > body > main > div:first-of-type"}}}

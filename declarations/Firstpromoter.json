@@ -1,0 +1,1 @@
+{"name":"FirstPromoter","documents":{"Privacy Policy":{"fetch":"https://firstpromoter.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://firstpromoter.com/terms","select":"body"}}}

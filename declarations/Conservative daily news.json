@@ -1,0 +1,1 @@
+{"name":"Conservative Daily News","documents":{"Privacy Policy":{"fetch":"https://www.conservativedailynews.com/privacy-policy/","select":"html > body > div:first-of-type > div > div > div > div > div"}}}

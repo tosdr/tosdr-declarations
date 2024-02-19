@@ -1,0 +1,1 @@
+{"name":"Gage Randall","documents":{"Privacy Policy":{"fetch":"https://www.gagerandall.page/privacy/","select":"body"},"Legal Information":{"fetch":"https://www.gagerandall.page/legal/","select":"body"}}}

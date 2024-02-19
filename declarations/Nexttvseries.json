@@ -1,0 +1,1 @@
+{"name":"NextTvSeries ","documents":{"Privacy Policy":{"fetch":"https://nexttvseries.com/privacy.html","select":"body"},"Copyright Claims Policy":{"fetch":"https://nexttvseries.com/dmca","select":"body"}}}

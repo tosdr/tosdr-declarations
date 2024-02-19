@@ -1,0 +1,1 @@
+{"name":"The Free Dictionary","documents":{"Privacy Policy":{"fetch":"https://www.thefreedictionary.com/privacy-policy.htm","select":"body"},"Terms of Service":{"fetch":"https://www.thefreedictionary.com/about.htm"}}}

@@ -1,0 +1,1 @@
+{"name":"Stripe","documents":{"Privacy Policy":{"fetch":"https://stripe.com/privacy","select":"body"},"Trackers Policy":{"fetch":"https://stripe.com/cookies-policy/legal","select":"body"}}}

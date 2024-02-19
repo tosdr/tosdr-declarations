@@ -1,0 +1,1 @@
+{"name":"Zorin OS","documents":{"Privacy Policy":{"fetch":"https://zorinos.com/legal/privacy","select":"body"},"Trackers Policy":{"fetch":"https://zorin.com/legal/cookies/","select":"body"},"Terms of Service":{"fetch":"https://zorin.com/legal/terms/","select":"body"}}}

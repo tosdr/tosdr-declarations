@@ -1,0 +1,1 @@
+{"name":"SlideShare","documents":{"Privacy Policy":{"fetch":"https://support.scribd.com/hc/en-us/articles/210129366-Privacy-policy","select":"body"},"Copyright Claims Policy":{"fetch":"https://www.slideshare.net/copyright-policy","select":"body"}}}

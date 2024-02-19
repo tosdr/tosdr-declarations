@@ -1,0 +1,1 @@
+{"name":"HostatHash","documents":{"Privacy Policy":{"fetch":"https://hostathash.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://hostathash.com/terms-of-service/","select":"body"}}}

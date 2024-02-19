@@ -1,0 +1,1 @@
+{"name":"Panthera Interactive","documents":{"Privacy Policy":{"fetch":"https://pantherainteractive.com/privacy-policy.html","select":"body"},"Terms of Service":{"fetch":"https://pantherainteractive.com/termsandconditions.html","select":"body"}}}

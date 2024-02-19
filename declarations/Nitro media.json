@@ -1,0 +1,1 @@
+{"name":"Nitro Media","documents":{"Privacy Policy":{"fetch":"https://www.technosystem02.com/Home/Privacy","select":"body"},"Terms of Service":{"fetch":"https://www.technosystem02.com/Home/Terms","select":"body"}}}

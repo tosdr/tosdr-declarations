@@ -1,0 +1,1 @@
+{"name":"MobileCoin ","documents":{"Privacy Policy":{"fetch":"https://www.mobilecoin.com/privacy-policy.html","select":"body"},"Terms of Service":{"fetch":"https://mobilecoin.com/terms-of-use","select":"body"}}}

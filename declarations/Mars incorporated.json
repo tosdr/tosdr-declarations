@@ -1,0 +1,1 @@
+{"name":"Mars Incorporated","documents":{"Trackers Policy":{"fetch":"https://www.mars.com/cookies-english","select":"body"},"Privacy Policy":{"fetch":"https://www.mars.com/privacy","select":"body"}}}

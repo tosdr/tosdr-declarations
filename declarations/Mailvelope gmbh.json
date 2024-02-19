@@ -1,0 +1,1 @@
+{"name":"Mailvelope GmbH ","documents":{"Privacy Policy":{"fetch":"https://mailvelope.com/en/privacy-policy","select":"html > body > main > div"},"Terms of Service":{"fetch":"https://mailvelope.com/en/terms","select":"html > body > main > div"}}}

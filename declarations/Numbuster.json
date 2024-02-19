@@ -1,0 +1,1 @@
+{"name":"NumBuster","documents":{"Terms of Service":{"fetch":"https://numbuster.com/en/tos","select":"body"},"Trackers Policy":{"fetch":"https://numbuster.com/en/cookies","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"Travel Arrow","documents":{"Privacy Policy":{"fetch":"https://www.travelarrow.io/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.travelarrow.io/terms","select":"body"}}}

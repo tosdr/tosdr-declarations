@@ -1,0 +1,1 @@
+{"name":"exclusiveconsumerdiscount ","documents":{"Privacy Policy":{"fetch":"https://www.exclusiveconsumerdiscount.com/savenow/v3/page-privacy.php","select":"html > body > div:first-of-type"}}}

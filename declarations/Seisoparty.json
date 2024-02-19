@@ -1,0 +1,1 @@
+{"name":"seiso.party","documents":{"Copyright Claims Policy":{"fetch":"https://seiso.party/dmca","select":"html > body > div:nth-of-type(3)"}}}

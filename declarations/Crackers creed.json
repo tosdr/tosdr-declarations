@@ -1,0 +1,1 @@
+{"name":"Cracker's Creed","documents":{"Terms of Service":{"fetch":"https://crackerscreed.org/tnc/","select":"html > body > div:first-of-type > div > div > main > article > div:first-of-type > div"}}}

@@ -1,0 +1,1 @@
+{"name":"AdLock","documents":{"Terms of Service":{"fetch":"https://adlock.com/eula/","select":"body"},"Privacy Policy":{"fetch":"https://adlock.com/privacy-policy/","select":"body"}}}

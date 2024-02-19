@@ -1,0 +1,1 @@
+{"name":"Yodlee","documents":{"Terms of Service":{"fetch":"https://www.yodlee.com/legal/terms-of-use","select":"body"},"Privacy Policy":{"fetch":"https://www.yodlee.com/legal/privacy-notice","select":"body"}}}

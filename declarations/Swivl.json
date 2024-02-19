@@ -1,0 +1,1 @@
+{"name":"Swivl","documents":{"Privacy Policy":{"fetch":"https://www.swivl.com/privacy/","select":"body"},"Terms of Service":{"fetch":"https://www.swivl.com/terms/","select":"body"}}}

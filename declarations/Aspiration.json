@@ -1,0 +1,1 @@
+{"name":"Aspiration","documents":{"Privacy Policy":{"fetch":"https://assets.ctfassets.net/ejg6grzpbbxj/3JctGJcbwxBFr2HHG1tygL/0d527f583bf757fb8dc7b2c1ea97abb7/Aspiration_Privacy_Notice_20230706.pdf","select":"body"},"Terms of Service":{"fetch":"https://www.aspiration.com/terms-of-use","select":"body"}}}

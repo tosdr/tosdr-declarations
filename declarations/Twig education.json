@@ -1,0 +1,1 @@
+{"name":"Twig Education","documents":{"Terms of Service":{"fetch":"https://www.tigtagusa.com/terms-and-conditions/","select":"body"},"Privacy Policy":{"fetch":"https://edu.imaginelearning.com/international-privacy-policy","select":"body"}}}

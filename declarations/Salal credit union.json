@@ -1,0 +1,1 @@
+{"name":"Salal Credit Union","documents":{"Privacy Policy":{"fetch":"https://www.salalcu.org/privacy-policy/","select":"html > body > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(2)"},"Terms of Service":{"fetch":"https://www.salalcu.org/terms/","select":"html > body > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(2)"}}}

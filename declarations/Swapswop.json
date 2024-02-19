@@ -1,0 +1,1 @@
+{"name":"SwapSwop","documents":{"Terms of Service":{"fetch":"https://swapswop.io/terms-of-use","select":"body"},"Privacy Policy":{"fetch":"https://swapswop.io/privacy-policy","select":"body"}}}

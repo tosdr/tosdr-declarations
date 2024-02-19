@@ -1,0 +1,1 @@
+{"name":"Kayo Sports","documents":{"Privacy Policy":{"fetch":"https://help.kayosports.com.au/s/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://help.kayosports.com.au/s/terms-and-conditions","select":"body"}}}

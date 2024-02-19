@@ -1,0 +1,1 @@
+{"name":"owo.si","documents":{"Privacy Policy":{"fetch":"https://yt.owo.si/privacy","select":"body"},"Copyright Claims Policy":{"fetch":"https://gh.owo.si/","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"AddText  ","documents":{"Privacy Policy":{"fetch":"https://addtext.com/privacy","select":"html > body > div:first-of-type"}}}

@@ -1,0 +1,1 @@
+{"name":"InstaNavigation.","documents":{"Privacy Policy":{"fetch":"https://instanavigation.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://instanavigation.com/terms-of-use","select":"body"}}}

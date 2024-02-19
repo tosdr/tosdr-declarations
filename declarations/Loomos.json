@@ -1,0 +1,1 @@
+{"name":"Loomos","documents":{"Privacy Policy":{"fetch":"https://loomos.com.br/politica-de-privacidade","select":"html > body > div:first-of-type > main > article > section > div:first-of-type > div"}}}

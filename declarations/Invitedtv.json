@@ -1,0 +1,1 @@
+{"name":"invited.tv ","documents":{"Terms of Service":{"fetch":"https://invited.tv/terms-of-service","select":"body"},"Privacy Policy":{"fetch":"https://invited.tv/privacy-policy","select":"body"}}}

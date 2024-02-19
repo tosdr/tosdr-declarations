@@ -1,0 +1,1 @@
+{"name":"Balena","documents":{"Terms of Service":{"fetch":"https://www.balena.io/terms-of-service","select":"html > body > div:nth-of-type(2)"},"Privacy Policy":{"fetch":"https://www.balena.io/privacy-policy","select":"html > body > div:nth-of-type(2)"}}}

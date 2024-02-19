@@ -1,0 +1,1 @@
+{"name":"Whatbox","documents":{"Terms of Service":{"fetch":"https://whatbox.ca/policies/terms","select":"body"},"Trackers Policy":{"fetch":"https://whatbox.ca/policies/cookies","select":"body"}}}

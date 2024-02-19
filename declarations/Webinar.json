@@ -1,0 +1,1 @@
+{"name":"Webinar","documents":{"Privacy Policy":{"fetch":"https://webinar.ru/legal/private-agreement-soft.pdf","select":"body"}}}

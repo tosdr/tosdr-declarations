@@ -1,0 +1,1 @@
+{"name":"Eat This, Not That!","documents":{"Terms of Service":{"fetch":"https://www.eatthis.com/terms-and-conditions/","select":"body"},"Privacy Policy":{"fetch":"https://www.eatthis.com/privacy-policy/","select":"body"}}}

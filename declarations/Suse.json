@@ -1,0 +1,1 @@
+{"name":"SUSE","documents":{"Privacy Policy":{"fetch":"https://www.suse.com/company/legal/","select":"html > body > main"}}}

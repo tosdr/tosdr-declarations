@@ -1,0 +1,1 @@
+{"name":"sciencebuddies.org","documents":{"Terms of Service":{"fetch":"https://www.sciencebuddies.org/about/terms-and-conditions-of-fair-use","select":"body"},"Privacy Policy":{"fetch":"https://www.sciencebuddies.org/about/privacy-policy","select":"body"}}}

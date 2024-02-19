@@ -1,0 +1,1 @@
+{"name":"Project Z","documents":{"Terms of Service":{"fetch":"https://www.projz.com/terms-of-service","select":"body"},"Privacy Policy":{"fetch":"https://www.projz.com/privacy-policy","select":"body"}}}

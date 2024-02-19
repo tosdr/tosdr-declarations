@@ -1,0 +1,1 @@
+{"name":"Grabify IP Logger","documents":{"Privacy Policy":{"fetch":"https://grabify.link/privacy","select":"html > body > div:nth-of-type(2) > div > div > div"},"Terms of Service":{"fetch":"https://grabify.link/tos","select":"body"}}}

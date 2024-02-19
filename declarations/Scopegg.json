@@ -1,0 +1,1 @@
+{"name":"scope.gg","documents":{"Privacy Policy":{"fetch":"https://app.scope.gg/privacy","select":"body"},"Terms of Service":{"fetch":"https://app.scope.gg/tos","select":" > div:nth-of-type(2)"}}}

@@ -1,0 +1,1 @@
+{"name":"VitraCash","documents":{"Privacy Policy":{"fetch":"https://www.vitracash.com/legal/privacy","select":"html > body > div:nth-of-type(2)"},"Terms of Service":{"fetch":"https://www.vitracash.com/legal/terms","select":"html > body > div:nth-of-type(2)"}}}

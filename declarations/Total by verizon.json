@@ -1,0 +1,1 @@
+{"name":"Total by Verizon","documents":{"Terms of Service":{"fetch":"https://www.totalbyverizon.com/terms-and-conditions","select":"body"},"Privacy Policy":{"fetch":"https://www.tracfonewirelessinc.com/en/Privacy%2BPolicy/","select":"body"}}}

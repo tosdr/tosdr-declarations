@@ -1,0 +1,1 @@
+{"name":"Consent Manager","documents":{"Privacy Policy":{"fetch":"https://www.consentmanager.net/datenschutz","select":"html > body > main > div"}}}

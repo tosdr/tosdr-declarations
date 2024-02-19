@@ -1,0 +1,1 @@
+{"name":"British Comedy Guide","documents":{"Terms of Service":{"fetch":"https://www.comedy.co.uk/info/terms_of_use/","select":"html > body > div:first-of-type > div > main"}}}

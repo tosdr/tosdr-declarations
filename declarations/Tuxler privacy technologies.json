@@ -1,0 +1,1 @@
+{"name":"Tuxler Privacy Technologies","documents":{"Privacy Policy":{"fetch":"https://www.tuxlervpn.com/privacy-policy/","select":"html > body > section:nth-of-type(2)"}}}

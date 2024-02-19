@@ -1,0 +1,1 @@
+{"name":"AppLovin","documents":{"Privacy Policy":{"fetch":"https://www.applovin.com/privacy/","select":"body"},"Terms of Service":{"fetch":"https://www.applovin.com/eula/","select":"body"},"Copyright Claims Policy":{"fetch":"https://www.applovin.com/dmca/","select":"body"}}}

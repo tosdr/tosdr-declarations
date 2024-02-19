@@ -1,0 +1,1 @@
+{"name":"Psychology Today","documents":{"Privacy Policy":{"fetch":"https://www.psychologytoday.com/us/docs/privacy-policy","select":"body"}}}

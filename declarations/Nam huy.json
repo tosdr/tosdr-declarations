@@ -1,0 +1,1 @@
+{"name":"Nam Huy","documents":{"Privacy Policy":{"fetch":"https://www.namhuy.net/privacy-policy","select":"body"},"Copyright Claims Policy":{"fetch":"https://www.namhuy.net/copyright","select":"body"},"Terms of Service":{"fetch":"https://www.namhuy.net/terms-of-service","select":"body"}}}

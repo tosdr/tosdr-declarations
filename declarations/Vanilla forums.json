@@ -1,0 +1,1 @@
+{"name":"Vanilla Forums","documents":{"Terms of Service":{"fetch":"https://vanillaforums.com/legal/website-terms-of-use/","select":"body"},"Acceptable Use Policy":{"fetch":"https://www.higherlogic.com/legal/acceptable-use-policy/","select":"body"},"Privacy Policy":{"fetch":"https://vanillaforums.com/legal/privacy-policy/","select":"body"}}}

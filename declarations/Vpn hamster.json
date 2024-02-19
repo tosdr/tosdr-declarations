@@ -1,0 +1,1 @@
+{"name":"VPN Hamster","documents":{"Privacy Policy":{"fetch":"http://www.vpnhamster.com/privacy.html","select":"body"},"Terms of Service":{"fetch":"http://www.vpnhamster.com/terms.html","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"SSL Labs","documents":{"Terms of Service":{"fetch":"https://www.ssllabs.com/downloads/Qualys_SSL_Labs_Terms_of_Use.pdf","select":"body"}}}

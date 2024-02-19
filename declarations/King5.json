@@ -1,0 +1,1 @@
+{"name":"king5 ","documents":{"Privacy Policy":{"fetch":"https://www.king5.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.king5.com/mobile/terms","select":"html > body > div:first-of-type > main > div"}}}

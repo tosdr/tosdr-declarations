@@ -1,0 +1,1 @@
+{"name":"EasyPark","documents":{"Terms of Service":{"fetch":"https://parkmobile.nl/en/terms-of-service/","select":"body"},"Privacy Policy":{"fetch":"https://parkmobile.nl/en/privacy-notice/","select":"body"}}}

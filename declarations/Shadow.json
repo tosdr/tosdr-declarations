@@ -1,1 +1,1 @@
-{"name":"Shadow","documents":{"Privacy Policy":{"fetch":"https://shadow.tech/privacy-policy","select":"body"}}}
+{"name":"Shadow","documents":{"Privacy Policy":{"fetch":"https://shadow.tech/privacy-policy","select":"body"},"Trackers Policy":{"fetch":"https://shadow.tech/cookies","select":"body"}}}

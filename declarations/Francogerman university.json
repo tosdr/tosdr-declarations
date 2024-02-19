@@ -1,0 +1,1 @@
+{"name":"Franco-German University","documents":{"Privacy Policy":{"fetch":"https://www.dfh-ufa.org/en/privacy-policy","select":"html > body > div:first-of-type > div:nth-of-type(3)"}}}

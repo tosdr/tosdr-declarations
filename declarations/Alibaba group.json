@@ -1,0 +1,1 @@
+{"name":"Alibaba Group","documents":{"Privacy Policy":{"fetch":"https://www.alibabagroup.com/en/global/privacy","select":"html > body > div:nth-of-type(3)"}}}

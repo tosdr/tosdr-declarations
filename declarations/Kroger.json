@@ -1,0 +1,1 @@
+{"name":"Kroger","documents":{"Terms of Service":{"fetch":"https://www.kroger.com/i/terms/mobile-sms","select":"body"},"Privacy Policy":{"fetch":"https://www.kroger.com/content/v2/binary/document/privacy-policy-eng-1672167872870.pdf","select":"body"}}}

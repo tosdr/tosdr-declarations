@@ -1,0 +1,1 @@
+{"name":"The Culture Test","documents":{"Privacy Policy":{"fetch":"http://theculturetest.com/privacy","select":"body"}}}

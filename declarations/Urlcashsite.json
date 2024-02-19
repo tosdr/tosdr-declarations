@@ -1,0 +1,1 @@
+{"name":"Urlcash.site","documents":{"Privacy Policy":{"fetch":"https://urlcash.site/pages/privacy","select":"body"},"Terms of Service":{"fetch":"https://urlcash.site/pages/terms","select":"body"}}}

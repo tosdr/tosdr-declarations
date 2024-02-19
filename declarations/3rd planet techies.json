@@ -1,0 +1,1 @@
+{"name":"3rd Planet Techies","documents":{"Privacy Policy":{"fetch":"https://www.3ptechies.com/privacy-policy","select":"html > body > div:nth-of-type(6) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:first-of-type > div > div:nth-of-type(2)"}}}

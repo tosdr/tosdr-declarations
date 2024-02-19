@@ -1,1 +1,1 @@
-{"name":"CollegeBoard","documents":{"Privacy Policy":{"fetch":"https://privacy.collegeboard.org/privacy-center/privacy-statement","select":"body"}}}
+{"name":"CollegeBoard","documents":{"Privacy Policy":{"fetch":"https://privacy.collegeboard.org/privacy-center/privacy-statement","select":"body"},"Trackers Policy":{"fetch":"https://privacy.collegeboard.org/privacy-statement/cookies-do-not-track-signals","select":"body"}}}

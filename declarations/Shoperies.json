@@ -1,0 +1,1 @@
+{"name":"shoperies","documents":{"Terms of Service":{"fetch":"https://www.shoperies.com/np/template/homescreen/termsandconditions.html","select":"body"},"Privacy Policy":{"fetch":"https://www.shoperies.com/np/template/homescreen/privacy.html","select":"body"}}}

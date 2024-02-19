@@ -1,0 +1,1 @@
+{"name":"TWINT","documents":{"Privacy Policy":{"fetch":"https://www.twint.ch/en/app-dataprotection/","select":"body"},"Terms of Service":{"fetch":"https://www.twint.ch/en/app-conditions-use/","select":"body"}}}

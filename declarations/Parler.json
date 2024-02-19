@@ -1,0 +1,1 @@
+{"name":"Parler","documents":{"Community Guidelines":{"fetch":"https://legal.parler.com/documents/guidelines.pdf","select":"body"},"Terms of Service":{"fetch":"https://legal.parler.com/documents/useragreement.pdf","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"MailDB","documents":{"Privacy Policy":{"fetch":"https://maildb.io/privacy","select":"body"},"Terms of Service":{"fetch":"https://maildb.io/terms","select":"body"}}}

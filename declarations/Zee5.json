@@ -1,0 +1,1 @@
+{"name":"ZEE5","documents":{"Terms of Service":{"fetch":"https://www.zee5.com/global/termsofuse","select":"body"},"Privacy Policy":{"fetch":"https://www.zee5.com/global/privacypolicy","select":"body"}}}

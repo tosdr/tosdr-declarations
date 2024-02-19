@@ -1,0 +1,1 @@
+{"name":"imgbox","documents":{"Privacy Policy":{"fetch":"https://imgbox.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://imgbox.com/tos","select":"body"}}}

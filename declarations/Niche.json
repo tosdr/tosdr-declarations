@@ -1,1 +1,1 @@
-{"name":"Niche","documents":{"Privacy Policy":{"fetch":"https://www.niche.com/about/privacy/","select":"body"}}}
+{"name":"Niche","documents":{"Terms of Service":{"fetch":"https://www.niche.com/about/terms/","select":"html > body > div:nth-of-type(2) > div:first-of-type"},"Privacy Policy":{"fetch":"https://www.niche.com/about/privacy/","select":"body"}}}

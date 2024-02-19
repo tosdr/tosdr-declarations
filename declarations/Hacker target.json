@@ -1,0 +1,1 @@
+{"name":"Hacker Target","documents":{"Terms of Service":{"fetch":"https://hackertarget.com/terms/","select":"body"},"Privacy Policy":{"fetch":"https://hackertarget.com/privacy-policy/","select":"body"}}}

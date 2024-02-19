@@ -1,0 +1,1 @@
+{"name":"Whizz Education","documents":{"Privacy Policy":{"fetch":"https://whizz.com/privacy-policy/"},"Legal Information":{"fetch":"https://whizz.com/legal/","select":"body"}}}

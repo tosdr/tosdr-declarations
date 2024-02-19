@@ -1,0 +1,1 @@
+{"name":"Top Documentary Films","documents":{"Privacy Policy":{"fetch":"https://topdocumentaryfilms.com/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://topdocumentaryfilms.com/terms-of-use/","select":"body"}}}

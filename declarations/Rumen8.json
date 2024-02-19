@@ -1,0 +1,1 @@
+{"name":"Rumen8","documents":{"Privacy Policy":{"fetch":"http://www.rumen8.com.au/privacy/index.html","select":"html > body > div:nth-of-type(2)"}}}

@@ -1,0 +1,1 @@
+{"name":"PrismApp","documents":{"Terms of Service":{"fetch":"https://prismapp.com/about/terms","select":"body"},"Privacy Policy":{"fetch":"https://prismapp.com/about/privacy","select":"body"}}}

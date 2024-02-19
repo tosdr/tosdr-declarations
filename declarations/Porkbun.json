@@ -1,0 +1,1 @@
+{"name":"Porkbun","documents":{"Terms of Service":{"fetch":"https://porkbun.com/legal/agreement/product_terms_of_service","select":"body"}}}

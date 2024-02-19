@@ -1,1 +1,1 @@
-{"name":"Ivacy VPN","documents":{"Privacy Policy":{"fetch":"https://www.ivacy.com/legal/#privacy-policy"},"Trackers Policy":{"fetch":"https://www.ivacy.com/legal/"}}}
+{"name":"Ivacy VPN","documents":{"Privacy Policy":{"fetch":"https://www.ivacy.com/legal/#privacy-policy"},"Terms of Service":{"fetch":"https://www.ivacy.com/legal/#usage-terms","select":"body"},"Trackers Policy":{"fetch":"https://www.ivacy.com/legal/"}}}

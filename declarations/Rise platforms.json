@@ -1,0 +1,1 @@
+{"name":"Rise Platforms","documents":{"Privacy Policy":{"fetch":"https://rise-platforms.com/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://rise-platforms.com/terms-of-service/","select":"body"}}}

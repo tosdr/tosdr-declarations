@@ -1,0 +1,1 @@
+{"name":"T-mobile","documents":{"Privacy Policy":{"fetch":"https://www.t-mobile.com/privacy-center/our-practices/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.t-mobile.com/responsibility/legal/terms-and-conditions"}}}

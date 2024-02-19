@@ -1,0 +1,1 @@
+{"name":"Lime ","documents":{"Terms of Service":{"fetch":"https://www.li.me/user-agreement","select":"body"},"Privacy Policy":{"fetch":"https://www.li.me/privacy","select":"body"}}}

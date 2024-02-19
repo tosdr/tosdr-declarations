@@ -1,0 +1,1 @@
+{"name":"First Focus Campaign for Children ","documents":{"Terms of Service":{"fetch":"https://campaignforchildren.org/terms/"},"Privacy Policy":{"fetch":"https://campaignforchildren.org/privacy","select":"html > body > main > article > div:nth-of-type(2) > div > div > div > div"}}}

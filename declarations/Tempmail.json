@@ -1,0 +1,1 @@
+{"name":"tempmail","documents":{"Privacy Policy":{"fetch":"https://tempail.com/privacy/","select":"body"}}}

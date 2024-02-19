@@ -1,0 +1,1 @@
+{"name":"FileSpace","documents":{"Terms of Service":{"fetch":"https://filespace.com/tos.html","select":"body"},"Copyright Claims Policy":{"fetch":"https://filespace.com/dmcapolicy.html","select":"body"},"Privacy Policy":{"fetch":"https://filespace.com/privacy.html","select":"body"}}}

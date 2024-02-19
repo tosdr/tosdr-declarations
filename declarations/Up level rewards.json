@@ -1,0 +1,1 @@
+{"name":"up level rewards","documents":{"Privacy Policy":{"fetch":"https://contact.uplevelrewards.com/policies/privacy","select":"body"},"Terms of Service":{"fetch":"https://contact.uplevelrewards.com/policies/terms","select":"body"}}}

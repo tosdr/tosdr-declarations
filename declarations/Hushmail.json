@@ -1,0 +1,1 @@
+{"name":"Hushmail","documents":{"Privacy Policy":{"fetch":"https://www.hushmail.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.hushmail.com/terms/business/","select":"body"}}}

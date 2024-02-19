@@ -1,0 +1,1 @@
+{"name":"Toyota","documents":{"Privacy Policy":{"fetch":"https://global.toyota/en/privacy-notice/","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"Career Development Instiute","documents":{"Privacy Policy":{"fetch":"https://www.thecdi.net/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.thecdi.net/terms-and-conditions","select":"body"}}}

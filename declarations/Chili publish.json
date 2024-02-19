@@ -1,0 +1,1 @@
+{"name":"CHILI publish","documents":{"Privacy Policy":{"fetch":"https://www.chili-publish.com/legal/","select":"body"}}}

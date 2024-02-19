@@ -1,0 +1,1 @@
+{"name":"Open Society Foundations","documents":{"Trackers Policy":{"fetch":"https://www.opensocietyfoundations.org/policies/cookie-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.opensocietyfoundations.org/policies/terms-and-conditions","select":"body"},"Privacy Policy":{"fetch":"https://www.opensocietyfoundations.org/policies/privacy","select":"body"}}}

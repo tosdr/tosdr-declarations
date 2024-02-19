@@ -1,0 +1,1 @@
+{"name":"Slipfox Network Suite","documents":{"Privacy Policy":{"fetch":"https://lbry.slipfox.xyz/privacy","select":"body"},"Terms of Service":{"fetch":"https://slipfox.xyz/terms-of-service.html","select":"body"},"Acceptable Use Policy":{"fetch":"https://null.slipfox.xyz/","select":"body"}}}

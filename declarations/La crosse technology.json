@@ -1,0 +1,1 @@
+{"name":"La Crosse Technology ","documents":{"Privacy Policy":{"fetch":"https://www.lacrossetechnology.com/pages/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.lacrossetechnology.com/pages/terms-of-service","select":"body"}}}

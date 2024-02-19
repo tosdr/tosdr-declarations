@@ -1,0 +1,1 @@
+{"name":"LinuxQuestions.org ","documents":{"Privacy Policy":{"fetch":"https://www.linuxquestions.org/linux/privacy.html","select":"html > body > div:nth-of-type(2) > div > div > table > tbody > tr > td:first-of-type"}}}

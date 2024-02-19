@@ -1,0 +1,1 @@
+{"name":"2DollarWave ","documents":{"Privacy Policy":{"fetch":"https://www.2dollarwave.com/privacy.php","select":"html > body > section"}}}

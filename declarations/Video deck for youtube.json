@@ -1,0 +1,1 @@
+{"name":"Video Deck for Youtube","documents":{"Terms of Service":{"fetch":"https://www.videodeck.net/terms"},"Privacy Policy":{"fetch":"https://www.videodeck.net/privacy","select":"body"}}}

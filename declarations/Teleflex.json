@@ -1,0 +1,1 @@
+{"name":"Teleflex","documents":{"Privacy Policy":{"fetch":"https://www.teleflex.com/usa/en/legal/internet-privacy-policy/index.html","select":"body"},"Terms of Service":{"fetch":"https://www.teleflex.com/usa/en/legal/terms-of-use/index.html","select":"body"}}}

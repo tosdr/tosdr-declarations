@@ -1,0 +1,1 @@
+{"name":"OpenSubtitles.org","documents":{"Copyright Claims Policy":{"fetch":"https://www.opensubtitles.org/en/dmca","select":"html > body > div:first-of-type > div:nth-of-type(4)"}}}

@@ -1,0 +1,1 @@
+{"name":"Discord Bot List ","documents":{"Trackers Policy":{"fetch":"https://www.iubenda.com/privacy-policy/68838066/cookie-policy","select":"body"},"Privacy Policy":{"fetch":"https://www.iubenda.com/privacy-policy/68838066/legal","select":"body"},"Terms of Service":{"fetch":"https://www.iubenda.com/terms-and-conditions/68838066","select":"body"}}}

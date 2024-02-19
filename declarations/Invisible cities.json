@@ -1,0 +1,1 @@
+{"name":"Invisible cities","documents":{"Privacy Policy":{"fetch":"https://the-invisible-cities.com/about?terms=1","select":"html > body > main > section > p"}}}

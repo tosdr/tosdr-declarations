@@ -1,0 +1,1 @@
+{"name":"gamezop ","documents":{"Trackers Policy":{"fetch":"https://static.gamezop.com/legal/cookie-policy/","select":"body"},"Terms of Service":{"fetch":"https://static.gamezop.com/legal/terms-of-use/","select":"body"}}}

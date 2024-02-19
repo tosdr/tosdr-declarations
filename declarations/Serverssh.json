@@ -1,0 +1,1 @@
+{"name":"Serverssh","documents":{"Terms of Service":{"fetch":"https://serverssh.net/?q=terms","select":"html > body > section:nth-of-type(4)"}}}

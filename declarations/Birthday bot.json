@@ -1,0 +1,1 @@
+{"name":"Birthday Bot","documents":{"Privacy Policy":{"fetch":"https://raw.githubusercontent.com/scottbucher/BirthdayBot/master/LEGAL.md","select":"body"}}}

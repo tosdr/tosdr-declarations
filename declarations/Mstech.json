@@ -1,0 +1,1 @@
+{"name":"MSTech","documents":{"Privacy Policy":{"fetch":"https://mstech-co.com/privacy-policy/","select":"html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div > div"}}}

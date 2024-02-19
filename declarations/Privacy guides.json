@@ -1,0 +1,1 @@
+{"name":"Privacy Guides","documents":{"Privacy Policy":{"fetch":"https://privacyguides.org/privacy-policy/","select":"html > body > main > div"}}}

@@ -1,0 +1,1 @@
+{"name":"Pixelfed AU","documents":{"Privacy Policy":{"fetch":"https://pixelfed.au/site/privacy","select":"body"},"Terms of Service":{"fetch":"https://pixelfed.au/site/terms","select":"body"}}}

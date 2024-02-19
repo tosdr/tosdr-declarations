@@ -1,0 +1,1 @@
+{"name":"Wickr Me","documents":{"Privacy Policy":{"fetch":"https://wickr.com/privacy/me/","select":"html > body > div:nth-of-type(2) > div > section:nth-of-type(2) > div > div > div > div > div"},"Terms of Service":{"fetch":"https://wickr.com/terms/"},"Legal Information":{"fetch":"https://wickr.com/privacy/"},"Trackers Policy":{"fetch":"https://wickr.com/privacy/"}}}

@@ -1,0 +1,1 @@
+{"name":"Seedr","documents":{"Copyright Claims Policy":{"fetch":"https://www.seedr.cc/dynamic/dmca","select":"html > body > div:nth-of-type(15) > div"},"Privacy Policy":{"fetch":"https://www.seedr.cc/dynamic/privacy_policy","select":"body"}}}

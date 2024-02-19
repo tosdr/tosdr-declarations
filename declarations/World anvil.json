@@ -1,0 +1,1 @@
+{"name":"World Anvil","documents":{"Terms of Service":{"fetch":"https://www.worldanvil.com/terms-of-service","select":"body"},"Privacy Policy":{"fetch":"https://www.worldanvil.com/privacy","select":"body"},"Copyright Claims Policy":{"fetch":"https://www.worldanvil.com/copyright","select":"body"}}}

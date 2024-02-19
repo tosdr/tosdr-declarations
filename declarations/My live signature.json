@@ -1,0 +1,1 @@
+{"name":"My Live Signature","documents":{"Privacy Policy":{"fetch":"https://www.mylivesignature.com/terms","select":" > div:first-of-type"}}}

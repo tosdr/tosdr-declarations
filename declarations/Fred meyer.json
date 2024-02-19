@@ -1,0 +1,1 @@
+{"name":"Fred Meyer","documents":{"Terms of Service":{"fetch":"https://www.fredmeyer.com/i/terms/website-and-app","select":"body"},"Privacy Policy":{"fetch":"https://www.fredmeyer.com/i/privacy-policy","select":"body"}}}

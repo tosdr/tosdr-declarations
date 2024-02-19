@@ -1,1 +1,1 @@
-{"name":"A Cloud Guru","documents":{"Privacy Policy":{"fetch":"https://acloudguru.com/policies/privacy","select":"body"},"Terms of Service":{"fetch":"https://acloudguru.com/policies/terms-of-use","select":"body"}}}
+{"name":"A Cloud Guru","documents":{"Privacy Policy":{"fetch":"https://acloudguru.com/policies/data-processing","select":"body"},"Terms of Service":{"fetch":"https://acloudguru.com/policies/terms-of-use","select":"body"},"Community Guidelines":{"fetch":"https://acloudguru.com/policies/code-of-conduct","select":"body"}}}

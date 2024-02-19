@@ -1,0 +1,1 @@
+{"name":"Grab","documents":{"Terms of Service":{"fetch":"https://www.grab.com/sg/terms-policies/payment-rewards/","select":"body"},"Copyright Claims Policy":{"fetch":"https://www.grab.com/sg/terms-policies/copyright-notice/","select":"body"},"Privacy Policy":{"fetch":"https://www.grab.com/sg/terms-policies/privacy-notice/","select":"body"}}}

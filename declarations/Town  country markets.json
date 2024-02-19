@@ -1,0 +1,1 @@
+{"name":"Town & Country Markets","documents":{"Privacy Policy":{"fetch":"https://townandcountrymarkets.com/privacy-policy","select":"html > body > main > section > div"},"Terms of Service":{"fetch":"https://townandcountrymarkets.com/terms-of-use","select":"html > body > main > section > div"}}}

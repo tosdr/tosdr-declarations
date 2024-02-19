@@ -1,0 +1,1 @@
+{"name":"rosettastone","documents":{"Privacy Policy":{"fetch":"https://www.rosettastone.com/dataprivacyandsecurity","select":"body"},"Terms of Service":{"fetch":"https://resources.rosettastone.com/CDN/us/pdfs/eulas/US_terms_and_conditions.pdf","select":"body"}}}

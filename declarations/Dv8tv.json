@@ -1,0 +1,1 @@
+{"name":" Dv8.Tv","documents":{"Privacy Policy":{"fetch":"https://dv8.tv/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://dv8.tv/terms/","select":"body"}}}

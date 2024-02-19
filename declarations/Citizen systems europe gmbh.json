@@ -1,0 +1,1 @@
+{"name":"Citizen Systems Europe GmbH","documents":{"Privacy Policy":{"fetch":"https://www.citizen-systems.com/en/legal","select":"html > body > div:first-of-type > div:nth-of-type(5) > div > div > div"}}}

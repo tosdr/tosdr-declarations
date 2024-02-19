@@ -1,0 +1,1 @@
+{"name":"Dictionnaires des francophones","documents":{"Terms of Service":{"fetch":"https://www.dictionnairedesfrancophones.org/cgu","select":"body"},"Privacy Policy":{"fetch":"https://www.dictionnairedesfrancophones.org/politiqueconfidentialite","select":"html > body > div:first-of-type > div > main"}}}

@@ -1,0 +1,1 @@
+{"name":"CloudSight","documents":{"Terms of Service":{"fetch":"https://cloudsight.ai/terms","select":"html > body > div > div > div > div"},"Privacy Policy":{"fetch":"https://cloudsight.ai/privacy-policy","select":"html > body > div > div > div > div"}}}

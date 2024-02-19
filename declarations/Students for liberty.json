@@ -1,0 +1,1 @@
+{"name":"Students for Liberty","documents":{"Privacy Policy":{"fetch":"https://studentsforliberty.org/privacy/","select":"body"},"Trackers Policy":{"fetch":"https://studentsforliberty.org/cookies/","select":"body"}}}

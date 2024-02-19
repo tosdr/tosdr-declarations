@@ -1,0 +1,1 @@
+{"name":"Butcher Shoppe ","documents":{"Privacy Policy":{"fetch":"https://mybutchershoppe.com/privacy-policy","select":"html > body > div:first-of-type > div > div:nth-of-type(2) > div"}}}

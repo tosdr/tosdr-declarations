@@ -1,0 +1,1 @@
+{"name":"Social Blade","documents":{"Terms of Service":{"fetch":"https://socialblade.com/info/terms","select":"body"},"Privacy Policy":{"fetch":"https://socialblade.com/info/privacy","select":"body > about-wrap"}}}

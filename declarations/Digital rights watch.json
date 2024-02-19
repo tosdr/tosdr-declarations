@@ -1,0 +1,1 @@
+{"name":"Digital Rights Watch","documents":{"Privacy Policy":{"fetch":"https://digitalrightswatch.org.au/privacy-policy/","select":"html > body > div:first-of-type > div > div > article > div"}}}

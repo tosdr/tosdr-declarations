@@ -1,0 +1,1 @@
+{"name":"Bauer Publishing","documents":{"Privacy Policy":{"fetch":"https://profile.bauerpublishing.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://profile.bauerpublishing.com/terms-of-use","select":"body"}}}

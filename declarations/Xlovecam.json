@@ -1,0 +1,1 @@
+{"name":"XLOVECAM","documents":{"Privacy Policy":{"fetch":"https://www.xlovecam.com/en/privacy/","select":"body"},"Terms of Service":{"fetch":"https://www.xlovecam.com/en/terms/","select":"body"}}}

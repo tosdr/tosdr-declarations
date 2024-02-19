@@ -1,0 +1,1 @@
+{"name":"Cryptonator ","documents":{"Privacy Policy":{"fetch":"https://www.cryptonator.com/privacy","select":"html > body > section > div > div > div"}}}

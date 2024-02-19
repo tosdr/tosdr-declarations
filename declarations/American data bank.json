@@ -1,0 +1,1 @@
+{"name":"American Data Bank","documents":{"Privacy Policy":{"fetch":"https://www.americandatabank.com/consumer-information/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.americandatabank.com/consumer-information/legal-policy/","select":"body"}}}

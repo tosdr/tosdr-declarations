@@ -1,0 +1,1 @@
+{"name":"Digital Privacy News","documents":{"Privacy Policy":{"fetch":"https://digitalprivacy.news/privacy-policy/","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"United Way of Greater Milwaukee & Waukesha County","documents":{"Privacy Policy":{"fetch":"https://unitedwaygmwc.org/Privacy-Statement","select":"html > body > form > main > div:nth-of-type(3) > div"}}}

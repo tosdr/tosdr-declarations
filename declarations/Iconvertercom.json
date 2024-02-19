@@ -1,0 +1,1 @@
+{"name":"i-converter.com","documents":{"Privacy Policy":{"fetch":"https://i-converter.com/terms.php","select":"html > body > section > div > div:first-of-type > div:first-of-type > div:first-of-type"}}}

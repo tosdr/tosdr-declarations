@@ -1,0 +1,1 @@
+{"name":"IMS Global Learning Consortium","documents":{"Privacy Policy":{"fetch":"http://www.imsglobal.org/privacystatement.html","select":"html > body > div:nth-of-type(5) > div > div"}}}

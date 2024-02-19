@@ -1,0 +1,1 @@
+{"name":"OfferToro ","documents":{"Terms of Service":{"fetch":"https://www.offertoro.com/terms","select":"body"},"Privacy Policy":{"fetch":"https://www.offertoro.com/privacy-policy","select":"body"}}}

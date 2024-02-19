@@ -1,0 +1,1 @@
+{"name":"Workday, Inc.","documents":{"Privacy Policy":{"fetch":"https://www.workday.com/en-us/privacy.html","select":"body"},"Terms of Service":{"fetch":"https://www.workday.com/en-us/legal/site-terms.html","select":"body"}}}

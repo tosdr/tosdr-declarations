@@ -1,0 +1,1 @@
+{"name":"American Library Association","documents":{"Privacy Policy":{"fetch":"https://www.ala.org/privacypolicy","select":"html > body > div:nth-of-type(4) > div"}}}

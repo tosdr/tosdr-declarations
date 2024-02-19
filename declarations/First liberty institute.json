@@ -1,0 +1,1 @@
+{"name":"First Liberty Institute ","documents":{"Privacy Policy":{"fetch":"https://firstliberty.org/web-site-privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://firstliberty.org/terms-of-use","select":"body"}}}

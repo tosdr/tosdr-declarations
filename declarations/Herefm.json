@@ -1,0 +1,1 @@
+{"name":"here.fm","documents":{"Privacy Policy":{"fetch":"https://here.fm/privacy.html","select":"body"},"Terms of Service":{"fetch":"https://here.fm/terms.html","select":"body"}}}

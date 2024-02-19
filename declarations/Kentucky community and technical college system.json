@@ -1,0 +1,1 @@
+{"name":"Kentucky Community and Technical College System","documents":{"Privacy Policy":{"fetch":"https://kctcs.edu/about/privacy-terms/","select":"html > body > div:first-of-type"}}}

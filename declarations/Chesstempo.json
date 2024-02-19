@@ -1,0 +1,1 @@
+{"name":"ChessTempo","documents":{"Privacy Policy":{"fetch":"https://chesstempo.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://chesstempo.com/tos","select":"body"}}}

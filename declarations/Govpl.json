@@ -1,0 +1,1 @@
+{"name":"gov.pl","documents":{"Privacy Policy":{"fetch":"https://uodo.gov.pl/en/1/975"},"Trackers Policy":{"fetch":"https://www.gov.pl/web/gov/polityka-dotyczaca-cookies","select":"html > body > main > div:nth-of-type(2)"}}}

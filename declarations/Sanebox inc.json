@@ -1,0 +1,1 @@
+{"name":"Sanebox Inc","documents":{"Privacy Policy":{"fetch":"https://www.sanebox.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.sanebox.com/tos","select":"body"}}}

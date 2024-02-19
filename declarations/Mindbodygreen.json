@@ -1,0 +1,1 @@
+{"name":"mindbodygreen","documents":{"Privacy Policy":{"fetch":"https://www.mindbodygreen.com/privacy","select":"html > body > div:first-of-type > div:first-of-type > main > div > div > section"},"Terms of Service":{"fetch":"https://www.mindbodygreen.com/terms-of-sale","select":"html > body > div:first-of-type > div:first-of-type > main > div > div > section"}}}

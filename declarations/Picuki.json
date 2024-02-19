@@ -1,0 +1,1 @@
+{"name":"Picuki ","documents":{"Privacy Policy":{"fetch":"https://www.picuki.com/page/privacy","select":"html > body > div:nth-of-type(3)"}}}

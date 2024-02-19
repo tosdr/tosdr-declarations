@@ -1,0 +1,1 @@
+{"name":"RAC of Western Australia","documents":{"Privacy Policy":{"fetch":"https://rac.com.au/about-rac/site-info/privacy","select":"html > body > main > div:nth-of-type(2)"}}}

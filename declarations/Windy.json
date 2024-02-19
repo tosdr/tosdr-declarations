@@ -1,0 +1,1 @@
+{"name":"Windy","documents":{"Terms of Service":{"fetch":"https://account.windy.com/agreements/windy-terms-of-use","select":"body"}}}

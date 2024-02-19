@@ -1,0 +1,1 @@
+{"name":"FlorenFile.com","documents":{"Copyright Claims Policy":{"fetch":"https://florenfile.com/dmca.html","select":" > div > div > div"},"Terms of Service":{"fetch":"https://florenfile.com/tos.html","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"YourDigitalRights.org","documents":{"Privacy Policy":{"fetch":"https://yourdigitalrights.org/privacy","select":"html > body > div:first-of-type > div"}}}

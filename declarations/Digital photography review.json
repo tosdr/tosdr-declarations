@@ -1,0 +1,1 @@
+{"name":"Digital Photography Review ","documents":{"Privacy Policy":{"fetch":"https://www.dpreview.com/misc/privacypolicy","select":"body"},"Terms of Service":{"fetch":"https://www.dpreview.com/misc/termsandconditions","select":"body"}}}

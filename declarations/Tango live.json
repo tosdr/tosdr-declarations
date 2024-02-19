@@ -1,0 +1,1 @@
+{"name":"Tango Live","documents":{"Terms of Service":{"fetch":"https://www.tango.me/terms-of-use","select":"body"},"Privacy Policy":{"fetch":"https://www.tango.me/privacy-policy","select":"body"},"Copyright Claims Policy":{"fetch":"https://www.tango.me/copyright","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"TASC Software","documents":{"Privacy Policy":{"fetch":"https://www.tascsoftware.co.uk/privacy-policy/","select":"html > body > div:nth-of-type(2) > section:first-of-type"}}}

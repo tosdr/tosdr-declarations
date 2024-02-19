@@ -1,0 +1,1 @@
+{"name":"Planned Parenthood","documents":{"Privacy Policy":{"fetch":"https://www.plannedparenthood.org/privacy-policy","select":"html > body > div:first-of-type > main > div:nth-of-type(2)"}}}

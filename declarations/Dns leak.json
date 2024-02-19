@@ -1,0 +1,1 @@
+{"name":"DNS leak","documents":{"Privacy Policy":{"fetch":"https://www.dnsleaktest.com/privacy.html","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"truthgpt","documents":{"Privacy Policy":{"fetch":"https://truthgpt.one/privacy.html","select":"body"}}}

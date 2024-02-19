@@ -1,0 +1,1 @@
+{"name":"VidMoly","documents":{"Terms of Service":{"fetch":"https://staticmoly.me/tos","select":"body"},"Copyright Claims Policy":{"fetch":"https://staticmoly.me/dmca","select":"body"}}}

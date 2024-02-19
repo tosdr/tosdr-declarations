@@ -1,0 +1,1 @@
+{"name":"Privacy Rights Clearinghouse","documents":{"Privacy Policy":{"fetch":"https://privacyrights.org/privacy-policy","select":"html > body > div:first-of-type > div > main"}}}

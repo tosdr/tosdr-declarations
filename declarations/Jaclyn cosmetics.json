@@ -1,0 +1,1 @@
+{"name":"Jaclyn Cosmetics","documents":{"Privacy Policy":{"fetch":"https://jaclyncosmetics.com/pages/privacy-policy","select":"html > body > main > div:first-of-type > div > div"},"Terms of Service":{"fetch":"https://jaclyncosmetics.com/pages/terms-conditions","select":"html > body > main > div:first-of-type > div > div"}}}

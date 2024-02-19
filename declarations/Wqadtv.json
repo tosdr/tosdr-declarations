@@ -1,0 +1,1 @@
+{"name":"WQAD-TV","documents":{"Privacy Policy":{"fetch":"https://www.wqad.com/privacy","select":"html > body > div:first-of-type > main > div"}}}

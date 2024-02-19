@@ -1,0 +1,1 @@
+{"name":"Scam-Numbers","documents":{"Privacy Policy":{"fetch":"https://scam-numbers.com/privacy-policy/","select":"html > body > main > div"},"Terms of Service":{"fetch":"https://scam-numbers.com/terms-of-service/","select":"body"}}}

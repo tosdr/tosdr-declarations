@@ -1,0 +1,1 @@
+{"name":"Sam's Cats & Dogs","documents":{"Privacy Policy":{"fetch":"https://www.samscatsanddogs.com/content/other/privacy-policy/","select":"html > body > div:nth-of-type(2) > div:nth-of-type(2) > section > div:nth-of-type(2)"}}}

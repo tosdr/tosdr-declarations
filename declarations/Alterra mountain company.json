@@ -1,0 +1,1 @@
+{"name":"Alterra Mountain Company","documents":{"Terms of Service":{"fetch":"https://www.alterramtnco.com/terms-of-use/","select":"body"},"Privacy Policy":{"fetch":"https://www.alterramtnco.com/privacy-policy/","select":"body"}}}

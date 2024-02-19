@@ -1,0 +1,1 @@
+{"name":"Servers Guru","documents":{"Terms of Service":{"fetch":"https://servers.guru/terms-conditions/","select":"body"},"Privacy Policy":{"fetch":"https://servers.guru/privacy-policy/","select":"body"}}}

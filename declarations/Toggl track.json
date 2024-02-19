@@ -1,0 +1,1 @@
+{"name":"Toggl Track","documents":{"Terms of Service":{"fetch":"https://toggl.com/track/legal/terms/","select":"body"}}}

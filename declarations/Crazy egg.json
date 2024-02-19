@@ -1,0 +1,1 @@
+{"name":"Crazy Egg","documents":{"Privacy Policy":{"fetch":"https://www.crazyegg.com/privacy","select":"body"},"Trackers Policy":{"fetch":"https://www.crazyegg.com/cookies","select":"body"},"Terms of Service":{"fetch":"https://www.crazyegg.com/terms","select":"body"}}}

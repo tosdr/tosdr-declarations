@@ -1,1 +1,1 @@
-{"name":"Tencent QQ (腾讯QQ)","documents":{"Privacy Policy":{"fetch":"https://privacy.qq.com","select":"html > body"}}}
+{"name":"Tencent QQ (腾讯QQ)","documents":{"Privacy Policy":{"fetch":"https://privacy.qq.com","select":"html > body"},"Copyright Claims Policy":{"fetch":"https://www.qq.com/copyright20201229.htm","select":"body"}}}

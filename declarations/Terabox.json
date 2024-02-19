@@ -1,0 +1,1 @@
+{"name":"TeraBox","documents":{"Privacy Policy":{"fetch":"https://www.terabox.com/box-static/disk-system/html/wap_privacy.html?lang=pt","select":"body"},"Terms of Service":{"fetch":"https://www.terabox.com/box-static/disk-system/html/wap_duty.html?lang=en_US","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"Spam.org","documents":{"Terms of Service":{"fetch":"https://www.spam.org/tos","select":"body"},"Privacy Policy":{"fetch":"https://www.spam.org/privacy","select":"body"}}}

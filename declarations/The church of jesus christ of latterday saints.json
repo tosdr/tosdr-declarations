@@ -1,0 +1,1 @@
+{"name":"The Church of Jesus Christ of Latter-day Saints","documents":{"Privacy Policy":{"fetch":"https://www.churchofjesuschrist.org/legal/privacy-notice?lang=eng&country=go","select":"body"},"Terms of Service":{"fetch":"https://www.churchofjesuschrist.org/legal/terms-of-use?lang=eng&country=go","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"Uploadcare ","documents":{"Privacy Policy":{"fetch":"https://uploadcare.com/about/privacy-policy/","select":"html > body > div:first-of-type > div:first-of-type > div:first-of-type > div:first-of-type"}}}

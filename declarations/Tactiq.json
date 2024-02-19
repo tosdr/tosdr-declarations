@@ -1,0 +1,1 @@
+{"name":"Tactiq","documents":{"Terms of Service":{"fetch":"https://tactiq.io/privacy/terms","select":"body"},"Privacy Policy":{"fetch":"https://tactiq.io/privacy/privacy","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"gameberrylabs ","documents":{"Privacy Policy":{"fetch":"https://gameberrylabs.com/privacy","select":"body"},"Terms of Service":{"fetch":"http://gameberrylabs.com/terms","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"HelloFresh","documents":{"Terms of Service":{"fetch":"https://www.hellofresh.com/about/termsandconditions/","select":"body"}}}

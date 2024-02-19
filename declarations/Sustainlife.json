@@ -1,0 +1,1 @@
+{"name":"Sustain.Life","documents":{"Privacy Policy":{"fetch":"https://www.sustain.life/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.sustain.life/terms-of-service","select":"body"}}}

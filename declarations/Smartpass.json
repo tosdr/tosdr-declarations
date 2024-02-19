@@ -1,0 +1,1 @@
+{"name":"SmartPass","documents":{"Privacy Policy":{"fetch":"https://www.smartpass.app/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.smartpass.app/terms","select":"body"}}}

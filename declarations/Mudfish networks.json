@@ -1,0 +1,1 @@
+{"name":"Mudfish Networks ","documents":{"Terms of Service":{"fetch":"https://mudfish.net/agreement/tos","select":"body"},"Privacy Policy":{"fetch":"https://mudfish.net/agreement/privacy_policy","select":"body"}}}

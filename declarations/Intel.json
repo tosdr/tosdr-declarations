@@ -1,0 +1,1 @@
+{"name":"Intel","documents":{"Privacy Policy":{"fetch":"https://www.intel.com/content/www/us/en/privacy/intel-privacy-notice.html"},"Trackers Policy":{"fetch":"https://www.intel.com/content/www/us/en/privacy/intel-cookie-notice.html","select":"body"},"Terms of Service":{"fetch":"https://www.intel.com/content/www/us/en/legal/terms-of-use.html","select":"body"}}}

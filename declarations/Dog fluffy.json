@@ -1,0 +1,1 @@
+{"name":"Dog Fluffy","documents":{"Terms of Service":{"fetch":"https://www.dogfluffy.com/terms-and-conditions/","select":"html > body > div:first-of-type > div:first-of-type > main > div"},"Privacy Policy":{"fetch":"https://www.dogfluffy.com/privacy-policy/","select":"html > body > div:first-of-type > div:first-of-type > main > div"}}}

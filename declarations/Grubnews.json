@@ -1,0 +1,1 @@
+{"name":"GrubNews","documents":{"Privacy Policy":{"fetch":"https://www.grubnews.com/privacy.php","select":"body"}}}

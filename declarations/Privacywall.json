@@ -1,0 +1,1 @@
+{"name":"PrivacyWall","documents":{"Privacy Policy":{"fetch":"https://www.privacywall.org/privacy/","select":"html > body > section > article"},"Terms of Service":{"fetch":"https://www.privacywall.org/terms/","select":"html > body > section > article"}}}

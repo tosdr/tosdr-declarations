@@ -1,1 +1,1 @@
-{"name":"WantToKnow.nl/.be","documents":{"Privacy Policy":{"fetch":"https://www.wanttoknow.nl/privacy-policy/","select":"body"}}}
+{"name":"WantToKnow.nl/.be","documents":{"Privacy Policy":{"fetch":"https://www.wanttoknow.nl/privacy-policy/","select":"body"},"Trackers Policy":{"fetch":"https://www.wanttoknow.nl/cookies-op-wanttoknow/"}}}

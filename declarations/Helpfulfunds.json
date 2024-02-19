@@ -1,0 +1,1 @@
+{"name":"HelpfulFunds","documents":{"Privacy Policy":{"fetch":"https://helpfulfunds.org/privacy","select":"html > body > div:first-of-type > main > section"},"Terms of Service":{"fetch":"https://helpfulfunds.org/terms","select":"html > body > div:first-of-type > main > section"}}}

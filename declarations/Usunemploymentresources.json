@@ -1,0 +1,1 @@
+{"name":"us-unemployment-resources","documents":{"Terms of Service":{"fetch":"https://www.us-unemployment-resources.com/tc.php","select":"body"}}}

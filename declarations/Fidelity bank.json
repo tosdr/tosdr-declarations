@@ -1,0 +1,1 @@
+{"name":"Fidelity Bank","documents":{"Privacy Policy":{"fetch":"https://www.bankwithfidelity.com/privacy-notice.html","select":"html > body > main > div:nth-of-type(2) > div > section"}}}

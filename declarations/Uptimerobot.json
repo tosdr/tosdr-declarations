@@ -1,0 +1,1 @@
+{"name":"UptimeRobot","documents":{"Terms of Service":{"fetch":"https://uptimerobot.com/terms/","select":"html > body > main > section:nth-of-type(2)"},"Privacy Policy":{"fetch":"https://uptimerobot.com/privacy/","select":"html > body > main > section:nth-of-type(2)"}}}

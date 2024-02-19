@@ -1,0 +1,1 @@
+{"name":"Best Homepage Ever","documents":{"Terms of Service":{"fetch":"https://besthomepageever.com/terms/","select":"body"},"Privacy Policy":{"fetch":"https://besthomepageever.com/privacy/","select":"body"}}}

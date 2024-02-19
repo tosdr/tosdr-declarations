@@ -1,0 +1,1 @@
+{"name":"Next","documents":{"Privacy Policy":{"fetch":"https://www.next.co.uk/privacy"},"Terms of Service":{"fetch":"https://www.next.co.uk/terms","select":"html > body > section:first-of-type > section:first-of-type > div:first-of-type > div > div:nth-of-type(3)"}}}

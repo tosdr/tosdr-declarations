@@ -1,0 +1,1 @@
+{"name":"froth.zone","documents":{"Terms of Service":{"fetch":"https://froth.zone/registration","select":"body"},"Privacy Policy":{"fetch":"https://bibliogram.froth.zone/privacy","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"Under Armour","documents":{"Privacy Policy":{"fetch":"https://account.underarmour.com/en-us/privacy","select":"body"},"Terms of Service":{"fetch":"https://account.underarmour.com/en-us/terms-and-conditions","select":"body"}}}

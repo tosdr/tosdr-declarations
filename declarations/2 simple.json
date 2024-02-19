@@ -1,0 +1,1 @@
+{"name":"2 Simple","documents":{"Privacy Policy":{"fetch":"https://www.2simple.com/media/documents/Privacy_Notice_2021.pdf","select":"body"},"Terms of Service":{"fetch":"https://www.2simple.com/media/documents/User_Agreement_For_All_Products_2021.pdf","select":"body"}}}

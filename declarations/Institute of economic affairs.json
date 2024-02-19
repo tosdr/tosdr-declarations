@@ -1,0 +1,1 @@
+{"name":"Institute of Economic Affairs","documents":{"Privacy Policy":{"fetch":"https://iea.org.uk/privacy-policy/","select":"html > body > div:first-of-type > div"}}}

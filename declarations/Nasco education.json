@@ -1,0 +1,1 @@
+{"name":"Nasco Education","documents":{"Terms of Service":{"fetch":"https://www.nascoeducation.com/terms-of-use","select":"html > body > div:nth-of-type(2) > main > div:nth-of-type(2) > div > div:nth-of-type(2)"}}}

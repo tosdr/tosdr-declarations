@@ -1,0 +1,1 @@
+{"name":"Family Dentistry of New Jersey","documents":{"Privacy Policy":{"fetch":"https://familydentistryofnewjersey.com/privacy-policy","select":"html > body > div:first-of-type > div:nth-of-type(4) > div > div"}}}

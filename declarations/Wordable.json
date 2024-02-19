@@ -1,0 +1,1 @@
+{"name":"Wordable","documents":{"Privacy Policy":{"fetch":"https://wordable.io/privacy/","select":"html > body > article > div"},"Terms of Service":{"fetch":"https://wordable.io/terms/","select":"html > body > article > div"}}}

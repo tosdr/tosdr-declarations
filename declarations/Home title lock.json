@@ -1,0 +1,1 @@
+{"name":"Home Title Lock","documents":{"Privacy Policy":{"fetch":"https://www.hometitlelock.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.hometitlelock.com/terms","select":"body"}}}

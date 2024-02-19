@@ -1,0 +1,1 @@
+{"name":"uptodown","documents":{"Trackers Policy":{"fetch":"https://en.uptodown.com/aboutus/privacy","select":"body"},"Terms of Service":{"fetch":"https://en.uptodown.com/aboutus/services","select":"body"}}}

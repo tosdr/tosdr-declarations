@@ -1,0 +1,1 @@
+{"name":"MedBridgeGo","documents":{"Privacy Policy":{"fetch":"https://www.medbridgego.com/privacy_policy","select":"body"},"Terms of Service":{"fetch":"https://www.medbridgego.com/terms_of_use","select":"body"}}}

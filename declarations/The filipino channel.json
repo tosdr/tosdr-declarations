@@ -1,0 +1,1 @@
+{"name":"The Filipino Channel","documents":{"Terms of Service":{"fetch":"https://tfc.tv/terms-and-conditions","select":"html > body > div:nth-of-type(2) > div:nth-of-type(2) > section > div > div:nth-of-type(2)"},"Privacy Policy":{"fetch":"https://tfc.tv/privacy-policy","select":"html > body > div:nth-of-type(2) > div:nth-of-type(2) > section > div > div:nth-of-type(2)"}}}

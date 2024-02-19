@@ -1,0 +1,1 @@
+{"name":"California Franchise Tax Board","documents":{"Privacy Policy":{"fetch":"https://www.ftb.ca.gov/your-rights/privacy/index.html","select":"html > body > div:first-of-type > main > section"}}}

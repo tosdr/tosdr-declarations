@@ -1,0 +1,1 @@
+{"name":"Atos  ","documents":{"Privacy Policy":{"fetch":"https://atos.net/en/privacy","select":"body"},"Terms of Service":{"fetch":"https://atos.net/en/terms-of-use","select":"body"}}}

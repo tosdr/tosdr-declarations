@@ -1,0 +1,1 @@
+{"name":"Dave Redfern","documents":{"Privacy Policy":{"fetch":"https://daveredfern.com/privacy/","select":"html > body > div:first-of-type"}}}

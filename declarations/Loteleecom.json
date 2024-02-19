@@ -1,0 +1,1 @@
+{"name":"lotelee.com","documents":{"Privacy Policy":{"fetch":"http://lotelee.com/privacy.php","select":"html > body > div:first-of-type > section"}}}

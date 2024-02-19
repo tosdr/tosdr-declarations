@@ -1,0 +1,1 @@
+{"name":"freenet.tv","documents":{"Privacy Policy":{"fetch":"https://www.freenet.tv/datenschutzhinweise","select":"body"},"Terms of Service":{"fetch":"https://www.freenet.tv/agb","select":"body"}}}

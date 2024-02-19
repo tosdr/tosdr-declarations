@@ -1,0 +1,1 @@
+{"name":"You.com","documents":{"Privacy Policy":{"fetch":"https://about.you.com/privacy-and-data-protection-at-you-com/","select":"body"},"Terms of Service":{"fetch":"https://you.com/legal/terms","select":"body"}}}

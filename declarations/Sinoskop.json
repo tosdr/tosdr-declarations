@@ -1,1 +1,1 @@
-{"name":"Sinoskop","documents":{}}
+{"name":"Sinoskop","documents":{"Privacy Policy":{"fetch":"https://www.sinoskop.de/blog/datenschutzerklaerung/","select":"html > body > main > article > div:first-of-type > div"}}}

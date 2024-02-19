@@ -1,0 +1,1 @@
+{"name":"CheckInPage","documents":{"Terms of Service":{"fetch":"https://www-stage.checkinpage.com/legal/user-terms-of-service.html","select":"body"},"Acceptable Use Policy":{"fetch":"https://www-stage.checkinpage.com/legal/acceptable-use-policy.html","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"ODYSSEYWARE","documents":{"Terms of Service":{"fetch":"https://www.odysseyware.com/terms-of-use"},"Privacy Policy":{"fetch":"https://www.edgenuity.com/privacy-policy/","select":"html > body > div:nth-of-type(3) > div > div:first-of-type > ol"}}}

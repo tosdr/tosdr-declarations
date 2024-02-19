@@ -1,0 +1,1 @@
+{"name":"Sanctioned Suicide","documents":{"Terms of Service":{"fetch":"https://sanctioned-suicide.net/help/terms/","select":"body"},"Trackers Policy":{"fetch":"https://sanctioned-suicide.net/help/cookies/","select":"body"},"Privacy Policy":{"fetch":"https://sanctioned-suicide.net/help/privacy-policy/","select":"body"}}}

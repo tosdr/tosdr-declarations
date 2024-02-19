@@ -1,0 +1,1 @@
+{"name":"Scholar's App","documents":{"Privacy Policy":{"fetch":"https://scholarsapp.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://scholarsapp.com/toc","select":"body"}}}

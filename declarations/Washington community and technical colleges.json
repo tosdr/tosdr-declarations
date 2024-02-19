@@ -1,0 +1,1 @@
+{"name":"Washington Community and Technical Colleges","documents":{"Privacy Policy":{"fetch":"https://www.public.ctc.edu/ApplicantWebClient/Applicant/ApplPrivacyNotice.aspx","select":"body"},"Terms of Service":{"fetch":"https://www.sbctc.edu/terms-of-use.aspx","select":"html > body > main > div > div > div:nth-of-type(2)"}}}

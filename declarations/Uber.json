@@ -1,1 +1,1 @@
-{"name":"Uber","documents":{}}
+{"name":"Uber","documents":{"Copyright Claims Policy":{"fetch":"https://www.uber.com/legal/en/document/?country=united-states&lang=en&name=report-copyright-infringement","select":"body"}}}

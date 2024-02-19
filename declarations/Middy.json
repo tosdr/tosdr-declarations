@@ -1,0 +1,1 @@
+{"name":"middy ","documents":{"Privacy Policy":{"fetch":"https://www.middy.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.middy.com/terms-of-service","select":"body"}}}

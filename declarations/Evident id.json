@@ -1,0 +1,1 @@
+{"name":"Evident ID","documents":{"Terms of Service":{"fetch":"https://www.evidentid.com/terms-of-use/"},"Privacy Policy":{"fetch":"https://www.evidentid.com/privacy-policy/","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"ChessKid","documents":{"Terms of Service":{"fetch":"https://www.chesskid.com/legal","select":"html > body > div:first-of-type > div > div > main > section > div:first-of-type"}}}

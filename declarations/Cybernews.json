@@ -1,0 +1,1 @@
+{"name":"cybernews","documents":{"Privacy Policy":{"fetch":"https://cybernews.com/privacy-policy/","select":"body"}}}

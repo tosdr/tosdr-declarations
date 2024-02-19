@@ -1,0 +1,1 @@
+{"name":"The Bored Button","documents":{"Terms of Service":{"fetch":"https://www.boredbutton.com/terms","select":"body"},"Privacy Policy":{"fetch":"https://www.boredbutton.com/privacy","select":"body"}}}

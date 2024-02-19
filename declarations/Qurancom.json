@@ -1,0 +1,1 @@
+{"name":"Quran.com","documents":{"Privacy Policy":{"fetch":"https://quran.com/privacy","select":"html > body > main > div"}}}

@@ -1,0 +1,1 @@
+{"name":"USPhoneBook","documents":{"Terms of Service":{"fetch":"https://www.usphonebook.com/terms","select":"body"}}}

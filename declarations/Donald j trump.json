@@ -1,0 +1,1 @@
+{"name":"Donald J Trump.","documents":{"Privacy Policy":{"fetch":"https://www.donaldjtrump.com/privacy-policy/","select":"html > body > div:first-of-type > main > div"},"Terms of Service":{"fetch":"https://www.donaldjtrump.com/terms-of-service/","select":"html > body > div:first-of-type > main > div"}}}

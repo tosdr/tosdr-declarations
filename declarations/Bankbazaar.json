@@ -1,0 +1,1 @@
+{"name":"BankBazaar","documents":{"Terms of Service":{"fetch":"https://www.bankbazaar.com/conditionsofuse.html","select":"body"},"Privacy Policy":{"fetch":"https://www.bankbazaar.com/privacy-policy.html","select":"body"}}}

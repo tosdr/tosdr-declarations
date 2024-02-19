@@ -1,0 +1,1 @@
+{"name":"OwnBackup","documents":{"Privacy Policy":{"fetch":"https://www.ownbackup.com/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.ownbackup.com/terms-of-service/","select":"body"}}}

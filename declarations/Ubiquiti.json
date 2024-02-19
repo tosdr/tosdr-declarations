@@ -1,0 +1,1 @@
+{"name":"Ubiquiti","documents":{"Terms of Service":{"fetch":"https://www.ui.com/legal/termsofservice/","select":"body"}}}

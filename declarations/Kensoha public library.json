@@ -1,0 +1,1 @@
+{"name":"Kensoha Public Library","documents":{"Privacy Policy":{"fetch":"https://www.mykpl.info/privacy","select":"html > body > div:nth-of-type(2) > main > div:nth-of-type(3) > article > div > div:first-of-type > div:nth-of-type(2) > div"}}}

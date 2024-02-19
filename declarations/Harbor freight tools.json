@@ -1,0 +1,1 @@
+{"name":"Harbor Freight Tools   ","documents":{"Privacy Policy":{"fetch":"https://www.harborfreight.com/security-and-privacy.html","select":"html > body > div:nth-of-type(2) > div:nth-of-type(3)"}}}

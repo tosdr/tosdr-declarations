@@ -1,0 +1,1 @@
+{"name":"samirzarrouk.com","documents":{"Privacy Policy":{"fetch":"https://samirzarrouk.com/privacy-policy","select":"html > body > div:first-of-type > main > article > section > div:nth-of-type(2)"},"Terms of Service":{"fetch":"https://samirzarrouk.com/terms-of-service","select":"body"}}}

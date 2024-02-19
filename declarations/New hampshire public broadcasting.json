@@ -1,0 +1,1 @@
+{"name":"New Hampshire Public Broadcasting ","documents":{"Privacy Policy":{"fetch":"https://nhpbs.org/about/privacy-policy.asp","select":"html > body > div:nth-of-type(2) > div > div:nth-of-type(2)"}}}

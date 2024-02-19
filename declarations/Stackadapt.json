@@ -1,0 +1,1 @@
+{"name":"StackAdapt  ","documents":{"Privacy Policy":{"fetch":"https://www.stackadapt.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.stackadapt.com/terms-of-use","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"Telegraph Media Group ","documents":{"Trackers Policy":{"fetch":"https://www.telegraph.co.uk/about-us/privacy-and-cookie-policy/","select":"html > body > main > article"}}}

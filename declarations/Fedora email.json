@@ -1,0 +1,1 @@
+{"name":"Fedora Email","documents":{"Terms of Service":{"fetch":"https://fedora.email/tos","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"OMDb ","documents":{"Terms of Service":{"fetch":"https://www.omdbapi.com/legal.htm","select":"body"}}}

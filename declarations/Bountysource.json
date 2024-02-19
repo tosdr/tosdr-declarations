@@ -1,0 +1,1 @@
+{"name":"Bountysource ","documents":{"Terms of Service":{"fetch":"https://www.bountysource.com/terms","select":"body"},"Privacy Policy":{"fetch":"https://bountysource.com/privacy-policy/","select":"body"}}}

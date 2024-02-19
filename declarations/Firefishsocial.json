@@ -1,0 +1,1 @@
+{"name":"Firefish.social","documents":{"Privacy Policy":{"fetch":"https://firefish.social/@admin/pages/tos","select":"html > body > div:nth-of-type(2) > div:first-of-type > div:nth-of-type(2) > div > main > div > div:nth-of-type(2) > div"}}}

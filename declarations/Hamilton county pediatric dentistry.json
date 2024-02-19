@@ -1,0 +1,1 @@
+{"name":"Hamilton County Pediatric Dentistry","documents":{"Privacy Policy":{"fetch":"https://www.hcpdent.com/privacy-policy/","select":"html > body > div:first-of-type > div:nth-of-type(2) > div > div > div > div > div > div > div:nth-of-type(2) > div"}}}

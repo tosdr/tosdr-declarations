@@ -1,0 +1,1 @@
+{"name":"Pacer","documents":{"Privacy Policy":{"fetch":"https://www.mypacer.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.mypacer.com/termsofservice","select":"body"}}}

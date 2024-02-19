@@ -1,0 +1,1 @@
+{"name":" Room Booking System","documents":{"Privacy Policy":{"fetch":"https://www.roombookingsystem.co.uk/product-privacy-notice.asp","select":"body"},"Terms of Service":{"fetch":"https://www.roombookingsystem.co.uk/website-terms-and-conditions.asp","select":"body"}}}

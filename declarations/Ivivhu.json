@@ -1,0 +1,1 @@
+{"name":"iviv.hu","documents":{"Privacy Policy":{"fetch":"https://iviv.hu/terms","select":"html > body > div:first-of-type > div > div:nth-of-type(2)"}}}

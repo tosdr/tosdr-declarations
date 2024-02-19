@@ -1,0 +1,1 @@
+{"name":"UT Health San Antonio","documents":{"Privacy Policy":{"fetch":"https://uthscsa.edu/university/web-privacy","select":"html > body > div:first-of-type > div:nth-of-type(5)"}}}

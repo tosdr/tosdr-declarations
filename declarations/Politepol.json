@@ -1,0 +1,1 @@
+{"name":"PolitePol","documents":{"Privacy Policy":{"fetch":"https://politepol.com/en/privacy","select":"html > body > div:first-of-type > div:nth-of-type(2) > div:first-of-type > div > div"}}}

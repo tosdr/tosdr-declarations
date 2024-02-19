@@ -1,0 +1,1 @@
+{"name":"5PLAY ","documents":{"Privacy Policy":{"fetch":"https://5play.org/en/privacy-policy.html","select":"html > body > div:nth-of-type(2) > section"}}}

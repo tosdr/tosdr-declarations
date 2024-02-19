@@ -1,0 +1,1 @@
+{"name":"Omoguru","documents":{"Privacy Policy":{"fetch":"https://www.omoguru.com/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.omoguru.com/terms-of-use/","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"Harper's Magazine Foundation ","documents":{"Privacy Policy":{"fetch":"https://harpers.org/privacy-policy/","select":"html > body > div:first-of-type > div > div:first-of-type"}}}

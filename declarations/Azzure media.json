@@ -1,0 +1,1 @@
+{"name":"Azzure Media","documents":{"Privacy Policy":{"fetch":"https://azzuremedia.net/privacy.html","select":"html > body > div:first-of-type > main > section"},"Terms of Service":{"fetch":"https://azzuremedia.net/terms.html","select":"html > body > div:first-of-type > main > section"}}}

@@ -1,0 +1,1 @@
+{"name":"Princess Dental Staffing ","documents":{"Terms of Service":{"fetch":"https://www.princessdentalstaffing.com/terms","select":"body"},"Privacy Policy":{"fetch":"https://www.princessdentalstaffing.com/privacy","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"ToS;DR","documents":{"Privacy Policy":{"fetch":"https://tosdr.community/privacy","select":" > div > div > div"},"Terms of Service":{"fetch":"https://tosdr.community/tos","select":" > div > div > div"}}}

@@ -1,0 +1,1 @@
+{"name":"Ty Pierce","documents":{"Privacy Policy":{"fetch":"https://www.typierce.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.typierce.com/tos/","select":"body"}}}

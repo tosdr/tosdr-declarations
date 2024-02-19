@@ -1,0 +1,1 @@
+{"name":"Diep.io","documents":{"Terms of Service":{"fetch":"https://diep.io/tos.txt","select":"body"},"Privacy Policy":{"fetch":"https://diep.io/pp.txt","select":"body"}}}

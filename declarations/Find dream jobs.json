@@ -1,0 +1,1 @@
+{"name":"Find Dream Jobs","documents":{"Terms of Service":{"fetch":"https://contact.finddreamjobs.com/policies/terms","select":"body"},"Privacy Policy":{"fetch":"https://contact.finddreamjobs.com/policies/privacy","select":"body"}}}

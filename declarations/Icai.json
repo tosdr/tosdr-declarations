@@ -1,0 +1,1 @@
+{"name":"ICAI","documents":{"Privacy Policy":{"fetch":"https://icai.org/new_post.html?post_id=16567","select":"html > body > div:nth-of-type(5) > div > div > div"}}}

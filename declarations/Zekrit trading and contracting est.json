@@ -1,0 +1,1 @@
+{"name":"Zekrit Trading And Contracting Est.","documents":{"Privacy Policy":{"fetch":"https://www.zekrit.net/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.zekrit.net/terms-of-use","select":"body"}}}

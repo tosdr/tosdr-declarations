@@ -1,0 +1,1 @@
+{"name":"GPTZero","documents":{"Terms of Service":{"fetch":"https://gptzero.me/terms-of-use.html","select":"html > body > div"},"Trackers Policy":{"fetch":"https://gptzero.me/cookie-policy.html","select":"body"},"Privacy Policy":{"fetch":"https://gptzero.me/privacy-policy.html","select":"body"}}}

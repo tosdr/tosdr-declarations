@@ -1,0 +1,1 @@
+{"name":"ketto","documents":{"Privacy Policy":{"fetch":"https://www.ketto.org/privacy-policy.php","select":"body"},"Trackers Policy":{"fetch":"https://www.ketto.org/support/use-of-cookies.php"}}}

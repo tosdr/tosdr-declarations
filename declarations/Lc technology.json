@@ -1,0 +1,1 @@
+{"name":"LC Technology","documents":{"Terms of Service":{"fetch":"https://lc-tech.com/user-agreement/","select":"html > body > div:first-of-type > div > div"},"Privacy Policy":{"fetch":"https://lc-tech.com/privacypolicy/","select":"html > body > div:first-of-type > div > div"}}}

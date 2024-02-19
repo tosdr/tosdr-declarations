@@ -1,0 +1,1 @@
+{"name":"Los Angeles County","documents":{"Privacy Policy":{"fetch":"https://lacounty.gov/privacy-policy/","select":"html > body > div:first-of-type > div:nth-of-type(3) > div > div > div"}}}

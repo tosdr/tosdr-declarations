@@ -1,0 +1,1 @@
+{"name":"TermsFeed","documents":{"Terms of Service":{"fetch":"https://www.termsfeed.com/legal/terms-of-use/","select":" > div > main > div > article"},"Privacy Policy":{"fetch":"https://www.termsfeed.com/legal/privacy-policy/","select":" > div > main > div > article"}}}

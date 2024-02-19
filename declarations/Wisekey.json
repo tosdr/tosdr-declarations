@@ -1,0 +1,1 @@
+{"name":"WISeKey ","documents":{"Privacy Policy":{"fetch":"https://www.wisekey.com/company/legal-information/privacy-notice/","select":"html > body > main > div > div > div > section:nth-of-type(2) > div > div > div"}}}

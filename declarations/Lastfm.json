@@ -1,1 +1,1 @@
-{"name":"last.fm","documents":{"Privacy Policy":{"fetch":"https://privacy.cbs/","select":"html > body"},"Terms of Service":{"fetch":"https://www.last.fm/legal/terms"}}}
+{"name":"last.fm","documents":{"Privacy Policy":{"fetch":"https://privacy.cbs/","select":"html > body"},"Terms of Service":{"fetch":"https://www.last.fm/legal/terms"},"Trackers Policy":{"fetch":"https://privacy.cbs/cookies","select":"html > body"}}}

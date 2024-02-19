@@ -1,0 +1,1 @@
+{"name":"SoBe","documents":{"Terms of Service":{"fetch":"https://www.sobe.com/terms-conditions/"},"Privacy Policy":{"fetch":"https://policy.sobe.com/privacy.htm","select":"body"}}}

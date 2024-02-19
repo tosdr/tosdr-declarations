@@ -1,0 +1,1 @@
+{"name":"Institute for Creation Research","documents":{"Privacy Policy":{"fetch":"https://www.icr.org/home/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.icr.org/home/copyright","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"La Presse","documents":{"Terms of Service":{"fetch":"https://info.lapresse.ca/conditions-d-utilisation","select":"body"}}}

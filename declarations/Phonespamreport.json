@@ -1,0 +1,1 @@
+{"name":"PhoneSpam.report","documents":{"Privacy Policy":{"fetch":"https://phonespam.report/privacy-policy","select":"body"}}}

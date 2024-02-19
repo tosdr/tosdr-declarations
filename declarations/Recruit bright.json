@@ -1,0 +1,1 @@
+{"name":"Recruit Bright","documents":{"Terms of Service":{"fetch":"https://www.recruitbright.in/terms-and-conditions/","select":"body"},"Privacy Policy":{"fetch":"https://www.recruitbright.in/privacy-policy/","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"ShortPixel","documents":{"Privacy Policy":{"fetch":"https://shortpixel.com/privacy","select":"body"},"Trackers Policy":{"fetch":"https://shortpixel.com/cookie-policy","select":"body"},"Terms of Service":{"fetch":"https://shortpixel.com/tos","select":"body"}}}

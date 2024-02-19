@@ -1,0 +1,1 @@
+{"name":"Stats for spotify","documents":{"Privacy Policy":{"fetch":"https://www.statsforspotify.com/privacy-notice","select":"body"}}}

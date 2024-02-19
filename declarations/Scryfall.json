@@ -1,0 +1,1 @@
+{"name":"Scryfall","documents":{"Terms of Service":{"fetch":"https://scryfall.com/docs/terms","select":"body"}}}

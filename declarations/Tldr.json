@@ -1,0 +1,1 @@
+{"name":"TLDR","documents":{"Privacy Policy":{"fetch":"https://tldrthis.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://tldrthis.com/terms","select":"body"}}}

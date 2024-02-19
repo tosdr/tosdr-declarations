@@ -1,0 +1,1 @@
+{"name":"Total Education Solutions","documents":{"Privacy Policy":{"fetch":"https://www.tes.com/terms-conditions/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.tes.com/terms-conditions/terms-and-conditions","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"The Gem Foundation ","documents":{"Privacy Policy":{"fetch":"https://thegemfoundation.com/Home/Privacy","select":"html > body > div:nth-of-type(2) > div"}}}

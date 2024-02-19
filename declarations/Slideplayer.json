@@ -1,0 +1,1 @@
+{"name":"SlidePlayer ","documents":{"Privacy Policy":{"fetch":"https://slideplayer.com/support/privacy/","select":"html > body > div:nth-of-type(2)"}}}

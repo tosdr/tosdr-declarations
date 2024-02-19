@@ -1,0 +1,1 @@
+{"name":"Paul Schroer - Photographer","documents":{"Privacy Policy":{"fetch":"https://www.paulschroer.nl/privacy.html","select":"html > body > div:first-of-type > section"}}}

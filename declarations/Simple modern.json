@@ -1,0 +1,1 @@
+{"name":"Simple Modern","documents":{"Privacy Policy":{"fetch":"https://www.simplemodern.com/pages/privacy-policy","select":"html > body > div:first-of-type > main"},"Terms of Service":{"fetch":"https://www.simplemodern.com/pages/terms-of-service","select":"body"}}}

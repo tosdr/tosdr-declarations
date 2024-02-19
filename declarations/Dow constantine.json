@@ -1,0 +1,1 @@
+{"name":"Dow Constantine","documents":{"Privacy Policy":{"fetch":"https://www.dowconstantine.com/privacy-policy/","select":"html > body > main > article > main"}}}

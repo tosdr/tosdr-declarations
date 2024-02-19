@@ -1,0 +1,1 @@
+{"name":"nSure.ai","documents":{"Privacy Policy":{"fetch":"https://www.nsure.ai/privacy-policy","select":"html > body > div:nth-of-type(5)"}}}

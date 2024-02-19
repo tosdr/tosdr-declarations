@@ -1,0 +1,1 @@
+{"name":"TextAiFy ","documents":{"Privacy Policy":{"fetch":"https://raw.githubusercontent.com/TextAiFy/website/main/privacy_policy.txt","select":"body"}}}

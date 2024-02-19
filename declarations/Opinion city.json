@@ -1,0 +1,1 @@
+{"name":"Opinion City","documents":{"Terms of Service":{"fetch":"https://www.opinioncity.com/terms.html","select":"body"}}}

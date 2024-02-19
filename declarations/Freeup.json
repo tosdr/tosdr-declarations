@@ -1,0 +1,1 @@
+{"name":"FreeUp","documents":{"Privacy Policy":{"fetch":"https://freeup.net/privacy-policy/","select":"body"},"Copyright Claims Policy":{"fetch":"https://freeup.net/dmca/","select":"body"}}}

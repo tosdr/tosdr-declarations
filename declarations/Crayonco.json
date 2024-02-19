@@ -1,0 +1,1 @@
+{"name":"Crayon.co","documents":{"Trackers Policy":{"fetch":"https://www.crayon.co/cookie-policy","select":"body"},"Privacy Policy":{"fetch":"https://www.crayon.co/privacy","select":"body"}}}

@@ -1,0 +1,1 @@
+{"name":"SpamHound ","documents":{"Privacy Policy":{"fetch":"https://spamhoundapp.com/privacy-policy.html","select":"body"}}}

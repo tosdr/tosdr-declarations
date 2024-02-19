@@ -1,0 +1,1 @@
+{"name":"Up2SMS","documents":{"Privacy Policy":{"fetch":"https://up2sms.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://up2sms.com/terms-and-conditions/","select":"body"}}}

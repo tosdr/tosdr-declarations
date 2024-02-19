@@ -1,0 +1,1 @@
+{"name":"Amara","documents":{"Privacy Policy":{"fetch":"https://pculture.org/privacy","select":"body"},"Terms of Service":{"fetch":"https://pculture.org/terms-of-service","select":"body"}}}

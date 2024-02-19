@@ -1,0 +1,1 @@
+{"name":"SETXsports","documents":{"Privacy Policy":{"fetch":"https://www.setxsports.com/ip/privacy/","select":"body"},"Terms of Service":{"fetch":"https://www.setxsports.com/ip/terms/","select":"body"}}}

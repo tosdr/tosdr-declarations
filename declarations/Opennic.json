@@ -1,0 +1,1 @@
+{"name":"opennic","documents":{"Privacy Policy":{"fetch":"https://www.opennic.org/privacy/","select":"html > body > main"}}}

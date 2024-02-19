@@ -1,0 +1,1 @@
+{"name":"Pathao","documents":{"Privacy Policy":{"fetch":"https://pathao.com/privacy/","select":"body"},"Terms of Service":{"fetch":"https://pathao.com/terms/","select":"body"}}}

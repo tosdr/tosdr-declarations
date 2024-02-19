@@ -1,0 +1,1 @@
+{"name":"Ad Doge ","documents":{"Trackers Policy":{"fetch":"https://ad-doge.com/cookie-policy","select":"body"},"Terms of Service":{"fetch":"https://ad-doge.com/sites/tos.aspx","select":"body"},"Privacy Policy":{"fetch":"https://ad-doge.com/sites/privacy.aspx","select":"body"}}}

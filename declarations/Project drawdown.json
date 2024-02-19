@@ -1,0 +1,1 @@
+{"name":"Project Drawdown","documents":{"Privacy Policy":{"fetch":"https://drawdown.org/privacy-policy","select":"html > body > main > article"}}}

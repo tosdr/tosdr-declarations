@@ -1,0 +1,1 @@
+{"name":"super-samples","documents":{"Privacy Policy":{"fetch":"https://join.super-samples.com/privacy.php","select":"body"},"Terms of Service":{"fetch":"https://join.super-samples.com/terms.phpv","select":"body"}}}

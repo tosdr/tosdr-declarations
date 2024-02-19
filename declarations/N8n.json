@@ -1,0 +1,1 @@
+{"name":"n8n","documents":{"Privacy Policy":{"fetch":"https://n8n.io/legal/","select":"html > body > div:first-of-type > div > div > main > main > div > section > div > div > div:nth-of-type(2) > div:nth-of-type(3) > div"},"Terms of Service":{"fetch":"https://n8n.io/legal/terms","select":" > div > div > div > main > div > div:nth-of-type(2) > section"}}}

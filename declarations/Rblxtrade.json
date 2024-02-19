@@ -1,0 +1,1 @@
+{"name":"RblxTrade","documents":{"Terms of Service":{"fetch":"https://rblx.trade/about/terms","select":"body"},"Privacy Policy":{"fetch":"https://rblx.trade/about/privacy","select":"body"}}}

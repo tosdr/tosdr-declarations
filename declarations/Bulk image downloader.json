@@ -1,0 +1,1 @@
+{"name":"Bulk Image Downloader ","documents":{"Privacy Policy":{"fetch":"https://bulkimagedownloader.com/privacy-policy","select":"html > body > section:nth-of-type(3) > div"}}}

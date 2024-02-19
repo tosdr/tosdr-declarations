@@ -1,0 +1,1 @@
+{"name":"PacoGames ","documents":{"Privacy Policy":{"fetch":"https://www.pacogames.com/privacy-policy","select":"html > body > main > div"},"Terms of Service":{"fetch":"https://www.pacogames.com/terms-and-conditions","select":"html > body > main > div"}}}

@@ -1,0 +1,1 @@
+{"name":"Tether","documents":{"Terms of Service":{"fetch":"https://tether.to/legal/","select":"body"}}}

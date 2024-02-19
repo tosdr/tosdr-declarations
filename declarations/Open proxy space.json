@@ -1,0 +1,1 @@
+{"name":"Open Proxy Space","documents":{"Privacy Policy":{"fetch":"https://openproxy.space/privacy-policy","select":"html > body > div:first-of-type > div > div > div > div:first-of-type"}}}

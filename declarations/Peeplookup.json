@@ -1,0 +1,1 @@
+{"name":"PeepLookup","documents":{"Privacy Policy":{"fetch":"https://www.peeplookup.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.peeplookup.com/terms-and-conditions","select":"body"}}}

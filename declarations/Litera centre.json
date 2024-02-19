@@ -1,0 +1,1 @@
+{"name":"Litera Centre ","documents":{"Terms of Service":{"fetch":"https://www.literacentre.com/referral-terms-of-use/","select":"html > body > div:first-of-type > section"},"Privacy Policy":{"fetch":"https://www.literacentre.com/privacy-policy/","select":"html > body > main > div > div:first-of-type > section"}}}

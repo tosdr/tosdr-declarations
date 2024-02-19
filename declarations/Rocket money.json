@@ -1,0 +1,1 @@
+{"name":"Rocket Money","documents":{"Privacy Policy":{"fetch":"https://rocketaccount.com/#/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.rocketmoney.com/terms","select":"body"}}}

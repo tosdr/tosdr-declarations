@@ -1,0 +1,1 @@
+{"name":"Autism Products","documents":{"Privacy Policy":{"fetch":"https://www.autism-products.com/privacy-policy/"},"Terms of Service":{"fetch":"https://www.autism-products.com/terms-conditions/","select":"body"}}}
