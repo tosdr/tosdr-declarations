@@ -1,1 +1,1 @@
-{"name":"Olio","documents":{"Privacy Policy":{"fetch":"https://olioapp.com/en/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://olioapp.com/en/terms-and-conditions/","select":"body"},"Trackers Policy":{"fetch":"https://olioapp.com/en/cookie-policy/","select":"body"}}}
+{"name":"Olio","documents":{"Privacy Policy":{"fetch":"https://olioapp.com/en/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://olioapp.com/en/license-agreement/","select":"body"},"Trackers Policy":{"fetch":"https://olioapp.com/en/cookie-policy/","select":"body"}}}

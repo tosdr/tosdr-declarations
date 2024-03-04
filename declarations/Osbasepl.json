@@ -1,1 +1,1 @@
-{"name":"osBase.pl","documents":{}}
+{"name":"osBase.pl","documents":{"Legal Information":{"fetch":"https://osbase.pl/terms","select":"html > body > div:first-of-type"},"Privacy Policy":{"fetch":"https://osbase.pl/privacy-policy","select":"html > body > div:first-of-type"}}}

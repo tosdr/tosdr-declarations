@@ -1,1 +1,1 @@
-{"name":"AudiobookSTORE.com","documents":{"Privacy Policy":{"fetch":"https://audiobookstore.com/privacy-policy.aspx"}}}
+{"name":"AudiobookSTORE.com","documents":{"Privacy Policy":{"fetch":"https://audiobookstore.com/privacy-policy.aspx"},"General Conditions of Sale":{"fetch":"https://audiobookstore.com/return-policy.aspx","select":" > section > div"}}}

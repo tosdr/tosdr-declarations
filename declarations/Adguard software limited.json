@@ -1,1 +1,1 @@
-{"name":"AdGuard Software Limited","documents":{"Privacy Policy":{"fetch":"https://adguard-dns.io/en/privacy.html","select":" > div:first-of-type > div:nth-of-type(2) > div > div > div"}}}
+{"name":"AdGuard Software Limited","documents":{"Privacy Policy":{"fetch":"https://adguard-dns.io/en/privacy.html","select":" > div:first-of-type > div:nth-of-type(2) > div > div > div"},"Terms of Service":{"fetch":"https://adguard.com/en/eula.html","select":"html > body > div > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(2) > div"}}}

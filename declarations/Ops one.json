@@ -1,1 +1,1 @@
-{"name":"Ops One","documents":{}}
+{"name":"Ops One","documents":{"Terms of Service":{"fetch":"https://docs.opsone.ch/legal/agb.html#","select":"html > body > div:first-of-type > section > div"},"Privacy Policy":{"fetch":"https://docs.opsone.ch/legal/dse.html#","select":"html > body > div:first-of-type > section > div"}}}

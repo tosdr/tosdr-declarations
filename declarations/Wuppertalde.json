@@ -1,1 +1,1 @@
-{"name":"wuppertal.de","documents":{}}
+{"name":"wuppertal.de","documents":{"Privacy Policy":{"fetch":"https://www.wuppertal.de/service/datenschutz_dsgvo.php","select":"body"}}}

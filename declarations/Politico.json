@@ -1,1 +1,1 @@
-{"name":"Politico","documents":{"Privacy Policy":{"fetch":"https://www.politico.com/privacy-policy","select":"html > body > div:nth-of-type(2) > main > div:nth-of-type(2) > div > div > section:first-of-type > div:nth-of-type(2) > div > div"}}}
+{"name":"Politico","documents":{"Privacy Policy":{"fetch":"https://www.politico.com/do-not-sell","select":"html > body > div:nth-of-type(2) > main > div:nth-of-type(2) > div > div > section:first-of-type > div:nth-of-type(2) > div"}}}

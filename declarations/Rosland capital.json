@@ -1,1 +1,1 @@
-{"name":"Rosland Capital","documents":{"Privacy Policy":{"fetch":"https://www.roslandcapital.com/privacy-policy","select":"html > body > main > div"},"Terms of Service":{"fetch":"https://www.roslandcapital.com/terms-of-service","select":"html > body > main > div"}}}
+{"name":"Rosland Capital","documents":{"Privacy Policy":{"fetch":"https://www.roslandcapital.com/privacy-policy","select":"html > body > main > div"},"Terms of Service":{"fetch":"https://www.roslandcapital.com/customer-agreement","select":"html > body > main > div"}}}

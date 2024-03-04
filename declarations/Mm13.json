@@ -1,1 +1,1 @@
-{"name":"MM13","documents":{}}
+{"name":"MM13","documents":{"Privacy Policy":{"fetch":"https://mm13.at/datenschutz.php","select":"body"}}}

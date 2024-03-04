@@ -1,1 +1,1 @@
-{"name":"IPv64","documents":{}}
+{"name":"IPv64","documents":{"Privacy Policy":{"fetch":"https://ipv64.net/datenschutz.php","select":"html > body > div:first-of-type > div > div"}}}

@@ -1,1 +1,1 @@
-{"name":"is.gd","documents":{"Terms of Service":{"fetch":"https://is.gd/terms.php","select":"body"},"Privacy Policy":{"fetch":"https://is.gd/privacy.php","select":"body"}}}
+{"name":"is.gd","documents":{"Terms of Service":{"fetch":"https://is.gd/terms.php","select":"body"},"Privacy Policy":{"fetch":"https://is.gd/privacy.php","select":"body"},"Community Guidelines":{"fetch":"https://is.gd/spam.php","select":"body"}}}

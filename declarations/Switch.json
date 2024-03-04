@@ -1,1 +1,1 @@
-{"name":"SWITCH","documents":{}}
+{"name":"SWITCH","documents":{"Privacy Policy":{"fetch":"https://www.switch.ch/fr/about/legal-notice/data-protection/","select":"body"}}}

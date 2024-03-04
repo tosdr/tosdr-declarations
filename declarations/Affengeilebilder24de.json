@@ -1,1 +1,1 @@
-{"name":"affengeilebilder24.de ","documents":{}}
+{"name":"affengeilebilder24.de ","documents":{"Privacy Policy":{"fetch":"https://affengeilebilder24.de/pages/datenschutzerklarung","select":"html > body > div:nth-of-type(5) > div:first-of-type > section"},"Terms of Service":{"fetch":"https://affengeilebilder24.de/pages/allgemeine-geschaftsbedingungen","select":"body"}}}

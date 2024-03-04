@@ -1,1 +1,1 @@
-{"name":"TheDatingNetwork","documents":{"Terms of Service":{"fetch":"https://thedatingnetwork.com/terms-and-conditions.html","select":"body"}}}
+{"name":"TheDatingNetwork","documents":{"Terms of Service":{"fetch":"https://thedatingnetwork.com/terms-and-conditions.html","select":"body"},"Community Guidelines":{"fetch":"https://thedatingnetwork.com/anti-spam-policy.html","select":"body"}}}

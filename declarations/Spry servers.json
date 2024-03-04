@@ -1,1 +1,1 @@
-{"name":"Spry Servers","documents":{"Privacy Policy":{"fetch":"https://www.spryservers.net/legal/privacy","select":"body"}}}
+{"name":"Spry Servers","documents":{"Terms of Service":{"fetch":"https://www.spryservers.net/legal/domain-registration-agreement","select":"body"},"Privacy Policy":{"fetch":"https://www.spryservers.net/legal/privacy","select":"body"}}}

@@ -1,1 +1,1 @@
-{"name":"Decisions in Dentistry","documents":{"Privacy Policy":{"fetch":"https://decisionsindentistry.com/privacy-policy/"}}}
+{"name":"Decisions in Dentistry","documents":{"Privacy Policy":{"fetch":"https://decisionsindentistry.com/privacy-policy/"},"General Conditions of Sale":{"fetch":"https://decisionsindentistry.com/ce/refund-policy/","select":"html > body > div:nth-of-type(3) > main > div > div > div > div"}}}

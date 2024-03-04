@@ -1,1 +1,1 @@
-{"name":"TheGeeks","documents":{"Copyright Claims Policy":{"fetch":"https://thegeeks.click/dmca.php","select":"body"}}}
+{"name":"TheGeeks","documents":{"Frequently Asked Questions":{"fetch":"https://thegeeks.click/faq.php","select":"body"},"Copyright Claims Policy":{"fetch":"https://thegeeks.click/dmca.php","select":"body"}}}

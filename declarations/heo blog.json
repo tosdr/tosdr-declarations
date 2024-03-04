@@ -1,1 +1,1 @@
-{"name":"张洪Heo Blog","documents":{"Trackers Policy":{"fetch":"https://blog.zhheo.com/cookies/","select":"body"}}}
+{"name":"张洪Heo Blog","documents":{"Copyright Claims Policy":{"fetch":"https://blog.zhheo.com/cc/","select":"body"},"Trackers Policy":{"fetch":"https://blog.zhheo.com/cookies/","select":"body"},"Privacy Policy":{"fetch":"https://blog.zhheo.com/privacy/","select":"body"}}}

@@ -1,1 +1,1 @@
-{"name":"VRchat","documents":{"Terms of Service":{"fetch":"https://hello.vrchat.com/legal","select":"div#block-eafc07148ab34fef4821"}}}
+{"name":"VRchat","documents":{"Terms of Service":{"fetch":"https://hello.vrchat.com/legal","select":"div#block-eafc07148ab34fef4821"},"Community Guidelines":{"fetch":"https://hello.vrchat.com/video-content-guidelines","select":"body"}}}

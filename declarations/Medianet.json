@@ -1,1 +1,1 @@
-{"name":"Media.net","documents":{"Terms of Service":{"fetch":"https://www.media.net/legal/tos/","select":"body"},"Privacy Policy":{"fetch":"https://www.media.net/privacy-policy/","select":"body"}}}
+{"name":"Media.net","documents":{"Terms of Service":{"fetch":"https://www.media.net/legal/tos/","select":"body"},"Privacy Policy":{"fetch":"https://www.media.net/personal-info/","select":"body"}}}

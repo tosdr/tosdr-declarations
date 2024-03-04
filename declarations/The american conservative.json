@@ -1,1 +1,1 @@
-{"name":"The American Conservative","documents":{"Privacy Policy":{"fetch":"https://www.theamericanconservative.com/privacy-policy/","select":"html > body > section:nth-of-type(2) > div"}}}
+{"name":"The American Conservative","documents":{"Privacy Policy":{"fetch":"https://www.theamericanconservative.com/privacy-policy/","select":"html > body > section:nth-of-type(2) > div"},"Community Guidelines":{"fetch":"https://www.theamericanconservative.com/comments-policy/"}}}

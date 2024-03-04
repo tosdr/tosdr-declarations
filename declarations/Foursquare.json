@@ -1,1 +1,1 @@
-{"name":"Foursquare","documents":{"Terms of Service":{"fetch":"https://foursquare.com/legal/terms","select":"div#blankPage"},"Trackers Policy":{"fetch":"https://foursquare.com/legal/cookiepolicy/","select":"body"}}}
+{"name":"Foursquare","documents":{"Terms of Service":{"fetch":"https://foursquare.com/legal/terms","select":"div#blankPage"},"Trackers Policy":{"fetch":"https://foursquare.com/legal/cookiepolicy/","select":"body"},"Privacy Policy":{"fetch":"https://fr.foursquare.com/legal/ccpa-consumer","select":"body"}}}

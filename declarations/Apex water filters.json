@@ -1,1 +1,1 @@
-{"name":"APEX Water Filters ","documents":{}}
+{"name":"APEX Water Filters ","documents":{"General Conditions of Sale":{"fetch":"https://apexwaterfilters.com/returns","select":"html > body > div:first-of-type > div:first-of-type > div:nth-of-type(2)"}}}

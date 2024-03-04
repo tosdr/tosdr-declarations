@@ -1,1 +1,1 @@
-{"name":"BfDI","documents":{}}
+{"name":"BfDI","documents":{"Privacy Policy":{"fetch":"https://www.bfdi.bund.de/DE/Meta/Datenschutz/datenschutz_node.html","select":"body"}}}

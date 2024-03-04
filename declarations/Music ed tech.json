@@ -1,1 +1,1 @@
-{"name":"Music Ed Tech","documents":{}}
+{"name":"Music Ed Tech","documents":{"General Conditions of Sale":{"fetch":"http://musicedtech.com/about-online-courses/cancellation-policy/","select":"html > body > div:first-of-type > div > div:first-of-type > div > article > div > div"}}}

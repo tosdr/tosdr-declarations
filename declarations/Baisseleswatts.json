@@ -1,1 +1,1 @@
-{"name":"BaisseLesWatts","documents":{"Trackers Policy":{"fetch":"https://www.baisseleswatts.fr/gestion-des-cookies","select":"body"}}}
+{"name":"BaisseLesWatts","documents":{"Privacy Policy":{"fetch":"https://www.baisseleswatts.fr/politique-de-confidentialite","select":"body"},"Trackers Policy":{"fetch":"https://www.baisseleswatts.fr/gestion-des-cookies","select":"body"}}}

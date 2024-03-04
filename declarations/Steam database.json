@@ -1,1 +1,1 @@
-{"name":"Steam Database","documents":{}}
+{"name":"Steam Database","documents":{"Frequently Asked Questions":{"fetch":"https://steamdb.info/faq/","select":"html > body > div:first-of-type > div:first-of-type > div:nth-of-type(3)"}}}

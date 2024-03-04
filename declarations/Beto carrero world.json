@@ -1,1 +1,1 @@
-{"name":"Beto Carrero World","documents":{}}
+{"name":"Beto Carrero World","documents":{"Privacy Policy":{"fetch":"https://www.betocarrero.com.br/politica-de-privacidade","select":"html > body > main > div"}}}

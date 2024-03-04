@@ -1,1 +1,1 @@
-{"name":"Metager","documents":{"Privacy Policy":{"fetch":"https://metager.org/datenschutz","select":"html > body > div:first-of-type"}}}
+{"name":"Metager","documents":{"Corporate Social Responsibility":{"fetch":"https://metager.org/transparency","select":"html > body > div:first-of-type"},"Privacy Policy":{"fetch":"https://metager.org/datenschutz","select":"html > body > div:first-of-type"}}}

@@ -1,1 +1,1 @@
-{"name":"worldcleanupday","documents":{}}
+{"name":"worldcleanupday","documents":{"Legal Information":{"fetch":"https://www.worldcleanupday.fr/mentions-legales/","select":"body"}}}

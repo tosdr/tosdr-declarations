@@ -1,1 +1,1 @@
-{"name":"Universidade de Aveiro","documents":{}}
+{"name":"Universidade de Aveiro","documents":{"Terms of Service":{"fetch":"https://www.ua.pt/pt/termos-de-utilizacao","select":"html > body > div:first-of-type > div > div > section:nth-of-type(2)"}}}

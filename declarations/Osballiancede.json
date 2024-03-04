@@ -1,1 +1,1 @@
-{"name":"osb-alliance.de ","documents":{}}
+{"name":"osb-alliance.de ","documents":{"Privacy Policy":{"fetch":"https://osb-alliance.de/datenschutz","select":"html > body > div:first-of-type > div > div:nth-of-type(2)"}}}

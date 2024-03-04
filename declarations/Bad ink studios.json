@@ -1,1 +1,1 @@
-{"name":"Bad Ink Studios","documents":{"Privacy Policy":{"fetch":"https://badinkstudios.com/privacy-policy","select":"body"}}}
+{"name":"Bad Ink Studios","documents":{"Privacy Policy":{"fetch":"https://badinkstudios.com/privacy-policy","select":"body"},"General Conditions of Sale":{"fetch":"https://badinkstudios.com/shipping-returns","select":"body"}}}

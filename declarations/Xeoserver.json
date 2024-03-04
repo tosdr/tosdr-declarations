@@ -1,1 +1,1 @@
-{"name":"Xeoserver","documents":{}}
+{"name":"Xeoserver","documents":{"Privacy Policy":{"fetch":"https://xeoserver.jp/security.html","select":"html > body > div:first-of-type > section > div"}}}

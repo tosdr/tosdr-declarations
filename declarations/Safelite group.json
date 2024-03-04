@@ -1,1 +1,1 @@
-{"name":"Safelite Group ","documents":{"Terms of Service":{"fetch":"https://www.safelite.com/terms-of-use","select":"body"},"Privacy Policy":{"fetch":"https://www.safelite.com/safelite-group-privacy-policy","select":"body"}}}
+{"name":"Safelite Group ","documents":{"Terms of Service":{"fetch":"https://www.safelite.com/terms-of-use","select":"body"},"General Conditions of Sale":{"fetch":"https://www.safelite.com/cancellation-refund-policy","select":"body"},"Privacy Policy":{"fetch":"https://www.safelite.com/safelite-group-privacy-policy","select":"body"}}}

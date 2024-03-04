@@ -1,1 +1,1 @@
-{"name":"seecult","documents":{}}
+{"name":"seecult","documents":{"Other":{"fetch":"http://seecult.org/impresum","select":"body"}}}

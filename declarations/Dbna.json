@@ -1,1 +1,1 @@
-{"name":"DBNA","documents":{}}
+{"name":"DBNA","documents":{"Privacy Policy":{"fetch":"https://mag.dbna.com/intern/datenschutz/","select":"body"}}}

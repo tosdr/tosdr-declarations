@@ -1,1 +1,1 @@
-{"name":"Email.cz","documents":{}}
+{"name":"Email.cz","documents":{"Terms of Service":{"fetch":"https://napoveda.seznam.cz/cz/smluvni-podminky/podminky-email-cz/","select":"div.article"}}}

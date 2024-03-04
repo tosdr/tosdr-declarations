@@ -1,1 +1,1 @@
-{"name":"Encryptomatic LLC","documents":{"Terms of Service":{"fetch":"https://www.encryptomatic.com/eula/","select":"body"},"Privacy Policy":{"fetch":"https://www.encryptomatic.com/w3c/privacy.html","select":"body"}}}
+{"name":"Encryptomatic LLC","documents":{"General Conditions of Sale":{"fetch":"https://www.encryptomatic.com/guarantee.html","select":"body"},"Terms of Service":{"fetch":"https://www.encryptomatic.com/eula/","select":"body"},"Privacy Policy":{"fetch":"https://www.encryptomatic.com/w3c/privacy.html","select":"body"}}}

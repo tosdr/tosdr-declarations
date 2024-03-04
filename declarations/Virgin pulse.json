@@ -1,1 +1,1 @@
-{"name":"Virgin Pulse","documents":{"Privacy Policy":{"fetch":"https://www.virginpulse.com/privacy-notice/"}}}
+{"name":"Virgin Pulse","documents":{"Terms of Service":{"fetch":"https://www.virginpulse.com/legal/membership-agreement/","select":"body"},"Privacy Policy":{"fetch":"https://www.virginpulse.com/privacy-notice/"}}}

@@ -1,1 +1,1 @@
-{"name":"Ruqqus","documents":{"Legal Information":{"fetch":"https://ruqqus.com/help/legal","select":"#main-content-col"},"Terms of Service":{"fetch":"https://ruqqus.com/help/terms"},"Privacy Policy":{"fetch":"https://ruqqus.com/help/privacy"}}}
+{"name":"Ruqqus","documents":{"Community Guidelines":{"fetch":"https://ruqqus.com/help/rules"},"Legal Information":{"fetch":"https://ruqqus.com/help/legal","select":"#main-content-col"},"Terms of Service":{"fetch":"https://ruqqus.com/help/terms"},"Privacy Policy":{"fetch":"https://ruqqus.com/help/privacy"}}}

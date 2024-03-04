@@ -1,1 +1,1 @@
-{"name":"Kleinanzeigen.de GMBH","documents":{}}
+{"name":"Kleinanzeigen.de GMBH","documents":{"Terms of Service":{"fetch":"https://themen.ebay-kleinanzeigen.de/nutzungsbedingungen/","select":"body"}}}

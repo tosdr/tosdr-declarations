@@ -1,1 +1,1 @@
-{"name":"heycar","documents":{"Trackers Policy":{"fetch":"https://hey.car/cookie-dashboard","select":"body"}}}
+{"name":"heycar","documents":{"Trackers Policy":{"fetch":"https://hey.car/cookie-dashboard","select":"body"},"Privacy Policy":{"fetch":"https://hey.car/privacy","select":"body"}}}

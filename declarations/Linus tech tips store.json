@@ -1,1 +1,1 @@
-{"name":"Linus Tech Tips Store","documents":{"Privacy Policy":{"fetch":"https://www.lttstore.com/pages/privacy-policy","select":"body"}}}
+{"name":"Linus Tech Tips Store","documents":{"General Conditions of Sale":{"fetch":"https://www.lttstore.com/pages/shipping-policy","select":"body"},"Privacy Policy":{"fetch":"https://www.lttstore.com/pages/privacy-policy","select":"body"}}}

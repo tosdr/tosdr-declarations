@@ -1,1 +1,1 @@
-{"name":"WalmartPetRx ","documents":{"Terms of Service":{"fetch":"https://www.walmartpetrx.com/t-terms-and-conditions.aspx","select":"html > body > div:nth-of-type(4)"}}}
+{"name":"WalmartPetRx ","documents":{"General Conditions of Sale":{"fetch":"https://www.walmartpetrx.com/t-return-policy.aspx","select":"body"},"Terms of Service":{"fetch":"https://www.walmartpetrx.com/t-terms-and-conditions.aspx","select":"html > body > div:nth-of-type(4)"}}}

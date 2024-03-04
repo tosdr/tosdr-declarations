@@ -1,1 +1,1 @@
-{"name":"LimeVPN ","documents":{"Terms of Service":{"fetch":"http://limevpn.com/terms-of-use","select":"body"},"Copyright Claims Policy":{"fetch":"http://limevpn.com/dmca","select":"body"}}}
+{"name":"LimeVPN ","documents":{"Terms of Service":{"fetch":"http://limevpn.com/terms-of-use","select":"body"},"Privacy Policy":{"fetch":"http://limevpn.com/log-keeping-policy","select":"body"},"Copyright Claims Policy":{"fetch":"http://limevpn.com/dmca","select":"body"}}}

@@ -1,1 +1,1 @@
-{"name":"Thomas Hilfen für Körperbehinderte GmbH & Co","documents":{}}
+{"name":"Thomas Hilfen für Körperbehinderte GmbH & Co","documents":{"Privacy Policy":{"fetch":"https://www.thomashilfen.de/datenschutz","select":"html > body > div:nth-of-type(2) > main > div:nth-of-type(2)"}}}

@@ -1,1 +1,1 @@
-{"name":"Pracuj.pl","documents":{}}
+{"name":"Pracuj.pl","documents":{"Privacy Policy":{"fetch":"https://grupapracuj.pl/polityka-prywatnosci","select":"html > body > div:nth-of-type(2) > div > section"}}}

@@ -1,1 +1,1 @@
-{"name":"7Mind","documents":{}}
+{"name":"7Mind","documents":{"Privacy Policy":{"fetch":"https://www.7mind.de/datenschutz","select":"body"}}}

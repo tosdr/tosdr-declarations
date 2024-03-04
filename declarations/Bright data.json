@@ -1,1 +1,1 @@
-{"name":"Bright Data","documents":{"Privacy Policy":{"fetch":"https://brightdata.com/privacy","select":"body"}}}
+{"name":"Bright Data","documents":{"Privacy Policy":{"fetch":"https://brightdata.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://brightdata.com/license","select":"body"}}}

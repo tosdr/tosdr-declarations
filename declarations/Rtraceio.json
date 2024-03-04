@@ -1,1 +1,1 @@
-{"name":"rtrace.io","documents":{"Privacy Policy":{"fetch":"https://speedtest.rtrace.io/#"}}}
+{"name":"rtrace.io","documents":{"Privacy Policy":{"fetch":"https://speedtest.rtrace.io/#"},"Other":{"fetch":"https://blog.rtrace.io/impressum","select":"body"}}}

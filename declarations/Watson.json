@@ -1,1 +1,1 @@
-{"name":"Watson","documents":{}}
+{"name":"Watson","documents":{"Terms of Service":{"fetch":"https://www.watson.ch/fr/u/agb#datenschutzerkl%C3%A4rung","select":"body"}}}

@@ -1,1 +1,1 @@
-{"name":"yallo","documents":{}}
+{"name":"yallo","documents":{"Privacy Policy":{"fetch":"https://www.yallo.ch/fr/data-protection","select":"body"}}}

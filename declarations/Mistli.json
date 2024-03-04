@@ -1,1 +1,1 @@
-{"name":"Mistli","documents":{}}
+{"name":"Mistli","documents":{"Terms of Service":{"fetch":"https://mistli.net/static/terms-of-service.html","select":"body"}}}

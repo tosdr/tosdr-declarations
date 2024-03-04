@@ -1,1 +1,1 @@
-{"name":"Coin Stats","documents":{"Privacy Policy":{"fetch":"https://coinstats.app/privacy.html","select":"body"}}}
+{"name":"Coin Stats","documents":{"General Conditions of Sale":{"fetch":"https://coinstats.app/refund.html","select":"body"},"Privacy Policy":{"fetch":"https://coinstats.app/privacy.html","select":"body"}}}

@@ -1,1 +1,1 @@
-{"name":"translate.ru","documents":{}}
+{"name":"translate.ru","documents":{"Privacy Policy":{"fetch":"https://www.translate.ru/about/terms","select":"body"}}}

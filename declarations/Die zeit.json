@@ -1,1 +1,1 @@
-{"name":"Die Zeit","documents":{}}
+{"name":"Die Zeit","documents":{"Privacy Policy":{"fetch":"https://www.zeit.de/hilfe/datenschutz","select":"body"}}}
