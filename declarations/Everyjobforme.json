@@ -1,1 +1,9 @@
-{"name":"EveryJobForMe","documents":{"Privacy Policy":{"fetch":"https://www.everyjobforme.com/privacy_policy","select":"body"}}}
+{
+  "name": "Everyjobforme",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.everyjobforme.com/privacy_policy",
+      "select": "body"
+    }
+  }
+}

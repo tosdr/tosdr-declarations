@@ -1,1 +1,9 @@
-{"name":"TheGreydiamond","documents":{"Privacy Policy":{"fetch":"https://www.thegreydiamond.de/privacy.html","select":"body"}}}
+{
+  "name": "Thegreydiamond",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.thegreydiamond.de/privacy.html",
+      "select": "body"
+    }
+  }
+}

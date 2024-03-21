@@ -1,1 +1,8 @@
-{"name":"witches.live mastodon","documents":{"Terms of Service":{"fetch":"https://witches.live/terms"}}}
+{
+  "name": "Witcheslive mastodon",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://witches.live/terms"
+    }
+  }
+}

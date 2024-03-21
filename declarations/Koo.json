@@ -1,1 +1,25 @@
-{"name":"Koo","documents":{"Terms of Service":{"fetch":"https://info.kooapp.com/terms-of-service/","select":"body"},"Privacy Policy":{"fetch":"https://info.kooapp.com/privacy-policy/","select":"body"},"Community Guidelines":{"fetch":"https://info.kooapp.com/community-guidelines/","select":"body"}}}
+{
+  "name": "Koo",
+  "documents": {
+    "Safety Guidelines": {
+      "fetch": "https://info.kooapp.com/protocol-for-compromised-accounts/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://info.kooapp.com/terms-of-service/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://info.kooapp.com/privacy-policy/",
+      "select": "body"
+    },
+    "Community Guidelines": {
+      "fetch": "https://info.kooapp.com/community-guidelines/",
+      "select": "body"
+    },
+    "Other": {
+      "fetch": "https://info.kooapp.com/voluntary-self-verification/",
+      "select": "body"
+    }
+  }
+}

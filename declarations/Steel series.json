@@ -1,1 +1,9 @@
-{"name":"Steel Series ","documents":{"Terms of Service":{"fetch":"https://steelseries.com/policies/rewards-program","select":"body"}}}
+{
+  "name": "Steel series",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://steelseries.com/policies/rewards-program",
+      "select": "body"
+    }
+  }
+}

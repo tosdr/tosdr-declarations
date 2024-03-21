@@ -1,1 +1,9 @@
-{"name":"Share the Sub","documents":{"Terms of Service":{"fetch":"https://sharethesub.com/about/terms/","select":"body"}}}
+{
+  "name": "Share the sub",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://sharethesub.com/about/terms/",
+      "select": "body"
+    }
+  }
+}

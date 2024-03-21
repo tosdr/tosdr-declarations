@@ -1,1 +1,9 @@
-{"name":"Harvard University","documents":{"Privacy Policy":{"fetch":"https://www.harvard.edu/privacy-statement/","select":"body"}}}
+{
+  "name": "Harvard university",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.harvard.edu/privacy-statement/",
+      "select": "body"
+    }
+  }
+}

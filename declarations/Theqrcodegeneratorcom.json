@@ -1,1 +1,9 @@
-{"name":"the-qrcode-generator.com","documents":{"Privacy Policy":{"fetch":"https://www.the-qrcode-generator.com/privacy","select":"body"}}}
+{
+  "name": "Theqrcodegeneratorcom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.the-qrcode-generator.com/privacy",
+      "select": "body"
+    }
+  }
+}

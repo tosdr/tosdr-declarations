@@ -1,1 +1,9 @@
-{"name":"InfinityTrafficBoost.com","documents":{"Privacy Policy":{"fetch":"https://infinitytrafficboost.com/privacy.php","select":"body"}}}
+{
+  "name": "Infinitytrafficboostcom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://infinitytrafficboost.com/privacy.php",
+      "select": "body"
+    }
+  }
+}

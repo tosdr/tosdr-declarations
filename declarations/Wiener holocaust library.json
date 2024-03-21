@@ -1,1 +1,12 @@
-{"name":"Wiener Holocaust Library","documents":{"Trackers Policy":{"fetch":"https://wienerholocaustlibrary.org/legal/cookies/","select":"body"},"Terms of Service":{"fetch":"https://wienerholocaustlibrary.org/legal/terms-of-use/"}}}
+{
+  "name": "Wiener holocaust library",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://wienerholocaustlibrary.org/legal/cookies/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://wienerholocaustlibrary.org/legal/terms-of-use/"
+    }
+  }
+}

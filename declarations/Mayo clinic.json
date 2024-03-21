@@ -1,1 +1,11 @@
-{"name":"Mayo Clinic","documents":{"Privacy Policy":{"fetch":"https://www.mayoclinic.org/about-this-site/privacy-policy"},"Terms of Service":{"fetch":"https://www.mayoclinic.org/about-this-site/terms-conditions-use-policy"}}}
+{
+  "name": "Mayo clinic",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.mayoclinic.org/about-this-site/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.mayoclinic.org/about-this-site/terms-conditions-use-policy"
+    }
+  }
+}

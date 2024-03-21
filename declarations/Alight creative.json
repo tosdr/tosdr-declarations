@@ -1,1 +1,11 @@
-{"name":"Alight Creative ","documents":{"Privacy Policy":{"fetch":"https://alightcreative.com/privacy"},"Terms of Service":{"fetch":"https://alightcreative.com/tos/"}}}
+{
+  "name": "Alight creative",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://alightcreative.com/privacy"
+    },
+    "Terms of Service": {
+      "fetch": "https://alightcreative.com/tos/"
+    }
+  }
+}

@@ -1,1 +1,11 @@
-{"name":"SitePoint","documents":{"Terms of Service":{"fetch":"https://www.sitepoint.com/legals"},"Privacy Policy":{"fetch":"https://www.sitepoint.com/privacy-policy/"}}}
+{
+  "name": "Sitepoint",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.sitepoint.com/legals"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.sitepoint.com/privacy-policy/"
+    }
+  }
+}

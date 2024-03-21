@@ -1,1 +1,8 @@
-{"name":"Department of Homeland Security","documents":{"Privacy Policy":{"fetch":"https://www.dhs.gov/privacy-policy"}}}
+{
+  "name": "Department of homeland security",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.dhs.gov/privacy-policy"
+    }
+  }
+}

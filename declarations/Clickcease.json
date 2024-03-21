@@ -1,1 +1,13 @@
-{"name":"clickcease ","documents":{"Privacy Policy":{"fetch":"https://www.clickcease.com/privacy.html","select":"html > body > section"},"Terms of Service":{"fetch":"https://www.clickcease.com/tos.html","select":"html > body > section"}}}
+{
+  "name": "Clickcease",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.clickcease.com/privacy.html",
+      "select": "html > body > section"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.clickcease.com/tos.html",
+      "select": "html > body > section"
+    }
+  }
+}

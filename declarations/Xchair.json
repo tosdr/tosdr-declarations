@@ -1,1 +1,9 @@
-{"name":"X-Chair","documents":{"Privacy Policy":{"fetch":"https://www.xchair.com/pages/privacy-policy","select":"body"}}}
+{
+  "name": "Xchair",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.xchair.com/pages/privacy-policy",
+      "select": "body"
+    }
+  }
+}

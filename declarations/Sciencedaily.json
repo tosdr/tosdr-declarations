@@ -1,1 +1,9 @@
-{"name":"ScienceDaily ","documents":{"Privacy Policy":{"fetch":"https://www.sciencedaily.com/privacy.htm","select":"html > body > div:first-of-type > div > div:first-of-type"}}}
+{
+  "name": "Sciencedaily",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sciencedaily.com/privacy.htm",
+      "select": "html > body > div:first-of-type > div > div:first-of-type"
+    }
+  }
+}

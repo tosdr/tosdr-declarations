@@ -1,1 +1,9 @@
-{"name":"Clif Bar & Company ","documents":{"Terms of Service":{"fetch":"https://www.clifbar.com/use-terms","select":"html > body > div:first-of-type > div > div > div > main > div > div > div:nth-of-type(2)"}}}
+{
+  "name": "Clif bar  company",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.clifbar.com/use-terms",
+      "select": "html > body > div:first-of-type > div > div > div > main > div > div > div:nth-of-type(2)"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"free-signal.com ","documents":{"Terms of Service":{"fetch":"https://www.free-signal.com/Terms%20of%20Service.html","select":"body"}}}
+{
+  "name": "Freesignalcom",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.free-signal.com/Terms%20of%20Service.html",
+      "select": "body"
+    }
+  }
+}

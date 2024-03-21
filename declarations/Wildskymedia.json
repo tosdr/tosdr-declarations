@@ -1,1 +1,9 @@
-{"name":"wildskymedia","documents":{"Privacy Policy":{"fetch":"https://www.wildskymedia.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Wildskymedia",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.wildskymedia.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

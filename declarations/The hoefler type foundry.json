@@ -1,1 +1,9 @@
-{"name":"The Hoefler Type Foundry","documents":{"Privacy Policy":{"fetch":"https://www.typography.com/policies/privacy","select":"body"}}}
+{
+  "name": "The hoefler type foundry",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.typography.com/policies/privacy",
+      "select": "body"
+    }
+  }
+}

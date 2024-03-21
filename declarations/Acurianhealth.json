@@ -1,1 +1,13 @@
-{"name":"AcurianHealth","documents":{"Privacy Policy":{"fetch":"https://acurianhealth.com/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://acurianhealth.com/terms-of-use/","select":"body"}}}
+{
+  "name": "Acurianhealth",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://acurianhealth.com/privacy-policy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://acurianhealth.com/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

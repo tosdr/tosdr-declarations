@@ -1,1 +1,9 @@
-{"name":"Missionsstation-Fushë-Arrëz","documents":{"Privacy Policy":{"fetch":"https://missionsstation-fushearrez.jimdofree.com/j/privacy","select":"body"}}}
+{
+  "name": "Missionsstationfusharrz",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://missionsstation-fushearrez.jimdofree.com/j/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"GA-2","documents":{"Privacy Policy":{"fetch":"https://www.ga-2.it/privacy","select":"body"}}}
+{
+  "name": "Ga2",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.ga-2.it/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"klove.com ","documents":{"Privacy Policy":{"fetch":"https://www.klove.com/policies/privacy-policy","select":"body"}}}
+{
+  "name": "Klovecom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.klove.com/policies/privacy-policy",
+      "select": "body"
+    }
+  }
+}

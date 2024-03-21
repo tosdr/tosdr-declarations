@@ -1,1 +1,13 @@
-{"name":"AhnLab","documents":{"Terms of Service":{"fetch":"https://global.ahnlab.com/site/etc/termsOfUse.do","select":"body"},"Privacy Policy":{"fetch":"https://global.ahnlab.com/site/etc/privacyPolicy.do","select":"body"}}}
+{
+  "name": "Ahnlab",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://global.ahnlab.com/site/etc/termsOfUse.do",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://global.ahnlab.com/site/etc/privacyPolicy.do",
+      "select": "body"
+    }
+  }
+}

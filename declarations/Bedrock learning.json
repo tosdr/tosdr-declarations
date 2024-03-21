@@ -1,1 +1,9 @@
-{"name":"Bedrock Learning","documents":{"Privacy Policy":{"fetch":"https://app.bedrocklearning.org/pages/privacy","select":"body"}}}
+{
+  "name": "Bedrock learning",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://app.bedrocklearning.org/pages/privacy",
+      "select": "body"
+    }
+  }
+}

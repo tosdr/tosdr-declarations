@@ -1,1 +1,9 @@
-{"name":"Audm ","documents":{"Terms of Service":{"fetch":"https://audm.com/terms-of-service","select":"body"}}}
+{
+  "name": "Audm",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://audm.com/terms-of-service",
+      "select": "body"
+    }
+  }
+}

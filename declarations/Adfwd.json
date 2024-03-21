@@ -1,1 +1,9 @@
-{"name":"adFWD","documents":{"Privacy Policy":{"fetch":"https://www.adfwd.net/privacy-policy/","select":"html > body > div:first-of-type > div > div:nth-of-type(5) > div:first-of-type > div"}}}
+{
+  "name": "Adfwd",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.adfwd.net/privacy-policy/",
+      "select": "html > body > div:first-of-type > div > div:nth-of-type(5) > div:first-of-type > div"
+    }
+  }
+}

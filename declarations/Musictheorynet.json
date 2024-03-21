@@ -1,1 +1,13 @@
-{"name":"musictheory.net ","documents":{"Privacy Policy":{"fetch":"https://www.musictheory.net/privacy","select":"body"},"Legal Information":{"fetch":"https://www.musictheory.net/legal","select":"body"}}}
+{
+  "name": "Musictheorynet",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.musictheory.net/privacy",
+      "select": "body"
+    },
+    "Legal Information": {
+      "fetch": "https://www.musictheory.net/legal",
+      "select": "body"
+    }
+  }
+}

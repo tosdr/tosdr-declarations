@@ -1,1 +1,9 @@
-{"name":"QuickBCSS","documents":{"Terms of Service":{"fetch":"https://quickbcss.software/tos","select":"body"}}}
+{
+  "name": "Quickbcss",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://quickbcss.software/tos",
+      "select": "body"
+    }
+  }
+}

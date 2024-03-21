@@ -1,1 +1,8 @@
-{"name":"Medicare.gov","documents":{"Privacy Policy":{"fetch":"https://www.medicare.gov/privacy-policy"}}}
+{
+  "name": "Medicaregov",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.medicare.gov/privacy-policy"
+    }
+  }
+}

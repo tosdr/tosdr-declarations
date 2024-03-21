@@ -1,1 +1,14 @@
-{"name":"Credit Karma","documents":{"Privacy Policy":{"fetch":"https://www.creditkarma.com/about/privacy-ca-20200101"},"Community Guidelines":{"fetch":"https://www.creditkarma.com/about/rules"},"Terms of Service":{"fetch":"https://www.creditkarma.com/about/terms"}}}
+{
+  "name": "Credit karma",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.creditkarma.com/about/privacy-ca-20200101"
+    },
+    "Community Guidelines": {
+      "fetch": "https://www.creditkarma.com/about/rules"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.creditkarma.com/about/terms"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Bargain Hunt","documents":{"Privacy Policy":{"fetch":"https://www.bargainhunt.com/privacy-policy","select":"body"}}}
+{
+  "name": "Bargain hunt",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.bargainhunt.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

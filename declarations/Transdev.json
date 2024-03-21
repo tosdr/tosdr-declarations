@@ -1,1 +1,9 @@
-{"name":"Transdev ","documents":{"Privacy Policy":{"fetch":"https://transdevna.com/privacy-policy","select":"body"}}}
+{
+  "name": "Transdev",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://transdevna.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

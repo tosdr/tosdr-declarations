@@ -1,1 +1,9 @@
-{"name":"FreePBX Hosting ","documents":{"Terms of Service":{"fetch":"https://www.freepbxhosting.com/terms-of-service/","select":"html > body > div:first-of-type > main > div > div > div"}}}
+{
+  "name": "Freepbx hosting",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.freepbxhosting.com/terms-of-service/",
+      "select": "html > body > div:first-of-type > main > div > div > div"
+    }
+  }
+}

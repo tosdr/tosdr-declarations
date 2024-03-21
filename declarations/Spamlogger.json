@@ -1,1 +1,11 @@
-{"name":"SpamLogger","documents":{"Privacy Policy":{"fetch":"https://spamlogger.com/t/privacy-policy/6"},"Terms of Service":{"fetch":"https://spamlogger.com/t/terms-of-service/4"}}}
+{
+  "name": "Spamlogger",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://spamlogger.com/t/privacy-policy/6"
+    },
+    "Terms of Service": {
+      "fetch": "https://spamlogger.com/t/terms-of-service/4"
+    }
+  }
+}

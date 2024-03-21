@@ -1,1 +1,13 @@
-{"name":"Rocket Speed Booster","documents":{"Privacy Policy":{"fetch":"https://gpughomzxuvg.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://gpughomzxuvg.com/terms","select":"body"}}}
+{
+  "name": "Rocket speed booster",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://gpughomzxuvg.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://gpughomzxuvg.com/terms",
+      "select": "body"
+    }
+  }
+}

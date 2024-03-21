@@ -1,1 +1,9 @@
-{"name":"Have Freedom Hosting","documents":{"Terms of Service":{"fetch":"https://hfhosting.us/tos","select":"body"}}}
+{
+  "name": "Have freedom hosting",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://hfhosting.us/tos",
+      "select": "body"
+    }
+  }
+}

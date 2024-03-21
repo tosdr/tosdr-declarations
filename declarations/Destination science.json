@@ -1,1 +1,9 @@
-{"name":"Destination Science","documents":{"Privacy Policy":{"fetch":"https://destinationscience.org/privacy-policy","select":"body"}}}
+{
+  "name": "Destination science",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://destinationscience.org/privacy-policy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,12 @@
-{"name":"The Right Scoop ","documents":{"Privacy Policy":{"fetch":"https://therightscoop.com/privacy-policy/","select":"body"}}}
+{
+  "name": "The right scoop",
+  "documents": {
+    "Community Guidelines": {
+      "fetch": "https://therightscoop.com/the-right-scoop-commenting-rules/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://therightscoop.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

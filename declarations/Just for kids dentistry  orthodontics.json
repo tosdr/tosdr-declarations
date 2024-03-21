@@ -1,1 +1,8 @@
-{"name":"Just For Kids Dentistry & Orthodontics ","documents":{"Privacy Policy":{"fetch":"https://www.justforkidsdentistrylv.com/privacy-policy"}}}
+{
+  "name": "Just for kids dentistry  orthodontics",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.justforkidsdentistrylv.com/privacy-policy"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Songwhip","documents":{"Privacy Policy":{"fetch":"https://songwhip.com/privacy","select":"body"}}}
+{
+  "name": "Songwhip",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://songwhip.com/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"templatesearch.org ","documents":{"Privacy Policy":{"fetch":"https://templatesearch.org/privacy-policy/","select":"body"}}}
+{
+  "name": "Templatesearchorg",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://templatesearch.org/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Discord.Club","documents":{"Privacy Policy":{"fetch":"https://discord.club/privacy","select":"html > body > div:first-of-type > div:first-of-type > div:first-of-type > div:first-of-type"}}}
+{
+  "name": "Discordclub",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://discord.club/privacy",
+      "select": "html > body > div:first-of-type > div:first-of-type > div:first-of-type > div:first-of-type"
+    }
+  }
+}

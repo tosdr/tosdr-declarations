@@ -1,1 +1,9 @@
-{"name":"Children's Network of Solano County ","documents":{"Privacy Policy":{"fetch":"https://www.childnet.org/_files/ugd/d3c576_33f1b1ddf63648658b4d5c8a21529f42.pdf","select":"body"}}}
+{
+  "name": "Childrens network of solano county",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.childnet.org/_files/ugd/d3c576_33f1b1ddf63648658b4d5c8a21529f42.pdf",
+      "select": "body"
+    }
+  }
+}

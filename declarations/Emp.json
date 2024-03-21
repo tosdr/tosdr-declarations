@@ -1,1 +1,9 @@
-{"name":"EMP","documents":{"Trackers Policy":{"fetch":"https://www.emp-online.com/terms-cookie-policy.html","select":"body"}}}
+{
+  "name": "Emp",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.emp-online.com/terms-cookie-policy.html",
+      "select": "body"
+    }
+  }
+}

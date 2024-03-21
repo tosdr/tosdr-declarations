@@ -1,1 +1,9 @@
-{"name":"HARICA ","documents":{}}
+{
+  "name": "Harica",
+  "documents": {
+    "Policy": {
+      "fetch": "https://www.harica.gr/en/About/Policy",
+      "select": "body"
+    }
+  }
+}

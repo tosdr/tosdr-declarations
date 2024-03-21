@@ -1,1 +1,9 @@
-{"name":"Northwest Association of Independent Schools ","documents":{"Privacy Policy":{"fetch":"https://nwais.org/page/privacy_policy","select":"body"}}}
+{
+  "name": "Northwest association of independent schools",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://nwais.org/page/privacy_policy",
+      "select": "body"
+    }
+  }
+}

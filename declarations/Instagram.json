@@ -1,1 +1,20 @@
-{"name":"Instagram","documents":{"Terms of Service":{"fetch":"https://help.instagram.com/581066165581870"},"Privacy Policy":{"fetch":"https://help.instagram.com/519522125107875"},"Law Enforcement":{"fetch":"https://help.instagram.com/494561080557017"},"Trackers Policy":{"fetch":"https://help.instagram.com/1896641480634370"},"Community Guidelines":{"fetch":"https://help.instagram.com/477434105621119"}}}
+{
+  "name": "Instagram",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://help.instagram.com/581066165581870"
+    },
+    "Privacy Policy": {
+      "fetch": "https://help.instagram.com/519522125107875"
+    },
+    "Law Enforcement Guidelines": {
+      "fetch": "https://help.instagram.com/494561080557017"
+    },
+    "Trackers Policy": {
+      "fetch": "https://help.instagram.com/1896641480634370"
+    },
+    "Community Guidelines": {
+      "fetch": "https://help.instagram.com/477434105621119"
+    }
+  }
+}

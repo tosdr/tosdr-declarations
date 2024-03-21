@@ -1,1 +1,13 @@
-{"name":"Instant Play Giveaway","documents":{"Privacy Policy":{"fetch":"https://contact.instantplaygiveaway.com/policies/privacy","select":"body"},"Terms of Service":{"fetch":"https://contact.instantplaygiveaway.com/policies/terms","select":"body"}}}
+{
+  "name": "Instant play giveaway",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://contact.instantplaygiveaway.com/policies/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://contact.instantplaygiveaway.com/policies/terms",
+      "select": "body"
+    }
+  }
+}

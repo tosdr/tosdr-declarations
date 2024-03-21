@@ -1,1 +1,8 @@
-{"name":"BakaSHOTS","documents":{"Terms of Service":{"fetch":"https://bakashots.me/ToS.php"}}}
+{
+  "name": "Bakashots",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://bakashots.me/ToS.php"
+    }
+  }
+}

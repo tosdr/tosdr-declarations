@@ -1,1 +1,9 @@
-{"name":"Twitch","documents":{"Trackers Policy":{"fetch":"https://www.twitch.tv/p/legal/cookie-policy","select":"div.legal-content"}}}
+{
+  "name": "Twitch",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.twitch.tv/p/legal/cookie-policy",
+      "select": "div.legal-content"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Cockpit Project","documents":{"Privacy Policy":{"fetch":"https://cockpit-project.org/privacy.html","select":"body"}}}
+{
+  "name": "Cockpit project",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://cockpit-project.org/privacy.html",
+      "select": "body"
+    }
+  }
+}

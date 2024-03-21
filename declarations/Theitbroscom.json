@@ -1,1 +1,8 @@
-{"name":"TheITBros.com","documents":{"Privacy Policy":{"fetch":"https://theitbros.com/privacy-policy"}}}
+{
+  "name": "Theitbroscom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://theitbros.com/privacy-policy"
+    }
+  }
+}

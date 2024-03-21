@@ -1,1 +1,13 @@
-{"name":"Vukkybox","documents":{"Privacy Policy":{"fetch":"https://vukkybox.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://vukkybox.com/terms","select":"body"}}}
+{
+  "name": "Vukkybox",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://vukkybox.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://vukkybox.com/terms",
+      "select": "body"
+    }
+  }
+}

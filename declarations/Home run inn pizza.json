@@ -1,1 +1,11 @@
-{"name":"Home Run Inn Pizza","documents":{"Privacy Policy":{"fetch":"https://www.homeruninnpizza.com/privacy-policy/"},"Terms of Service":{"fetch":"https://www.homeruninnpizza.com/terms-conditions/"}}}
+{
+  "name": "Home run inn pizza",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.homeruninnpizza.com/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.homeruninnpizza.com/terms-conditions/"
+    }
+  }
+}

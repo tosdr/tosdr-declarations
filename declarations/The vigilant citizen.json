@@ -1,1 +1,9 @@
-{"name":"The Vigilant Citizen","documents":{"Privacy Policy":{"fetch":"https://vigilantcitizen.com/privacy-policy/","select":"body"}}}
+{
+  "name": "The vigilant citizen",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://vigilantcitizen.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

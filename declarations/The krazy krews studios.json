@@ -1,1 +1,9 @@
-{"name":"The Krazy Krew's Studios","documents":{"Privacy Policy":{"fetch":"http://tkksofficial.com/privacypolicy.txt","select":"body"}}}
+{
+  "name": "The krazy krews studios",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "http://tkksofficial.com/privacypolicy.txt",
+      "select": "body"
+    }
+  }
+}

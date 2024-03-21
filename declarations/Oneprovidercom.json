@@ -1,1 +1,13 @@
-{"name":"OneProvider.com","documents":{"Terms of Service":{"fetch":"https://oneprovider.com/about-us/terms-of-service","select":"body"},"Privacy Policy":{"fetch":"https://oneprovider.com/about-us/privacy-policy","select":"body"}}}
+{
+  "name": "Oneprovidercom",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://oneprovider.com/about-us/terms-of-service",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://oneprovider.com/about-us/privacy-policy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"GSK","documents":{"Trackers Policy":{"fetch":"https://www.gsk.com/en-gb/cookie-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.gsk.com/en-gb/terms-of-use/","select":"body"}}}
+{
+  "name": "Gsk",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.gsk.com/en-gb/cookie-policy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.gsk.com/en-gb/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

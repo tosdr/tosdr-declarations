@@ -1,1 +1,16 @@
-{"name":"Hodder Education","documents":{"Privacy Policy":{"fetch":"https://www.hoddereducation.com/privacynotice"},"Trackers Policy":{"fetch":"https://www.hoddereducation.com/use-of-cookies","select":" > div:nth-of-type(7) > section"},"Terms of Service":{"fetch":"https://www.hoddereducation.com/media/Documents/Events/TCs/InSchool.pdf","select":"body"}}}
+{
+  "name": "Hodder education",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.hoddereducation.com/privacynotice"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.hoddereducation.com/use-of-cookies",
+      "select": " > div:nth-of-type(7) > section"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.hoddereducation.com/media/Documents/Events/TCs/InSchool.pdf",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"Multiple Income Funnel","documents":{"Privacy Policy":{"fetch":"https://www.multipleincomefunnel.com/privacy.php","select":"body"},"Terms of Service":{"fetch":"https://www.multipleincomefunnel.com/terms.php","select":"body"}}}
+{
+  "name": "Multiple income funnel",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.multipleincomefunnel.com/privacy.php",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.multipleincomefunnel.com/terms.php",
+      "select": "body"
+    }
+  }
+}

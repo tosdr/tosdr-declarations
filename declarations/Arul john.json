@@ -1,1 +1,8 @@
-{"name":"Arul John","documents":{"Privacy Policy":{"fetch":"https://aruljohn.com/privacy/"}}}
+{
+  "name": "Arul john",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://aruljohn.com/privacy/"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"VUSE","documents":{"Trackers Policy":{"fetch":"https://vusevapor.com/cookie-notice","select":"body"}}}
+{
+  "name": "Vuse",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://vusevapor.com/cookie-notice",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Tech Blog by Viktor Milivojević: Linux, Web Design, and More","documents":{"Terms of Service":{"fetch":"https://blog.milivojevic.in.rs/p/terms-of-service.html","select":"body"}}}
+{
+  "name": "Tech blog by viktor milivojevi linux web design and more",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://blog.milivojevic.in.rs/p/terms-of-service.html",
+      "select": "body"
+    }
+  }
+}

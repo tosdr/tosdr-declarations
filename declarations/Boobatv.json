@@ -1,1 +1,9 @@
-{"name":"Booba.tv","documents":{"Terms of Service":{"fetch":"https://booba.tv/terms","select":"body"}}}
+{
+  "name": "Boobatv",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://booba.tv/terms",
+      "select": "body"
+    }
+  }
+}

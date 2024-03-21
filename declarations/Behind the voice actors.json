@@ -1,1 +1,12 @@
-{"name":"Behind the Voice Actors","documents":{"Terms of Service":{"fetch":"https://www.behindthevoiceactors.com/terms-of-use/"},"Privacy Policy":{"fetch":"https://www.behindthevoiceactors.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Behind the voice actors",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.behindthevoiceactors.com/terms-of-use/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.behindthevoiceactors.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

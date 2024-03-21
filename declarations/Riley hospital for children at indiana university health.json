@@ -1,1 +1,9 @@
-{"name":"Riley Hospital for Children at Indiana University Health ","documents":{"Legal Information":{"fetch":"https://www.rileychildrens.org/legal-notices","select":"body"}}}
+{
+  "name": "Riley hospital for children at indiana university health",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.rileychildrens.org/legal-notices",
+      "select": "body"
+    }
+  }
+}

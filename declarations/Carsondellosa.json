@@ -1,1 +1,9 @@
-{"name":"Carson-Dellosa ","documents":{"Privacy Policy":{"fetch":"https://www.carsondellosa.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Carsondellosa",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.carsondellosa.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

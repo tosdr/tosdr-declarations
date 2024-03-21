@@ -1,1 +1,11 @@
-{"name":"Lechool","documents":{"Terms of Service":{"fetch":"https://lechool.com/terms"},"Privacy Policy":{"fetch":"https://lechool.com/mag/privacy-policy/"}}}
+{
+  "name": "Lechool",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://lechool.com/terms"
+    },
+    "Privacy Policy": {
+      "fetch": "https://lechool.com/mag/privacy-policy/"
+    }
+  }
+}

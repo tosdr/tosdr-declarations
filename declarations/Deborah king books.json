@@ -1,1 +1,9 @@
-{"name":"Deborah King Books","documents":{"Privacy Policy":{"fetch":"https://deborahkingbooks.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Deborah king books",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://deborahkingbooks.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":"Teleparty","documents":{}}
+{
+  "name": "Teleparty",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.netflixparty.com/support"
+    }
+  }
+}

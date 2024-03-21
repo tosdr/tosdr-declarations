@@ -1,1 +1,13 @@
-{"name":"SHADI","documents":{"Terms of Service":{"fetch":"https://www.shadi.com/terms","select":"body"},"Privacy Policy":{"fetch":"https://www.shadi.com/privacy-policy","select":"body"}}}
+{
+  "name": "Shadi",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.shadi.com/terms",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.shadi.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Yotpo ","documents":{"Privacy Policy":{"fetch":"https://www.yotpo.com/privacy-policy","select":"body"}}}
+{
+  "name": "Yotpo",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.yotpo.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

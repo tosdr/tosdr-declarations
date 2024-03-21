@@ -1,1 +1,12 @@
-{"name":"CDA.PL","documents":{"Privacy Policy":{"fetch":"https://www.cda.pl/prywatnosc"},"Legal Information":{"fetch":"https://www.cda.pl/regulamin","select":"#regulamin div.content"}}}
+{
+  "name": "Cdapl",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.cda.pl/prywatnosc"
+    },
+    "Legal Information": {
+      "fetch": "https://www.cda.pl/regulamin",
+      "select": "#regulamin div.content"
+    }
+  }
+}

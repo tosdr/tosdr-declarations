@@ -1,1 +1,9 @@
-{"name":"CodeHS","documents":{"Terms of Service":{"fetch":"https://codehs.com/terms","select":"body"}}}
+{
+  "name": "Codehs",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://codehs.com/terms",
+      "select": "body"
+    }
+  }
+}

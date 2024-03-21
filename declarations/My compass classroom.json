@@ -1,1 +1,11 @@
-{"name":"My Compass Classroom","documents":{"Terms of Service":{"fetch":"https://mycompassclassroom.com/terms-of-service/"},"Privacy Policy":{"fetch":"https://mycompassclassroom.com/privacy-policy/"}}}
+{
+  "name": "My compass classroom",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://mycompassclassroom.com/terms-of-service/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://mycompassclassroom.com/privacy-policy/"
+    }
+  }
+}

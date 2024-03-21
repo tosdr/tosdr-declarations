@@ -1,1 +1,13 @@
-{"name":"BigCommerce","documents":{"Privacy Policy":{"fetch":"https://www.bigcommerce.com/privacy/","select":"body"},"Terms of Service":{"fetch":"https://www.bigcommerce.com/terms/","select":"body"}}}
+{
+  "name": "Bigcommerce",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.bigcommerce.com/privacy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.bigcommerce.com/terms/",
+      "select": "body"
+    }
+  }
+}

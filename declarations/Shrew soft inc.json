@@ -1,1 +1,8 @@
-{"name":"Shrew Soft Inc","documents":{"Privacy Policy":{"fetch":"https://www.shrew.net/privacy"}}}
+{
+  "name": "Shrew soft inc",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.shrew.net/privacy"
+    }
+  }
+}

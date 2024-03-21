@@ -1,1 +1,11 @@
-{"name":"CD Baby ","documents":{"Terms of Service":{"fetch":"https://cdbaby.com/terms.aspx"},"Privacy Policy":{"fetch":"https://cdbaby.com/privacy.aspx"}}}
+{
+  "name": "Cd baby",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://cdbaby.com/terms.aspx"
+    },
+    "Privacy Policy": {
+      "fetch": "https://cdbaby.com/privacy.aspx"
+    }
+  }
+}

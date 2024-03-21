@@ -1,1 +1,9 @@
-{"name":"Buy me a coffee","documents":{"Terms of Service":{"fetch":"https://www.buymeacoffee.com/terms","select":"body"}}}
+{
+  "name": "Buy me a coffee",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.buymeacoffee.com/terms",
+      "select": "body"
+    }
+  }
+}

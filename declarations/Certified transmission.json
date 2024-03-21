@@ -1,1 +1,8 @@
-{"name":"Certified Transmission","documents":{"Privacy Policy":{"fetch":"https://www.certifiedtransmission.com/privacy/"}}}
+{
+  "name": "Certified transmission",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.certifiedtransmission.com/privacy/"
+    }
+  }
+}

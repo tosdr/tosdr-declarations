@@ -1,1 +1,13 @@
-{"name":"Lumma ","documents":{"Privacy Policy":{"fetch":"https://mylumma.com/policies/privacy-policy","select":"body"},"General Conditions of Sale":{"fetch":"https://mylumma.com/policies/refund-policy","select":"body"}}}
+{
+  "name": "Lumma",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://mylumma.com/policies/privacy-policy",
+      "select": "body"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://mylumma.com/policies/refund-policy",
+      "select": "body"
+    }
+  }
+}

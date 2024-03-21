@@ -1,1 +1,17 @@
-{"name":"Operation Smile ","documents":{"Privacy Policy":{"fetch":"https://www.operationsmile.org/privacy-policy","select":"body"},"Community Guidelines":{"fetch":"https://www.operationsmile.org/code-conduct","select":"body"},"Terms of Service":{"fetch":"https://www.operationsmile.org/site-terms-and-use","select":"body"}}}
+{
+  "name": "Operation smile",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.operationsmile.org/privacy-policy",
+      "select": "body"
+    },
+    "Community Guidelines": {
+      "fetch": "https://www.operationsmile.org/code-conduct",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.operationsmile.org/site-terms-and-use",
+      "select": "body"
+    }
+  }
+}

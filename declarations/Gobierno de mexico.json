@@ -1,1 +1,9 @@
-{"name":"Gobierno de Mexico","documents":{"Privacy Policy":{"fetch":"https://www.gob.mx/privacidadsimplificado","select":"body"}}}
+{
+  "name": "Gobierno de mexico",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.gob.mx/privacidadsimplificado",
+      "select": "body"
+    }
+  }
+}

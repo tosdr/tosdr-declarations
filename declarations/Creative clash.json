@@ -1,1 +1,13 @@
-{"name":"Creative Clash","documents":{"Privacy Policy":{"fetch":"https://xcreativeclashx.net/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://xcreativeclashx.net/terms","select":"body"}}}
+{
+  "name": "Creative clash",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://xcreativeclashx.net/privacy-policy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://xcreativeclashx.net/terms",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":"Three Forks Montana","documents":{"Privacy Policy":{"fetch":"https://www.threeforksmontana.us/privacy-policy"}}}
+{
+  "name": "Three forks montana",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.threeforksmontana.us/privacy-policy"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"CreditCards","documents":{"Terms of Service":{"fetch":"https://www.creditcards.org/terms","select":"html > body > div:first-of-type > div:nth-of-type(2) > section > div > div > div"},"Privacy Policy":{"fetch":"https://www.creditcards.org/privacy","select":"html > body > div:first-of-type > div:nth-of-type(2) > section"}}}
+{
+  "name": "Creditcards",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.creditcards.org/terms",
+      "select": "html > body > div:first-of-type > div:nth-of-type(2) > section > div > div > div"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.creditcards.org/privacy",
+      "select": "html > body > div:first-of-type > div:nth-of-type(2) > section"
+    }
+  }
+}

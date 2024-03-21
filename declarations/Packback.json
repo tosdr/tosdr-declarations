@@ -1,1 +1,17 @@
-{"name":"Packback","documents":{"Corporate Social Responsibility":{"fetch":"https://www.packback.co/site/ai-ethics-policy/"},"General Conditions of Sale":{"fetch":"https://www.packback.co/site/refunds/"},"Terms of Service":{"fetch":"https://www.packback.co/site/terms/"},"Privacy Policy":{"fetch":"https://www.packback.co/site/privacy/"}}}
+{
+  "name": "Packback",
+  "documents": {
+    "Corporate Social Responsibility": {
+      "fetch": "https://www.packback.co/site/ai-ethics-policy/"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://www.packback.co/site/refunds/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.packback.co/site/terms/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.packback.co/site/privacy/"
+    }
+  }
+}

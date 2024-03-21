@@ -1,1 +1,9 @@
-{"name":"surfblocker","documents":{"Privacy Policy":{"fetch":"https://www.blumentals.net/privacy.php","select":"html > body > div:nth-of-type(2) > div"}}}
+{
+  "name": "Surfblocker",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.blumentals.net/privacy.php",
+      "select": "html > body > div:nth-of-type(2) > div"
+    }
+  }
+}

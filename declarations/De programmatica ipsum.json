@@ -1,1 +1,8 @@
-{"name":"De Programmatica Ipsum","documents":{"Privacy Policy":{"fetch":"https://deprogrammaticaipsum.com/privacy-policy/"}}}
+{
+  "name": "De programmatica ipsum",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://deprogrammaticaipsum.com/privacy-policy/"
+    }
+  }
+}

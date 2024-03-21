@@ -1,1 +1,9 @@
-{"name":"Block64","documents":{"Privacy Policy":{"fetch":"https://block64.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Block64",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://block64.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

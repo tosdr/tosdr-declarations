@@ -1,1 +1,9 @@
-{"name":"Privacy Bee","documents":{"Terms of Service":{"fetch":"https://privacybee.com/terms-of-service/","select":"body"}}}
+{
+  "name": "Privacy bee",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://privacybee.com/terms-of-service/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"upbox.me","documents":{"Privacy Policy":{"fetch":"https://upbox.me/privacy","select":"body"},"Terms of Service":{"fetch":"https://upbox.me/terms","select":"body"}}}
+{
+  "name": "Upboxme",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://upbox.me/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://upbox.me/terms",
+      "select": "body"
+    }
+  }
+}

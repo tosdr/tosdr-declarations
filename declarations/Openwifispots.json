@@ -1,1 +1,9 @@
-{"name":"OpenWiFiSpots","documents":{"Terms of Service":{"fetch":"http://openwifispots.com/Terms.aspx","select":"body"}}}
+{
+  "name": "Openwifispots",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "http://openwifispots.com/Terms.aspx",
+      "select": "body"
+    }
+  }
+}

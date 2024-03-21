@@ -1,1 +1,11 @@
-{"name":"Buffalo Games","documents":{"Privacy Policy":{"fetch":"https://buffalogames.com/privacy-policy/"},"General Conditions of Sale":{"fetch":"https://buffalogames.com/shipping-and-returns/"}}}
+{
+  "name": "Buffalo games",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://buffalogames.com/privacy-policy/"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://buffalogames.com/shipping-and-returns/"
+    }
+  }
+}

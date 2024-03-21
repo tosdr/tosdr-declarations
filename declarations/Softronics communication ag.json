@@ -1,1 +1,8 @@
-{"name":"Softronics Communication AG","documents":{"Privacy Policy":{"fetch":"https://www.softronics.ch/en/about-us/privacy"}}}
+{
+  "name": "Softronics communication ag",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.softronics.ch/en/about-us/privacy"
+    }
+  }
+}

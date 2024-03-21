@@ -1,1 +1,17 @@
-{"name":"Pinsent Masons LLP","documents":{"Privacy Policy":{"fetch":"https://www.pinsentmasons.com/legal-notices/privacy-policy","select":"body"},"Legal Information":{"fetch":"https://www.pinsentmasons.com/legal-notices","select":"body"},"Trackers Policy":{"fetch":"https://www.pinsentmasons.com/legal-notices/cookie-settings","select":"body"}}}
+{
+  "name": "Pinsent masons llp",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.pinsentmasons.com/legal-notices/privacy-policy",
+      "select": "body"
+    },
+    "Legal Information": {
+      "fetch": "https://www.pinsentmasons.com/legal-notices",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.pinsentmasons.com/legal-notices/cookie-settings",
+      "select": "body"
+    }
+  }
+}

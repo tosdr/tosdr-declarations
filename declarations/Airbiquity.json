@@ -1,1 +1,9 @@
-{"name":"Airbiquity","documents":{"Privacy Policy":{"fetch":"https://www.airbiquity.com/company/privacy","select":"body"}}}
+{
+  "name": "Airbiquity",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.airbiquity.com/company/privacy",
+      "select": "body"
+    }
+  }
+}

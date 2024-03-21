@@ -1,1 +1,13 @@
-{"name":"TelTech","documents":{"Privacy Policy":{"fetch":"https://teltech.co/privacy","select":"body"},"Terms of Service":{"fetch":"https://teltech.co/terms","select":"body"}}}
+{
+  "name": "Teltech",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://teltech.co/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://teltech.co/terms",
+      "select": "body"
+    }
+  }
+}

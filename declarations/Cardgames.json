@@ -1,1 +1,9 @@
-{"name":"CardGames","documents":{"Privacy Policy":{"fetch":"https://cardgames.io/privacy/","select":"body"}}}
+{
+  "name": "Cardgames",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://cardgames.io/privacy/",
+      "select": "body"
+    }
+  }
+}

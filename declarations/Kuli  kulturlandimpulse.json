@@ -1,1 +1,9 @@
-{"name":"kuli - Kultur.Land.Impulse","documents":{}}
+{
+  "name": "Kuli  kulturlandimpulse",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://fairkom.net/nextcloud/index.php/s/GqJM4PGDFmc89Ge",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,17 @@
-{"name":"Rate My Professors","documents":{"Copyright Claims Policy":{"fetch":"https://www.ratemyprofessors.com/copyright","select":"body"},"Privacy Policy":{"fetch":"https://www.ratemyprofessors.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.ratemyprofessors.com/terms-of-use","select":"body"}}}
+{
+  "name": "Rate my professors",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.ratemyprofessors.com/copyright",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.ratemyprofessors.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.ratemyprofessors.com/terms-of-use",
+      "select": "body"
+    }
+  }
+}

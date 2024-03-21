@@ -1,1 +1,9 @@
-{"name":"Innovation Refunds ","documents":{"Terms of Service":{"fetch":"https://www.innovationrefunds.com/terms","select":"body"}}}
+{
+  "name": "Innovation refunds",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.innovationrefunds.com/terms",
+      "select": "body"
+    }
+  }
+}

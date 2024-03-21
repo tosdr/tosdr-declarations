@@ -1,1 +1,9 @@
-{"name":"FlawCra","documents":{"Privacy Policy":{"fetch":"https://flawcra.cc/?page=impressum","select":"body"}}}
+{
+  "name": "Flawcra",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://flawcra.cc/?page=impressum",
+      "select": "body"
+    }
+  }
+}

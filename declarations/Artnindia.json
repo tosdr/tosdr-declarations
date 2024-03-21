@@ -1,1 +1,15 @@
-{"name":"artnindia ","documents":{"General Conditions of Sale":{"fetch":"https://artnindia.com/policies/refund-policy"},"Privacy Policy":{"fetch":"https://artnindia.com/policies/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://artnindia.com/policies/terms-of-service"}}}
+{
+  "name": "Artnindia",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://artnindia.com/policies/refund-policy"
+    },
+    "Privacy Policy": {
+      "fetch": "https://artnindia.com/policies/privacy-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://artnindia.com/policies/terms-of-service"
+    }
+  }
+}

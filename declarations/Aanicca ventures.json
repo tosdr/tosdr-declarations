@@ -1,1 +1,9 @@
-{"name":"Aanicca Ventures","documents":{"Privacy Policy":{"fetch":"https://aanicca.com/privacypolicy","select":"body"}}}
+{
+  "name": "Aanicca ventures",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://aanicca.com/privacypolicy",
+      "select": "body"
+    }
+  }
+}

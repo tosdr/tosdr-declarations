@@ -1,1 +1,9 @@
-{"name":"MySuperDuperGames","documents":{"Privacy Policy":{"fetch":"https://mysuperdupergames.com/privacy","select":"body"}}}
+{
+  "name": "Mysuperdupergames",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://mysuperdupergames.com/privacy",
+      "select": "body"
+    }
+  }
+}

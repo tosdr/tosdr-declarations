@@ -1,1 +1,9 @@
-{"name":"Alireza’s Weblog","documents":{"Copyright Claims Policy":{"fetch":"https://alirezahayati.com/copyleft","select":"html > body > div > input"}}}
+{
+  "name": "Alirezas weblog",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://alirezahayati.com/copyleft",
+      "select": "html > body > div > input"
+    }
+  }
+}

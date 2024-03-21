@@ -1,1 +1,9 @@
-{"name":"Celeste's Corner","documents":{"Privacy Policy":{"fetch":"https://colean.cc/privacy.html","select":"body"}}}
+{
+  "name": "Celestes corner",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://colean.cc/privacy.html",
+      "select": "body"
+    }
+  }
+}

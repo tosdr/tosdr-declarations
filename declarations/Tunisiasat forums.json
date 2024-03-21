@@ -1,1 +1,9 @@
-{"name":"Tunisia-sat Forums","documents":{"Trackers Policy":{"fetch":"https://www.tunisia-sat.com/forums/help/cookies/","select":"html > body > div:first-of-type > div:nth-of-type(4)"}}}
+{
+  "name": "Tunisiasat forums",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.tunisia-sat.com/forums/help/cookies/",
+      "select": "html > body > div:first-of-type > div:nth-of-type(4)"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Temp Mail","documents":{"Terms of Service":{"fetch":"https://temp-mail.org/terms-of-service","select":"html > body > main"}}}
+{
+  "name": "Temp mail",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://temp-mail.org/terms-of-service",
+      "select": "html > body > main"
+    }
+  }
+}

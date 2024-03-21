@@ -1,1 +1,17 @@
-{"name":"420A3.com","documents":{"Privacy Policy":{"fetch":"https://www.420a3.com/privacy-policy","select":" > div > div:nth-of-type(2) > div > div"},"Terms of Service":{"fetch":"https://www.420a3.com/terms-of-service","select":" > div > div:nth-of-type(2) > div > div"},"Trackers Policy":{"fetch":"https://www.420a3.com/cookie-policy","select":" > div:nth-of-type(6)"}}}
+{
+  "name": "420a3com",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.420a3.com/privacy-policy",
+      "select": " > div > div:nth-of-type(2) > div > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.420a3.com/terms-of-service",
+      "select": " > div > div:nth-of-type(2) > div > div"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.420a3.com/cookie-policy",
+      "select": " > div:nth-of-type(6)"
+    }
+  }
+}

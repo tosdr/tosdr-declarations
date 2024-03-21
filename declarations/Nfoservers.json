@@ -1,1 +1,11 @@
-{"name":"NFOservers ","documents":{"Privacy Policy":{"fetch":"https://www.nfoservers.com/privacypolicy.php"},"Terms of Service":{"fetch":"https://www.nfoservers.com/termsofservice.php"}}}
+{
+  "name": "Nfoservers",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.nfoservers.com/privacypolicy.php"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.nfoservers.com/termsofservice.php"
+    }
+  }
+}

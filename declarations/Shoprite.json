@@ -1,1 +1,9 @@
-{"name":"ShopRite","documents":{"Privacy Policy":{"fetch":"https://www.shoprite.com/sm/pickup/rsid/3000/privacy-policy/","select":"html > body > div:first-of-type > span > main > div:nth-of-type(2)"}}}
+{
+  "name": "Shoprite",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.shoprite.com/sm/pickup/rsid/3000/privacy-policy/",
+      "select": "html > body > div:first-of-type > span > main > div:nth-of-type(2)"
+    }
+  }
+}

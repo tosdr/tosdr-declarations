@@ -1,1 +1,14 @@
-{"name":"Similar Worlds","documents":{"Privacy Policy":{"fetch":"https://similarworlds.com/legal/privacy"},"Terms of Service":{"fetch":"https://similarworlds.com/legal/terms"},"Trackers Policy":{"fetch":"https://similarworlds.com/legal/cookies"}}}
+{
+  "name": "Similar worlds",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://similarworlds.com/legal/privacy"
+    },
+    "Terms of Service": {
+      "fetch": "https://similarworlds.com/legal/terms"
+    },
+    "Trackers Policy": {
+      "fetch": "https://similarworlds.com/legal/cookies"
+    }
+  }
+}

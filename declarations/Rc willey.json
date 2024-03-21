@@ -1,1 +1,11 @@
-{"name":"RC Willey","documents":{"Privacy Policy":{"fetch":"https://www.rcwilley.com/Privacy"},"Terms of Service":{"fetch":"https://www.rcwilley.com/Terms"}}}
+{
+  "name": "Rc willey",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.rcwilley.com/Privacy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.rcwilley.com/Terms"
+    }
+  }
+}

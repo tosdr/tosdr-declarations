@@ -1,1 +1,8 @@
-{"name":"National Veterinary Institute (Sweden)","documents":{"Trackers Policy":{"fetch":"https://www.sva.se/om-sva/mer-om-svas-verksamhet/om-webbplatsen/om-cookieskakor"}}}
+{
+  "name": "National veterinary institute sweden",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.sva.se/om-sva/mer-om-svas-verksamhet/om-webbplatsen/om-cookieskakor"
+    }
+  }
+}

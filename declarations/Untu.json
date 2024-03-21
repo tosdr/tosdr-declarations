@@ -1,1 +1,9 @@
-{"name":"UNTU ","documents":{"Privacy Policy":{"fetch":"https://www.untu.us/privacy-policy","select":"body"}}}
+{
+  "name": "Untu",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.untu.us/privacy-policy",
+      "select": "body"
+    }
+  }
+}

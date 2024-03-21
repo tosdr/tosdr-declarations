@@ -1,1 +1,9 @@
-{"name":"Lowhosting ","documents":{"Privacy Policy":{"fetch":"https://lowhosting.com/legal","select":"html > body > section"}}}
+{
+  "name": "Lowhosting",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://lowhosting.com/legal",
+      "select": "html > body > section"
+    }
+  }
+}

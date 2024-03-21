@@ -1,1 +1,13 @@
-{"name":"Hackaday.io","documents":{"Terms of Service":{"fetch":"https://hackaday.io/tos","select":"body"},"Privacy Policy":{"fetch":"https://supplyframe.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Hackadayio",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://hackaday.io/tos",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://supplyframe.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

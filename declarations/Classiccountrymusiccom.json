@@ -1,1 +1,11 @@
-{"name":"classiccountrymusic.com","documents":{"Terms of Service":{"fetch":"https://classiccountrymusic.com/terms-of-use/"},"Privacy Policy":{"fetch":"https://classiccountrymusic.com/privacy-policy"}}}
+{
+  "name": "Classiccountrymusiccom",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://classiccountrymusic.com/terms-of-use/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://classiccountrymusic.com/privacy-policy"
+    }
+  }
+}

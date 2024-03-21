@@ -1,1 +1,8 @@
-{"name":"1440 Media","documents":{"Privacy Policy":{"fetch":"https://join1440.com/privacy-policy/"}}}
+{
+  "name": "1440 media",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://join1440.com/privacy-policy/"
+    }
+  }
+}

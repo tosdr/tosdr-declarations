@@ -1,1 +1,8 @@
-{"name":"cdn.ca ","documents":{"Privacy Policy":{"fetch":"https://www.cdn.ca/privacy.php"}}}
+{
+  "name": "Cdnca",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.cdn.ca/privacy.php"
+    }
+  }
+}

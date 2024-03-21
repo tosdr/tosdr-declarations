@@ -1,1 +1,9 @@
-{"name":"1Money ","documents":{"Privacy Policy":{"fetch":"https://www.1moneyapp.com/money_privacy.html","select":"body"}}}
+{
+  "name": "1money",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.1moneyapp.com/money_privacy.html",
+      "select": "body"
+    }
+  }
+}

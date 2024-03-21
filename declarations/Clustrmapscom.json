@@ -1,1 +1,13 @@
-{"name":"ClustrMaps.com","documents":{"Privacy Policy":{"fetch":"https://clustrmaps.com/policy","select":"body"},"Terms of Service":{"fetch":"https://clustrmaps.com/legal","select":"body"}}}
+{
+  "name": "Clustrmapscom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://clustrmaps.com/policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://clustrmaps.com/legal",
+      "select": "body"
+    }
+  }
+}

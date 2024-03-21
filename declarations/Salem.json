@@ -1,1 +1,8 @@
-{"name":"SALEM","documents":{"Terms of Service":{"fetch":"https://salemmedia.com/terms-of-use/"}}}
+{
+  "name": "Salem",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://salemmedia.com/terms-of-use/"
+    }
+  }
+}

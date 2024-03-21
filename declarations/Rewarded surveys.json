@@ -1,1 +1,9 @@
-{"name":"Rewarded Surveys","documents":{"Privacy Policy":{"fetch":"https://www.rewarded-surveys.co.uk/privacy-charter","select":"body"}}}
+{
+  "name": "Rewarded surveys",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.rewarded-surveys.co.uk/privacy-charter",
+      "select": "body"
+    }
+  }
+}

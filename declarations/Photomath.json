@@ -1,1 +1,11 @@
-{"name":"Photomath","documents":{"Privacy Policy":{"fetch":"https://photomath.com/en/privacypolicy"},"Terms of Service":{"fetch":"https://photomath.com/en/termsofuse"}}}
+{
+  "name": "Photomath",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://photomath.com/en/privacypolicy"
+    },
+    "Terms of Service": {
+      "fetch": "https://photomath.com/en/termsofuse"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"AreYouGame","documents":{"Terms of Service":{"fetch":"https://areyougame.com/pages/ratings-reviews-terms-conditions","select":"body"}}}
+{
+  "name": "Areyougame",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://areyougame.com/pages/ratings-reviews-terms-conditions",
+      "select": "body"
+    }
+  }
+}

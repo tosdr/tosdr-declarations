@@ -1,1 +1,13 @@
-{"name":"Obscure Gamers ","documents":{"Trackers Policy":{"fetch":"https://www.obscuregamers.com/help/cookies","select":"body"},"Terms of Service":{"fetch":"https://www.obscuregamers.com/help/terms/","select":"body"}}}
+{
+  "name": "Obscure gamers",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.obscuregamers.com/help/cookies",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.obscuregamers.com/help/terms/",
+      "select": "body"
+    }
+  }
+}

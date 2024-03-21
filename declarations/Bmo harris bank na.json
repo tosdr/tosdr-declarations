@@ -1,1 +1,11 @@
-{"name":"BMO Harris Bank N.A","documents":{"Privacy Policy":{"fetch":"https://www.bmo.com/main/about-bmo/privacy-security/our-privacy-code/digital-privacy-policy/"},"Terms of Service":{"fetch":"https://www.bmo.com/main/personal/legal/"}}}
+{
+  "name": "Bmo harris bank na",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.bmo.com/main/about-bmo/privacy-security/our-privacy-code/digital-privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.bmo.com/main/personal/legal/"
+    }
+  }
+}

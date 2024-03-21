@@ -1,1 +1,9 @@
-{"name":"Allied Universal ","documents":{"Terms of Service":{"fetch":"https://www.aus.com/terms-of-use","select":"body"}}}
+{
+  "name": "Allied universal",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.aus.com/terms-of-use",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,17 @@
-{"name":"studylib ","documents":{"Privacy Policy":{"fetch":"https://studylib.net/privacy","select":"body"},"Copyright Claims Policy":{"fetch":"https://studylib.net/dmca","select":"body"},"Terms of Service":{"fetch":"https://studylib.net/terms","select":"body"}}}
+{
+  "name": "Studylib",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://studylib.net/privacy",
+      "select": "body"
+    },
+    "Copyright Claims Policy": {
+      "fetch": "https://studylib.net/dmca",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://studylib.net/terms",
+      "select": "body"
+    }
+  }
+}

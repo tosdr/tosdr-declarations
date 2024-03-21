@@ -1,1 +1,13 @@
-{"name":"Free Online Games","documents":{"Privacy Policy":{"fetch":"https://www.freeonlinegames.com/privacy","select":"body"},"Copyright Claims Policy":{"fetch":"https://www.freeonlinegames.com/dmca","select":"body"}}}
+{
+  "name": "Free online games",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.freeonlinegames.com/privacy",
+      "select": "body"
+    },
+    "Copyright Claims Policy": {
+      "fetch": "https://www.freeonlinegames.com/dmca",
+      "select": "body"
+    }
+  }
+}

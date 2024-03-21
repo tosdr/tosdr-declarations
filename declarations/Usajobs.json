@@ -1,1 +1,13 @@
-{"name":"USAJOBS","documents":{"Terms of Service":{"fetch":"https://www.usajobs.gov/Help/terms-and-conditions/","select":"body"},"Privacy Policy":{"fetch":"https://www.usajobs.gov/help/privacy/","select":"body"}}}
+{
+  "name": "Usajobs",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.usajobs.gov/Help/terms-and-conditions/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.usajobs.gov/help/privacy/",
+      "select": "body"
+    }
+  }
+}

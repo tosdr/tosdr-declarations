@@ -1,1 +1,9 @@
-{"name":"OVHcloud","documents":{"Privacy Policy":{"fetch":"https://www.ovh.co.uk/support/termsofservice/Data%20Processing%20Agreement_UK.pdf","select":"body"}}}
+{
+  "name": "Ovhcloud",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.ovh.co.uk/support/termsofservice/Data%20Processing%20Agreement_UK.pdf",
+      "select": "body"
+    }
+  }
+}

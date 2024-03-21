@@ -1,1 +1,9 @@
-{"name":"robotbenchmark","documents":{"Privacy Policy":{"fetch":"https://robotbenchmark.net/privacy.php","select":"body"}}}
+{
+  "name": "Robotbenchmark",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://robotbenchmark.net/privacy.php",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,11 @@
-{"name":"Jobscan","documents":{"Privacy Policy":{"fetch":"https://www.jobscan.co/privacy"},"Terms of Service":{"fetch":"https://www.jobscan.co/terms-of-service"}}}
+{
+  "name": "Jobscan",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.jobscan.co/privacy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.jobscan.co/terms-of-service"
+    }
+  }
+}

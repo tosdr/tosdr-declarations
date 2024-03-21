@@ -1,1 +1,11 @@
-{"name":"elifesciences","documents":{"Terms of Service":{"fetch":"https://elifesciences.org/terms"},"Privacy Policy":{"fetch":"https://elifesciences.org/privacy"}}}
+{
+  "name": "Elifesciences",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://elifesciences.org/terms"
+    },
+    "Legal Information": {
+      "fetch": "https://elifesciences.org/privacy"
+    }
+  }
+}

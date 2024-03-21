@@ -1,1 +1,9 @@
-{"name":"Other Things in General","documents":{"Privacy Policy":{"fetch":"https://otherthingsingeneral.com/page/privacy","select":"body"}}}
+{
+  "name": "Other things in general",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://otherthingsingeneral.com/page/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Kairos Software","documents":{"Privacy Policy":{"fetch":"https://kairos-software.net/privacy-policy/","select":"html > body > div:first-of-type > div > div > main > article > div > div > div > div > div > div > div > div > div > div > div"}}}
+{
+  "name": "Kairos software",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://kairos-software.net/privacy-policy/",
+      "select": "html > body > div:first-of-type > div > div > main > article > div > div > div > div > div > div > div > div > div > div > div"
+    }
+  }
+}

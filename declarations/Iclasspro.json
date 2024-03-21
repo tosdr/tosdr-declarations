@@ -1,1 +1,9 @@
-{"name":"iClassPro","documents":{"Privacy Policy":{"fetch":"https://www.iclasspro.com/notice/privacy-policy","select":"body"}}}
+{
+  "name": "Iclasspro",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.iclasspro.com/notice/privacy-policy",
+      "select": "body"
+    }
+  }
+}

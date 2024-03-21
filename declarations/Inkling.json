@@ -1,1 +1,11 @@
-{"name":"Inkling","documents":{"Terms of Service":{"fetch":"https://store.inkling.com/terms/"},"Privacy Policy":{"fetch":"https://store.inkling.com/privacy/"}}}
+{
+  "name": "Inkling",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://store.inkling.com/terms/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://store.inkling.com/privacy/"
+    }
+  }
+}

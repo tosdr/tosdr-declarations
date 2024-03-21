@@ -1,1 +1,9 @@
-{"name":"lakka.tv","documents":{"Privacy Policy":{"fetch":"https://lakka.tv/about/","select":"html > body > div:first-of-type"}}}
+{
+  "name": "Lakkatv",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://lakka.tv/about/",
+      "select": "html > body > div:first-of-type"
+    }
+  }
+}

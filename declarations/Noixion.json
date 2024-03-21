@@ -1,1 +1,11 @@
-{"name":"Noixion","documents":{"Terms of Service":{"fetch":"https://noixion.tv/about/terms"},"Privacy Policy":{"fetch":"https://noixion.tv/about/privacy"}}}
+{
+  "name": "Noixion",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://noixion.tv/about/terms"
+    },
+    "Privacy Policy": {
+      "fetch": "https://noixion.tv/about/privacy"
+    }
+  }
+}

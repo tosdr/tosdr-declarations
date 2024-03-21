@@ -1,1 +1,9 @@
-{"name":"North Sky Games","documents":{"Privacy Policy":{"fetch":"https://www.northskygames.com/Privacy.html","select":"body"}}}
+{
+  "name": "North sky games",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.northskygames.com/Privacy.html",
+      "select": "body"
+    }
+  }
+}

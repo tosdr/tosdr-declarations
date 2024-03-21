@@ -1,1 +1,9 @@
-{"name":"BeWelcome","documents":{"Terms of Service":{"fetch":"https://www.bewelcome.org/terms","select":"html > body > main > div:nth-of-type(2)"}}}
+{
+  "name": "Bewelcome",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.bewelcome.org/terms",
+      "select": "html > body > main > div:nth-of-type(2)"
+    }
+  }
+}

@@ -1,1 +1,16 @@
-{"name":"Archive of Our Own","documents":{"Privacy Policy":{"fetch":"https://archiveofourown.org/tos#privacy","select":"body"},"Terms of Service":{"fetch":"https://archiveofourown.org/tos"},"Copyright Claims Policy":{"fetch":"https://archiveofourown.org/dmca","select":"body"}}}
+{
+  "name": "Archive of our own",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://archiveofourown.org/tos#privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://archiveofourown.org/tos"
+    },
+    "Copyright Claims Policy": {
+      "fetch": "https://archiveofourown.org/dmca",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Thuiswinkel.org","documents":{"Trackers Policy":{"fetch":"https://www.thuiswinkel.org/cookie-informatie","select":"body"}}}
+{
+  "name": "Thuiswinkelorg",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.thuiswinkel.org/cookie-informatie",
+      "select": "body"
+    }
+  }
+}

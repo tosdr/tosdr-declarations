@@ -1,1 +1,9 @@
-{"name":"Commu","documents":{"Terms of Service":{"fetch":"https://commuapp.fi/en/terms-of-use/","select":"body"}}}
+{
+  "name": "Commu",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://commuapp.fi/en/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

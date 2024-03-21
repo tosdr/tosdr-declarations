@@ -1,1 +1,21 @@
-{"name":"Paxful","documents":{"Terms of Service":{"fetch":"https://paxful.com/stablecoin-terms-of-service","select":"body"},"Privacy Policy":{"fetch":"https://paxful.com/privacy-notice","select":"body"},"Trackers Policy":{"fetch":"https://paxful.com/cookie-policy","select":" > section"}}}
+{
+  "name": "Paxful",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://paxful.com/stablecoin-terms-of-service",
+      "select": "body"
+    },
+    "Policy": {
+      "fetch": "https://paxful.com/aml-policy",
+      "select": "body"
+    },
+    "Legal Information": {
+      "fetch": "https://paxful.com/privacy-notice",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://paxful.com/cookie-policy",
+      "select": " > section"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"raidbots","documents":{"Privacy Policy":{"fetch":"https://www.raidbots.com/privacy","select":"body"}}}
+{
+  "name": "Raidbots",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.raidbots.com/privacy",
+      "select": "body"
+    }
+  }
+}

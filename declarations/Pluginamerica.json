@@ -1,1 +1,8 @@
-{"name":"PlugInAmerica ","documents":{"Privacy Policy":{"fetch":"https://pluginamerica.org/privacy-policy/"}}}
+{
+  "name": "Pluginamerica",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://pluginamerica.org/privacy-policy/"
+    }
+  }
+}

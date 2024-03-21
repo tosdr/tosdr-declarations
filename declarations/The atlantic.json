@@ -1,1 +1,15 @@
-{"name":"The Atlantic","documents":{"Terms of Service":{"fetch":"https://www.theatlantic.com/terms-and-conditions/"},"Privacy Policy":{"fetch":"https://www.theatlantic.com/privacy-policy/"}}}
+{
+  "name": "The atlantic",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.theatlantic.com/terms-and-conditions/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.theatlantic.com/privacy-policy/"
+    },
+    "Vulnerability Disclosure Policy": {
+      "fetch": "https://www.theatlantic.com/responsible-disclosure-policy/",
+      "select": "html"
+    }
+  }
+}

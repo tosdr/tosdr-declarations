@@ -1,1 +1,9 @@
-{"name":"Awesomesauce Software","documents":{"Privacy Policy":{"fetch":"https://awesomesauce.software/privacy","select":"body"}}}
+{
+  "name": "Awesomesauce software",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://awesomesauce.software/privacy",
+      "select": "body"
+    }
+  }
+}

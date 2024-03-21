@@ -1,1 +1,9 @@
-{"name":"LifeStreet","documents":{"Privacy Policy":{"fetch":"https://lifestreet.com/privacy/","select":"body"}}}
+{
+  "name": "Lifestreet",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://lifestreet.com/privacy/",
+      "select": "body"
+    }
+  }
+}

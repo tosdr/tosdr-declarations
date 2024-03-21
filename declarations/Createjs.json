@@ -1,1 +1,9 @@
-{"name":"CreateJS ","documents":{"Privacy Policy":{"fetch":"https://createjs.com/legal/privacy.html","select":"body"}}}
+{
+  "name": "Createjs",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://createjs.com/legal/privacy.html",
+      "select": "body"
+    }
+  }
+}

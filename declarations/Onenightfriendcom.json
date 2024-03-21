@@ -1,1 +1,9 @@
-{"name":"onenightfriend.com","documents":{"Privacy Policy":{"fetch":"https://www.onenightfriend.com/c3RhdGljUGFnZS9wcml2YWN5cG9saWN5b25lbmlnaHRmcmllbmQuY29t","select":"body"}}}
+{
+  "name": "Onenightfriendcom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.onenightfriend.com/c3RhdGljUGFnZS9wcml2YWN5cG9saWN5b25lbmlnaHRmcmllbmQuY29t",
+      "select": "body"
+    }
+  }
+}

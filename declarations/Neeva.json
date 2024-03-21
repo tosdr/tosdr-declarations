@@ -1,1 +1,16 @@
-{"name":"neeva","documents":{"Terms of Service":{"fetch":"https://neeva.com/terms"},"Privacy Policy":{"fetch":"https://neeva.com/privacy","select":"body"},"Copyright Claims Policy":{"fetch":"https://neeva.com/dmca","select":"body"}}}
+{
+  "name": "Neeva",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://neeva.com/terms"
+    },
+    "Privacy Policy": {
+      "fetch": "https://neeva.com/privacy",
+      "select": "body"
+    },
+    "Copyright Claims Policy": {
+      "fetch": "https://neeva.com/dmca",
+      "select": "body"
+    }
+  }
+}

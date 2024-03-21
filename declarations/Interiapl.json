@@ -1,1 +1,9 @@
-{"name":"interia.pl","documents":{"Privacy Policy":{"fetch":"https://prywatnosc.interia.pl/polityka-prywatnosci/","select":"body"}}}
+{
+  "name": "Interiapl",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://prywatnosc.interia.pl/polityka-prywatnosci/",
+      "select": "body"
+    }
+  }
+}

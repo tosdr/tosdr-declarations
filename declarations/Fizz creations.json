@@ -1,1 +1,9 @@
-{"name":"Fizz Creations","documents":{"Terms of Service":{"fetch":"https://www.fizzcreations.com/terms-and-conditions/","select":"body"}}}
+{
+  "name": "Fizz creations",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.fizzcreations.com/terms-and-conditions/",
+      "select": "body"
+    }
+  }
+}

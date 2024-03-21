@@ -1,1 +1,11 @@
-{"name":"CPA or Accounting Firm","documents":{"Privacy Policy":{"fetch":"http://www.cpas.net/privacy"},"Terms of Service":{"fetch":"http://www.cpas.net/terms"}}}
+{
+  "name": "Cpa or accounting firm",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "http://www.cpas.net/privacy"
+    },
+    "Terms of Service": {
+      "fetch": "http://www.cpas.net/terms"
+    }
+  }
+}

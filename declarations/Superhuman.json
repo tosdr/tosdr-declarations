@@ -1,1 +1,9 @@
-{"name":"Superhuman ","documents":{"Terms of Service":{"fetch":"https://superhuman.com/terms","select":"body"}}}
+{
+  "name": "Superhuman",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://superhuman.com/terms",
+      "select": "body"
+    }
+  }
+}

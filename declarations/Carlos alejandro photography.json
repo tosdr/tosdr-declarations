@@ -1,1 +1,9 @@
-{"name":"Carlos Alejandro Photography","documents":{"Legal Information":{"fetch":"https://carlosalejandro.soy/legal/","select":"body"}}}
+{
+  "name": "Carlos alejandro photography",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://carlosalejandro.soy/legal/",
+      "select": "body"
+    }
+  }
+}

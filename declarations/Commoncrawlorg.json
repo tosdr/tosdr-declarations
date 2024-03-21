@@ -1,1 +1,9 @@
-{"name":"commoncrawl.org","documents":{"Terms of Service":{"fetch":"https://commoncrawl.org/terms-of-use/","select":"body"}}}
+{
+  "name": "Commoncrawlorg",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://commoncrawl.org/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

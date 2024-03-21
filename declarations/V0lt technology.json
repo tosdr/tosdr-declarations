@@ -1,1 +1,9 @@
-{"name":"V0LT TECHNOLOGY","documents":{"Privacy Policy":{"fetch":"https://v0lttech.com/privacy.php","select":"html > body > main > div"}}}
+{
+  "name": "V0lt technology",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://v0lttech.com/privacy.php",
+      "select": "html > body > main > div"
+    }
+  }
+}

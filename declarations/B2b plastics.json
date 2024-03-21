@@ -1,1 +1,9 @@
-{"name":"B2B Plastics","documents":{"Privacy Policy":{"fetch":"https://b2bplastics.com/privacy","select":"body"}}}
+{
+  "name": "B2b plastics",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://b2bplastics.com/privacy",
+      "select": "body"
+    }
+  }
+}

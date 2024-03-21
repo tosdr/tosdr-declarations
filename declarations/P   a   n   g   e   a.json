@@ -1,1 +1,9 @@
-{"name":" P   A   N   G   E   A ","documents":{"Privacy Policy":{"fetch":"https://pangea.group/policies.php","select":"body"}}}
+{
+  "name": "P   a   n   g   e   a",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://pangea.group/policies.php",
+      "select": "body"
+    }
+  }
+}

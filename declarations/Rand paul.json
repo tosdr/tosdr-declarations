@@ -1,1 +1,9 @@
-{"name":"Rand Paul ","documents":{"Terms of Service":{"fetch":"https://randpaul.com/mobile-tos/","select":"body"}}}
+{
+  "name": "Rand paul",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://randpaul.com/mobile-tos/",
+      "select": "body"
+    }
+  }
+}

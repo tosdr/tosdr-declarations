@@ -1,1 +1,12 @@
-{"name":"helpshift","documents":{"Privacy Policy":{"fetch":"https://www.helpshift.com/legal/privacy/"},"Terms of Service":{"fetch":"https://www.helpshift.com/legal/terms/","select":"body"}}}
+{
+  "name": "Helpshift",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.helpshift.com/legal/privacy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.helpshift.com/legal/terms/",
+      "select": "body"
+    }
+  }
+}

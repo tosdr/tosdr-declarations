@@ -1,1 +1,8 @@
-{"name":"Server Pro","documents":{"Terms of Service":{"fetch":"https://server.pro/terms"}}}
+{
+  "name": "Server pro",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://server.pro/terms"
+    }
+  }
+}

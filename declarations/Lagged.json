@@ -1,1 +1,9 @@
-{"name":"Lagged","documents":{"Privacy Policy":{"fetch":"https://lagged.com/privacy","select":"body"}}}
+{
+  "name": "Lagged",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://lagged.com/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"NaughtyFucks","documents":{"Privacy Policy":{"fetch":"http://www.naughtyfucks.com/privacy.html","select":"body"}}}
+{
+  "name": "Naughtyfucks",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "http://www.naughtyfucks.com/privacy.html",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"Thank and Praise","documents":{"Privacy Policy":{"fetch":"https://thankandpraise.com/privacy-policy/","select":"html > body > div:first-of-type > section:first-of-type"},"Terms of Service":{"fetch":"https://thankandpraise.com/terms-of-use/","select":"body"}}}
+{
+  "name": "Thank and praise",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://thankandpraise.com/privacy-policy/",
+      "select": "html > body > div:first-of-type > section:first-of-type"
+    },
+    "Terms of Service": {
+      "fetch": "https://thankandpraise.com/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

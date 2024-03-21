@@ -1,1 +1,9 @@
-{"name":"Resoundly","documents":{"Privacy Policy":{"fetch":"https://resound.ly/privacy-policy/","select":"body"}}}
+{
+  "name": "Resoundly",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://resound.ly/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

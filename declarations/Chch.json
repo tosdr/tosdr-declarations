@@ -1,1 +1,12 @@
-{"name":"ch.ch","documents":{"Privacy Policy":{"fetch":"https://www.ch.ch/en/legal/"},"Terms of Service":{"fetch":"https://www.ch.ch/en/terms-and-conditions/","select":"body"}}}
+{
+  "name": "Chch",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.ch.ch/en/legal/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.ch.ch/en/terms-and-conditions/",
+      "select": "body"
+    }
+  }
+}

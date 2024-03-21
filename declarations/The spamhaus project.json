@@ -1,1 +1,9 @@
-{"name":"THE SPAMHAUS PROJECT ","documents":{"Privacy Policy":{"fetch":"https://www.spamhaus.org/organization/privacy/","select":"body"}}}
+{
+  "name": "The spamhaus project",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.spamhaus.org/organization/privacy/",
+      "select": "body"
+    }
+  }
+}

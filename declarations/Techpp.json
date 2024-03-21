@@ -1,1 +1,8 @@
-{"name":"TechPP","documents":{}}
+{
+  "name": "Techpp",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://techpp.com/about/disclaimer/"
+    }
+  }
+}

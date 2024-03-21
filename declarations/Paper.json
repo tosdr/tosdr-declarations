@@ -1,1 +1,9 @@
-{"name":"Paper","documents":{"Privacy Policy":{"fetch":"https://pages.paper.co/privacy-statement","select":"body"}}}
+{
+  "name": "Paper",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://pages.paper.co/privacy-statement",
+      "select": "body"
+    }
+  }
+}

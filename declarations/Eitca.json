@@ -1,1 +1,12 @@
-{"name":"EITCA","documents":{"Privacy Policy":{"fetch":"https://eitca.org/privacy-policy/"},"Terms of Service":{"fetch":"https://eitca.org/terms-and-conditions/","select":"body"}}}
+{
+  "name": "Eitca",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://eitca.org/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://eitca.org/terms-and-conditions/",
+      "select": "body"
+    }
+  }
+}

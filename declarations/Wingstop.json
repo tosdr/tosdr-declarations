@@ -1,1 +1,12 @@
-{"name":"Wingstop  ","documents":{"Terms of Service":{"fetch":"https://www.wingstop.com/terms-of-use"},"Privacy Policy":{"fetch":"https://www.wingstop.com/privacy","select":"body"}}}
+{
+  "name": "Wingstop",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.wingstop.com/terms-of-use"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.wingstop.com/privacy",
+      "select": "body"
+    }
+  }
+}

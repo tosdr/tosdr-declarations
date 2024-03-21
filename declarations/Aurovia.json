@@ -1,1 +1,9 @@
-{"name":"AUROVIA ","documents":{"Privacy Policy":{"fetch":"https://www.aurovia.com/curensee/privacy-policy/","select":"body"}}}
+{
+  "name": "Aurovia",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.aurovia.com/curensee/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

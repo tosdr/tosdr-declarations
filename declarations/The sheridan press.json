@@ -1,1 +1,11 @@
-{"name":"The Sheridan Press","documents":{"Terms of Service":{"fetch":"https://www.thesheridanpress.com/site/terms.html"},"Privacy Policy":{"fetch":"https://www.thesheridanpress.com/site/privacy.html"}}}
+{
+  "name": "The sheridan press",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.thesheridanpress.com/site/terms.html"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.thesheridanpress.com/site/privacy.html"
+    }
+  }
+}

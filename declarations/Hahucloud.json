@@ -1,1 +1,9 @@
-{"name":"HahuCloud","documents":{"Privacy Policy":{"fetch":"https://www.hahucloud.com/privacy","select":"body"}}}
+{
+  "name": "Hahucloud",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.hahucloud.com/privacy",
+      "select": "body"
+    }
+  }
+}

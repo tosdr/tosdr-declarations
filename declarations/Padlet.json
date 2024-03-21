@@ -1,1 +1,9 @@
-{"name":"Padlet","documents":{"Privacy Policy":{"fetch":"https://padlet.com/about/privacy","select":"body"}}}
+{
+  "name": "Padlet",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://padlet.com/about/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":"The Back Room Tech","documents":{"Privacy Policy":{"fetch":"https://thebackroomtech.com/privacy-policy/"}}}
+{
+  "name": "The back room tech",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://thebackroomtech.com/privacy-policy/"
+    }
+  }
+}

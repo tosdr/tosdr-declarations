@@ -1,1 +1,9 @@
-{"name":"Cayuga Community College","documents":{"Privacy Policy":{"fetch":"https://www.iubenda.com/privacy-policy/8183428/legal","select":"body"}}}
+{
+  "name": "Cayuga community college",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.iubenda.com/privacy-policy/8183428/legal",
+      "select": "body"
+    }
+  }
+}

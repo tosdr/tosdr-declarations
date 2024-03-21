@@ -1,1 +1,9 @@
-{"name":"Morrison Publishing","documents":{"Privacy Policy":{"fetch":"https://www.morrisonpublishing.com/privacy-policy","select":"html > body > div:first-of-type > div:first-of-type > div:first-of-type"}}}
+{
+  "name": "Morrison publishing",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.morrisonpublishing.com/privacy-policy",
+      "select": "html > body > div:first-of-type > div:first-of-type > div:first-of-type"
+    }
+  }
+}

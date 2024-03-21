@@ -1,1 +1,9 @@
-{"name":"Caffeinated Press","documents":{"Privacy Policy":{"fetch":"https://www.caffeinated-press.com/policies/","select":"body"}}}
+{
+  "name": "Caffeinated press",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.caffeinated-press.com/policies/",
+      "select": "body"
+    }
+  }
+}

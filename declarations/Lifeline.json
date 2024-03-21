@@ -1,1 +1,9 @@
-{"name":"Lifeline ","documents":{"Privacy Policy":{"fetch":"https://www.lifeline.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Lifeline",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.lifeline.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

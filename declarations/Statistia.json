@@ -1,1 +1,8 @@
-{"name":"Statistia","documents":{"Terms of Service":{"fetch":"https://www.statista.com/imprint/#legal"}}}
+{
+  "name": "Statistia",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.statista.com/imprint/#legal"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"PIP","documents":{"Trackers Policy":{"fetch":"https://pipglobal.com/legal?type=pr&lID=004","select":"body"}}}
+{
+  "name": "Pip",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://pipglobal.com/legal?type=pr&lID=004",
+      "select": "body"
+    }
+  }
+}

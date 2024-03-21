@@ -1,1 +1,8 @@
-{"name":"Simply Earth","documents":{"Terms of Service":{"fetch":"https://simplyearth.com/pages/terms-of-service"}}}
+{
+  "name": "Simply earth",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://simplyearth.com/pages/terms-of-service"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"Counter Social","documents":{"Terms of Service":{"fetch":"https://counter.social/terms.html","select":"body"},"Privacy Policy":{"fetch":"https://counter.social/privacy.html","select":"body"}}}
+{
+  "name": "Counter social",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://counter.social/terms.html",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://counter.social/privacy.html",
+      "select": "body"
+    }
+  }
+}

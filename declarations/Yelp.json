@@ -1,1 +1,15 @@
-{"name":"yelp","documents":{"Privacy Policy":{"fetch":"https://www.yelp.com/tos/privacy_policy"},"Terms of Service":{"fetch":"https://www.yelp.com/static?p=tos"},"Community Guidelines":{"fetch":"https://www.yelp.com/guidelines","select":"body"}}}
+{
+  "name": "Yelp",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.yelp.com/tos/privacy_policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.yelp.com/static?p=tos"
+    },
+    "Community Guidelines": {
+      "fetch": "https://www.yelp.com/guidelines",
+      "select": "body"
+    }
+  }
+}

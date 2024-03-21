@@ -1,1 +1,8 @@
-{"name":"CallApp","documents":{"Privacy Policy":{"fetch":"https://callapp.com/privacy"}}}
+{
+  "name": "Callapp",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://callapp.com/privacy"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Border FM","documents":{"Privacy Policy":{"fetch":"https://border.fm/privacidad","select":"body"}}}
+{
+  "name": "Border fm",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://border.fm/privacidad",
+      "select": "body"
+    }
+  }
+}

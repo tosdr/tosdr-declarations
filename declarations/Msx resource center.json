@@ -1,1 +1,11 @@
-{"name":"MSX Resource Center","documents":{"Privacy Policy":{"fetch":"https://www.msx.org/page/privacy-policy"},"Terms of Service":{"fetch":"https://www.msx.org/page/policies"}}}
+{
+  "name": "Msx resource center",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.msx.org/page/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.msx.org/page/policies"
+    }
+  }
+}

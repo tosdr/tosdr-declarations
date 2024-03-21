@@ -1,1 +1,13 @@
-{"name":"solonodes","documents":{"Terms of Service":{"fetch":"https://solonodes.xyz/t&c","select":"body"},"Privacy Policy":{"fetch":"https://solonodes.xyz/privacy","select":"body"}}}
+{
+  "name": "Solonodes",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://solonodes.xyz/t&c",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://solonodes.xyz/privacy",
+      "select": "body"
+    }
+  }
+}

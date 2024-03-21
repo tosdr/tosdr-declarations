@@ -1,1 +1,9 @@
-{"name":"StimFinancial","documents":{"Privacy Policy":{"fetch":"https://stimfinancial.com/privacy_policy.html","select":"body"}}}
+{
+  "name": "Stimfinancial",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://stimfinancial.com/privacy_policy.html",
+      "select": "body"
+    }
+  }
+}

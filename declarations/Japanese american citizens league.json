@@ -1,1 +1,9 @@
-{"name":"Japanese American Citizens League","documents":{"Terms of Service":{"fetch":"https://jacl.org/terms-and-conditions","select":"body"}}}
+{
+  "name": "Japanese american citizens league",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://jacl.org/terms-and-conditions",
+      "select": "body"
+    }
+  }
+}

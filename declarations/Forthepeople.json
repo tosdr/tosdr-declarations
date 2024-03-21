@@ -1,1 +1,13 @@
-{"name":"forthepeople","documents":{"Privacy Policy":{"fetch":"https://www.forthepeople.com/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.forthepeople.com/disclaimer-and-terms-of-use/","select":"body"}}}
+{
+  "name": "Forthepeople",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.forthepeople.com/privacy-policy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.forthepeople.com/disclaimer-and-terms-of-use/",
+      "select": "body"
+    }
+  }
+}

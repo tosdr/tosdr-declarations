@@ -1,1 +1,8 @@
-{"name":"ClipConverter.cc","documents":{"Privacy Policy":{"fetch":"https://www.clipconverter.cc/terms/"}}}
+{
+  "name": "Clipconvertercc",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.clipconverter.cc/terms/"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"blox.land","documents":{"Terms of Service":{"fetch":"https://blox.land/terms","select":"body"}}}
+{
+  "name": "Bloxland",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://blox.land/terms",
+      "select": "body"
+    }
+  }
+}

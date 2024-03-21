@@ -1,1 +1,9 @@
-{"name":"Visitor Analytics ","documents":{"Terms of Service":{"fetch":"https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/terms-of-use/","select":"body"}}}
+{
+  "name": "Visitor analytics",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

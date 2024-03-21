@@ -1,1 +1,8 @@
-{"name":"Australian Financial Review","documents":{"Terms of Service":{"fetch":"https://www.afr.com/subscription-terms-and-conditions"}}}
+{
+  "name": "Australian financial review",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.afr.com/subscription-terms-and-conditions"
+    }
+  }
+}

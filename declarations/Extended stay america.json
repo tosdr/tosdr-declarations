@@ -1,1 +1,9 @@
-{"name":"Extended Stay America","documents":{"Terms of Service":{"fetch":"https://www.extendedstayamerica.com/terms-conditions","select":"body"}}}
+{
+  "name": "Extended stay america",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.extendedstayamerica.com/terms-conditions",
+      "select": "body"
+    }
+  }
+}

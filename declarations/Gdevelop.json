@@ -1,1 +1,13 @@
-{"name":"GDevelop","documents":{"Terms of Service":{"fetch":"https://gdevelop.io/page/terms-and-conditions","select":"body"},"Privacy Policy":{"fetch":"https://gdevelop.io/page/privacy-policy","select":"body"}}}
+{
+  "name": "Gdevelop",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://gdevelop.io/page/terms-and-conditions",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://gdevelop.io/page/privacy-policy",
+      "select": "body"
+    }
+  }
+}

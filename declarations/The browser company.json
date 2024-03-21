@@ -1,1 +1,9 @@
-{"name":"The Browser Company","documents":{"Privacy Policy":{"fetch":"https://arc.net/privacy","select":"body"}}}
+{
+  "name": "The browser company",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://arc.net/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,11 @@
-{"name":"PikminFanon ","documents":{"Trackers Policy":{"fetch":"https://pikminfanon.com/wiki/PikminFanon:Cookie_policy"},"Privacy Policy":{"fetch":"https://pikminfanon.com/wiki/PikminFanon:Privacy_policy"}}}
+{
+  "name": "Pikminfanon",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://pikminfanon.com/wiki/PikminFanon:Cookie_policy"
+    },
+    "Privacy Policy": {
+      "fetch": "https://pikminfanon.com/wiki/PikminFanon:Privacy_policy"
+    }
+  }
+}

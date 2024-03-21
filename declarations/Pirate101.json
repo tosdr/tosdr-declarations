@@ -1,1 +1,11 @@
-{"name":"Pirate101","documents":{"Privacy Policy":{"fetch":"https://www.pirate101.com/free_game/privacy-policy"},"Terms of Service":{"fetch":"https://www.pirate101.com/free_game/terms_of_use"}}}
+{
+  "name": "Pirate101",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.pirate101.com/free_game/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.pirate101.com/free_game/terms_of_use"
+    }
+  }
+}

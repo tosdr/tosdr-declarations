@@ -1,1 +1,9 @@
-{"name":"Alignable","documents":{"Trackers Policy":{"fetch":"https://www.alignable.com/visitor-cookie-policy","select":"body"}}}
+{
+  "name": "Alignable",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.alignable.com/visitor-cookie-policy",
+      "select": "body"
+    }
+  }
+}

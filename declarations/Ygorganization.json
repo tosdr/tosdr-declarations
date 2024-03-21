@@ -1,1 +1,8 @@
-{"name":"YGOrganization","documents":{"Privacy Policy":{"fetch":"https://ygorganization.com/tos-pp/"}}}
+{
+  "name": "Ygorganization",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://ygorganization.com/tos-pp/"
+    }
+  }
+}

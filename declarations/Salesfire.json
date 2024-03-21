@@ -1,1 +1,9 @@
-{"name":"Salesfire","documents":{"Terms of Service":{"fetch":"https://www.salesfire.co.uk/policies/terms-and-conditions.pdf","select":"body"}}}
+{
+  "name": "Salesfire",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.salesfire.co.uk/policies/terms-and-conditions.pdf",
+      "select": "body"
+    }
+  }
+}

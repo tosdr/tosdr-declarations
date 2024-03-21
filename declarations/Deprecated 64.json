@@ -1,1 +1,0 @@
-{"name":"DEPRECATED #64","documents":{"Privacy Policy":{"fetch":"https://www.thorsteinsoftware.com/privacypolicy","select":"html > body > main"}}}

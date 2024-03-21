@@ -1,1 +1,9 @@
-{"name":"Giant Eagle","documents":{"Privacy Policy":{"fetch":"https://account.gianteagle.com/PrivacyPolicy","select":"body"}}}
+{
+  "name": "Giant eagle",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://account.gianteagle.com/PrivacyPolicy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":"otzit","documents":{"Privacy Policy":{"fetch":"search.qa.otzaf.org/#/privacy-policy"}}}
+{
+  "name": "Otzit",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "search.qa.otzaf.org/#/privacy-policy"
+    }
+  }
+}

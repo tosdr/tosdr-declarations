@@ -1,1 +1,8 @@
-{"name":"General Services Administration","documents":{}}
+{
+  "name": "General services administration",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.gsa.gov/website-information/website-policies#privacy"
+    }
+  }
+}

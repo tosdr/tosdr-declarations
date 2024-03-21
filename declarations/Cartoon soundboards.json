@@ -1,1 +1,8 @@
-{"name":"Cartoon Soundboards","documents":{"Privacy Policy":{"fetch":"https://www.cartoonsoundboards.com/privacy/"}}}
+{
+  "name": "Cartoon soundboards",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.cartoonsoundboards.com/privacy/"
+    }
+  }
+}

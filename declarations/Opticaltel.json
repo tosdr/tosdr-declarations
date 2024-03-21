@@ -1,1 +1,13 @@
-{"name":"OpticalTel","documents":{"Privacy Policy":{"fetch":"https://opticaltel.com/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://opticaltel.com/terms-and-conditions/","select":"body"}}}
+{
+  "name": "Opticaltel",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://opticaltel.com/privacy-policy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://opticaltel.com/terms-and-conditions/",
+      "select": "body"
+    }
+  }
+}

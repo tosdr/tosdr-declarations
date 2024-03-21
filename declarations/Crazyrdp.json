@@ -1,1 +1,9 @@
-{"name":"CrazyRDP","documents":{"General Conditions of Sale":{"fetch":"https://docs.crazyrdp.com/#","select":"body"}}}
+{
+  "name": "Crazyrdp",
+  "documents": {
+    "Acceptable Use Policy": {
+      "fetch": "https://docs.crazyrdp.com/#",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"American Enterprise Institute","documents":{"Privacy Policy":{"fetch":"https://www.aei.org/about/terms-of-use/","select":"html > body > main > div > section > section > div"}}}
+{
+  "name": "American enterprise institute",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.aei.org/about/terms-of-use/",
+      "select": "html > body > main > div > section > section > div"
+    }
+  }
+}

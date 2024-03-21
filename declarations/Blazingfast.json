@@ -1,1 +1,9 @@
-{"name":"BlazingFast","documents":{"Acceptable Use Policy":{"fetch":"https://blazingfast.io/legal#","select":"body"}}}
+{
+  "name": "Blazingfast",
+  "documents": {
+    "Acceptable Use Policy": {
+      "fetch": "https://blazingfast.io/legal#",
+      "select": "body"
+    }
+  }
+}

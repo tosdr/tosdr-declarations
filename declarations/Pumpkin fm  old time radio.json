@@ -1,1 +1,14 @@
-{"name":"Pumpkin FM  Old Time Radio","documents":{"Copyright Claims Policy":{"fetch":"https://pumpkinfm.com/dmca-policy/"},"Privacy Policy":{"fetch":"https://pumpkinfm.com/privacy-policy/"},"Terms of Service":{"fetch":"https://pumpkinfm.com/terms-of-use/"}}}
+{
+  "name": "Pumpkin fm  old time radio",
+  "documents": {
+    "Copyright Claims Policy": {
+      "fetch": "https://pumpkinfm.com/dmca-policy/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://pumpkinfm.com/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://pumpkinfm.com/terms-of-use/"
+    }
+  }
+}

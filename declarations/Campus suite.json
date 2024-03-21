@@ -1,1 +1,13 @@
-{"name":"Campus Suite","documents":{"Terms of Service":{"fetch":"https://www.campussuite.com/campus-suite-terms-conditions","select":"body"},"Privacy Policy":{"fetch":"https://www.campussuite.com/privacy-policy","select":"body"}}}
+{
+  "name": "Campus suite",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.campussuite.com/campus-suite-terms-conditions",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.campussuite.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

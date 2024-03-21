@@ -1,1 +1,8 @@
-{"name":"Office of the Director of National Intelligence","documents":{"Privacy Policy":{"fetch":"https://www.intelligence.gov/information/privacy-policy"}}}
+{
+  "name": "Office of the director of national intelligence",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.intelligence.gov/information/privacy-policy"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"UltraViewer","documents":{"Privacy Policy":{"fetch":"https://ultraviewer.net/en/privacy.html","select":"html > body > div:first-of-type > div:nth-of-type(4) > div"},"Terms of Service":{"fetch":"https://ultraviewer.net/en/tos.html","select":"html > body > div:first-of-type > div:nth-of-type(4) > div"}}}
+{
+  "name": "Ultraviewer",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://ultraviewer.net/en/privacy.html",
+      "select": "html > body > div:first-of-type > div:nth-of-type(4) > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://ultraviewer.net/en/tos.html",
+      "select": "html > body > div:first-of-type > div:nth-of-type(4) > div"
+    }
+  }
+}

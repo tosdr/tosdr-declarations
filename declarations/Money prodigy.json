@@ -1,1 +1,8 @@
-{"name":"Money Prodigy ","documents":{"Terms of Service":{"fetch":"https://www.moneyprodigy.com/terms/"}}}
+{
+  "name": "Money prodigy",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.moneyprodigy.com/terms/"
+    }
+  }
+}

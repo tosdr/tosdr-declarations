@@ -1,1 +1,8 @@
-{"name":"Asbestosstar","documents":{"Privacy Policy":{"fetch":"https://asbestosstar.com/privacy-policy/"}}}
+{
+  "name": "Asbestosstar",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://asbestosstar.com/privacy-policy/"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":"jonas.me","documents":{"Privacy Policy":{"fetch":"https://www.jonas.me/privacy"}}}
+{
+  "name": "Jonasme",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.jonas.me/privacy"
+    }
+  }
+}

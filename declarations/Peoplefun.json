@@ -1,1 +1,9 @@
-{"name":"peoplefun ","documents":{"Privacy Policy":{"fetch":"https://www.peoplefun.com/privacy","select":"body"}}}
+{
+  "name": "Peoplefun",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.peoplefun.com/privacy",
+      "select": "body"
+    }
+  }
+}

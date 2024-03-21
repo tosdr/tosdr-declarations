@@ -1,1 +1,9 @@
-{"name":"KSAT.com","documents":{"Privacy Policy":{"fetch":"https://www.ksat.com/station/2019/11/06/privacy-policy/","select":"body"}}}
+{
+  "name": "Ksatcom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.ksat.com/station/2019/11/06/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

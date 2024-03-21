@@ -1,1 +1,8 @@
-{"name":"Fur Affinity","documents":{"Privacy Policy":{"fetch":"https://www.furaffinity.net/privacy"}}}
+{
+  "name": "Fur affinity",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.furaffinity.net/privacy"
+    }
+  }
+}

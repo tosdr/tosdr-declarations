@@ -1,1 +1,13 @@
-{"name":"Bitget","documents":{"Privacy Policy":{"fetch":"https://www.bitget.com/support/articles/360015150651","select":"html > body > div:first-of-type > div > div:nth-of-type(2) > main > div > div > div:nth-of-type(2) > div:nth-of-type(2) > div:first-of-type"},"Developer Terms":{"fetch":"https://www.bitget.com/support/articles/12560603797947","select":"html > body > div:first-of-type > div > div:nth-of-type(2) > main > div > div > div:nth-of-type(2) > div:nth-of-type(2) > div:first-of-type"}}}
+{
+  "name": "Bitget",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.bitget.com/support/articles/360015150651",
+      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > main > div > div > div:nth-of-type(2) > div:nth-of-type(2) > div:first-of-type"
+    },
+    "Developer Terms": {
+      "fetch": "https://www.bitget.com/support/articles/12560603797947",
+      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > main > div > div > div:nth-of-type(2) > div:nth-of-type(2) > div:first-of-type"
+    }
+  }
+}

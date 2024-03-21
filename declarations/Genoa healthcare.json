@@ -1,1 +1,9 @@
-{"name":"Genoa Healthcare","documents":{"Privacy Policy":{"fetch":"https://www.genoahealthcare.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Genoa healthcare",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.genoahealthcare.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

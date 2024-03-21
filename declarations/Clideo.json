@@ -1,1 +1,13 @@
-{"name":"clideo","documents":{"Terms of Service":{"fetch":"https://clideo.com/terms","select":"html > body > div:first-of-type > div"},"Privacy Policy":{"fetch":"https://clideo.com/privacy","select":"html > body > div:first-of-type > div"}}}
+{
+  "name": "Clideo",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://clideo.com/terms",
+      "select": "html > body > div:first-of-type > div"
+    },
+    "Privacy Policy": {
+      "fetch": "https://clideo.com/privacy",
+      "select": "html > body > div:first-of-type > div"
+    }
+  }
+}

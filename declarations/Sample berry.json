@@ -1,1 +1,13 @@
-{"name":"Sample Berry","documents":{"Privacy Policy":{"fetch":"https://p.sampleberry.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://p.sampleberry.com/terms-conditions","select":"body"}}}
+{
+  "name": "Sample berry",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://p.sampleberry.com/privacy-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://p.sampleberry.com/terms-conditions",
+      "select": "body"
+    }
+  }
+}

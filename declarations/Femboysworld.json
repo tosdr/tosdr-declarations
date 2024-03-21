@@ -1,1 +1,13 @@
-{"name":"femboys.world","documents":{"Copyright Claims Policy":{"fetch":"https://git.femboys.world/","select":"body"},"Privacy Policy":{"fetch":"https://ttv.femboys.world/privacy","select":"body"}}}
+{
+  "name": "Femboysworld",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://git.femboys.world/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://ttv.femboys.world/privacy",
+      "select": "body"
+    }
+  }
+}

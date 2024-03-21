@@ -1,1 +1,9 @@
-{"name":"My Town ","documents":{"Privacy Policy":{"fetch":"https://my-town.com/privacy-policy/","select":"body"}}}
+{
+  "name": "My town",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://my-town.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

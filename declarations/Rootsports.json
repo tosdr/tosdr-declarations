@@ -1,1 +1,9 @@
-{"name":"rootsports","documents":{"Privacy Policy":{"fetch":"https://northwest.rootsports.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Rootsports",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://northwest.rootsports.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

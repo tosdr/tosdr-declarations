@@ -1,1 +1,8 @@
-{"name":"Gruppo Guarino","documents":{"Privacy Policy":{"fetch":"https://guarinolab.it/privacy-policy/"}}}
+{
+  "name": "Gruppo guarino",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://guarinolab.it/privacy-policy/"
+    }
+  }
+}

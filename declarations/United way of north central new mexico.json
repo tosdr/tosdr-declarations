@@ -1,1 +1,9 @@
-{"name":"United Way of North Central New Mexico","documents":{"Privacy Policy":{"fetch":"https://uwncnm.org/privacy-policy/","select":"body"}}}
+{
+  "name": "United way of north central new mexico",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://uwncnm.org/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

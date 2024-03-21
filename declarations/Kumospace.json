@@ -1,1 +1,9 @@
-{"name":"Kumospace","documents":{"Privacy Policy":{"fetch":"https://www.kumospace.com/privacy","select":"body"}}}
+{
+  "name": "Kumospace",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.kumospace.com/privacy",
+      "select": "body"
+    }
+  }
+}

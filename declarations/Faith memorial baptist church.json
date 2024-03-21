@@ -1,1 +1,11 @@
-{"name":"Faith Memorial Baptist Church","documents":{"Privacy Policy":{"fetch":"https://fmbc.us/privacy-policy"},"Terms of Service":{"fetch":"https://fmbc.us/terms-conditions/"}}}
+{
+  "name": "Faith memorial baptist church",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://fmbc.us/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://fmbc.us/terms-conditions/"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"Minecraft","documents":{"Privacy Policy":{"fetch":"https://privacy.microsoft.com/en-us/privacystatement","select":"html > body > div:first-of-type > div"},"Terms of Service":{"fetch":"https://www.minecraft.net/en-us/eula","select":"body"}}}
+{
+  "name": "Minecraft",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://privacy.microsoft.com/en-us/privacystatement",
+      "select": "html > body > div:first-of-type > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.minecraft.net/en-us/eula",
+      "select": "body"
+    }
+  }
+}

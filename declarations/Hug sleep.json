@@ -1,1 +1,9 @@
-{"name":"Hug Sleep","documents":{"Privacy Policy":{"fetch":"https://hugsleep.com/pages/privacy-policy","select":"html > body > main > section > div"}}}
+{
+  "name": "Hug sleep",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://hugsleep.com/pages/privacy-policy",
+      "select": "html > body > main > section > div"
+    }
+  }
+}

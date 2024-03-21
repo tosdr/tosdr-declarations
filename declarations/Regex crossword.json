@@ -1,1 +1,9 @@
-{"name":"Regex Crossword","documents":{"Privacy Policy":{"fetch":"https://regexcrossword.com/privacy","select":"body"}}}
+{
+  "name": "Regex crossword",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://regexcrossword.com/privacy",
+      "select": "body"
+    }
+  }
+}

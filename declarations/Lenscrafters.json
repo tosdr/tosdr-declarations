@@ -1,1 +1,12 @@
-{"name":"lenscrafters","documents":{"Privacy Policy":{"fetch":"https://www.lenscrafters.com/lc-us/privacy-policy"},"Terms of Service":{"fetch":"https://www.lenscrafters.com/lc-us/terms-and-conditions","select":"body"}}}
+{
+  "name": "Lenscrafters",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.lenscrafters.com/lc-us/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.lenscrafters.com/lc-us/terms-and-conditions",
+      "select": "body"
+    }
+  }
+}

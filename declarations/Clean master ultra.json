@@ -1,1 +1,9 @@
-{"name":"Clean Master Ultra ","documents":{"Privacy Policy":{"fetch":"https://cleanermasterultra.com/privacy-policy.html","select":"body"}}}
+{
+  "name": "Clean master ultra",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://cleanermasterultra.com/privacy-policy.html",
+      "select": "body"
+    }
+  }
+}

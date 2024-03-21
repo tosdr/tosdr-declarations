@@ -1,1 +1,11 @@
-{"name":"Disconnect","documents":{"Privacy Policy":{"fetch":"https://disconnect.me/privacy"},"Terms of Service":{"fetch":"https://disconnect.me/terms"}}}
+{
+  "name": "Disconnect",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://disconnect.me/privacy"
+    },
+    "Terms of Service": {
+      "fetch": "https://disconnect.me/terms"
+    }
+  }
+}

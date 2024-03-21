@@ -1,1 +1,8 @@
-{"name":"Signal Stickers","documents":{"Privacy Policy":{"fetch":"https://signalstickers.com/about"}}}
+{
+  "name": "Signal stickers",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://signalstickers.com/about"
+    }
+  }
+}

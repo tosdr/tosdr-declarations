@@ -1,1 +1,8 @@
-{"name":"American Guest House","documents":{"Privacy Policy":{"fetch":"https://www.americanguesthouse.com/privacy-policy"}}}
+{
+  "name": "American guest house",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.americanguesthouse.com/privacy-policy"
+    }
+  }
+}

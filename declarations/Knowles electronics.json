@@ -1,1 +1,13 @@
-{"name":"Knowles Electronics","documents":{"Privacy Policy":{"fetch":"https://www.knowles.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.knowlescapacitors.com/getattachment/Knowles-T-C.pdf?lang=en-US","select":"body"}}}
+{
+  "name": "Knowles electronics",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.knowles.com/privacy-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.knowlescapacitors.com/getattachment/Knowles-T-C.pdf?lang=en-US",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Cambridge University Press & Assessment","documents":{"Privacy Policy":{"fetch":"https://www.cambridge.org/legal/privacy","select":"body"}}}
+{
+  "name": "Cambridge university press  assessment",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.cambridge.org/legal/privacy",
+      "select": "body"
+    }
+  }
+}

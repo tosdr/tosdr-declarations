@@ -1,1 +1,9 @@
-{"name":"adorion.net","documents":{"Terms of Service":{"fetch":"https://adorion.net/login/?0=/i/tos","select":"body"}}}
+{
+  "name": "Adorionnet",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://adorion.net/login/?0=/i/tos",
+      "select": "body"
+    }
+  }
+}

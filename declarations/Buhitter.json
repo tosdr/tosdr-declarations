@@ -1,1 +1,9 @@
-{"name":"Buhitter","documents":{"Privacy Policy":{"fetch":"https://buhitter.com/privacy","select":"body"}}}
+{
+  "name": "Buhitter",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://buhitter.com/privacy",
+      "select": "body"
+    }
+  }
+}

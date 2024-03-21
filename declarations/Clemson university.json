@@ -1,1 +1,13 @@
-{"name":"Clemson University ","documents":{"Privacy Policy":{"fetch":"http://www.clemson.edu/privacypolicy.html","select":"body"},"Corporate Social Responsibility":{"fetch":"https://www.clemson.edu/administration/internalaudit/ethicsline.html","select":"body"}}}
+{
+  "name": "Clemson university",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "http://www.clemson.edu/privacypolicy.html",
+      "select": "body"
+    },
+    "Corporate Social Responsibility": {
+      "fetch": "https://www.clemson.edu/administration/internalaudit/ethicsline.html",
+      "select": "body"
+    }
+  }
+}

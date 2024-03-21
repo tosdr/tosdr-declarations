@@ -1,1 +1,11 @@
-{"name":"craigslist","documents":{"Terms of Service":{"fetch":"https://www.craigslist.org/about/terms.of.use"},"Privacy Policy":{"fetch":"https://www.craigslist.org/about/privacy.policy"}}}
+{
+  "name": "Craigslist",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.craigslist.org/about/terms.of.use"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.craigslist.org/about/privacy.policy"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"dus.net ","documents":{"Privacy Policy":{"fetch":"https://dus.net/en/imprint","select":"body"},"Terms of Service":{"fetch":"https://dus.net/en/terms-of-service","select":"body"}}}
+{
+  "name": "Dusnet",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://dus.net/en/imprint",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://dus.net/en/terms-of-service",
+      "select": "body"
+    }
+  }
+}

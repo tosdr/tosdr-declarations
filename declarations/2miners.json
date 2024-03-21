@@ -1,1 +1,13 @@
-{"name":"2Miners","documents":{"Privacy Policy":{"fetch":"https://2miners.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://2miners.com/terms","select":"body"}}}
+{
+  "name": "2miners",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://2miners.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://2miners.com/terms",
+      "select": "body"
+    }
+  }
+}

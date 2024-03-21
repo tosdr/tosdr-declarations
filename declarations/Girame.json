@@ -1,1 +1,13 @@
-{"name":"Gira.me ","documents":{"Terms of Service":{"fetch":"https://gira.me/#terms","select":"body"},"Privacy Policy":{"fetch":"https://gira.me/#privacy","select":"body"}}}
+{
+  "name": "Girame",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://gira.me/#terms",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://gira.me/#privacy",
+      "select": "body"
+    }
+  }
+}

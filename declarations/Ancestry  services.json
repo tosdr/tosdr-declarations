@@ -1,1 +1,20 @@
-{"name":"Ancestry & services","documents":{"Trackers Policy":{"fetch":"https://www.ancestry.com/cs/legal/AboutCookies","select":"body"},"Terms of Service":{"fetch":"https://www.ancestry.com/cs/legal/termsandconditions","select":"html > body > div:nth-of-type(2) > div > div > div"},"General Conditions of Sale":{"fetch":"https://www.ancestry.com/cs/legal/renewal-cancellation-terms"}}}
+{
+  "name": "Ancestry  services",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.ancestry.com/cs/legal/AboutCookies",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.ancestry.com/cs/legal/termsandconditions",
+      "select": "html > body > div:nth-of-type(2) > div > div > div"
+    },
+    "Community Guidelines": {
+      "fetch": "https://www.ancestry.com/cs/legal/community-rules",
+      "select": "body"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://www.ancestry.com/cs/legal/renewal-cancellation-terms"
+    }
+  }
+}

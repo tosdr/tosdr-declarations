@@ -1,1 +1,9 @@
-{"name":"Volt Europe","documents":{"Privacy Policy":{"fetch":"https://www.volteuropa.org/privacy","select":"body"}}}
+{
+  "name": "Volt europe",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.volteuropa.org/privacy",
+      "select": "body"
+    }
+  }
+}

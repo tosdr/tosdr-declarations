@@ -1,1 +1,13 @@
-{"name":"Namebase.io","documents":{"Privacy Policy":{"fetch":"https://www.namebase.io/privacypolicy/","select":"body"},"Terms of Service":{"fetch":"https://www.namebase.io/termsofuse/","select":"body"}}}
+{
+  "name": "Namebaseio",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.namebase.io/privacypolicy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.namebase.io/termsofuse/",
+      "select": "body"
+    }
+  }
+}

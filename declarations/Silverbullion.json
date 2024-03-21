@@ -1,1 +1,9 @@
-{"name":"Silverbullion","documents":{"Terms of Service":{"fetch":"https://silverbullion.com.sg/TermsOfService","select":"html > body > div:first-of-type > div:nth-of-type(2) > div > div"}}}
+{
+  "name": "Silverbullion",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://silverbullion.com.sg/TermsOfService",
+      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div > div"
+    }
+  }
+}

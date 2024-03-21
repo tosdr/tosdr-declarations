@@ -1,1 +1,13 @@
-{"name":"privado","documents":{"Privacy Policy":{"fetch":"https://www.privado.ai/privacy-policy","select":"html > body > div:nth-of-type(2)"},"Terms of Service":{"fetch":"https://www.privado.ai/terms","select":"html > body > div:nth-of-type(2)"}}}
+{
+  "name": "Privado",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.privado.ai/privacy-policy",
+      "select": "html > body > div:nth-of-type(2)"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.privado.ai/terms",
+      "select": "html > body > div:nth-of-type(2)"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"perennialte.ch","documents":{"Privacy Policy":{"fetch":"https://rimgo.perennialte.ch/privacy","select":"body"}}}
+{
+  "name": "Perennialtech",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://rimgo.perennialte.ch/privacy",
+      "select": "body"
+    }
+  }
+}

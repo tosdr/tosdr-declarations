@@ -1,1 +1,8 @@
-{"name":"Tel Aviv University","documents":{"Privacy Policy":{"fetch":"https://english.tau.ac.il/dpo"}}}
+{
+  "name": "Tel aviv university",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://english.tau.ac.il/dpo"
+    }
+  }
+}

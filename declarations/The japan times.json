@@ -1,1 +1,14 @@
-{"name":"The Japan Times ","documents":{"Privacy Policy":{"fetch":"https://www.japantimes.co.jp/about-us/privacy/"},"Terms of Service":{"fetch":"https://members.japantimes.co.jp/tos/digital-e/"}}}
+{
+  "name": "The japan times",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.japantimes.co.jp/about-us/privacy/"
+    },
+    "Affiliate Disclosure": {
+      "fetch": "https://www.japantimes.co.jp/about-us/link-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://members.japantimes.co.jp/tos/digital-e/"
+    }
+  }
+}

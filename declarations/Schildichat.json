@@ -1,1 +1,9 @@
-{"name":"SchildiChat","documents":{"Privacy Policy":{"fetch":"https://schildi.chat/privacy","select":"body"}}}
+{
+  "name": "Schildichat",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://schildi.chat/privacy",
+      "select": "body"
+    }
+  }
+}

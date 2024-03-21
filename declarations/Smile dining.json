@@ -1,1 +1,9 @@
-{"name":"Smile Dining ","documents":{"Terms of Service":{"fetch":"https://smiledining.com/term.html","select":"body"}}}
+{
+  "name": "Smile dining",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://smiledining.com/term.html",
+      "select": "body"
+    }
+  }
+}

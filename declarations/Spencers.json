@@ -1,1 +1,11 @@
-{"name":"Spencer’s","documents":{"Terms of Service":{"fetch":"https://www.spencers.in/terms-and-conditions"},"Privacy Policy":{"fetch":"https://www.spencers.in/privacy-policy"}}}
+{
+  "name": "Spencers",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.spencers.in/terms-and-conditions"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.spencers.in/privacy-policy"
+    }
+  }
+}

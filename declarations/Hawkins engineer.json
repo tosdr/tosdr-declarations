@@ -1,1 +1,9 @@
-{"name":"hawkins engineer","documents":{}}
+{
+  "name": "Hawkins engineer",
+  "documents": {
+    "Policy": {
+      "fetch": "https://www.hawkins.engineer/logging.txt",
+      "select": "body"
+    }
+  }
+}

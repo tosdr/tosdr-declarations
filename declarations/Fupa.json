@@ -1,1 +1,9 @@
-{"name":"Fupa","documents":{"Terms of Service":{"fetch":"https://www.fupa.net/about/terms-of-use","select":"body"}}}
+{
+  "name": "Fupa",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.fupa.net/about/terms-of-use",
+      "select": "body"
+    }
+  }
+}

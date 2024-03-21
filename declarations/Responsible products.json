@@ -1,1 +1,9 @@
-{"name":"Responsible Products","documents":{"Terms of Service":{"fetch":"https://responsibleproducts.com/pages/terms-of-service","select":"body"}}}
+{
+  "name": "Responsible products",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://responsibleproducts.com/pages/terms-of-service",
+      "select": "body"
+    }
+  }
+}

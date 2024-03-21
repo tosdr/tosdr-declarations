@@ -1,1 +1,9 @@
-{"name":"ReQuiz","documents":{"Terms of Service":{"fetch":"https://requiz.net/terms-of-service","select":"body"}}}
+{
+  "name": "Requiz",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://requiz.net/terms-of-service",
+      "select": "body"
+    }
+  }
+}

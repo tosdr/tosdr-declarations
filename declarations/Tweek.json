@@ -1,1 +1,9 @@
-{"name":"Tweek","documents":{"Terms of Service":{"fetch":"https://tweek.so/s/terms.pdf","select":"body"}}}
+{
+  "name": "Tweek",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://tweek.so/s/terms.pdf",
+      "select": "body"
+    }
+  }
+}

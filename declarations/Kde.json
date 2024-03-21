@@ -1,1 +1,13 @@
-{"name":"KDE","documents":{"Privacy Policy":{"fetch":"https://kde.org/privacypolicy-apps/","select":"body"}}}
+{
+  "name": "Kde",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://kde.org/privacypolicy-apps/",
+      "select": "body"
+    },
+    "Policy": {
+      "fetch": "https://community.kde.org/Policies/Telemetry_Policy",
+      "select": "body"
+    }
+  }
+}

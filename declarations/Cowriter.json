@@ -1,1 +1,13 @@
-{"name":"Co:Writer","documents":{"Privacy Policy":{"fetch":"https://cowriter.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://cowriter.com/tos","select":"body"}}}
+{
+  "name": "Cowriter",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://cowriter.com/privacy-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://cowriter.com/tos",
+      "select": "body"
+    }
+  }
+}

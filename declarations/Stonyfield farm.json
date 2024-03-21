@@ -1,1 +1,9 @@
-{"name":"Stonyfield Farm","documents":{"Privacy Policy":{"fetch":"https://www.stonyfield.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Stonyfield farm",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.stonyfield.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

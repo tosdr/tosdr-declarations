@@ -1,1 +1,13 @@
-{"name":"Saga Communications","documents":{"Terms of Service":{"fetch":"https://sagacom.com/terms-of-use/","select":"html > body > div:first-of-type > div > div"},"Privacy Policy":{"fetch":"https://sagacom.com/privacy-policy/","select":"html > body > div:first-of-type > div > div"}}}
+{
+  "name": "Saga communications",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://sagacom.com/terms-of-use/",
+      "select": "html > body > div:first-of-type > div > div"
+    },
+    "Privacy Policy": {
+      "fetch": "https://sagacom.com/privacy-policy/",
+      "select": "html > body > div:first-of-type > div > div"
+    }
+  }
+}

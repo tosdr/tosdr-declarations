@@ -1,1 +1,9 @@
-{"name":"Hallmark","documents":{"Terms of Service":{"fetch":"https://www.hallmarkmoviesandmysteries.com/crown-media-family-networks-terms-of-use","select":"body"}}}
+{
+  "name": "Hallmark",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.hallmarkmoviesandmysteries.com/crown-media-family-networks-terms-of-use",
+      "select": "body"
+    }
+  }
+}

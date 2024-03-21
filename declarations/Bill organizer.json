@@ -1,1 +1,13 @@
-{"name":"Bill Organizer","documents":{"Privacy Policy":{"fetch":"https://upsquaresolutions.com/bill-organizer/privacy-policy.html","select":"body"},"Terms of Service":{"fetch":"https://upsquaresolutions.com/bill-organizer/terms-of-use.html","select":"body"}}}
+{
+  "name": "Bill organizer",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://upsquaresolutions.com/bill-organizer/privacy-policy.html",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://upsquaresolutions.com/bill-organizer/terms-of-use.html",
+      "select": "body"
+    }
+  }
+}

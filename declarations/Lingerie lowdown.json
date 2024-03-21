@@ -1,1 +1,14 @@
-{"name":"Lingerie Lowdown","documents":{"Privacy Policy":{"fetch":"https://www.lingerielowdown.com/privacy-policy/"},"Terms of Service":{"fetch":"https://www.lingerielowdown.com/terms-and-conditions/"},"Trackers Policy":{"fetch":"https://www.lingerielowdown.com/cookies/"}}}
+{
+  "name": "Lingerie lowdown",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.lingerielowdown.com/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.lingerielowdown.com/terms-and-conditions/"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.lingerielowdown.com/cookies/"
+    }
+  }
+}

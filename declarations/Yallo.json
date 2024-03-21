@@ -1,1 +1,9 @@
-{"name":"yallo","documents":{"Privacy Policy":{"fetch":"https://www.yallo.ch/fr/data-protection","select":"body"}}}
+{
+  "name": "Yallo",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.yallo.ch/fr/data-protection",
+      "select": "body"
+    }
+  }
+}

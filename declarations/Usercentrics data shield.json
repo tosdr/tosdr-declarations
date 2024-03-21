@@ -1,1 +1,13 @@
-{"name":"Usercentrics Data Shield","documents":{"Privacy Policy":{"fetch":"https://www.usercentrics-datashield.com/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.usercentrics-datashield.com/terms-and-condtions/","select":"body"}}}
+{
+  "name": "Usercentrics data shield",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.usercentrics-datashield.com/privacy-policy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.usercentrics-datashield.com/terms-and-condtions/",
+      "select": "body"
+    }
+  }
+}

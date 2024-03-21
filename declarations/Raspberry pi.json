@@ -1,1 +1,13 @@
-{"name":"Raspberry Pi ","documents":{"General Conditions of Sale":{"fetch":"https://www.raspberrypi.com/terms-conditions-sale/","select":"html > body > div:first-of-type"},"Privacy Policy":{"fetch":"https://www.raspberrypi.com/privacy/","select":"html > body > div:first-of-type"}}}
+{
+  "name": "Raspberry pi",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://www.raspberrypi.com/terms-conditions-sale/",
+      "select": "html > body > div:first-of-type"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.raspberrypi.com/privacy/",
+      "select": "html > body > div:first-of-type"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Modern Health","documents":{}}
+{
+  "name": "Modern health",
+  "documents": {
+    "Other": {
+      "fetch": "https://www.modernhealth.com/privacy#en-us",
+      "select": "body"
+    }
+  }
+}

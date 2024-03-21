@@ -1,1 +1,9 @@
-{"name":"Fidelity Bank","documents":{"Privacy Policy":{"fetch":"https://www.bankwithfidelity.com/privacy-notice.html","select":"html > body > main > div:nth-of-type(2) > div > section"}}}
+{
+  "name": "Fidelity bank",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.bankwithfidelity.com/privacy-notice.html",
+      "select": "html > body > main > div:nth-of-type(2) > div > section"
+    }
+  }
+}

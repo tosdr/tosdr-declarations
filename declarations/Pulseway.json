@@ -1,1 +1,8 @@
-{"name":"Pulseway ","documents":{"Privacy Policy":{"fetch":"https://www.pulseway.com/privacy"}}}
+{
+  "name": "Pulseway",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.pulseway.com/privacy"
+    }
+  }
+}

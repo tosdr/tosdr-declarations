@@ -1,1 +1,9 @@
-{"name":" Capture ","documents":{"Privacy Policy":{"fetch":"https://www.capture.com/pages/privacy-policy","select":"body"}}}
+{
+  "name": "Capture",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.capture.com/pages/privacy-policy",
+      "select": "body"
+    }
+  }
+}

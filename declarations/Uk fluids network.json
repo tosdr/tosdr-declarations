@@ -1,1 +1,8 @@
-{"name":"UK Fluids Network","documents":{"Privacy Policy":{"fetch":"https://fluids.ac.uk/terms"}}}
+{
+  "name": "Uk fluids network",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://fluids.ac.uk/terms"
+    }
+  }
+}

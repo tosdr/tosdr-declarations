@@ -1,1 +1,9 @@
-{"name":"Chilliapps - Abandonment Protector","documents":{"Privacy Policy":{"fetch":"https://unroll.chilliapps.com/followup/delete_information","select":"html > body > div:first-of-type"}}}
+{
+  "name": "Chilliapps  abandonment protector",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://unroll.chilliapps.com/followup/delete_information",
+      "select": "html > body > div:first-of-type"
+    }
+  }
+}

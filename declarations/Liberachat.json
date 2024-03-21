@@ -1,1 +1,8 @@
-{"name":"libera.chat","documents":{"Privacy Policy":{"fetch":"https://libera.chat/privacy"}}}
+{
+  "name": "Liberachat",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://libera.chat/privacy"
+    }
+  }
+}

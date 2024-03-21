@@ -1,1 +1,9 @@
-{"name":"Intelligence X","documents":{"Privacy Policy":{"fetch":"https://intelx.io/privacy-policy","select":"body"}}}
+{
+  "name": "Intelligence x",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://intelx.io/privacy-policy",
+      "select": "body"
+    }
+  }
+}

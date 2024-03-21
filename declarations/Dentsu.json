@@ -1,1 +1,17 @@
-{"name":" dentsu ","documents":{"Terms of Service":{"fetch":"https://www.dentsu.com/policies/terms-and-conditions","select":"body"},"Privacy Policy":{"fetch":"https://www.dentsu.com/policies/privacy-notices","select":"body"},"Trackers Policy":{"fetch":"https://www.dentsu.com/policies/cookies-notice","select":"body"}}}
+{
+  "name": "Dentsu",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.dentsu.com/policies/terms-and-conditions",
+      "select": "body"
+    },
+    "Legal Information": {
+      "fetch": "https://www.dentsu.com/policies/privacy-notices",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.dentsu.com/policies/cookies-notice",
+      "select": "body"
+    }
+  }
+}

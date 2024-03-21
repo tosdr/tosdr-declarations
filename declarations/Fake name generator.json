@@ -1,1 +1,11 @@
-{"name":"Fake Name Generator","documents":{"Terms of Service":{"fetch":"https://www.fakenamegenerator.com/license.php"},"Privacy Policy":{"fetch":"https://www.fakenamegenerator.com/privacy.php"}}}
+{
+  "name": "Fake name generator",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.fakenamegenerator.com/license.php"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.fakenamegenerator.com/privacy.php"
+    }
+  }
+}

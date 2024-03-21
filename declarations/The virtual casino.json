@@ -1,1 +1,8 @@
-{"name":"The Virtual Casino","documents":{"Privacy Policy":{"fetch":"https://www.thevirtualcasino.com/privacy.php"}}}
+{
+  "name": "The virtual casino",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.thevirtualcasino.com/privacy.php"
+    }
+  }
+}

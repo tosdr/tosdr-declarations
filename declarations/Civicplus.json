@@ -1,1 +1,13 @@
-{"name":"CivicPlus","documents":{"Privacy Policy":{"fetch":"https://www.civicplus.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.civicplus.com/terms-of-service","select":"body"}}}
+{
+  "name": "Civicplus",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.civicplus.com/privacy-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.civicplus.com/terms-of-service",
+      "select": "body"
+    }
+  }
+}

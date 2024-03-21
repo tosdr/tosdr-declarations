@@ -1,1 +1,11 @@
-{"name":"Hotpot.ai","documents":{"Privacy Policy":{"fetch":"https://hotpot.ai/privacy"},"Terms of Service":{"fetch":"https://hotpot.ai/terms"}}}
+{
+  "name": "Hotpotai",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://hotpot.ai/privacy"
+    },
+    "Terms of Service": {
+      "fetch": "https://hotpot.ai/terms"
+    }
+  }
+}

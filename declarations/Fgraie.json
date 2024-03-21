@@ -1,1 +1,8 @@
-{"name":"fógraí.ie","documents":{"Terms of Service":{"fetch":"https://fógraí.ie/terms-of-sale"}}}
+{
+  "name": "Fgraie",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://fógraí.ie/terms-of-sale"
+    }
+  }
+}

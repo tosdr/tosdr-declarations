@@ -1,1 +1,9 @@
-{"name":"Ali Reza Hayati's Personal Page","documents":{"Trackers Policy":{"fetch":"https://alirezahayati.com/policies/","select":"body"}}}
+{
+  "name": "Ali reza hayatis personal page",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://alirezahayati.com/policies/",
+      "select": "body"
+    }
+  }
+}

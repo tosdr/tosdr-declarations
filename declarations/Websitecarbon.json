@@ -1,1 +1,9 @@
-{"name":"WebsiteCarbon","documents":{"Privacy Policy":{"fetch":"https://www.websitecarbon.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Websitecarbon",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.websitecarbon.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

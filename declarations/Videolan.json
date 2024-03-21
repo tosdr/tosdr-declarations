@@ -1,1 +1,8 @@
-{"name":"VideoLAN","documents":{"Legal Information":{"fetch":"https://www.videolan.org/legal.html"}}}
+{
+  "name": "Videolan",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.videolan.org/legal.html"
+    }
+  }
+}

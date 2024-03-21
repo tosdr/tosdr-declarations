@@ -1,1 +1,9 @@
-{"name":"FamilySearch","documents":{"Privacy Policy":{"fetch":"https://www.familysearch.org/legal/privacy","select":"body"}}}
+{
+  "name": "Familysearch",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.familysearch.org/legal/privacy",
+      "select": "body"
+    }
+  }
+}

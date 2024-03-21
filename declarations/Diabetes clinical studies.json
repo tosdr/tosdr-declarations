@@ -1,1 +1,9 @@
-{"name":"Diabetes Clinical Studies","documents":{"Privacy Policy":{"fetch":"https://diabetesclinicalstudies.org/privacy-policy","select":"body"}}}
+{
+  "name": "Diabetes clinical studies",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://diabetesclinicalstudies.org/privacy-policy",
+      "select": "body"
+    }
+  }
+}

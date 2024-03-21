@@ -1,1 +1,11 @@
-{"name":"Everything Track & Field  ","documents":{"Privacy Policy":{"fetch":"https://www.everythingtrackandfield.com/privacy-policy"},"General Conditions of Sale":{"fetch":"https://www.everythingtrackandfield.com/returns"}}}
+{
+  "name": "Everything track  field",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.everythingtrackandfield.com/privacy-policy"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://www.everythingtrackandfield.com/returns"
+    }
+  }
+}

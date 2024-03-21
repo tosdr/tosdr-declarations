@@ -1,1 +1,9 @@
-{"name":"Liftoff ","documents":{"Trackers Policy":{"fetch":"https://liftoff.io/cookie-policy/","select":"body"}}}
+{
+  "name": "Liftoff",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://liftoff.io/cookie-policy/",
+      "select": "body"
+    }
+  }
+}

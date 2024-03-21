@@ -1,1 +1,13 @@
-{"name":"Dr. Jansen-Walter","documents":{"Privacy Policy":{"fetch":"https://www.susanne-jansen-walter.org/Datenschutz.php","select":"body"},"Other":{"fetch":"https://www.susanne-jansen-walter.org/Impressum.php","select":"body"}}}
+{
+  "name": "Dr jansenwalter",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.susanne-jansen-walter.org/Datenschutz.php",
+      "select": "body"
+    },
+    "Other": {
+      "fetch": "https://www.susanne-jansen-walter.org/Impressum.php",
+      "select": "body"
+    }
+  }
+}

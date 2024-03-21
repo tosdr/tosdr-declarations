@@ -1,1 +1,16 @@
-{"name":"WeVideo","documents":{"Privacy Policy":{"fetch":"https://www.wevideo.com/dpa"},"Trackers Policy":{"fetch":"https://www.wevideo.com/dpa-list-of-subprocessors","select":"html > body > div:first-of-type > main > div:nth-of-type(2) > div"},"Terms of Service":{"fetch":"https://www.wevideo.com/terms-of-use","select":"html > body > div:first-of-type > main > div:nth-of-type(2) > div > div > div > div"}}}
+{
+  "name": "Wevideo",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.wevideo.com/dpa"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.wevideo.com/dpa-list-of-subprocessors",
+      "select": "html > body > div:first-of-type > main > div:nth-of-type(2) > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.wevideo.com/terms-of-use",
+      "select": "html > body > div:first-of-type > main > div:nth-of-type(2) > div > div > div > div"
+    }
+  }
+}

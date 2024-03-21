@@ -1,1 +1,13 @@
-{"name":"SingPass","documents":{"Terms of Service":{"fetch":"https://www.singpass.gov.sg/home/ui/terms-of-use","select":"body"},"Privacy Policy":{"fetch":"https://www.singpass.gov.sg/home/ui/privacy-statement","select":"body"}}}
+{
+  "name": "Singpass",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.singpass.gov.sg/home/ui/terms-of-use",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.singpass.gov.sg/home/ui/privacy-statement",
+      "select": "body"
+    }
+  }
+}

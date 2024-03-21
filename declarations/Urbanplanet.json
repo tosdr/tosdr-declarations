@@ -1,1 +1,9 @@
-{"name":"UrbanPlanet ","documents":{"Privacy Policy":{"fetch":"https://www.urbanplanet.org/forums/privacy/","select":"body"}}}
+{
+  "name": "Urbanplanet",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.urbanplanet.org/forums/privacy/",
+      "select": "body"
+    }
+  }
+}

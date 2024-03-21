@@ -1,1 +1,9 @@
-{"name":"RTL Group","documents":{"Terms of Service":{"fetch":"https://www.rtlgroup.com/en/special/terms_of_use.cfm","select":"html > body > div:nth-of-type(5) > div > div > div"}}}
+{
+  "name": "Rtl group",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.rtlgroup.com/en/special/terms_of_use.cfm",
+      "select": "html > body > div:nth-of-type(5) > div > div > div"
+    }
+  }
+}

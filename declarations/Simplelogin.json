@@ -1,1 +1,13 @@
-{"name":"SimpleLogin","documents":{"Privacy Policy":{"fetch":"https://simplelogin.io/privacy/","select":" > div"},"Terms of Service":{"fetch":"https://simplelogin.io/terms/","select":" > div"}}}
+{
+  "name": "Simplelogin",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://simplelogin.io/privacy/",
+      "select": " > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://simplelogin.io/terms/",
+      "select": " > div"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":"Help Desk Geek","documents":{"Privacy Policy":{"fetch":"https://helpdeskgeek.com/privacy-policy/"}}}
+{
+  "name": "Help desk geek",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://helpdeskgeek.com/privacy-policy/"
+    }
+  }
+}

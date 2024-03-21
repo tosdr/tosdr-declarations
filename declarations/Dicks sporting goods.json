@@ -1,1 +1,9 @@
-{"name":"DICK's Sporting Goods","documents":{"Privacy Policy":{"fetch":"https://www.dickssportinggoods.com/s/policy/terms-of-use","select":"html > body > div:first-of-type > div > div > main"}}}
+{
+  "name": "Dicks sporting goods",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.dickssportinggoods.com/s/policy/terms-of-use",
+      "select": "html > body > div:first-of-type > div > div > main"
+    }
+  }
+}

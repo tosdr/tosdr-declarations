@@ -1,1 +1,13 @@
-{"name":"watched.com ","documents":{"Privacy Policy":{"fetch":"https://www.watched.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.watched.com/tos","select":"body"}}}
+{
+  "name": "Watchedcom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.watched.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.watched.com/tos",
+      "select": "body"
+    }
+  }
+}

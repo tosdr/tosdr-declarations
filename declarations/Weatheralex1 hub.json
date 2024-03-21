@@ -1,1 +1,9 @@
-{"name":"Weatheralex1 Hub","documents":{"Terms of Service":{"fetch":"https://weatheralex1.com/tos.html","select":"body"}}}
+{
+  "name": "Weatheralex1 hub",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://weatheralex1.com/tos.html",
+      "select": "body"
+    }
+  }
+}

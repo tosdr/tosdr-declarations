@@ -1,1 +1,9 @@
-{"name":"mediarithmics  ","documents":{"Privacy Policy":{"fetch":"https://www.mediarithmics.com/en-us/content/privacy-policy","select":"html > body > section:first-of-type > article > div"}}}
+{
+  "name": "Mediarithmics",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.mediarithmics.com/en-us/content/privacy-policy",
+      "select": "html > body > section:first-of-type > article > div"
+    }
+  }
+}

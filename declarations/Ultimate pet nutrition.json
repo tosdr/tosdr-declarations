@@ -1,1 +1,13 @@
-{"name":"Ultimate Pet Nutrition","documents":{"Privacy Policy":{"fetch":"https://ultimatepetnutrition.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://ultimatepetnutrition.com/terms","select":"body"}}}
+{
+  "name": "Ultimate pet nutrition",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://ultimatepetnutrition.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://ultimatepetnutrition.com/terms",
+      "select": "body"
+    }
+  }
+}

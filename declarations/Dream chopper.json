@@ -1,1 +1,13 @@
-{"name":"DREAM CHOPPER","documents":{"Privacy Policy":{"fetch":"https://dreamchopper.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://dreamchopper.com/terms","select":"body"}}}
+{
+  "name": "Dream chopper",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://dreamchopper.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://dreamchopper.com/terms",
+      "select": "body"
+    }
+  }
+}

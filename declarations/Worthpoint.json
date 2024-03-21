@@ -1,1 +1,9 @@
-{"name":"WorthPoint ","documents":{"Privacy Policy":{"fetch":"https://www.worthpoint.com/page/worthpoint-privacy-policy","select":"html > body > section"}}}
+{
+  "name": "Worthpoint",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.worthpoint.com/page/worthpoint-privacy-policy",
+      "select": "html > body > section"
+    }
+  }
+}

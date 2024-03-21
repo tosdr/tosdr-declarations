@@ -1,1 +1,8 @@
-{"name":"stuartwyatt.com","documents":{"Privacy Policy":{"fetch":"https://stuartwyatt.com/page7.html"}}}
+{
+  "name": "Stuartwyattcom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://stuartwyatt.com/page7.html"
+    }
+  }
+}

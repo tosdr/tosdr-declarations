@@ -1,1 +1,13 @@
-{"name":"Roadway Moving Inc","documents":{"Terms of Service":{"fetch":"https://www.roadwaymoving.com/terms-and-conditions/","select":"body"},"Privacy Policy":{"fetch":"https://www.roadwaymoving.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Roadway moving inc",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.roadwaymoving.com/terms-and-conditions/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.roadwaymoving.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

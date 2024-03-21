@@ -1,1 +1,9 @@
-{"name":"Comfees ","documents":{"Privacy Policy":{"fetch":"https://www.mycomfees.com/comfees-privacy-policy","select":"body"}}}
+{
+  "name": "Comfees",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.mycomfees.com/comfees-privacy-policy",
+      "select": "body"
+    }
+  }
+}

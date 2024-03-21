@@ -1,1 +1,13 @@
-{"name":"Pepper&Carrot","documents":{"Privacy Policy":{"fetch":"https://www.peppercarrot.com/en/static13/terms-of-service-and-privacy","select":" > div > main > section"},"Terms of Service":{"fetch":"https://framagit.org/peppercarrot/webcomics/-/raw/master/CONTRIBUTING.md","select":"html"}}}
+{
+  "name": "Peppercarrot",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.peppercarrot.com/en/static13/terms-of-service-and-privacy",
+      "select": " > div > main > section"
+    },
+    "Terms of Service": {
+      "fetch": "https://framagit.org/peppercarrot/webcomics/-/raw/master/CONTRIBUTING.md",
+      "select": "html"
+    }
+  }
+}

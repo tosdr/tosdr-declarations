@@ -1,1 +1,9 @@
-{"name":"Rain of Snow","documents":{"Terms of Service":{"fetch":"https://rainofsnow.com/term-and-conditions/","select":"body"}}}
+{
+  "name": "Rain of snow",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://rainofsnow.com/term-and-conditions/",
+      "select": "body"
+    }
+  }
+}

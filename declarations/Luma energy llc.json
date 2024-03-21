@@ -1,1 +1,9 @@
-{"name":"LUMA Energy LLC","documents":{"Terms of Service":{"fetch":"https://lumapr.com/terms-and-conditions-of-use/?lang=en","select":"body"}}}
+{
+  "name": "Luma energy llc",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://lumapr.com/terms-and-conditions-of-use/?lang=en",
+      "select": "body"
+    }
+  }
+}

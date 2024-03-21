@@ -1,1 +1,9 @@
-{"name":"zombs.io","documents":{"Privacy Policy":{"fetch":"http://zombs.io/privacy","select":"body"}}}
+{
+  "name": "Zombsio",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "http://zombs.io/privacy",
+      "select": "body"
+    }
+  }
+}

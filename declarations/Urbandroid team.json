@@ -1,1 +1,8 @@
-{"name":"Urbandroid Team","documents":{"Privacy Policy":{"fetch":"https://team.urbandroid.org/privacy/"}}}
+{
+  "name": "Urbandroid team",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://team.urbandroid.org/privacy/"
+    }
+  }
+}

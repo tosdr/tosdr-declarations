@@ -1,1 +1,15 @@
-{"name":"Antiwar.com","documents":{"Privacy Policy":{"fetch":"https://www.antiwar.com/privacy.php"},"Community Guidelines":{"fetch":"https://www.antiwar.com/submissions.php"}}}
+{
+  "name": "Antiwarcom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.antiwar.com/privacy.php"
+    },
+    "Community Guidelines": {
+      "fetch": "https://www.antiwar.com/submissions.php"
+    },
+    "Policy": {
+      "fetch": "https://www.antiwar.com/reprint.php",
+      "select": "html > body > table > tbody > tr:nth-of-type(3) > td > table > tbody > tr > td:nth-of-type(3)"
+    }
+  }
+}

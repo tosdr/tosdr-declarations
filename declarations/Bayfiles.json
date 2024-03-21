@@ -1,1 +1,8 @@
-{"name":"bayfiles","documents":{"Terms of Service":{"fetch":"https://bayfiles.com/terms"}}}
+{
+  "name": "Bayfiles",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://bayfiles.com/terms"
+    }
+  }
+}

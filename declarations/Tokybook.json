@@ -1,1 +1,9 @@
-{"name":"tokybook ","documents":{"Privacy Policy":{"fetch":"https://tokybook.com/privacy-policy","select":" > div > div"}}}
+{
+  "name": "Tokybook",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://tokybook.com/privacy-policy",
+      "select": " > div > div"
+    }
+  }
+}

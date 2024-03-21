@@ -1,1 +1,8 @@
-{"name":"MobilityWorks","documents":{"Privacy Policy":{"fetch":"https://www.mobilityworks.com/privacy-policy/"}}}
+{
+  "name": "Mobilityworks",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.mobilityworks.com/privacy-policy/"
+    }
+  }
+}

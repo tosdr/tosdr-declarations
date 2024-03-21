@@ -1,1 +1,8 @@
-{"name":"teamfortress.tv","documents":{"Privacy Policy":{"fetch":"https://teamfortress.tv/privacy"}}}
+{
+  "name": "Teamfortresstv",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://teamfortress.tv/privacy"
+    }
+  }
+}

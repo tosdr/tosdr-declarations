@@ -1,1 +1,9 @@
-{"name":"Podcast Republic","documents":{"Privacy Policy":{"fetch":"https://podcastrepublic.net/privacy-terms","select":"html > body > div:first-of-type > div > div"}}}
+{
+  "name": "Podcast republic",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://podcastrepublic.net/privacy-terms",
+      "select": "html > body > div:first-of-type > div > div"
+    }
+  }
+}

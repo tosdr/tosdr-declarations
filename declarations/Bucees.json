@@ -1,1 +1,9 @@
-{"name":"Buc-ee’s ","documents":{"Privacy Policy":{"fetch":"https://buc-ees.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Bucees",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://buc-ees.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

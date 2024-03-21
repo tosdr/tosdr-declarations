@@ -1,1 +1,11 @@
-{"name":"Lunar Client","documents":{"Terms of Service":{"fetch":"https://www.lunarclient.com/terms/"},"Privacy Policy":{"fetch":"https://www.lunarclient.com/privacy/"}}}
+{
+  "name": "Lunar client",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.lunarclient.com/terms/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.lunarclient.com/privacy/"
+    }
+  }
+}

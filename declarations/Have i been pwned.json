@@ -1,1 +1,9 @@
-{"name":"Have I been pwned","documents":{"Privacy Policy":{"fetch":"https://haveibeenpwned.com/Privacy","select":"body"}}}
+{
+  "name": "Have i been pwned",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://haveibeenpwned.com/Privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":" X.CELL ","documents":{"Terms of Service":{"fetch":"https://www.xcellme.com/terms-and-conditions/"}}}
+{
+  "name": "Xcell",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.xcellme.com/terms-and-conditions/"
+    }
+  }
+}

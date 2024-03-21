@@ -1,1 +1,8 @@
-{"name":"Rbarata","documents":{"Privacy Policy":{"fetch":"https://rbarata.com/privacy-policy/"}}}
+{
+  "name": "Rbarata",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://rbarata.com/privacy-policy/"
+    }
+  }
+}

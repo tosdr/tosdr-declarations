@@ -1,1 +1,8 @@
-{"name":"Coomer.Party","documents":{"Copyright Claims Policy":{"fetch":"https://coomer.party/dmca"}}}
+{
+  "name": "Coomerparty",
+  "documents": {
+    "Copyright Claims Policy": {
+      "fetch": "https://coomer.party/dmca"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"Apple Service Center","documents":{"Privacy Policy":{"fetch":"https://applelaptopservice.center/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://applelaptopservice.center/terms-conditions/","select":"body"}}}
+{
+  "name": "Apple service center",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://applelaptopservice.center/privacy-policy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://applelaptopservice.center/terms-conditions/",
+      "select": "body"
+    }
+  }
+}

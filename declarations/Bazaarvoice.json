@@ -1,1 +1,9 @@
-{"name":"Bazaarvoice","documents":{"Terms of Service":{"fetch":"https://www.bazaarvoice.com/legal/terms-of-use/","select":"body"}}}
+{
+  "name": "Bazaarvoice",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.bazaarvoice.com/legal/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"asylum.rest","documents":{"Privacy Policy":{"fetch":"https://pics.asylum.rest/privacy","select":"body"},"Copyright Claims Policy":{"fetch":"https://git.asylum.rest/","select":"body"}}}
+{
+  "name": "Asylumrest",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://pics.asylum.rest/privacy",
+      "select": "body"
+    },
+    "Legal Information": {
+      "fetch": "https://git.asylum.rest/",
+      "select": "body"
+    }
+  }
+}

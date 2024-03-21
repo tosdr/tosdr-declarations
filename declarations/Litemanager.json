@@ -1,1 +1,9 @@
-{"name":"LITEMANAGER ","documents":{}}
+{
+  "name": "Litemanager",
+  "documents": {
+    "Legal Information": {
+      "fetch": "http://www.litemanager.com/support/help_en/user_license_agreement/",
+      "select": "body"
+    }
+  }
+}

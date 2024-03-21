@@ -1,1 +1,9 @@
-{"name":"Replit","documents":{"Privacy Policy":{"fetch":"https://replit.com/site/dpa","select":"body"}}}
+{
+  "name": "Replit",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://replit.com/site/dpa",
+      "select": "body"
+    }
+  }
+}

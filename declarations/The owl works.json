@@ -1,1 +1,9 @@
-{"name":"The Owl Works","documents":{"Privacy Policy":{"fetch":"https://www.theowlworks.com/general-5","select":"body"}}}
+{
+  "name": "The owl works",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.theowlworks.com/general-5",
+      "select": "body"
+    }
+  }
+}

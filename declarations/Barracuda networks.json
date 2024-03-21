@@ -1,1 +1,12 @@
-{"name":"Barracuda Networks","documents":{"Privacy Policy":{"fetch":"https://www.barracuda.com/company/legal/trust-center/data-privacy/privacy-policy"},"Terms of Service":{"fetch":"https://www.barracuda.com/company/legal/prd_trm","select":"html > body > div:first-of-type > div:nth-of-type(4)"}}}
+{
+  "name": "Barracuda networks",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.barracuda.com/company/legal/trust-center/data-privacy/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.barracuda.com/company/legal/prd_trm",
+      "select": "html > body > div:first-of-type > div:nth-of-type(4)"
+    }
+  }
+}

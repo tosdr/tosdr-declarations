@@ -1,1 +1,9 @@
-{"name":"DataForSEO ","documents":{"Privacy Policy":{"fetch":"https://dataforseo.com/privacy-policy","select":"body"}}}
+{
+  "name": "Dataforseo",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://dataforseo.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

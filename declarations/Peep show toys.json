@@ -1,1 +1,11 @@
-{"name":"Peep Show Toys","documents":{"Privacy Policy":{"fetch":"https://www.peepshowtoys.com/policies/privacy-policy"},"General Conditions of Sale":{"fetch":"https://www.peepshowtoys.com/policies/refund-policy"}}}
+{
+  "name": "Peep show toys",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.peepshowtoys.com/policies/privacy-policy"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://www.peepshowtoys.com/policies/refund-policy"
+    }
+  }
+}

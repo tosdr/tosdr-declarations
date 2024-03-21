@@ -1,1 +1,15 @@
-{"name":"avoidthehack!","documents":{"Privacy Policy":{"fetch":"https://avoidthehack.com/privacy-policy"},"Trackers Policy":{"fetch":"https://avoidthehack.com/cookies"},"Terms of Service":{"fetch":"https://avoidthehack.com/tos","select":"body"}}}
+{
+  "name": "Avoidthehack",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://avoidthehack.com/privacy-policy"
+    },
+    "Trackers Policy": {
+      "fetch": "https://avoidthehack.com/cookies"
+    },
+    "Terms of Service": {
+      "fetch": "https://avoidthehack.com/tos",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Crawler Test Service","documents":{}}
+{
+  "name": "Crawler test service",
+  "documents": {
+    "Spam": {
+      "fetch": "https://example.com",
+      "select": "html > body > div"
+    }
+  }
+}

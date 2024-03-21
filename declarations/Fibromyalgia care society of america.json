@@ -1,1 +1,9 @@
-{"name":"Fibromyalgia Care Society of America  ","documents":{"Privacy Policy":{"fetch":"https://www.fibro.org/privacy-policy","select":"body"}}}
+{
+  "name": "Fibromyalgia care society of america",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.fibro.org/privacy-policy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Pet Friend","documents":{"Terms of Service":{"fetch":"https://petfriend.io/terms","select":"body"}}}
+{
+  "name": "Pet friend",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://petfriend.io/terms",
+      "select": "body"
+    }
+  }
+}

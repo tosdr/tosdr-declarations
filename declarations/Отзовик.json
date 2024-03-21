@@ -1,0 +1,8 @@
+{
+  "name": "Отзовик",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://otzovik.com/policy.php"
+    }
+  }
+}

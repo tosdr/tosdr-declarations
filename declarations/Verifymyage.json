@@ -1,1 +1,9 @@
-{"name":"VerifyMyAge ","documents":{"Privacy Policy":{"fetch":"https://www.verifymyage.co.uk/privacy","select":"body"}}}
+{
+  "name": "Verifymyage",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.verifymyage.co.uk/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":" Disability Resource Community","documents":{"Copyright Claims Policy":{"fetch":"http://www.disabilityresource.org/dmca-policy"}}}
+{
+  "name": "Disability resource community",
+  "documents": {
+    "Copyright Claims Policy": {
+      "fetch": "http://www.disabilityresource.org/dmca-policy"
+    }
+  }
+}

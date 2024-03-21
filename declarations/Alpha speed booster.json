@@ -1,1 +1,13 @@
-{"name":"Alpha Speed Booster","documents":{"Privacy Policy":{"fetch":"https://alphaspeedbooster.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://alphaspeedbooster.com/terms","select":"body"}}}
+{
+  "name": "Alpha speed booster",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://alphaspeedbooster.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://alphaspeedbooster.com/terms",
+      "select": "body"
+    }
+  }
+}

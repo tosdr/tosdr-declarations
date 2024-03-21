@@ -1,1 +1,9 @@
-{"name":"Wondrium","documents":{"Terms of Service":{"fetch":"https://www.wondrium.com/tos","select":"body"}}}
+{
+  "name": "Wondrium",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.wondrium.com/tos",
+      "select": "body"
+    }
+  }
+}

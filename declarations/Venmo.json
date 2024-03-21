@@ -1,1 +1,9 @@
-{"name":"Venmo","documents":{"Privacy Policy":{"fetch":"https://venmo.com/legal/us-privacy-policy/","select":"body"}}}
+{
+  "name": "Venmo",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://venmo.com/legal/us-privacy-policy/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":" Yep","documents":{"Privacy Policy":{"fetch":"https://yep.com/privacy","select":"body"}}}
+{
+  "name": "Yep",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://yep.com/privacy",
+      "select": "body"
+    }
+  }
+}

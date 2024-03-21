@@ -1,1 +1,11 @@
-{"name":"Le Bon Coin","documents":{"Privacy Policy":{"fetch":"https://www.leboncoin.fr/dc/cookies"}}}
+{
+  "name": "Le bon coin",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.leboncoin.fr/dc/vos_droits_et_obligations"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.leboncoin.fr/dc/cookies"
+    }
+  }
+}

@@ -1,1 +1,17 @@
-{"name":"Fire Stick Tricks ","documents":{"Privacy Policy":{"fetch":"https://www.firesticktricks.com/privacy-policy","select":"html > body > div:nth-of-type(3) > div:first-of-type > div > main > article"},"Copyright Claims Policy":{"fetch":"https://www.firesticktricks.com/dmca-policy","select":"html > body > div:nth-of-type(3) > div:first-of-type > div > main > article"},"Terms of Service":{"fetch":"https://www.firesticktricks.com/terms-of-service","select":"html > body > div:nth-of-type(3) > div:first-of-type > div > main > article"}}}
+{
+  "name": "Fire stick tricks",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.firesticktricks.com/privacy-policy",
+      "select": "html > body > div:nth-of-type(3) > div:first-of-type > div > main > article"
+    },
+    "Copyright Claims Policy": {
+      "fetch": "https://www.firesticktricks.com/dmca-policy",
+      "select": "html > body > div:nth-of-type(3) > div:first-of-type > div > main > article"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.firesticktricks.com/terms-of-service",
+      "select": "html > body > div:nth-of-type(3) > div:first-of-type > div > main > article"
+    }
+  }
+}

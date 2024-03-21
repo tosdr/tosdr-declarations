@@ -1,1 +1,8 @@
-{"name":"delmenhorst.social ","documents":{"Privacy Policy":{"fetch":"https://delmenhorst.social/register"}}}
+{
+  "name": "Delmenhorstsocial",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://delmenhorst.social/register"
+    }
+  }
+}

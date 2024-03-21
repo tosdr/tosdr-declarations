@@ -1,1 +1,9 @@
-{"name":"Lioneur","documents":{"Privacy Policy":{"fetch":"https://lioneur.com/legal-stuff/","select":"body"}}}
+{
+  "name": "Lioneur",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://lioneur.com/legal-stuff/",
+      "select": "body"
+    }
+  }
+}

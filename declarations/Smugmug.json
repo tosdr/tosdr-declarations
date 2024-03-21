@@ -1,1 +1,11 @@
-{"name":"SmugMug","documents":{"Terms of Service":{"fetch":"https://www.smugmug.com/about/terms"},"Privacy Policy":{"fetch":"https://www.smugmug.com/about/privacy"}}}
+{
+  "name": "Smugmug",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.smugmug.com/about/terms"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.smugmug.com/about/privacy"
+    }
+  }
+}

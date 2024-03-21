@@ -1,1 +1,9 @@
-{"name":"NOAA ","documents":{"Privacy Policy":{"fetch":"https://www.noaa.gov/protecting-your-privacy","select":"body"}}}
+{
+  "name": "Noaa",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.noaa.gov/protecting-your-privacy",
+      "select": "body"
+    }
+  }
+}

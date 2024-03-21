@@ -1,1 +1,9 @@
-{"name":"Complete ID","documents":{"Terms of Service":{"fetch":"https://www.completeid.com/terms-and-conditions/","select":"html > body > div:first-of-type > div > div > div > div:nth-of-type(2) > div > div"}}}
+{
+  "name": "Complete id",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.completeid.com/terms-and-conditions/",
+      "select": "html > body > div:first-of-type > div > div > div > div:nth-of-type(2) > div > div"
+    }
+  }
+}

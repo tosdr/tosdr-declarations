@@ -1,1 +1,8 @@
-{"name":"Brook Eden","documents":{"Privacy Policy":{"fetch":"https://brookeden.com.au/?view=article&id=18:privacy-policy&catid=2:site"}}}
+{
+  "name": "Brook eden",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://brookeden.com.au/?view=article&id=18:privacy-policy&catid=2:site"
+    }
+  }
+}

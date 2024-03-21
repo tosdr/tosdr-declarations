@@ -1,1 +1,9 @@
-{"name":"shoutcast","documents":{"Privacy Policy":{"fetch":"https://www.shoutcast.com/legal/privacy","select":"body"}}}
+{
+  "name": "Shoutcast",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.shoutcast.com/legal/privacy",
+      "select": "body"
+    }
+  }
+}

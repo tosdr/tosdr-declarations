@@ -1,1 +1,9 @@
-{"name":"branah.com","documents":{"Terms of Service":{"fetch":"https://www.branah.com/terms-of-use","select":"body"}}}
+{
+  "name": "Branahcom",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.branah.com/terms-of-use",
+      "select": "body"
+    }
+  }
+}

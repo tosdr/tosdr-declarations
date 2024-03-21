@@ -1,1 +1,9 @@
-{"name":"My PropertyID Registry","documents":{"Privacy Policy":{"fetch":"https://mypropertyidregistry.com/privacy/","select":"body"}}}
+{
+  "name": "My propertyid registry",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://mypropertyidregistry.com/privacy/",
+      "select": "body"
+    }
+  }
+}

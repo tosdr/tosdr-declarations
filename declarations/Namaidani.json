@@ -1,1 +1,11 @@
-{"name":"NaMaidani ","documents":{"Terms of Service":{"fetch":"https://url.namaidani.com/pages/terms"},"Privacy Policy":{"fetch":"https://url.namaidani.com/pages/privacy"}}}
+{
+  "name": "Namaidani",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://url.namaidani.com/pages/terms"
+    },
+    "Privacy Policy": {
+      "fetch": "https://url.namaidani.com/pages/privacy"
+    }
+  }
+}

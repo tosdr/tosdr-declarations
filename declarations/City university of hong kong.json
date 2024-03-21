@@ -1,1 +1,8 @@
-{"name":"City University of Hong Kong","documents":{"Privacy Policy":{"fetch":"https://www.cityu.edu.hk/lib/pps.htm"}}}
+{
+  "name": "City university of hong kong",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.cityu.edu.hk/lib/pps.htm"
+    }
+  }
+}

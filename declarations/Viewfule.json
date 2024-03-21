@@ -1,1 +1,14 @@
-{"name":"VIEWFULE","documents":{"Terms of Service":{"fetch":"https://viewfule.com/terms"},"Trackers Policy":{"fetch":"https://viewfule.com/privacy"}}}
+{
+  "name": "Viewfule",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://viewfule.com/disclaimer"
+    },
+    "Terms of Service": {
+      "fetch": "https://viewfule.com/terms"
+    },
+    "Trackers Policy": {
+      "fetch": "https://viewfule.com/privacy"
+    }
+  }
+}

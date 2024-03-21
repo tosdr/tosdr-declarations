@@ -1,1 +1,9 @@
-{"name":"Simple","documents":{"Privacy Policy":{"fetch":"https://simple.io/privacy-policy","select":"body"}}}
+{
+  "name": "Simple",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://simple.io/privacy-policy",
+      "select": "body"
+    }
+  }
+}

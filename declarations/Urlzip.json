@@ -1,1 +1,9 @@
-{"name":"url.zip","documents":{"Privacy Policy":{"fetch":"https://www.url.zip/privacy","select":"body"}}}
+{
+  "name": "Urlzip",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.url.zip/privacy",
+      "select": "body"
+    }
+  }
+}

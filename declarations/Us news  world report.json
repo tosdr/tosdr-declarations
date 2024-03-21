@@ -1,1 +1,13 @@
-{"name":"U.S. News & World Report","documents":{"Privacy Policy":{"fetch":"https://www.usnews.com/features/info/privacy","select":" > div > div:nth-of-type(2) > div > div > div:first-of-type > div"}}}
+{
+  "name": "Us news  world report",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.usnews.com/features/info/privacy/ccpa",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.usnews.com/features/info/privacy",
+      "select": " > div > div:nth-of-type(2) > div > div > div:first-of-type > div"
+    }
+  }
+}

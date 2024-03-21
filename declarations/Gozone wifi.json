@@ -1,1 +1,8 @@
-{"name":"GoZone WiFi","documents":{"Terms of Service":{"fetch":"https://www.gozonewifi.com/terms/use/"}}}
+{
+  "name": "Gozone wifi",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.gozonewifi.com/terms/use/"
+    }
+  }
+}

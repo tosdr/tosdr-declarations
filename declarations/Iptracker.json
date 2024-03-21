@@ -1,1 +1,9 @@
-{"name":"Ip-Tracker","documents":{"Privacy Policy":{"fetch":"https://www.ip-tracker.org/privacy-policy.php","select":"body"}}}
+{
+  "name": "Iptracker",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.ip-tracker.org/privacy-policy.php",
+      "select": "body"
+    }
+  }
+}

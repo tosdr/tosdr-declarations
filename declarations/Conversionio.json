@@ -1,1 +1,8 @@
-{"name":"Conversion.io","documents":{"Privacy Policy":{"fetch":"https://conversion.io/privacy-policy"}}}
+{
+  "name": "Conversionio",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://conversion.io/privacy-policy"
+    }
+  }
+}

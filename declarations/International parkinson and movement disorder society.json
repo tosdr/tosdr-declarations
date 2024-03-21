@@ -1,1 +1,8 @@
-{"name":"International Parkinson and Movement Disorder Society ","documents":{"Privacy Policy":{"fetch":"https://www.movementdisorders.org/MDS/About/MDS-Policies/Privacy-Notice.htm"}}}
+{
+  "name": "International parkinson and movement disorder society",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.movementdisorders.org/MDS/About/MDS-Policies/Privacy-Notice.htm"
+    }
+  }
+}

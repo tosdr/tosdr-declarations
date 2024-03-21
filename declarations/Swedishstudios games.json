@@ -1,1 +1,13 @@
-{"name":"SwedishStudios Games","documents":{"Privacy Policy":{"fetch":"https://swedishstudiosgames.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://swedishstudiosgames.com/tos","select":"body"}}}
+{
+  "name": "Swedishstudios games",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://swedishstudiosgames.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://swedishstudiosgames.com/tos",
+      "select": "body"
+    }
+  }
+}

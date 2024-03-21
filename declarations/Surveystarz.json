@@ -1,1 +1,9 @@
-{"name":"SurveyStarz","documents":{"Privacy Policy":{"fetch":"http://www.surveystarz.com/privacy-policy/","select":"html > body > div:first-of-type > div > div"}}}
+{
+  "name": "Surveystarz",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "http://www.surveystarz.com/privacy-policy/",
+      "select": "html > body > div:first-of-type > div > div"
+    }
+  }
+}

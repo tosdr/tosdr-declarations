@@ -1,1 +1,11 @@
-{"name":"TechGig","documents":{"Terms of Service":{"fetch":"https://www.techgig.com/user/terms"},"Privacy Policy":{"fetch":"https://www.techgig.com/user/privacy"}}}
+{
+  "name": "Techgig",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.techgig.com/user/terms"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.techgig.com/user/privacy"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Two Cans and String","documents":{"Terms of Service":{"fetch":"https://twocansandstring.com/tos","select":"body"}}}
+{
+  "name": "Two cans and string",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://twocansandstring.com/tos",
+      "select": "body"
+    }
+  }
+}

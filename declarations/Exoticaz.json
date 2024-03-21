@@ -1,1 +1,14 @@
-{"name":"ExoticaZ ","documents":{"Copyright Claims Policy":{"fetch":"https://exoticaz.to/about/dmca"},"Privacy Policy":{"fetch":"https://exoticaz.to/about/privacy-policy"},"Terms of Service":{"fetch":"https://exoticaz.to/about/terms"}}}
+{
+  "name": "Exoticaz",
+  "documents": {
+    "Copyright Claims Policy": {
+      "fetch": "https://exoticaz.to/about/dmca"
+    },
+    "Privacy Policy": {
+      "fetch": "https://exoticaz.to/about/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://exoticaz.to/about/terms"
+    }
+  }
+}

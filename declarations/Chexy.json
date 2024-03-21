@@ -1,1 +1,9 @@
-{"name":"Chexy","documents":{"Privacy Policy":{"fetch":"https://www.chexy.co/privacy-policy","select":"body"}}}
+{
+  "name": "Chexy",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.chexy.co/privacy-policy",
+      "select": "body"
+    }
+  }
+}

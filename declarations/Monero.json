@@ -1,1 +1,9 @@
-{"name":"Monero","documents":{"Privacy Policy":{"fetch":"https://www.getmonero.org/legal/","select":"body"}}}
+{
+  "name": "Monero",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.getmonero.org/legal/",
+      "select": "body"
+    }
+  }
+}

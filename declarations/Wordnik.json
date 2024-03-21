@@ -1,1 +1,9 @@
-{"name":"Wordnik","documents":{"Privacy Policy":{"fetch":"https://www.wordnik.com/privacy","select":"body"}}}
+{
+  "name": "Wordnik",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.wordnik.com/privacy",
+      "select": "body"
+    }
+  }
+}

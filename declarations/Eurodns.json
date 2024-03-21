@@ -1,1 +1,14 @@
-{"name":"EuroDNS ","documents":{"Privacy Policy":{"fetch":"https://www.eurodns.com/privacy-policy"},"Trackers Policy":{"fetch":"https://www.eurodns.com/use-of-cookies"},"Terms of Service":{"fetch":"https://www.eurodns.com/terms-and-conditions"}}}
+{
+  "name": "Eurodns",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.eurodns.com/privacy-policy"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.eurodns.com/use-of-cookies"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.eurodns.com/terms-and-conditions"
+    }
+  }
+}

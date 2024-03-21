@@ -1,1 +1,13 @@
-{"name":"The Old Reader","documents":{"Terms of Service":{"fetch":"https://theoldreader.com/pages/tos","select":"body"},"Privacy Policy":{"fetch":"https://theoldreader.com/pages/privacy","select":"body"}}}
+{
+  "name": "The old reader",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://theoldreader.com/pages/tos",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://theoldreader.com/pages/privacy",
+      "select": "body"
+    }
+  }
+}

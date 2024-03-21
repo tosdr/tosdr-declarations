@@ -1,1 +1,9 @@
-{"name":"Moonka.space","documents":{"Trackers Policy":{"fetch":"https://moonka.space/privacy","select":"body"}}}
+{
+  "name": "Moonkaspace",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://moonka.space/privacy",
+      "select": "body"
+    }
+  }
+}

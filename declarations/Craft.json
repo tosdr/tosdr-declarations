@@ -1,1 +1,9 @@
-{"name":"Craft","documents":{"Privacy Policy":{"fetch":"https://www.craft.do/privacy","select":"body"}}}
+{
+  "name": "Craft",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.craft.do/privacy",
+      "select": "body"
+    }
+  }
+}

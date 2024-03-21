@@ -1,1 +1,11 @@
-{"name":"Ramsey Solutions","documents":{"Privacy Policy":{"fetch":"https://www.ramseysolutions.com/company/policies/privacy-policy"},"Terms of Service":{"fetch":"https://www.ramseysolutions.com/company/policies/terms-of-use"}}}
+{
+  "name": "Ramsey solutions",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.ramseysolutions.com/company/policies/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.ramseysolutions.com/company/policies/terms-of-use"
+    }
+  }
+}

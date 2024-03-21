@@ -1,1 +1,12 @@
-{"name":"Breathe Right","documents":{"Privacy Policy":{"fetch":"https://foundationch.com/privacy-policy/","select":"html > body > div:first-of-type > section > div"},"Terms of Service":{"fetch":"https://www.breatheright.com/terms-of-use"}}}
+{
+  "name": "Breathe right",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://foundationch.com/privacy-policy/",
+      "select": "html > body > div:first-of-type > section > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.breatheright.com/terms-of-use"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Monarch Games","documents":{"Privacy Policy":{"fetch":"https://monarchgames.net/privacy.html","select":"body"}}}
+{
+  "name": "Monarch games",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://monarchgames.net/privacy.html",
+      "select": "body"
+    }
+  }
+}

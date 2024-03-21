@@ -1,1 +1,9 @@
-{"name":"FakeYou","documents":{"Privacy Policy":{"fetch":"https://fakeyou.com/privacy","select":"body"}}}
+{
+  "name": "Fakeyou",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://fakeyou.com/privacy",
+      "select": "body"
+    }
+  }
+}

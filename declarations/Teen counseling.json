@@ -1,1 +1,11 @@
-{"name":"Teen Counseling","documents":{"Terms of Service":{"fetch":"https://www.teencounseling.com/terms"},"Privacy Policy":{"fetch":"https://www.teencounseling.com/privacy"}}}
+{
+  "name": "Teen counseling",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.teencounseling.com/terms"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.teencounseling.com/privacy"
+    }
+  }
+}

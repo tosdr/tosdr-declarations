@@ -1,1 +1,13 @@
-{"name":"Tron-Free","documents":{"Terms of Service":{"fetch":"https://tron-free.com/page/terms","select":"body"},"Privacy Policy":{"fetch":"https://tron-free.com/page/privacy","select":"body"}}}
+{
+  "name": "Tronfree",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://tron-free.com/page/terms",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://tron-free.com/page/privacy",
+      "select": "body"
+    }
+  }
+}

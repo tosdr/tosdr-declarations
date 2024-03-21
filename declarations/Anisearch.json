@@ -1,1 +1,8 @@
-{"name":"Anisearch","documents":{"Privacy Policy":{"fetch":"https://www.anisearch.com/faq/privacy"}}}
+{
+  "name": "Anisearch",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.anisearch.com/faq/privacy"
+    }
+  }
+}

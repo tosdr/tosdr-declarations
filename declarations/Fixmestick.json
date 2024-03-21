@@ -1,1 +1,8 @@
-{"name":"FixMeStick ","documents":{"Privacy Policy":{"fetch":"https://www.fixmestick.com/privacy/"}}}
+{
+  "name": "Fixmestick",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.fixmestick.com/privacy/"
+    }
+  }
+}

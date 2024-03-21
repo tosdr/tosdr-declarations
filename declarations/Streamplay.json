@@ -1,1 +1,9 @@
-{"name":"StreamPlay","documents":{"Terms of Service":{"fetch":"https://streampiay.fun/tos","select":"body"}}}
+{
+  "name": "Streamplay",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://streampiay.fun/tos",
+      "select": "body"
+    }
+  }
+}

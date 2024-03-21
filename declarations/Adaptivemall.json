@@ -1,1 +1,8 @@
-{"name":"Adaptivemall ","documents":{"Trackers Policy":{"fetch":"https://www.adaptivemall.com/privacy-policy-cookie-restriction-mode"}}}
+{
+  "name": "Adaptivemall",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.adaptivemall.com/privacy-policy-cookie-restriction-mode"
+    }
+  }
+}

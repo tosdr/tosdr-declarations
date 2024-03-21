@@ -1,1 +1,9 @@
-{"name":"Obsidian","documents":{"Privacy Policy":{"fetch":"https://obsidian.md/privacy","select":"body"}}}
+{
+  "name": "Obsidian",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://obsidian.md/privacy",
+      "select": "body"
+    }
+  }
+}

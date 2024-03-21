@@ -1,1 +1,11 @@
-{"name":"arte.tv","documents":{"Terms of Service":{"fetch":"https://www.arte.tv/sites/corporate/en/general-conditions-of-use/"},"Privacy Policy":{"fetch":"https://www.arte.tv/sites/corporate/en/arte-and-your-personal-data/"}}}
+{
+  "name": "Artetv",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.arte.tv/sites/corporate/en/general-conditions-of-use/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.arte.tv/sites/corporate/en/arte-and-your-personal-data/"
+    }
+  }
+}

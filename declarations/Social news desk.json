@@ -1,1 +1,9 @@
-{"name":"Social News Desk ","documents":{"Terms of Service":{"fetch":"https://www.socialnewsdesk.com/terms-of-use/","select":"body"}}}
+{
+  "name": "Social news desk",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.socialnewsdesk.com/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

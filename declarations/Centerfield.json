@@ -1,1 +1,9 @@
-{"name":"Centerfield ","documents":{"Terms of Service":{"fetch":"https://www.centerfield.com/terms-conditions/","select":"body"}}}
+{
+  "name": "Centerfield",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.centerfield.com/terms-conditions/",
+      "select": "body"
+    }
+  }
+}

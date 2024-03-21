@@ -1,1 +1,11 @@
-{"name":"sendspace","documents":{"Privacy Policy":{"fetch":"https://www.sendspace.com/privacy_policy.html"},"Terms of Service":{"fetch":"https://www.sendspace.com/terms.html"}}}
+{
+  "name": "Sendspace",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sendspace.com/privacy_policy.html"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.sendspace.com/terms.html"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"GamerHash","documents":{"Terms of Service":{"fetch":"https://gamerhash.com/rules","select":"body"},"Privacy Policy":{"fetch":"https://gamerhash.com/privacy","select":"body"}}}
+{
+  "name": "Gamerhash",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://gamerhash.com/rules",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://gamerhash.com/privacy",
+      "select": "body"
+    }
+  }
+}

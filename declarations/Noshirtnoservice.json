@@ -1,1 +1,8 @@
-{"name":"NoShirtNoService","documents":{"Terms of Service":{"fetch":"https://noshirtnoservice.com/pages/term-of-use"}}}
+{
+  "name": "Noshirtnoservice",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://noshirtnoservice.com/pages/term-of-use"
+    }
+  }
+}

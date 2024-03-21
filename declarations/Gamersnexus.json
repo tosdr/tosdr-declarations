@@ -1,1 +1,9 @@
-{"name":"GamersNexus ","documents":{"Privacy Policy":{"fetch":"https://store.gamersnexus.net/privacy","select":"body"}}}
+{
+  "name": "Gamersnexus",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://store.gamersnexus.net/privacy",
+      "select": "body"
+    }
+  }
+}

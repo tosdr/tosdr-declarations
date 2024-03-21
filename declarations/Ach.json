@@ -1,1 +1,9 @@
-{"name":"ACH","documents":{"Privacy Policy":{"fetch":"https://www.nacha.org/content/legal-information","select":"body"}}}
+{
+  "name": "Ach",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.nacha.org/content/legal-information",
+      "select": "body"
+    }
+  }
+}

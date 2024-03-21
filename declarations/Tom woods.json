@@ -1,1 +1,9 @@
-{"name":"Tom Woods","documents":{"Legal Information":{"fetch":"https://tomwoods.com/legal-policies/","select":"html > body > div:first-of-type > div:nth-of-type(4)"}}}
+{
+  "name": "Tom woods",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://tomwoods.com/legal-policies/",
+      "select": "html > body > div:first-of-type > div:nth-of-type(4)"
+    }
+  }
+}

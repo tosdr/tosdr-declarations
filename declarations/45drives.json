@@ -1,1 +1,9 @@
-{"name":"45drives","documents":{"Terms of Service":{"fetch":"https://www.45drives.com/terms.php","select":"html > body > section"}}}
+{
+  "name": "45drives",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.45drives.com/terms.php",
+      "select": "html > body > section"
+    }
+  }
+}

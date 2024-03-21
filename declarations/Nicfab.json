@@ -1,1 +1,9 @@
-{"name":"NicFab","documents":{"Privacy Policy":{"fetch":"https://www.nicfab.eu/en/pages/privacy-policy/","select":"body"}}}
+{
+  "name": "Nicfab",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.nicfab.eu/en/pages/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

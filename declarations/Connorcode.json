@@ -1,1 +1,9 @@
-{"name":"ConnorCode","documents":{"Privacy Policy":{"fetch":"https://connorcode.com/about","select":"body"}}}
+{
+  "name": "Connorcode",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://connorcode.com/about",
+      "select": "body"
+    }
+  }
+}

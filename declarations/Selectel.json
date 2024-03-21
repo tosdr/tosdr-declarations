@@ -1,1 +1,8 @@
-{"name":"Selectel","documents":{"Terms of Service":{"fetch":"https://files.selectel.ru/docs/en/user-agreement.pdf"}}}
+{
+  "name": "Selectel",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://files.selectel.ru/docs/en/user-agreement.pdf"
+    }
+  }
+}

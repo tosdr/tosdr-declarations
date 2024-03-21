@@ -1,1 +1,13 @@
-{"name":"GiftCardQuiz","documents":{"Privacy Policy":{"fetch":"https://www.giftcardquiz.com/privacy-policy.asp","select":"html > body"},"Terms of Service":{"fetch":"https://www.giftcardquiz.com/terms-of-services.asp","select":"html > body"}}}
+{
+  "name": "Giftcardquiz",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.giftcardquiz.com/privacy-policy.asp",
+      "select": "html > body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.giftcardquiz.com/terms-of-services.asp",
+      "select": "html > body"
+    }
+  }
+}

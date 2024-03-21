@@ -1,1 +1,9 @@
-{"name":"Free Tax USA","documents":{"Privacy Policy":{"fetch":"https://www.freetaxusa.com/privacy.jsp","select":"html > body > section:nth-of-type(2) > div"}}}
+{
+  "name": "Free tax usa",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.freetaxusa.com/privacy.jsp",
+      "select": "html > body > section:nth-of-type(2) > div"
+    }
+  }
+}

@@ -1,1 +1,11 @@
-{"name":"XMyIP","documents":{"Terms of Service":{"fetch":"https://www.xmyip.com/terms-of-use"},"Privacy Policy":{"fetch":"https://www.xmyip.com/privacy-policy"}}}
+{
+  "name": "Xmyip",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.xmyip.com/terms-of-use"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.xmyip.com/privacy-policy"
+    }
+  }
+}

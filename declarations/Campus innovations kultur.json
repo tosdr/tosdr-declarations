@@ -1,1 +1,9 @@
-{"name":"Campus Innovations Kultur","documents":{"Privacy Policy":{"fetch":"https://cik.cool/datenschutzerklaerung/","select":"section.wrapper-content"}}}
+{
+  "name": "Campus innovations kultur",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://cik.cool/datenschutzerklaerung/",
+      "select": "section.wrapper-content"
+    }
+  }
+}

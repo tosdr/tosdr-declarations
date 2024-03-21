@@ -1,1 +1,13 @@
-{"name":"Terra.do","documents":{"Terms of Service":{"fetch":"https://terra.do/terms/","select":"body"},"Privacy Policy":{"fetch":"https://terra.do/privacy/","select":"body"}}}
+{
+  "name": "Terrado",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://terra.do/terms/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://terra.do/privacy/",
+      "select": "body"
+    }
+  }
+}

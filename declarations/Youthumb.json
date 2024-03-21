@@ -1,1 +1,9 @@
-{"name":"Youthumb","documents":{"Privacy Policy":{"fetch":"https://youthumb.net/privacy","select":"body"}}}
+{
+  "name": "Youthumb",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://youthumb.net/privacy",
+      "select": "body"
+    }
+  }
+}

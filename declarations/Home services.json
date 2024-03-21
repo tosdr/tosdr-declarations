@@ -1,1 +1,9 @@
-{"name":"Home Services","documents":{"Privacy Policy":{"fetch":"https://homeservicescompliance.com/","select":"body"}}}
+{
+  "name": "Home services",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://homeservicescompliance.com/",
+      "select": "body"
+    }
+  }
+}

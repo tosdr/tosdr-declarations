@@ -1,1 +1,13 @@
-{"name":"BonPatron","documents":{"Privacy Policy":{"fetch":"https://bonpatron.com/privacy/","select":"body"},"Terms of Service":{"fetch":"https://pro.bonpatron.com/Create/","select":"html > body > div:nth-of-type(2) > div > div > div > div > div > form > div:nth-of-type(2) > div"}}}
+{
+  "name": "Bonpatron",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://bonpatron.com/privacy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://pro.bonpatron.com/Create/",
+      "select": "html > body > div:nth-of-type(2) > div > div > div > div > div > form > div:nth-of-type(2) > div"
+    }
+  }
+}

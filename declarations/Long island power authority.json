@@ -1,1 +1,8 @@
-{"name":"Long Island Power Authority","documents":{"Privacy Policy":{"fetch":"https://www.lipower.org/privacy/"}}}
+{
+  "name": "Long island power authority",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.lipower.org/privacy/"
+    }
+  }
+}

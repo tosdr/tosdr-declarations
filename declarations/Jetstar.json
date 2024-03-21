@@ -1,1 +1,9 @@
-{"name":"Jetstar","documents":{"Privacy Policy":{"fetch":"https://www.jetstar.com/au/en/privacy-policy","select":"body"}}}
+{
+  "name": "Jetstar",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.jetstar.com/au/en/privacy-policy",
+      "select": "body"
+    }
+  }
+}

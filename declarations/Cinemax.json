@@ -1,1 +1,9 @@
-{"name":"Cinemax","documents":{"Privacy Policy":{"fetch":"https://www.cinemax.com/privacy-policy.html","select":"html > body > div:first-of-type > div > div > div > div > div > div"}}}
+{
+  "name": "Cinemax",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.cinemax.com/privacy-policy.html",
+      "select": "html > body > div:first-of-type > div > div > div > div > div > div"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Politics and War","documents":{"Privacy Policy":{"fetch":"https://politicsandwar.com/privacy/","select":"body"}}}
+{
+  "name": "Politics and war",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://politicsandwar.com/privacy/",
+      "select": "body"
+    }
+  }
+}

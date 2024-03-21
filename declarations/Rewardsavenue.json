@@ -1,1 +1,13 @@
-{"name":" RewardsAvenue","documents":{"Privacy Policy":{"fetch":"https://ra.membershipinfo.center/privacy.html","select":"body"},"Terms of Service":{"fetch":"https://ra.membershipinfo.center/terms.html","select":"body"}}}
+{
+  "name": "Rewardsavenue",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://ra.membershipinfo.center/privacy.html",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://ra.membershipinfo.center/terms.html",
+      "select": "body"
+    }
+  }
+}

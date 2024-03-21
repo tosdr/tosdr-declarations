@@ -1,1 +1,9 @@
-{"name":"PostmarketOS","documents":{"Privacy Policy":{"fetch":"https://postmarketos.org/privacy-policy/","select":"body"}}}
+{
+  "name": "Postmarketos",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://postmarketos.org/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

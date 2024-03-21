@@ -1,1 +1,9 @@
-{"name":"babbar","documents":{"Privacy Policy":{"fetch":"https://www.babbar.tech/terms/","select":"body"}}}
+{
+  "name": "Babbar",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.babbar.tech/terms/",
+      "select": "body"
+    }
+  }
+}

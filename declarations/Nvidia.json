@@ -1,1 +1,13 @@
-{"name":"Nvidia","documents":{"Privacy Policy":{"fetch":"https://www.nvidia.com/en-us/about-nvidia/privacy-policy-children/","select":"html > body > div:first-of-type > div > div:nth-of-type(2) > section"},"Legal Information":{"fetch":"https://www.nvidia.com/en-us/about-nvidia/legal-info/","select":"html > body"}}}
+{
+  "name": "Nvidia",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.nvidia.com/en-us/about-nvidia/privacy-policy-children/",
+      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > section"
+    },
+    "Legal Information": {
+      "fetch": "https://www.nvidia.com/en-us/about-nvidia/legal-info/",
+      "select": "html > body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"semantic-mediawiki.org","documents":{"Privacy Policy":{"fetch":"https://www.semantic-mediawiki.org/wiki/semantic-mediawiki.org:Privacy_policy","select":"body"}}}
+{
+  "name": "Semanticmediawikiorg",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.semantic-mediawiki.org/wiki/semantic-mediawiki.org:Privacy_policy",
+      "select": "body"
+    }
+  }
+}

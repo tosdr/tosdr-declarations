@@ -1,1 +1,9 @@
-{"name":"Lavabit","documents":{"Privacy Policy":{"fetch":"https://lavabit.com/privacy.html","select":"body"}}}
+{
+  "name": "Lavabit",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://lavabit.com/privacy.html",
+      "select": "body"
+    }
+  }
+}

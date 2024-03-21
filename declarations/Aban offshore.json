@@ -1,1 +1,9 @@
-{"name":"Aban Offshore","documents":{"Terms of Service":{"fetch":"http://www.abanoffshore.com/pdf/GCC%20AOL.pdf","select":"body"}}}
+{
+  "name": "Aban offshore",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "http://www.abanoffshore.com/pdf/GCC%20AOL.pdf",
+      "select": "body"
+    }
+  }
+}

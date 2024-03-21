@@ -1,1 +1,8 @@
-{"name":"SickPatient","documents":{"Privacy Policy":{"fetch":"https://sickpatient.com/privacy-policy/"}}}
+{
+  "name": "Sickpatient",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://sickpatient.com/privacy-policy/"
+    }
+  }
+}

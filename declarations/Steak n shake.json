@@ -1,1 +1,11 @@
-{"name":"Steak ‘n Shake","documents":{"Terms of Service":{"fetch":"https://www.steaknshake.com/legal/"},"Privacy Policy":{"fetch":"https://www.steaknshake.com/privacy/"}}}
+{
+  "name": "Steak n shake",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.steaknshake.com/legal/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.steaknshake.com/privacy/"
+    }
+  }
+}

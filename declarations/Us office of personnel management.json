@@ -1,1 +1,9 @@
-{"name":"U.S. Office of Personnel Management","documents":{"Privacy Policy":{"fetch":"https://www.opm.gov/information-management/privacy-policy/#url=Web-Privacy-Notice","select":"body"}}}
+{
+  "name": "Us office of personnel management",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.opm.gov/information-management/privacy-policy/#url=Web-Privacy-Notice",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,11 @@
-{"name":"Tiny Signs ","documents":{"Privacy Policy":{"fetch":"https://tinysigns.com/privacy-policy/"}}}
+{
+  "name": "Tiny signs",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://tinysigns.com/privacy-policy/"
+    },
+    "Vulnerability Disclosure Policy": {
+      "fetch": "https://tinysigns.com/disclosure-policy/"
+    }
+  }
+}

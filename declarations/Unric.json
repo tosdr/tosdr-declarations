@@ -1,1 +1,8 @@
-{"name":"UNRIC","documents":{"Privacy Policy":{"fetch":"https://unric.org/en/privacy-notice/"}}}
+{
+  "name": "Unric",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://unric.org/en/privacy-notice/"
+    }
+  }
+}

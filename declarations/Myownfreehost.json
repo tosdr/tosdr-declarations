@@ -1,1 +1,9 @@
-{"name":"MyOwnFreeHost","documents":{"Privacy Policy":{"fetch":"https://www.myownfreehost.net/legal.php","select":"body"}}}
+{
+  "name": "Myownfreehost",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.myownfreehost.net/legal.php",
+      "select": "body"
+    }
+  }
+}

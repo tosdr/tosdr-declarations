@@ -1,1 +1,9 @@
-{"name":"Sucuri ","documents":{"Privacy Policy":{"fetch":"https://sucuri.net/privacy/","select":"body"}}}
+{
+  "name": "Sucuri",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://sucuri.net/privacy/",
+      "select": "body"
+    }
+  }
+}

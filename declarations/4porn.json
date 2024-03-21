@@ -1,1 +1,9 @@
-{"name":"4porn","documents":{"Privacy Policy":{"fetch":"https://4porn.com/privacy/","select":"body"}}}
+{
+  "name": "4porn",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://4porn.com/privacy/",
+      "select": "body"
+    }
+  }
+}

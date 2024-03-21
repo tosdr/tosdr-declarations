@@ -1,1 +1,8 @@
-{"name":"computerhope","documents":{"Privacy Policy":{"fetch":"https://www.computerhope.com/legal.htm"}}}
+{
+  "name": "Computerhope",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.computerhope.com/legal.htm"
+    }
+  }
+}

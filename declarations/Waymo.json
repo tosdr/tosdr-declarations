@@ -1,1 +1,11 @@
-{"name":"Waymo","documents":{"Terms of Service":{"fetch":"https://waymo.com/terms/"},"Privacy Policy":{"fetch":"https://waymo.com/privacy/"}}}
+{
+  "name": "Waymo",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://waymo.com/terms/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://waymo.com/privacy/"
+    }
+  }
+}

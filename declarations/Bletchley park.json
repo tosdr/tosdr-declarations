@@ -1,1 +1,9 @@
-{"name":"Bletchley Park  ","documents":{}}
+{
+  "name": "Bletchley park",
+  "documents": {
+    "Policy": {
+      "fetch": "https://bletchleypark.org.uk/privacy-policies/media-policy/",
+      "select": "body"
+    }
+  }
+}

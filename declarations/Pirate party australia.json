@@ -1,1 +1,8 @@
-{"name":"Pirate Party Australia","documents":{"Privacy Policy":{"fetch":"https://pirateparty.org.au/privacy/"}}}
+{
+  "name": "Pirate party australia",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://pirateparty.org.au/privacy/"
+    }
+  }
+}

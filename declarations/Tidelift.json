@@ -1,1 +1,13 @@
-{"name":"Tidelift","documents":{"Privacy Policy":{"fetch":"https://tidelift.com/about/privacy","select":"div"},"Terms of Service":{"fetch":"https://tidelift.com/about/tos","select":"div"}}}
+{
+  "name": "Tidelift",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://tidelift.com/about/privacy",
+      "select": "div"
+    },
+    "Terms of Service": {
+      "fetch": "https://tidelift.com/about/tos",
+      "select": "div"
+    }
+  }
+}

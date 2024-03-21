@@ -1,1 +1,15 @@
-{"name":"STEM Learning","documents":{"Privacy Policy":{"fetch":"https://www.stem.org.uk/privacy-policy"},"Trackers Policy":{"fetch":"https://www.stem.org.uk/cookies"},"Terms of Service":{"fetch":"https://www.stem.org.uk/terms-conditions","select":"html > body > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(4) > div"}}}
+{
+  "name": "Stem learning",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.stem.org.uk/privacy-policy"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.stem.org.uk/cookies"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.stem.org.uk/terms-conditions",
+      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(4) > div"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Downdetector","documents":{"Privacy Policy":{"fetch":"https://downdetector.com/privacy.html","select":"body"}}}
+{
+  "name": "Downdetector",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://downdetector.com/privacy.html",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Koddos","documents":{}}
+{
+  "name": "Koddos",
+  "documents": {
+    "Other": {
+      "fetch": "https://koddos.net/payment-methods.html",
+      "select": "body"
+    }
+  }
+}

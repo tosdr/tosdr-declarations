@@ -1,1 +1,14 @@
-{"name":"Ravelry","documents":{"Terms of Service":{"fetch":"https://www.ravelry.com/about/terms"},"Trackers Policy":{"fetch":"https://www.ravelry.com/about/adterms"},"Privacy Policy":{"fetch":"https://www.ravelry.com/about/privacy"}}}
+{
+  "name": "Ravelry",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.ravelry.com/about/terms"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.ravelry.com/about/adterms"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.ravelry.com/about/privacy"
+    }
+  }
+}

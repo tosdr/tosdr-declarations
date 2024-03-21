@@ -1,1 +1,8 @@
-{"name":"CosmoChat","documents":{"Privacy Policy":{"fetch":"https://www.cosmochat.eu/en/tpc.php"}}}
+{
+  "name": "Cosmochat",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.cosmochat.eu/en/tpc.php"
+    }
+  }
+}

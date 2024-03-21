@@ -1,1 +1,13 @@
-{"name":"General Mills","documents":{"Terms of Service":{"fetch":"https://www.generalmills.com/en/Company/legal-terms","select":"body"},"Trackers Policy":{"fetch":"https://www.generalmills.com/en/Company/privacy-policies/privacy-policy-cookie-US-English#cookienotice","select":"body"}}}
+{
+  "name": "General mills",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.generalmills.com/en/Company/legal-terms",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.generalmills.com/en/Company/privacy-policies/privacy-policy-cookie-US-English#cookienotice",
+      "select": "body"
+    }
+  }
+}

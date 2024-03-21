@@ -1,1 +1,12 @@
-{"name":"Gigworker.com","documents":{"Terms of Service":{"fetch":"https://gigworker.com/terms-and-conditions/"},"Privacy Policy":{"fetch":"https://gigworker.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Gigworkercom",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://gigworker.com/terms-and-conditions/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://gigworker.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

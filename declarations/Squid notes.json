@@ -1,1 +1,9 @@
-{"name":"Squid Notes","documents":{"Privacy Policy":{"fetch":"https://www.squidnotes.com/terms","select":"body"}}}
+{
+  "name": "Squid notes",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.squidnotes.com/terms",
+      "select": "body"
+    }
+  }
+}

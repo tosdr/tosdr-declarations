@@ -1,1 +1,17 @@
-{"name":"Crowdin","documents":{"Privacy Policy":{"fetch":"https://support.crowdin.com/security-policy/","select":"body"},"Vulnerability Disclosure Policy":{"fetch":"https://support.crowdin.com/vulnerability-policy/","select":"body"},"Trackers Policy":{"fetch":"https://support.crowdin.com/cookies/","select":"body"}}}
+{
+  "name": "Crowdin",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://support.crowdin.com/security-policy/",
+      "select": "body"
+    },
+    "Vulnerability Disclosure Policy": {
+      "fetch": "https://support.crowdin.com/vulnerability-policy/",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://support.crowdin.com/cookies/",
+      "select": "body"
+    }
+  }
+}

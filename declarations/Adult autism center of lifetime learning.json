@@ -1,1 +1,9 @@
-{"name":"Adult Autism Center of Lifetime Learning","documents":{"Terms of Service":{"fetch":"https://adultautismcenter.org/terms-and-conditions/","select":"html > body > main > section"}}}
+{
+  "name": "Adult autism center of lifetime learning",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://adultautismcenter.org/terms-and-conditions/",
+      "select": "html > body > main > section"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"pymetrics","documents":{"Privacy Policy":{"fetch":"https://www.pymetrics.ai/privacy-policy","select":"body"}}}
+{
+  "name": "Pymetrics",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.pymetrics.ai/privacy-policy",
+      "select": "body"
+    }
+  }
+}

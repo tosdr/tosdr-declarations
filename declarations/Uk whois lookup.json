@@ -1,1 +1,13 @@
-{"name":"UK WHOIS Lookup","documents":{"Terms of Service":{"fetch":"https://ukwhois.uk/terms/","select":"body"},"Privacy Policy":{"fetch":"https://ukwhois.uk/privacy/","select":"body"}}}
+{
+  "name": "Uk whois lookup",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://ukwhois.uk/terms/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://ukwhois.uk/privacy/",
+      "select": "body"
+    }
+  }
+}

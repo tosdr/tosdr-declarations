@@ -1,1 +1,9 @@
-{"name":"Streamtape","documents":{"Copyright Claims Policy":{"fetch":"https://streamtape.com/copyright","select":" > div"}}}
+{
+  "name": "Streamtape",
+  "documents": {
+    "Copyright Claims Policy": {
+      "fetch": "https://streamtape.com/copyright",
+      "select": " > div"
+    }
+  }
+}

@@ -1,1 +1,12 @@
-{"name":"CNN","documents":{"Trackers Policy":{"fetch":"https://edition.cnn.com/privacy0?no-st=9999999999"},"Terms of Service":{"fetch":"https://edition.cnn.com/terms","select":"html > body > div:nth-of-type(5) > article"}}}
+{
+  "name": "Cnn",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://edition.cnn.com/privacy0?no-st=9999999999"
+    },
+    "Terms of Service": {
+      "fetch": "https://edition.cnn.com/terms",
+      "select": "html > body > div:nth-of-type(5) > article"
+    }
+  }
+}

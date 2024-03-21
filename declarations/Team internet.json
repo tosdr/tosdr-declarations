@@ -1,1 +1,12 @@
-{"name":"Team Internet","documents":{"Privacy Policy":{"fetch":"https://teaminternet.com/privacy.html","select":"html > body > main"}}}
+{
+  "name": "Team internet",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://teaminternet.com/privacy.html",
+      "select": "html > body > main"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://www.parkingcrew.com/agb.php"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Hejki.org","documents":{"Privacy Policy":{"fetch":"https://hejki.org/ssheditor/privacy-appstore.html","select":"body"}}}
+{
+  "name": "Hejkiorg",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://hejki.org/ssheditor/privacy-appstore.html",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Key Educational Group","documents":{"Privacy Policy":{"fetch":"https://keyeducation.org/privacy/","select":"body"}}}
+{
+  "name": "Key educational group",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://keyeducation.org/privacy/",
+      "select": "body"
+    }
+  }
+}

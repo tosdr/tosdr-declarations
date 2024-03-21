@@ -1,1 +1,9 @@
-{"name":"Digimedia","documents":{"Privacy Policy":{"fetch":"https://www.digimedia.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Digimedia",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.digimedia.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Today's Budget","documents":{"Privacy Policy":{"fetch":"https://www.todays-budget.com/dboprivacy","select":"body"}}}
+{
+  "name": "Todays budget",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.todays-budget.com/dboprivacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Media Markt","documents":{"Privacy Policy":{"fetch":"https://www.mediamarkt.de/de/shop/datenschutzhinweis_shop.html","select":"body"}}}
+{
+  "name": "Media markt",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.mediamarkt.de/de/shop/datenschutzhinweis_shop.html",
+      "select": "body"
+    }
+  }
+}

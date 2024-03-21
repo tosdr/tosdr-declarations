@@ -1,1 +1,11 @@
-{"name":"Nexus Mods","documents":{"Privacy Policy":{"fetch":"https://help.nexusmods.com/article/20-privacy-policy"},"Terms of Service":{"fetch":"https://help.nexusmods.com/article/18-terms-of-service"}}}
+{
+  "name": "Nexus mods",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://help.nexusmods.com/article/20-privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://help.nexusmods.com/article/18-terms-of-service"
+    }
+  }
+}

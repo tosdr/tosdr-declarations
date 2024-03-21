@@ -1,1 +1,12 @@
-{"name":"Ness Web Solutions","documents":{"Privacy Policy":{"fetch":"https://nesswebsolutions.com/privacy-policy"},"Trackers Policy":{"fetch":"https://nesswebsolutions.com/policies/cookie-policy-us","select":"body"}}}
+{
+  "name": "Ness web solutions",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://nesswebsolutions.com/privacy-policy"
+    },
+    "Trackers Policy": {
+      "fetch": "https://nesswebsolutions.com/policies/cookie-policy-us",
+      "select": "body"
+    }
+  }
+}

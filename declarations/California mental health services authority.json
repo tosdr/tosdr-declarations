@@ -1,1 +1,11 @@
-{"name":"California Mental Health Services Authority","documents":{"Privacy Policy":{"fetch":"https://www.calmhsa.org/privacy-statement/"},"Terms of Service":{"fetch":"https://www.calmhsa.org/terms/"}}}
+{
+  "name": "California mental health services authority",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.calmhsa.org/privacy-statement/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.calmhsa.org/terms/"
+    }
+  }
+}

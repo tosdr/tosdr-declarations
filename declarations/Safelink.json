@@ -1,1 +1,13 @@
-{"name":"SafeLink","documents":{"Privacy Policy":{"fetch":"https://www.safelink.com/wps/portal/home/h/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.safelink.com/wps/portal/home/h/tandc","select":"body"}}}
+{
+  "name": "Safelink",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.safelink.com/wps/portal/home/h/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.safelink.com/wps/portal/home/h/tandc",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,12 @@
-{"name":"ST Math","documents":{"Privacy Policy":{"fetch":"https://www.stmath.com/privacy-policy"},"Terms of Service":{"fetch":"https://www.stmath.com/terms","select":"body"}}}
+{
+  "name": "St math",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.stmath.com/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.stmath.com/terms",
+      "select": "body"
+    }
+  }
+}

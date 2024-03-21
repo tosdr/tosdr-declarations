@@ -1,1 +1,8 @@
-{"name":"Turning Point USA","documents":{"Privacy Policy":{"fetch":"https://www.tpusa.com/privacypolicy"}}}
+{
+  "name": "Turning point usa",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.tpusa.com/privacypolicy"
+    }
+  }
+}

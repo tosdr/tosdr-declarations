@@ -1,1 +1,9 @@
-{"name":"Paweł Urbanek","documents":{"Privacy Policy":{"fetch":"https://pawelurbanek.com/terms","select":"body"}}}
+{
+  "name": "Pawe urbanek",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://pawelurbanek.com/terms",
+      "select": "body"
+    }
+  }
+}

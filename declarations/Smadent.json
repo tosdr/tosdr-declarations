@@ -1,1 +1,9 @@
-{"name":"Smadent","documents":{"Privacy Policy":{"fetch":"https://www.smadent.com/privacy-policy.html","select":"body"}}}
+{
+  "name": "Smadent",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.smadent.com/privacy-policy.html",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"ABDLfactory ","documents":{"Terms of Service":{"fetch":"https://abdlfactory.com/terms-conditions","select":"body"}}}
+{
+  "name": "Abdlfactory",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://abdlfactory.com/terms-conditions",
+      "select": "body"
+    }
+  }
+}

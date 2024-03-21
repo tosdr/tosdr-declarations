@@ -1,1 +1,9 @@
-{"name":"Sniffies","documents":{"Terms of Service":{"fetch":"https://sniffies.com/map/policies/terms-of-service","select":"body"}}}
+{
+  "name": "Sniffies",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://sniffies.com/map/policies/terms-of-service",
+      "select": "body"
+    }
+  }
+}

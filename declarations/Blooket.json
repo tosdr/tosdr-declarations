@@ -1,1 +1,9 @@
-{"name":"Blooket","documents":{"Privacy Policy":{"fetch":"https://www.blooket.com/privacy","select":"body"}}}
+{
+  "name": "Blooket",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.blooket.com/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Dr Aron Medical Weight Loss Center, WeightLossNYC","documents":{"Privacy Policy":{"fetch":"https://weightlossnyc.com/privacy-policy.php","select":"html > body > main"}}}
+{
+  "name": "Dr aron medical weight loss center weightlossnyc",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://weightlossnyc.com/privacy-policy.php",
+      "select": "html > body > main"
+    }
+  }
+}

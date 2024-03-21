@@ -1,1 +1,9 @@
-{"name":"CTS Eventim","documents":{"Terms of Service":{"fetch":"https://www.eventim.de/help/terms/","select":" > section:nth-of-type(2) > div"}}}
+{
+  "name": "Cts eventim",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://www.eventim.de/help/terms/",
+      "select": " > section:nth-of-type(2) > div"
+    }
+  }
+}

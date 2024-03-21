@@ -1,1 +1,9 @@
-{"name":"Children's Assistive Technology Services","documents":{"Terms of Service":{"fetch":"https://hr.atdevicesforkids.org/terms","select":"html > body > div:first-of-type > div:nth-of-type(2) > div > div > div:first-of-type > div > article > div"}}}
+{
+  "name": "Childrens assistive technology services",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://hr.atdevicesforkids.org/terms",
+      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div > div > div:first-of-type > div > article > div"
+    }
+  }
+}

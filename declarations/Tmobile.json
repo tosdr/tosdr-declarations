@@ -1,1 +1,15 @@
-{"name":"T-mobile","documents":{"Privacy Policy":{"fetch":"https://www.t-mobile.com/privacy-center/our-practices/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.t-mobile.com/responsibility/legal/terms-and-conditions"}}}
+{
+  "name": "Tmobile",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.t-mobile.com/privacy-center/our-practices/privacy-policy",
+      "select": "body"
+    },
+    "Policy": {
+      "fetch": "https://www.t-mobile.com/responsibility/consumer-info/policies/internet-service"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.t-mobile.com/responsibility/legal/terms-and-conditions"
+    }
+  }
+}

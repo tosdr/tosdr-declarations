@@ -1,1 +1,9 @@
-{"name":"BibGuru","documents":{"Privacy Policy":{"fetch":"https://www.bibguru.com/privacy/","select":"body"}}}
+{
+  "name": "Bibguru",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.bibguru.com/privacy/",
+      "select": "body"
+    }
+  }
+}

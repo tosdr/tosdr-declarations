@@ -1,1 +1,9 @@
-{"name":"Umeå University","documents":{"Privacy Policy":{"fetch":"https://www.umu.se/en/about-the-website/legal-information/processing-of-personal-data/","select":"html > body > div:first-of-type > div > div"}}}
+{
+  "name": "Ume university",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.umu.se/en/about-the-website/legal-information/processing-of-personal-data/",
+      "select": "html > body > div:first-of-type > div > div"
+    }
+  }
+}

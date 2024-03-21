@@ -1,1 +1,13 @@
-{"name":"MobileSyrup","documents":{"Privacy Policy":{"fetch":"https://mobilesyrup.com/privacy-policy/","select":"html > body > div:nth-of-type(2) > main > div"},"Terms of Service":{"fetch":"https://mobilesyrup.com/terms-and-conditions/","select":"html > body > div:nth-of-type(2) > main > div"}}}
+{
+  "name": "Mobilesyrup",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://mobilesyrup.com/privacy-policy/",
+      "select": "html > body > div:nth-of-type(2) > main > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://mobilesyrup.com/terms-and-conditions/",
+      "select": "html > body > div:nth-of-type(2) > main > div"
+    }
+  }
+}

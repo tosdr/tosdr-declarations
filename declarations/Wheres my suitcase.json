@@ -1,1 +1,11 @@
-{"name":" Where’s My Suitcase.","documents":{"Terms of Service":{"fetch":"https://wheresmysuitcase.com/Home/TermsOfService"},"Privacy Policy":{"fetch":"https://wheresmysuitcase.com/Home/PrivacyPolicy"}}}
+{
+  "name": "Wheres my suitcase",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://wheresmysuitcase.com/Home/TermsOfService"
+    },
+    "Privacy Policy": {
+      "fetch": "https://wheresmysuitcase.com/Home/PrivacyPolicy"
+    }
+  }
+}

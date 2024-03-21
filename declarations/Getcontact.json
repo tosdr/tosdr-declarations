@@ -1,1 +1,14 @@
-{"name":"Getcontact","documents":{"Privacy Policy":{"fetch":"https://www.getcontact.com/privacy"},"Terms of Service":{"fetch":"https://www.getcontact.com/en/terms"}}}
+{
+  "name": "Getcontact",
+  "documents": {
+    "Policy": {
+      "fetch": "https://www.getcontact.com/purchases-policy"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.getcontact.com/privacy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.getcontact.com/en/terms"
+    }
+  }
+}

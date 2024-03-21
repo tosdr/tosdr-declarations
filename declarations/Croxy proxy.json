@@ -1,1 +1,9 @@
-{"name":"Croxy Proxy","documents":{"Privacy Policy":{"fetch":"https://www.croxyproxy.com/privacy","select":"body"}}}
+{
+  "name": "Croxy proxy",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.croxyproxy.com/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,11 @@
-{"name":"County of Santa Clara","documents":{"Privacy Policy":{"fetch":"https://www.sccgov.org/sites/scc/Pages/Privacy-Policy.aspx"},"Terms of Service":{"fetch":"https://www.sccgov.org/sites/scc/pages/county-policies.aspx"}}}
+{
+  "name": "County of santa clara",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sccgov.org/sites/scc/Pages/Privacy-Policy.aspx"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.sccgov.org/sites/scc/pages/county-policies.aspx"
+    }
+  }
+}

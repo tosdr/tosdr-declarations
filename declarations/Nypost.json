@@ -1,1 +1,11 @@
-{"name":"nypost","documents":{"Terms of Service":{"fetch":"https://nypost.com/terms/"},"Privacy Policy":{"fetch":"https://nypost.com/privacy/"}}}
+{
+  "name": "Nypost",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://nypost.com/terms/"
+    },
+    "Legal Information": {
+      "fetch": "https://nypost.com/privacy/"
+    }
+  }
+}

@@ -1,1 +1,17 @@
-{"name":"Sweet","documents":{"Privacy Policy":{"fetch":"https://sweet.sh/about#privacy-policy"},"Community Guidelines":{"fetch":"https://sweet.sh/about#code-of-conduct"}}}
+{
+  "name": "Sweet",
+  "documents": {
+    "Other": {
+      "fetch": "https://sweet.sh/about#comparison"
+    },
+    "Privacy Policy": {
+      "fetch": "https://sweet.sh/about#privacy-policy"
+    },
+    "About": {
+      "fetch": "https://sweet.sh/about#about-sweet"
+    },
+    "Community Guidelines": {
+      "fetch": "https://sweet.sh/about#code-of-conduct"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Dropout ","documents":{"Privacy Policy":{"fetch":"https://www.dropout.tv/privacy","select":"body"}}}
+{
+  "name": "Dropout",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.dropout.tv/privacy",
+      "select": "body"
+    }
+  }
+}

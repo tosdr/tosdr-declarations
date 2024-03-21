@@ -1,1 +1,8 @@
-{"name":"Airestech","documents":{"Trackers Policy":{"fetch":"https://www.airestech.com/privacy-policy"}}}
+{
+  "name": "Airestech",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.airestech.com/privacy-policy"
+    }
+  }
+}

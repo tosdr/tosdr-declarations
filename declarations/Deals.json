@@ -1,1 +1,13 @@
-{"name":"deals","documents":{"Terms of Service":{"fetch":"https://gg.deals/terms/","select":"body"},"Privacy Policy":{"fetch":"https://gg.deals/privacy","select":"body"}}}
+{
+  "name": "Deals",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://gg.deals/terms/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://gg.deals/privacy",
+      "select": "body"
+    }
+  }
+}

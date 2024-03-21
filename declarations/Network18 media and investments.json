@@ -1,1 +1,9 @@
-{"name":"Network18 Media and Investments","documents":{"Privacy Policy":{"fetch":"https://www.news18.com/privacy_policy/","select":"html > body > div:first-of-type > div:nth-of-type(3) > div > div:first-of-type > div"}}}
+{
+  "name": "Network18 media and investments",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.news18.com/privacy_policy/",
+      "select": "html > body > div:first-of-type > div:nth-of-type(3) > div > div:first-of-type > div"
+    }
+  }
+}

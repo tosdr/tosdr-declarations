@@ -1,1 +1,9 @@
-{"name":"Arena Sports","documents":{"Privacy Policy":{"fetch":"https://www.arenasports.net/privacy-policy/","select":"body"}}}
+{
+  "name": "Arena sports",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.arenasports.net/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

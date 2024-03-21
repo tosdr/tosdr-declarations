@@ -1,1 +1,12 @@
-{"name":"patch ","documents":{"Privacy Policy":{"fetch":"https://patch.com/privacy","select":"html > body > div:first-of-type > section > main"},"Terms of Service":{"fetch":"https://patch.com/terms"}}}
+{
+  "name": "Patch",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://patch.com/privacy",
+      "select": "html > body > div:first-of-type > section > main"
+    },
+    "Terms of Service": {
+      "fetch": "https://patch.com/terms"
+    }
+  }
+}

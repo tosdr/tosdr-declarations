@@ -1,1 +1,13 @@
-{"name":"IKEA","documents":{"Terms of Service":{"fetch":"https://www.ikea.com/us/en/customer-service/terms-conditions/","select":" > div > div > div > div"},"Trackers Policy":{"fetch":"https://www.ikea.com/us/en/customer-service/cookie-policy/","select":" > div > div > div > div > div:nth-of-type(2) > article > section:first-of-type"}}}
+{
+  "name": "Ikea",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.ikea.com/us/en/customer-service/terms-conditions/",
+      "select": " > div > div > div > div"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.ikea.com/us/en/customer-service/cookie-policy/",
+      "select": " > div > div > div > div > div:nth-of-type(2) > article > section:first-of-type"
+    }
+  }
+}

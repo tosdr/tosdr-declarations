@@ -1,1 +1,9 @@
-{"name":"AR DESIGNS STL","documents":{"General Conditions of Sale":{"fetch":"https://www.ardesignsstl.com/reture-policy","select":"html > body > section > div"}}}
+{
+  "name": "Ar designs stl",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://www.ardesignsstl.com/reture-policy",
+      "select": "html > body > section > div"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":"Vimm's Lair","documents":{"Privacy Policy":{"fetch":"https://vimm.net/?p=privacy"}}}
+{
+  "name": "Vimms lair",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://vimm.net/?p=privacy"
+    }
+  }
+}

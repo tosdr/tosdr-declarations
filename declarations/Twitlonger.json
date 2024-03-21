@@ -1,1 +1,9 @@
-{"name":"TwitLonger","documents":{"Privacy Policy":{"fetch":"https://www.twitlonger.com/privacy","select":"body"}}}
+{
+  "name": "Twitlonger",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.twitlonger.com/privacy",
+      "select": "body"
+    }
+  }
+}

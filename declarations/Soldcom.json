@@ -1,1 +1,9 @@
-{"name":"SOLD.com","documents":{"Terms of Service":{"fetch":"https://www.sold.com/terms","select":"body"}}}
+{
+  "name": "Soldcom",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.sold.com/terms",
+      "select": "body"
+    }
+  }
+}

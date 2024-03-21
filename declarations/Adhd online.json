@@ -1,1 +1,16 @@
-{"name":"ADHD Online","documents":{"Terms of Service":{"fetch":"https://adhdonline.com/terms-and-conditions/","select":"html > body > div:first-of-type > main > div > section:nth-of-type(2)"},"Privacy Policy":{"fetch":"https://adhdonline.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Adhd online",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://adhdonline.com/terms-and-conditions/",
+      "select": "html > body > div:first-of-type > main > div > section:nth-of-type(2)"
+    },
+    "Legal Information": {
+      "fetch": "https://adhdonline.com/notice-of-privacy-practices/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://adhdonline.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

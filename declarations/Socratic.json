@@ -1,1 +1,9 @@
-{"name":"Socratic","documents":{"Privacy Policy":{"fetch":"https://socratic.org/privacy","select":"body"}}}
+{
+  "name": "Socratic",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://socratic.org/privacy",
+      "select": "body"
+    }
+  }
+}

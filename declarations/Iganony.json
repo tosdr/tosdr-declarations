@@ -1,1 +1,13 @@
-{"name":"IgAnony","documents":{"Privacy Policy":{"fetch":"https://anonyig.com/en/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://anonyig.com/en/terms-of-use/","select":"body"}}}
+{
+  "name": "Iganony",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://anonyig.com/en/privacy-policy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://anonyig.com/en/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

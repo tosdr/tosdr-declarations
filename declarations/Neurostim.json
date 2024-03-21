@@ -1,1 +1,9 @@
-{"name":"NeuroStim","documents":{"Privacy Policy":{"fetch":"https://neurostimtms.com/privacy-policy","select":"html > body > div:nth-of-type(5) > div > div > div:first-of-type > div:first-of-type > article > div > div"}}}
+{
+  "name": "Neurostim",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://neurostimtms.com/privacy-policy",
+      "select": "html > body > div:nth-of-type(5) > div > div > div:first-of-type > div:first-of-type > article > div > div"
+    }
+  }
+}

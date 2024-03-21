@@ -1,1 +1,8 @@
-{"name":"Lorex ","documents":{"Privacy Policy":{"fetch":"https://www.lorex.com/policies/privacy-policy"}}}
+{
+  "name": "Lorex",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.lorex.com/policies/privacy-policy"
+    }
+  }
+}

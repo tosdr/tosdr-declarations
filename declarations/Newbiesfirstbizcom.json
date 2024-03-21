@@ -1,1 +1,9 @@
-{"name":"newbiesfirstbiz.com","documents":{}}
+{
+  "name": "Newbiesfirstbizcom",
+  "documents": {
+    "Legal Information": {
+      "fetch": "http://newbiesfirstbiz.com/disclaimer.html",
+      "select": "body"
+    }
+  }
+}

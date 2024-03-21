@@ -1,1 +1,9 @@
-{"name":"BoardDocs ","documents":{"Privacy Policy":{"fetch":"https://boarddocs.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Boarddocs",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://boarddocs.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

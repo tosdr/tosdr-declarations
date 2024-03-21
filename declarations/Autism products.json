@@ -1,1 +1,15 @@
-{"name":"Autism Products","documents":{"Privacy Policy":{"fetch":"https://www.autism-products.com/privacy-policy/"},"General Conditions of Sale":{"fetch":"https://www.autism-products.com/refund_returns/"},"Terms of Service":{"fetch":"https://www.autism-products.com/terms-conditions/","select":"body"}}}
+{
+  "name": "Autism products",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.autism-products.com/privacy-policy/"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://www.autism-products.com/refund_returns/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.autism-products.com/terms-conditions/",
+      "select": "body"
+    }
+  }
+}

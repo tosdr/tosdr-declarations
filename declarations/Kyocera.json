@@ -1,1 +1,9 @@
-{"name":"KYOCERA  ","documents":{"Privacy Policy":{"fetch":"https://americas.kyocera.com/uploads/us/Kyocera_Privacy_Statement.pdf","select":"body"}}}
+{
+  "name": "Kyocera",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://americas.kyocera.com/uploads/us/Kyocera_Privacy_Statement.pdf",
+      "select": "body"
+    }
+  }
+}

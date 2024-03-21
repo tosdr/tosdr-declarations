@@ -1,1 +1,13 @@
-{"name":"ZoomInfo","documents":{"Privacy Policy":{"fetch":"https://www.zoominfo.com/about-zoominfo/security-overview","select":"html > body > section"},"Terms of Service":{"fetch":"https://www.zoominfo.com/about-zoominfo/terms-of-use","select":"html > body > section"}}}
+{
+  "name": "Zoominfo",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.zoominfo.com/about-zoominfo/security-overview",
+      "select": "html > body > section"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.zoominfo.com/about-zoominfo/terms-of-use",
+      "select": "html > body > section"
+    }
+  }
+}

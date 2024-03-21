@@ -1,1 +1,12 @@
-{"name":"TrustX","documents":{"Privacy Policy":{"fetch":"https://trustx.org/privacy-policy"}}}
+{
+  "name": "Trustx",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://trustx.org/privacy-policy"
+    },
+    "Other": {
+      "fetch": "https://trustx.org/opt-out-choices",
+      "select": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div"
+    }
+  }
+}

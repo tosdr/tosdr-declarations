@@ -1,1 +1,8 @@
-{"name":"OwnCube","documents":{"Legal Information":{"fetch":"https://owncube.com/legal_en.php"}}}
+{
+  "name": "Owncube",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://owncube.com/legal_en.php"
+    }
+  }
+}

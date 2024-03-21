@@ -1,1 +1,9 @@
-{"name":"nook.market","documents":{"Privacy Policy":{"fetch":"https://static.nook.market/privacy.html","select":"body"}}}
+{
+  "name": "Nookmarket",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://static.nook.market/privacy.html",
+      "select": "body"
+    }
+  }
+}

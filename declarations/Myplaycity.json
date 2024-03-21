@@ -1,1 +1,13 @@
-{"name":"MyPlayCity ","documents":{"Terms of Service":{"fetch":"https://www.myplaycity.com/eula/","select":"body"},"Privacy Policy":{"fetch":"https://www.myplaycity.com/privacy_policy/","select":"body"}}}
+{
+  "name": "Myplaycity",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.myplaycity.com/eula/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.myplaycity.com/privacy_policy/",
+      "select": "body"
+    }
+  }
+}

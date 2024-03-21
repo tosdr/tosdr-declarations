@@ -1,1 +1,9 @@
-{"name":"Beehaw","documents":{"Legal Information":{"fetch":"https://beehaw.org/legal","select":"body"}}}
+{
+  "name": "Beehaw",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://beehaw.org/legal",
+      "select": "body"
+    }
+  }
+}

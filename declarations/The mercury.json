@@ -1,1 +1,9 @@
-{"name":"The Mercury","documents":{"Terms of Service":{"fetch":"https://www.themercury.com.au/more-information/terms-and-conditions","select":"body"}}}
+{
+  "name": "The mercury",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.themercury.com.au/more-information/terms-and-conditions",
+      "select": "body"
+    }
+  }
+}

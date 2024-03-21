@@ -1,1 +1,9 @@
-{"name":"Visiplex","documents":{"Privacy Policy":{"fetch":"https://www.visiplex.com/privacy/","select":"body"}}}
+{
+  "name": "Visiplex",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.visiplex.com/privacy/",
+      "select": "body"
+    }
+  }
+}

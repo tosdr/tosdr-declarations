@@ -1,1 +1,13 @@
-{"name":"Ryze Tech","documents":{"Terms of Service":{"fetch":"https://www.ryzerobotics.com/policy#terms-of-use","select":"body"},"Privacy Policy":{"fetch":"https://www.ryzerobotics.com/policy#privacy-policy","select":"body"}}}
+{
+  "name": "Ryze tech",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.ryzerobotics.com/policy#terms-of-use",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.ryzerobotics.com/policy#privacy-policy",
+      "select": "body"
+    }
+  }
+}

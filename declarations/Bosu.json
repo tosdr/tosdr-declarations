@@ -1,1 +1,8 @@
-{"name":"BOSU ","documents":{"Terms of Service":{"fetch":"https://www.bosu.com/policies/terms-of-service"}}}
+{
+  "name": "Bosu",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.bosu.com/policies/terms-of-service"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":"Safety NetAccess","documents":{"Privacy Policy":{"fetch":"https://safetynetaccess.com/privacy-policy/"}}}
+{
+  "name": "Safety netaccess",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://safetynetaccess.com/privacy-policy/"
+    }
+  }
+}

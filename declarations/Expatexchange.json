@@ -1,1 +1,9 @@
-{"name":"expatexchange","documents":{"Privacy Policy":{"fetch":"https://www.expatexchange.com/privacypolicy","select":"body"}}}
+{
+  "name": "Expatexchange",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.expatexchange.com/privacypolicy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Reading Plus","documents":{"Privacy Policy":{"fetch":"https://www.readingplus.com/privacy-policy/","select":"html"}}}
+{
+  "name": "Reading plus",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.readingplus.com/privacy-policy/",
+      "select": "html"
+    }
+  }
+}

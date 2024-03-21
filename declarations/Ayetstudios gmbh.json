@@ -1,1 +1,9 @@
-{"name":"ayeT-Studios GmbH ","documents":{"Terms of Service":{"fetch":"https://www.ayetstudios.com/publisher-terms","select":"body"}}}
+{
+  "name": "Ayetstudios gmbh",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.ayetstudios.com/publisher-terms",
+      "select": "body"
+    }
+  }
+}

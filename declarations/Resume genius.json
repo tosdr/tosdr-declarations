@@ -1,1 +1,13 @@
-{"name":"Resume Genius","documents":{"Terms of Service":{"fetch":"https://resumegenius.com/terms-of-use","select":"body"},"Privacy Policy":{"fetch":"https://resumegenius.com/privacy-policy","select":"body"}}}
+{
+  "name": "Resume genius",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://resumegenius.com/terms-of-use",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://resumegenius.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Vocalise","documents":{"Terms of Service":{"fetch":"https://vocalise.me.uk/terms","select":"main div"}}}
+{
+  "name": "Vocalise",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://vocalise.me.uk/terms",
+      "select": "main div"
+    }
+  }
+}

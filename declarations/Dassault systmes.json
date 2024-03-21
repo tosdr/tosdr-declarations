@@ -1,1 +1,13 @@
-{"name":"Dassault Systèmes","documents":{"Terms of Service":{"fetch":"https://www.3ds.com/terms-of-use/","select":"body"},"Privacy Policy":{"fetch":"https://www.3ds.com/privacy-policy","select":"body"}}}
+{
+  "name": "Dassault systmes",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.3ds.com/terms-of-use/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.3ds.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Metromile ","documents":{"Privacy Policy":{"fetch":"https://www.metromile.com/ privacy/","select":"body"}}}
+{
+  "name": "Metromile",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.metromile.com/ privacy/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"FirstAmendment.com","documents":{"Privacy Policy":{"fetch":"https://www.firstamendment.com/privacy-policy/","select":"html > body > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2)"}}}
+{
+  "name": "Firstamendmentcom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.firstamendment.com/privacy-policy/",
+      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2)"
+    }
+  }
+}

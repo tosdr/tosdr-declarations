@@ -1,1 +1,11 @@
-{"name":"TES AFFILIATE CONFERENCES","documents":{"Terms of Service":{"fetch":"https://www.tesaffiliateconferences.com/terms/"},"Privacy Policy":{"fetch":"https://www.tesaffiliateconferences.com/privacy/"}}}
+{
+  "name": "Tes affiliate conferences",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.tesaffiliateconferences.com/terms/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.tesaffiliateconferences.com/privacy/"
+    }
+  }
+}

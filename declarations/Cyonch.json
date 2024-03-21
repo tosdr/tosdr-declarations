@@ -1,1 +1,13 @@
-{"name":"cyon.ch ","documents":{"Privacy Policy":{"fetch":"https://www.cyon.ch/legal/datenschutzerklaerung","select":"html > body > main > div"},"Terms of Service":{"fetch":"https://www.cyon.ch/legal/agb","select":"html > body > main > div"}}}
+{
+  "name": "Cyonch",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.cyon.ch/legal/datenschutzerklaerung",
+      "select": "html > body > main > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.cyon.ch/legal/agb",
+      "select": "html > body > main > div"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Traffic Factory ","documents":{"Terms of Service":{"fetch":"https://www.trafficfactory.com/terms-of-service/index.html","select":"body"}}}
+{
+  "name": "Traffic factory",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.trafficfactory.com/terms-of-service/index.html",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Jeopardy Labs","documents":{"General Conditions of Sale":{"fetch":"https://jeopardylabs.com/legal","select":"body"}}}
+{
+  "name": "Jeopardy labs",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://jeopardylabs.com/legal",
+      "select": "body"
+    }
+  }
+}

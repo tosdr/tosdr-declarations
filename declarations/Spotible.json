@@ -1,1 +1,8 @@
-{"name":"Spotible","documents":{"Privacy Policy":{"fetch":"https://www.spotible.com/privacy.php"}}}
+{
+  "name": "Spotible",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.spotible.com/privacy.php"
+    }
+  }
+}

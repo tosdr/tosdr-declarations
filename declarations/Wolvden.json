@@ -1,1 +1,11 @@
-{"name":"Wolvden","documents":{"Terms of Service":{"fetch":"https://www.wolvden.com/terms"},"Privacy Policy":{"fetch":"https://www.wolvden.com/privacy"}}}
+{
+  "name": "Wolvden",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.wolvden.com/terms"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.wolvden.com/privacy"
+    }
+  }
+}

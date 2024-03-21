@@ -1,1 +1,9 @@
-{"name":"WPA4A","documents":{"Privacy Policy":{"fetch":"https://wpa4a.org/privacy-policy/","select":"html > body > div:first-of-type > div > div"}}}
+{
+  "name": "Wpa4a",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://wpa4a.org/privacy-policy/",
+      "select": "html > body > div:first-of-type > div > div"
+    }
+  }
+}

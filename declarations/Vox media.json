@@ -1,1 +1,18 @@
-{"name":"Vox Media","documents":{"Privacy Policy":{"fetch":"https://www.voxmedia.com/legal/privacy-notice"},"Terms of Service":{"fetch":"https://www.voxmedia.com/legal/terms-of-use"},"Trackers Policy":{"fetch":"https://www.voxmedia.com/legal/cookie-policy"}}}
+{
+  "name": "Vox media",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.voxmedia.com/legal/privacy-notice"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.voxmedia.com/legal/terms-of-use"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.voxmedia.com/legal/cookie-policy"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.voxmedia.com/pages/security",
+      "select": "html > body > div > section > div:nth-of-type(2) > div:first-of-type"
+    }
+  }
+}

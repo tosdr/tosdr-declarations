@@ -1,1 +1,9 @@
-{"name":"TREND enterprises","documents":{"Terms of Service":{"fetch":"https://www.trendenterprises.com/pages/terms-of-use","select":"body"}}}
+{
+  "name": "Trend enterprises",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.trendenterprises.com/pages/terms-of-use",
+      "select": "body"
+    }
+  }
+}

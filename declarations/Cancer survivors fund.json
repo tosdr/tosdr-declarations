@@ -1,1 +1,9 @@
-{"name":"Cancer Survivors Fund   ","documents":{"Privacy Policy":{"fetch":"http://www.cancersurvivorsfund.org/Privacy.htm","select":"body"}}}
+{
+  "name": "Cancer survivors fund",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "http://www.cancersurvivorsfund.org/Privacy.htm",
+      "select": "body"
+    }
+  }
+}

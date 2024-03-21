@@ -1,1 +1,17 @@
-{"name":"net10wireless","documents":{"Terms of Service":{"fetch":"https://www.net10wireless.com/termsandconditions","select":"body"},"Privacy Policy":{"fetch":"https://www.net10wireless.com/privacypolicy","select":"body"}}}
+{
+  "name": "Net10wireless",
+  "documents": {
+    "Policy": {
+      "fetch": "https://www.tfwunlockpolicy.com/wps/portal/home",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.net10wireless.com/termsandconditions",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.net10wireless.com/privacypolicy",
+      "select": "body"
+    }
+  }
+}

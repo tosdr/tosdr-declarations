@@ -1,1 +1,13 @@
-{"name":"Fibery","documents":{"Terms of Service":{"fetch":"https://fibery.io/terms-of-service","select":"body"},"Trackers Policy":{"fetch":"https://fibery.io/cookies-policy","select":"body"}}}
+{
+  "name": "Fibery",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://fibery.io/terms-of-service",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://fibery.io/cookies-policy",
+      "select": "body"
+    }
+  }
+}

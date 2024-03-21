@@ -1,1 +1,11 @@
-{"name":"HVNSleep","documents":{"Terms of Service":{"fetch":"https://www.buyhvnsleep.com/snoreclip/en/terms-trial.html"},"Privacy Policy":{"fetch":"https://www.buyhvnsleep.com/snoreclip/en/policy.html"}}}
+{
+  "name": "Hvnsleep",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.buyhvnsleep.com/snoreclip/en/terms-trial.html"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.buyhvnsleep.com/snoreclip/en/policy.html"
+    }
+  }
+}

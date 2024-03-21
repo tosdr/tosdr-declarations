@@ -1,1 +1,15 @@
-{"name":"SplashLearn","documents":{"Privacy Policy":{"fetch":"https://www.splashlearn.com/privacy"},"Terms of Service":{"fetch":"https://www.splashlearn.com/terms-of-use"},"Trackers Policy":{"fetch":"https://www.splashlearn.com/cookies_info_setting","select":"body"}}}
+{
+  "name": "Splashlearn",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.splashlearn.com/privacy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.splashlearn.com/terms-of-use"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.splashlearn.com/cookies_info_setting",
+      "select": "body"
+    }
+  }
+}

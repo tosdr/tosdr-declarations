@@ -1,1 +1,13 @@
-{"name":"North Point Community Church ","documents":{"Terms of Service":{"fetch":"https://northpointministries.org/terms","select":"body"},"Privacy Policy":{"fetch":"https://northpointministries.org/privacy","select":"body"}}}
+{
+  "name": "North point community church",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://northpointministries.org/terms",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://northpointministries.org/privacy",
+      "select": "body"
+    }
+  }
+}

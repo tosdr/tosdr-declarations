@@ -1,1 +1,9 @@
-{"name":"SeroVital ","documents":{"Terms of Service":{"fetch":"https://www.serovital.com/pages/mobile-terms","select":"body"}}}
+{
+  "name": "Serovital",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.serovital.com/pages/mobile-terms",
+      "select": "body"
+    }
+  }
+}

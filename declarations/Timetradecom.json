@@ -1,1 +1,13 @@
-{"name":"timetrade.com","documents":{"Privacy Policy":{"fetch":"https://engageware.com/privacy-statement/","select":"html > body > main > div:first-of-type > section"},"Terms of Service":{"fetch":"https://www.timetrade.com/terms-and-conditions-use/","select":"body"}}}
+{
+  "name": "Timetradecom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://engageware.com/privacy-statement/",
+      "select": "html > body > main > div:first-of-type > section"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.timetrade.com/terms-and-conditions-use/",
+      "select": "body"
+    }
+  }
+}

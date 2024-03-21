@@ -1,1 +1,9 @@
-{"name":"findvistaoptical.com","documents":{"Privacy Policy":{"fetch":"https://www.findvistaoptical.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Findvistaopticalcom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.findvistaoptical.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

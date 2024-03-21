@@ -1,1 +1,9 @@
-{"name":"RoamRight","documents":{"Privacy Policy":{"fetch":"https://www.archinsurancesolutions.com/documents/ArchPrivacyNotice.pdf","select":"body"}}}
+{
+  "name": "Roamright",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.archinsurancesolutions.com/documents/ArchPrivacyNotice.pdf",
+      "select": "body"
+    }
+  }
+}

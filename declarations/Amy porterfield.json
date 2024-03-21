@@ -1,1 +1,8 @@
-{"name":"Amy Porterfield","documents":{"Terms of Service":{"fetch":"https://www.amyporterfield.com/terms-and-conditions/"}}}
+{
+  "name": "Amy porterfield",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.amyporterfield.com/terms-and-conditions/"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"HBF Health","documents":{"Terms of Service":{"fetch":"https://www.hbf.com.au/about-hbf/legal/terms-of-use","select":"body"}}}
+{
+  "name": "Hbf health",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.hbf.com.au/about-hbf/legal/terms-of-use",
+      "select": "body"
+    }
+  }
+}

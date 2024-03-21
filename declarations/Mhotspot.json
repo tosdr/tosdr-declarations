@@ -1,1 +1,9 @@
-{"name":"mHotspot ","documents":{"Privacy Policy":{"fetch":"https://mhotspot.com/privacy-policy-tnc/","select":"body"}}}
+{
+  "name": "Mhotspot",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://mhotspot.com/privacy-policy-tnc/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Public Interest Registry","documents":{"Privacy Policy":{"fetch":"https://thenew.org/org-people/about-pir/policies/pir-privacy-notice/","select":"body"}}}
+{
+  "name": "Public interest registry",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://thenew.org/org-people/about-pir/policies/pir-privacy-notice/",
+      "select": "body"
+    }
+  }
+}

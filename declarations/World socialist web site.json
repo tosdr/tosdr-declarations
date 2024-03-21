@@ -1,1 +1,9 @@
-{"name":"World Socialist Web Site","documents":{"Privacy Policy":{"fetch":"https://www.wsws.org/en/special/privacy.html","select":"body"}}}
+{
+  "name": "World socialist web site",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.wsws.org/en/special/privacy.html",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,17 @@
-{"name":"OwnBackup","documents":{"Privacy Policy":{"fetch":"https://www.ownbackup.com/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.ownbackup.com/terms-of-service/","select":"body"}}}
+{
+  "name": "Ownbackup",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.ownbackup.com/privacy-policy/",
+      "select": "body"
+    },
+    "Service Level Agreement": {
+      "fetch": "https://www.ownbackup.com/legal/sla/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.ownbackup.com/terms-of-service/",
+      "select": "body"
+    }
+  }
+}

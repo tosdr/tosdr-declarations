@@ -1,1 +1,14 @@
-{"name":"TV Tropes","documents":{"Privacy Policy":{"fetch":"https://tvtropes.org/pmwiki/privacypolicy.php"},"Copyright Claims Policy":{"fetch":"https://tvtropes.org/pmwiki/dmca.php"}}}
+{
+  "name": "Tv tropes",
+  "documents": {
+    "Other": {
+      "fetch": "https://tvtropes.org/pmwiki/pmwiki.php/Administrivia/TheFicMayBeYoursButTheTropePageIsOurs"
+    },
+    "Privacy Policy": {
+      "fetch": "https://tvtropes.org/pmwiki/privacypolicy.php"
+    },
+    "Legal Information": {
+      "fetch": "https://tvtropes.org/pmwiki/dmca.php"
+    }
+  }
+}

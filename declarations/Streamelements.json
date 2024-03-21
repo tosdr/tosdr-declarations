@@ -1,1 +1,9 @@
-{"name":"StreamElements","documents":{"Copyright Claims Policy":{"fetch":"https://streamelements.com/copyright","select":"body"}}}
+{
+  "name": "Streamelements",
+  "documents": {
+    "Copyright Claims Policy": {
+      "fetch": "https://streamelements.com/copyright",
+      "select": "body"
+    }
+  }
+}

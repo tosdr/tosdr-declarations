@@ -1,1 +1,13 @@
-{"name":"Kumu","documents":{"Privacy Policy":{"fetch":"https://kumu.ph/privacy-policy","select":" > div"},"Terms of Service":{"fetch":"https://kumu.ph/terms-of-use","select":" > div"}}}
+{
+  "name": "Kumu",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://kumu.ph/privacy-policy",
+      "select": " > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://kumu.ph/terms-of-use",
+      "select": " > div"
+    }
+  }
+}

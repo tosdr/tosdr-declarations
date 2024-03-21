@@ -1,1 +1,8 @@
-{"name":"LifeSource ","documents":{"Privacy Policy":{"fetch":"https://www.life-source.org/privacy-policy/"}}}
+{
+  "name": "Lifesource",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.life-source.org/privacy-policy/"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"blocksite","documents":{"Privacy Policy":{"fetch":"https://blocksite.co/privacy-app-and-web","select":"body"},"Terms of Service":{"fetch":"https://blocksite.co/terms/","select":"body"}}}
+{
+  "name": "Blocksite",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://blocksite.co/privacy-app-and-web",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://blocksite.co/terms/",
+      "select": "body"
+    }
+  }
+}

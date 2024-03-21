@@ -1,1 +1,17 @@
-{"name":"Auto Trader ","documents":{"Trackers Policy":{"fetch":"https://www.autotrader.co.uk/cookie-policy","select":"body"},"Terms of Service":{"fetch":"https://www.autotrader.co.uk/terms-of-use","select":"body"},"Privacy Policy":{"fetch":"https://www.autotrader.co.uk/privacy-notice","select":"body"}}}
+{
+  "name": "Auto trader",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.autotrader.co.uk/cookie-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.autotrader.co.uk/terms-of-use",
+      "select": "body"
+    },
+    "Legal Information": {
+      "fetch": "https://www.autotrader.co.uk/privacy-notice",
+      "select": "body"
+    }
+  }
+}

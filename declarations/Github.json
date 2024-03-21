@@ -1,1 +1,13 @@
-{"name":"GitHub","documents":{"Terms of Service":{"fetch":"https://help.github.com/articles/github-terms-of-service/","select":"html > body > main"},"Privacy Policy":{"fetch":"https://help.github.com/articles/github-privacy-statement/","select":"html > body > main"}}}
+{
+  "name": "Github",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://help.github.com/articles/github-terms-of-service/",
+      "select": "html > body > main"
+    },
+    "Privacy Policy": {
+      "fetch": "https://help.github.com/articles/github-privacy-statement/",
+      "select": "html > body > main"
+    }
+  }
+}

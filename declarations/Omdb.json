@@ -1,1 +1,9 @@
-{"name":"OMDb ","documents":{"Terms of Service":{"fetch":"https://www.omdbapi.com/legal.htm","select":"body"}}}
+{
+  "name": "Omdb",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.omdbapi.com/legal.htm",
+      "select": "body"
+    }
+  }
+}

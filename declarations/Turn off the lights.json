@@ -1,1 +1,9 @@
-{"name":"Turn Off the Lights","documents":{"Privacy Policy":{"fetch":"https://www.turnoffthelights.com/privacy/","select":"html > body > main"}}}
+{
+  "name": "Turn off the lights",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.turnoffthelights.com/privacy/",
+      "select": "html > body > main"
+    }
+  }
+}

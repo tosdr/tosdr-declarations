@@ -1,1 +1,9 @@
-{"name":"Eggactyl","documents":{"Terms of Service":{"fetch":"https://eggactyl.cloud/tos","select":"body"}}}
+{
+  "name": "Eggactyl",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://eggactyl.cloud/tos",
+      "select": "body"
+    }
+  }
+}

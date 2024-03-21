@@ -1,1 +1,9 @@
-{"name":"Compresse chaude ou froide Thermo-compresse","documents":{"Terms of Service":{"fetch":"https://thermocompresse.ca/neural/termes_et_conditions.asp?v=2","select":"body"}}}
+{
+  "name": "Compresse chaude ou froide thermocompresse",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://thermocompresse.ca/neural/termes_et_conditions.asp?v=2",
+      "select": "body"
+    }
+  }
+}

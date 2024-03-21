@@ -1,1 +1,9 @@
-{"name":"ENEDIS","documents":{"Terms of Service":{"fetch":"https://mon-compte-particulier.enedis.fr/wp-content/themes/portail-cloud/assets/pdf/cgu.pdf","select":"body"}}}
+{
+  "name": "Enedis",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://mon-compte-particulier.enedis.fr/wp-content/themes/portail-cloud/assets/pdf/cgu.pdf",
+      "select": "body"
+    }
+  }
+}

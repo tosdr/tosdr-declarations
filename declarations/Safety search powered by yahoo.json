@@ -1,1 +1,13 @@
-{"name":"Safety Search Powered By Yahoo ","documents":{"Terms of Service":{"fetch":"https://terms.safety-search.com/terms","select":"html > body > main"},"Privacy Policy":{"fetch":"https://privacy.safety-search.com/privacy","select":"html > body > main > div > div"}}}
+{
+  "name": "Safety search powered by yahoo",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://terms.safety-search.com/terms",
+      "select": "html > body > main"
+    },
+    "Privacy Policy": {
+      "fetch": "https://privacy.safety-search.com/privacy",
+      "select": "html > body > main > div > div"
+    }
+  }
+}

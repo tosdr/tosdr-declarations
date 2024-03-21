@@ -1,1 +1,9 @@
-{"name":" Datura Network","documents":{"Privacy Policy":{"fetch":"https://safetwitch.datura.network/privacy","select":"body"}}}
+{
+  "name": "Datura network",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://safetwitch.datura.network/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Gen Mobile","documents":{"Privacy Policy":{"fetch":"https://www.genmobile.com/pages/consumer-policies","select":"html > body > div:nth-of-type(4) > div"}}}
+{
+  "name": "Gen mobile",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.genmobile.com/pages/consumer-policies",
+      "select": "html > body > div:nth-of-type(4) > div"
+    }
+  }
+}

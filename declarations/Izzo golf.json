@@ -1,1 +1,9 @@
-{"name":"IZZO Golf ","documents":{"Privacy Policy":{"fetch":"https://izzo.com/pages/privacy-policy","select":"body"}}}
+{
+  "name": "Izzo golf",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://izzo.com/pages/privacy-policy",
+      "select": "body"
+    }
+  }
+}

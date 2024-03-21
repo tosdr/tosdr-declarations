@@ -1,1 +1,12 @@
-{"name":"Moon Climbing","documents":{"Terms of Service":{"fetch":"https://moonclimbing.com/terms-and-conditions"},"Trackers Policy":{"fetch":"https://moonclimbing.com/privacy-policy-cookie-restriction-mode","select":"body"}}}
+{
+  "name": "Moon climbing",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://moonclimbing.com/terms-and-conditions"
+    },
+    "Trackers Policy": {
+      "fetch": "https://moonclimbing.com/privacy-policy-cookie-restriction-mode",
+      "select": "body"
+    }
+  }
+}

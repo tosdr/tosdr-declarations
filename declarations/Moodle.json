@@ -1,1 +1,11 @@
-{"name":"Moodle","documents":{"Privacy Policy":{"fetch":"https://moodle.com/privacy-notice"},"Trackers Policy":{"fetch":"https://moodle.com/cookies-policy/"}}}
+{
+  "name": "Moodle",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://moodle.com/privacy-notice"
+    },
+    "Trackers Policy": {
+      "fetch": "https://moodle.com/cookies-policy/"
+    }
+  }
+}

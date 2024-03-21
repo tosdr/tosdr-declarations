@@ -1,1 +1,13 @@
-{"name":"upload.systems","documents":{"Privacy Policy":{"fetch":"https://upload.systems/privacy","select":"body"},"Terms of Service":{"fetch":"https://upload.systems/terms","select":"body"}}}
+{
+  "name": "Uploadsystems",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://upload.systems/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://upload.systems/terms",
+      "select": "body"
+    }
+  }
+}

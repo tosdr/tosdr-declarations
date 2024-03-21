@@ -1,1 +1,13 @@
-{"name":"Kitsap Daily News","documents":{"Privacy Policy":{"fetch":"https://www.kitsapdailynews.com/privacy/","select":"body"},"Terms of Service":{"fetch":"https://www.kitsapdailynews.com/terms/","select":"body"}}}
+{
+  "name": "Kitsap daily news",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.kitsapdailynews.com/privacy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.kitsapdailynews.com/terms/",
+      "select": "body"
+    }
+  }
+}

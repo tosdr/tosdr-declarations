@@ -1,1 +1,9 @@
-{"name":"Privacy Monitor ","documents":{"Privacy Policy":{"fetch":"https://www.privacymonitor.com/legal/privacy/","select":"html > body > main"}}}
+{
+  "name": "Privacy monitor",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.privacymonitor.com/legal/privacy/",
+      "select": "html > body > main"
+    }
+  }
+}

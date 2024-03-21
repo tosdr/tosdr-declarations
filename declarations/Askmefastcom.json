@@ -1,1 +1,13 @@
-{"name":"AskMeFast.com","documents":{"Privacy Policy":{"fetch":"https://www.askmefast.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.askmefast.com/tos","select":"body"}}}
+{
+  "name": "Askmefastcom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.askmefast.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.askmefast.com/tos",
+      "select": "body"
+    }
+  }
+}

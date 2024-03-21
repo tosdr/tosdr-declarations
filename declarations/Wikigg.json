@@ -1,1 +1,9 @@
-{"name":"Wiki.gg","documents":{"Terms of Service":{"fetch":"https://wiki.gg/termsofservice/","select":"body"}}}
+{
+  "name": "Wikigg",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://wiki.gg/termsofservice/",
+      "select": "body"
+    }
+  }
+}

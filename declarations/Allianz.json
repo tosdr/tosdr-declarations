@@ -1,1 +1,9 @@
-{"name":"Allianz ","documents":{"Terms of Service":{"fetch":"https://www.allianz.com/en/terms-of-use.html","select":"html > body > div:first-of-type > div > main > div"}}}
+{
+  "name": "Allianz",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.allianz.com/en/terms-of-use.html",
+      "select": "html > body > div:first-of-type > div > main > div"
+    }
+  }
+}

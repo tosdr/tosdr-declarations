@@ -1,1 +1,11 @@
-{"name":"Starhips.com","documents":{"Privacy Policy":{"fetch":"https://starships.com/privacy-policy/"},"Terms of Service":{"fetch":"https://starships.com/terms-conditions/"}}}
+{
+  "name": "Starhipscom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://starships.com/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://starships.com/terms-conditions/"
+    }
+  }
+}

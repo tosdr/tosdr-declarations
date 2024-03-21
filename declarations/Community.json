@@ -1,1 +1,9 @@
-{"name":"Community","documents":{"Terms of Service":{"fetch":"https://www.community.com/legal/terms","select":"body"}}}
+{
+  "name": "Community",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.community.com/legal/terms",
+      "select": "body"
+    }
+  }
+}

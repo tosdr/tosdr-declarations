@@ -1,1 +1,9 @@
-{"name":"First American Home Warranty Corporation","documents":{"Terms of Service":{"fetch":"https://homewarranty.firstam.com/legal","select":"body"}}}
+{
+  "name": "First american home warranty corporation",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://homewarranty.firstam.com/legal",
+      "select": "body"
+    }
+  }
+}

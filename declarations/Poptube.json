@@ -1,1 +1,9 @@
-{"name":"POPTube","documents":{"Privacy Policy":{"fetch":"https://poptube.app/privacy_policy.html","select":"body"}}}
+{
+  "name": "Poptube",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://poptube.app/privacy_policy.html",
+      "select": "body"
+    }
+  }
+}

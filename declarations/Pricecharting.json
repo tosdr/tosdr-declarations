@@ -1,1 +1,14 @@
-{"name":"PriceCharting","documents":{"Privacy Policy":{"fetch":"https://www.pricecharting.com/page/privacy-policy"},"Terms of Service":{"fetch":"https://www.pricecharting.com/page/terms-of-service"},"General Conditions of Sale":{"fetch":"https://www.pricecharting.com/return-policy"}}}
+{
+  "name": "Pricecharting",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.pricecharting.com/page/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.pricecharting.com/page/terms-of-service"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://www.pricecharting.com/return-policy"
+    }
+  }
+}

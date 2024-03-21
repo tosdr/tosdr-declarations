@@ -1,1 +1,9 @@
-{"name":"Playasia","documents":{"General Conditions of Sale":{"fetch":"https://www.play-asia.com/info/tos","select":"body"}}}
+{
+  "name": "Playasia",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://www.play-asia.com/info/tos",
+      "select": "body"
+    }
+  }
+}

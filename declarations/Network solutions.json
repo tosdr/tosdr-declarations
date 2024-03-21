@@ -1,1 +1,9 @@
-{"name":"Network Solutions","documents":{"Terms of Service":{"fetch":"https://www.networksolutions.com/legal/English/TermsOfUse.pdf","select":"body"}}}
+{
+  "name": "Network solutions",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.networksolutions.com/legal/English/TermsOfUse.pdf",
+      "select": "body"
+    }
+  }
+}

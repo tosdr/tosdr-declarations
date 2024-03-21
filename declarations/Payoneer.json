@@ -1,1 +1,9 @@
-{"name":"Payoneer","documents":{"Privacy Policy":{"fetch":"https://www.payoneer.com/legal/privacy-policy/","select":"body"}}}
+{
+  "name": "Payoneer",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.payoneer.com/legal/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

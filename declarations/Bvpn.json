@@ -1,1 +1,9 @@
-{"name":"bVPN","documents":{"Privacy Policy":{"fetch":"https://www.bvpn.co/en/privacypolicy/","select":"body"}}}
+{
+  "name": "Bvpn",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.bvpn.co/en/privacypolicy/",
+      "select": "body"
+    }
+  }
+}

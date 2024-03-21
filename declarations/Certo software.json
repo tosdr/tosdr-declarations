@@ -1,1 +1,11 @@
-{"name":"Certo Software  ","documents":{"Privacy Policy":{"fetch":"https://www.certosoftware.com/privacy-policy"},"Terms of Service":{"fetch":"https://www.certosoftware.com/terms-of-service/"}}}
+{
+  "name": "Certo software",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.certosoftware.com/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.certosoftware.com/terms-of-service/"
+    }
+  }
+}

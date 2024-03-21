@@ -1,1 +1,9 @@
-{"name":"Safety 1st Connected","documents":{"Privacy Policy":{"fetch":"http://connected.baby/en/privacy","select":"body"}}}
+{
+  "name": "Safety 1st connected",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "http://connected.baby/en/privacy",
+      "select": "body"
+    }
+  }
+}

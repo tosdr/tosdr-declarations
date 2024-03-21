@@ -1,1 +1,9 @@
-{"name":"klop","documents":{"Privacy Policy":{"fetch":"https://drive.klop.me/page/privacy.php","select":"body"}}}
+{
+  "name": "Klop",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://drive.klop.me/page/privacy.php",
+      "select": "body"
+    }
+  }
+}

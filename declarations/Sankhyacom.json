@@ -1,1 +1,9 @@
-{"name":"sankhya.com ","documents":{"Privacy Policy":{"fetch":"http://www.sankhya.com/legal.html","select":"body"}}}
+{
+  "name": "Sankhyacom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "http://www.sankhya.com/legal.html",
+      "select": "body"
+    }
+  }
+}

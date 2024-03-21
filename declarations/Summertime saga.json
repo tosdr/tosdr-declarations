@@ -1,1 +1,8 @@
-{"name":"Summertime Saga","documents":{"Privacy Policy":{"fetch":"https://summertimesaga.com/privacy"}}}
+{
+  "name": "Summertime saga",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://summertimesaga.com/privacy"
+    }
+  }
+}

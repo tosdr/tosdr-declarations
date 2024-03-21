@@ -1,1 +1,11 @@
-{"name":"Equifax","documents":{"Privacy Policy":{"fetch":"https://www.equifax.com/privacy/privacy-statement/"},"Terms of Service":{"fetch":"https://www.equifax.com/terms"}}}
+{
+  "name": "Equifax",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.equifax.com/privacy/privacy-statement/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.equifax.com/terms"
+    }
+  }
+}

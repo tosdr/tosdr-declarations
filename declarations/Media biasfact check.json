@@ -1,1 +1,8 @@
-{"name":"Media Bias/Fact Check","documents":{"Terms of Service":{"fetch":"https://mediabiasfactcheck.com/terms-and-conditions/"}}}
+{
+  "name": "Media biasfact check",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://mediabiasfactcheck.com/terms-and-conditions/"
+    }
+  }
+}

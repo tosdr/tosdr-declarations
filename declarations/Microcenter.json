@@ -1,1 +1,11 @@
-{"name":"microcenter ","documents":{"Privacy Policy":{"fetch":"https://www.microcenter.com/site/customer-support/privacy_policy.aspx"},"Terms of Service":{"fetch":"https://www.microcenter.com/site/customer-support/terms-conditions-sale.aspx"}}}
+{
+  "name": "Microcenter",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.microcenter.com/site/customer-support/privacy_policy.aspx"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.microcenter.com/site/customer-support/terms-conditions-sale.aspx"
+    }
+  }
+}

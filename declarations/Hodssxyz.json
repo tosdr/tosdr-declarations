@@ -1,1 +1,9 @@
-{"name":"hodssxyz","documents":{"Privacy Policy":{"fetch":"https://hodss.xyz/privacy","select":"body"}}}
+{
+  "name": "Hodssxyz",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://hodss.xyz/privacy",
+      "select": "body"
+    }
+  }
+}

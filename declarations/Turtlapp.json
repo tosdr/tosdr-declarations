@@ -1,1 +1,13 @@
-{"name":"turtlapp","documents":{"Privacy Policy":{"fetch":"https://turtlapp.com/privacy/","select":"html > body > div:nth-of-type(2) > div"},"Terms of Service":{"fetch":"https://turtlapp.com/terms/","select":"html > body > div:nth-of-type(2) > div"}}}
+{
+  "name": "Turtlapp",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://turtlapp.com/privacy/",
+      "select": "html > body > div:nth-of-type(2) > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://turtlapp.com/terms/",
+      "select": "html > body > div:nth-of-type(2) > div"
+    }
+  }
+}

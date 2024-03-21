@@ -1,1 +1,9 @@
-{"name":"E-Hentai","documents":{"Terms of Service":{"fetch":"https://e-hentai.org/tos.php","select":"html > body > div:nth-of-type(2)"}}}
+{
+  "name": "Ehentai",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://e-hentai.org/tos.php",
+      "select": "html > body > div:nth-of-type(2)"
+    }
+  }
+}

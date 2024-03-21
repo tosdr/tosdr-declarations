@@ -1,1 +1,9 @@
-{"name":"Storypark ","documents":{"Privacy Policy":{"fetch":"https://www.storypark.com/privacy-policy","select":"body"}}}
+{
+  "name": "Storypark",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.storypark.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

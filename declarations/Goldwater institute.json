@@ -1,1 +1,8 @@
-{"name":"Goldwater Institute","documents":{"Privacy Policy":{"fetch":"https://www.goldwaterinstitute.org/privacy-policy/"}}}
+{
+  "name": "Goldwater institute",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.goldwaterinstitute.org/privacy-policy/"
+    }
+  }
+}

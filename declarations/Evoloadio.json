@@ -1,1 +1,13 @@
-{"name":"Evoload.io","documents":{"Copyright Claims Policy":{"fetch":"https://evoload.io/dmca.html","select":"body"},"Privacy Policy":{"fetch":"https://evoload.io/privacy.html","select":"body"}}}
+{
+  "name": "Evoloadio",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://evoload.io/dmca.html",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://evoload.io/privacy.html",
+      "select": "body"
+    }
+  }
+}

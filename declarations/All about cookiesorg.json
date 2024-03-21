@@ -1,1 +1,9 @@
-{"name":"All About Cookies.org","documents":{"Privacy Policy":{"fetch":"https://www.allaboutcookies.org/privacy-policy.htm","select":" > div"}}}
+{
+  "name": "All about cookiesorg",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.allaboutcookies.org/privacy-policy.htm",
+      "select": " > div"
+    }
+  }
+}

@@ -1,1 +1,14 @@
-{"name":"AllSides","documents":{"Trackers Policy":{"fetch":"https://www.allsides.com/cookie-policy"},"Privacy Policy":{"fetch":"https://www.allsides.com/privacy-policy"},"Terms of Service":{"fetch":"https://www.allsides.com/terms-of-use"}}}
+{
+  "name": "Allsides",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.allsides.com/cookie-policy"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.allsides.com/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.allsides.com/terms-of-use"
+    }
+  }
+}

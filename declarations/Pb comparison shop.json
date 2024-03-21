@@ -1,1 +1,8 @@
-{"name":"P&B Comparison shop","documents":{"Privacy Policy":{"fetch":"https://priceblend.com/static.php?id=privacy"}}}
+{
+  "name": "Pb comparison shop",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://priceblend.com/static.php?id=privacy"
+    }
+  }
+}

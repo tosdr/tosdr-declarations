@@ -1,1 +1,16 @@
-{"name":"study.com","documents":{"Copyright Claims Policy":{"fetch":"https://study.com/pages/dmca.html"},"Terms of Service":{"fetch":"https://study.com/pages/terms_of_use.html","select":"body"},"Privacy Policy":{"fetch":"https://study.com/pages/privacy_policy.html","select":"body"}}}
+{
+  "name": "Studycom",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://study.com/pages/dmca.html"
+    },
+    "Terms of Service": {
+      "fetch": "https://study.com/pages/terms_of_use.html",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://study.com/pages/privacy_policy.html",
+      "select": "body"
+    }
+  }
+}

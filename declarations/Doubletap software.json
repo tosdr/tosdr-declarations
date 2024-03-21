@@ -1,1 +1,13 @@
-{"name":"DoubleTap Software","documents":{"Privacy Policy":{"fetch":"https://doubletapsoftware.com/privacy/","select":"body"},"Terms of Service":{"fetch":"https://doubletapsoftware.com/eula/","select":"body"}}}
+{
+  "name": "Doubletap software",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://doubletapsoftware.com/privacy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://doubletapsoftware.com/eula/",
+      "select": "body"
+    }
+  }
+}

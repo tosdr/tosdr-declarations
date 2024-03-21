@@ -1,1 +1,9 @@
-{"name":"Spokeo ","documents":{"Privacy Policy":{"fetch":"https://www.spokeo.com/privacy-policy","select":"body"}}}
+{
+  "name": "Spokeo",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.spokeo.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

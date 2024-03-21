@@ -1,1 +1,9 @@
-{"name":"appKarma","documents":{"Privacy Policy":{"fetch":"https://www.appkarma.io/legal/privacy/","select":"body"}}}
+{
+  "name": "Appkarma",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.appkarma.io/legal/privacy/",
+      "select": "body"
+    }
+  }
+}

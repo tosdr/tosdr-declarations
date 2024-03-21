@@ -1,1 +1,14 @@
-{"name":"Chemtable Software","documents":{"Terms of Service":{"fetch":"https://www.chemtable.com/terms.htm"},"Privacy Policy":{"fetch":"https://www.chemtable.com/license.htm?doc=privacy"},"General Conditions of Sale":{"fetch":"https://www.chemtable.com/license.htm?doc=refund"}}}
+{
+  "name": "Chemtable software",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.chemtable.com/terms.htm"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.chemtable.com/license.htm?doc=privacy"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://www.chemtable.com/license.htm?doc=refund"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"ZURU","documents":{"Terms of Service":{"fetch":"https://zuru.com/terms-of-use","select":" > div > div > div > div"}}}
+{
+  "name": "Zuru",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://zuru.com/terms-of-use",
+      "select": " > div > div > div > div"
+    }
+  }
+}

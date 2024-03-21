@@ -1,1 +1,11 @@
-{"name":"Bad credit loans","documents":{"Terms of Service":{"fetch":"https://www.badcreditloans.com/terms-of-use/"},"Privacy Policy":{"fetch":"https://www.badcreditloans.com/privacy-policy/"}}}
+{
+  "name": "Bad credit loans",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.badcreditloans.com/terms-of-use/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.badcreditloans.com/privacy-policy/"
+    }
+  }
+}

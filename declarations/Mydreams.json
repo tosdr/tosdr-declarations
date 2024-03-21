@@ -1,1 +1,9 @@
-{"name":"MyDreams ","documents":{"Privacy Policy":{"fetch":"https://www.mydreams.cz/cz/obchodni-podminky.html","select":" > div > div"}}}
+{
+  "name": "Mydreams",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.mydreams.cz/cz/obchodni-podminky.html",
+      "select": " > div > div"
+    }
+  }
+}

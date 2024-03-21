@@ -1,1 +1,11 @@
-{"name":"R & J Tool Rental","documents":{"Terms of Service":{"fetch":"https://rjtoolrental.com/terms-conditions"},"Privacy Policy":{"fetch":"https://rjtoolrental.com/privacy-policy"}}}
+{
+  "name": "R  j tool rental",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://rjtoolrental.com/terms-conditions"
+    },
+    "Privacy Policy": {
+      "fetch": "https://rjtoolrental.com/privacy-policy"
+    }
+  }
+}

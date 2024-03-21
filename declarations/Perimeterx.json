@@ -1,1 +1,9 @@
-{"name":"PerimeterX","documents":{"Privacy Policy":{"fetch":"https://www.perimeterx.com/legal/privacy/","select":"html > body > div:first-of-type > div:first-of-type > div > div:first-of-type > div"}}}
+{
+  "name": "Perimeterx",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.perimeterx.com/legal/privacy/",
+      "select": "html > body > div:first-of-type > div:first-of-type > div > div:first-of-type > div"
+    }
+  }
+}

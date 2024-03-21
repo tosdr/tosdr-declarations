@@ -1,1 +1,9 @@
-{"name":"Bitcoins.express ","documents":{"Terms of Service":{"fetch":"https://bitcoins.express/terms-of-use","select":"body"}}}
+{
+  "name": "Bitcoinsexpress",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://bitcoins.express/terms-of-use",
+      "select": "body"
+    }
+  }
+}

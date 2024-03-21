@@ -1,1 +1,9 @@
-{"name":"Pink Floyd","documents":{"Privacy Policy":{"fetch":"https://www.pinkfloyd.com/gdpr/Privacy_Policy.pdf","select":"body"}}}
+{
+  "name": "Pink floyd",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.pinkfloyd.com/gdpr/Privacy_Policy.pdf",
+      "select": "body"
+    }
+  }
+}

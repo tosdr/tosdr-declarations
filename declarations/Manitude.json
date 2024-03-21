@@ -1,1 +1,11 @@
-{"name":"manitu.de ","documents":{"Privacy Policy":{"fetch":"https://www.manitu.de/datenschutz"},"Terms of Service":{"fetch":"https://www.manitu.de/impressum/agb/"}}}
+{
+  "name": "Manitude",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.manitu.de/datenschutz"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.manitu.de/impressum/agb/"
+    }
+  }
+}

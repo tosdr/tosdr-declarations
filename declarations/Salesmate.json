@@ -1,1 +1,13 @@
-{"name":"Salesmate","documents":{"Terms of Service":{"fetch":"https://www.salesmate.io/tos/","select":"body"}}}
+{
+  "name": "Salesmate",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.salesmate.io/tos/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.salesmate.io/security-reliability/",
+      "select": "body"
+    }
+  }
+}

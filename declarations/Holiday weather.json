@@ -1,1 +1,11 @@
-{"name":"Holiday Weather","documents":{"Privacy Policy":{"fetch":"https://www.holiday-weather.com/privacy-policy/"},"Trackers Policy":{"fetch":"https://www.holiday-weather.com/cookie-policy/"}}}
+{
+  "name": "Holiday weather",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.holiday-weather.com/privacy-policy/"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.holiday-weather.com/cookie-policy/"
+    }
+  }
+}

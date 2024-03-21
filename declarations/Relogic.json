@@ -1,1 +1,9 @@
-{"name":"Re-Logic","documents":{"Privacy Policy":{"fetch":"https://re-logic.com/legal","select":"body"}}}
+{
+  "name": "Relogic",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://re-logic.com/legal",
+      "select": "body"
+    }
+  }
+}

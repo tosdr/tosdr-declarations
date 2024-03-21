@@ -1,1 +1,9 @@
-{"name":"The American Sweepstakes","documents":{"Privacy Policy":{"fetch":"https://theamericansweepstakes.com/privacy-policy.html","select":"body"}}}
+{
+  "name": "The american sweepstakes",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://theamericansweepstakes.com/privacy-policy.html",
+      "select": "body"
+    }
+  }
+}

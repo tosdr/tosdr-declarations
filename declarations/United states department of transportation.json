@@ -1,1 +1,8 @@
-{"name":"United States Department of Transportation","documents":{"Privacy Policy":{"fetch":"https://www.transportation.gov/dot-website-privacy-policy"}}}
+{
+  "name": "United states department of transportation",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.transportation.gov/dot-website-privacy-policy"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"Syniverse","documents":{"Legal Information":{"fetch":"https://www.syniverse.com/legal","select":"html > body > article > section > div"},"Privacy Policy":{"fetch":"https://www.syniverse.com/gdpr","select":"html > body > article > section > div"},"Trackers Policy":{"fetch":"https://www.syniverse.com/cookie-policy","select":"html > body > article > section > div"}}}
+{
+  "name": "Syniverse",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.syniverse.com/gdpr",
+      "select": "html > body > article > section > div"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.syniverse.com/cookie-policy",
+      "select": "html > body > article > section > div"
+    }
+  }
+}

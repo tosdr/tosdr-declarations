@@ -1,1 +1,9 @@
-{"name":"Holy Cow","documents":{"Trackers Policy":{"fetch":"https://www.holycowonline.com/privacy-policy/","select":"html > body > div:nth-of-type(2) > main > div"}}}
+{
+  "name": "Holy cow",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.holycowonline.com/privacy-policy/",
+      "select": "html > body > div:nth-of-type(2) > main > div"
+    }
+  }
+}

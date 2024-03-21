@@ -1,1 +1,13 @@
-{"name":"PicMonkey","documents":{"Terms of Service":{"fetch":"https://www.picmonkey.com/legal/tos","select":"html > body > div:first-of-type > div:first-of-type > div > main > div > section"},"Trackers Policy":{"fetch":"https://www.picmonkey.com/legal","select":"html > body > div:first-of-type > div:first-of-type > div > main > div > div:nth-of-type(2) > section"}}}
+{
+  "name": "Picmonkey",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.picmonkey.com/legal/tos",
+      "select": "html > body > div:first-of-type > div:first-of-type > div > main > div > section"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.picmonkey.com/legal",
+      "select": "html > body > div:first-of-type > div:first-of-type > div > main > div > div:nth-of-type(2) > section"
+    }
+  }
+}

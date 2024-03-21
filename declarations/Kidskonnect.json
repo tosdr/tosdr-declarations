@@ -1,1 +1,9 @@
-{"name":"KidsKonnect ","documents":{"Privacy Policy":{"fetch":"https://kidskonnect.com/privacy/","select":"body"}}}
+{
+  "name": "Kidskonnect",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://kidskonnect.com/privacy/",
+      "select": "body"
+    }
+  }
+}

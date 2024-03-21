@@ -1,1 +1,9 @@
-{"name":"Kinopio","documents":{"Terms of Service":{"fetch":"https://help.kinopio.club/posts/terms-of-service/","select":"body"}}}
+{
+  "name": "Kinopio",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://help.kinopio.club/posts/terms-of-service/",
+      "select": "body"
+    }
+  }
+}

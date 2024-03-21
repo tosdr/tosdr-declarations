@@ -1,1 +1,9 @@
-{"name":"TaxAct","documents":{"Privacy Policy":{"fetch":"https://www.taxact.com/privacy-policy","select":"body"}}}
+{
+  "name": "Taxact",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.taxact.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

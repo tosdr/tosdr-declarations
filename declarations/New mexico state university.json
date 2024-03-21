@@ -1,1 +1,8 @@
-{"name":"New Mexico State University","documents":{"Privacy Policy":{"fetch":"https://nmsu.edu/privacy/index.html"}}}
+{
+  "name": "New mexico state university",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://nmsu.edu/privacy/index.html"
+    }
+  }
+}

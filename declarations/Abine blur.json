@@ -1,1 +1,9 @@
-{"name":"Abine Blur","documents":{"Legal Information":{"fetch":"https://abine.com/legal.html","select":"body"}}}
+{
+  "name": "Abine blur",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://abine.com/legal.html",
+      "select": "body"
+    }
+  }
+}

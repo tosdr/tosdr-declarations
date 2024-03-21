@@ -1,1 +1,9 @@
-{"name":"Scholastic ","documents":{"Terms of Service":{"fetch":"https://www.scholastic.com/terms.htm","select":"body"}}}
+{
+  "name": "Scholastic",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.scholastic.com/terms.htm",
+      "select": "body"
+    }
+  }
+}

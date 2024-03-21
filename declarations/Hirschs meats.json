@@ -1,1 +1,9 @@
-{"name":"Hirsch's Meats","documents":{"Privacy Policy":{"fetch":"https://www.hirschsmeats.com/privacy-policy","select":"body"}}}
+{
+  "name": "Hirschs meats",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.hirschsmeats.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

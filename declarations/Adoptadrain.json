@@ -1,1 +1,9 @@
-{"name":"Adopt-a-Drain","documents":{"Privacy Policy":{"fetch":"https://adopt-a-drain.org/terms-of-use/","select":"body"}}}
+{
+  "name": "Adoptadrain",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://adopt-a-drain.org/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

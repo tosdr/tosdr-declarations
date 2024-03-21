@@ -1,1 +1,9 @@
-{"name":"PreMiD","documents":{"Trackers Policy":{"fetch":"https://premid.app/cookies","select":"body"}}}
+{
+  "name": "Premid",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://premid.app/cookies",
+      "select": "body"
+    }
+  }
+}

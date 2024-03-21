@@ -1,1 +1,9 @@
-{"name":"ZAP-Hosting  ","documents":{"Terms of Service":{"fetch":"https://zap-hosting.com/en/terms/","select":"html > body > div:nth-of-type(5)"}}}
+{
+  "name": "Zaphosting",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://zap-hosting.com/en/terms/",
+      "select": "html > body > div:nth-of-type(5)"
+    }
+  }
+}

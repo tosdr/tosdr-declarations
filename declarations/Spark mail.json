@@ -1,1 +1,9 @@
-{"name":"Spark Mail","documents":{}}
+{
+  "name": "Spark mail",
+  "documents": {
+    "Vulnerability Disclosure Policy": {
+      "fetch": "https://sparkmailapp.com/responsible-disclosure",
+      "select": "body"
+    }
+  }
+}

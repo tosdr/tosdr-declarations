@@ -1,1 +1,29 @@
-{"name":"PayPal","documents":{"Privacy Policy":{"fetch":"https://www.paypal.com/sg/webapps/mpp/ua/privacy-full","select":"html > body > div:first-of-type > div > section > div"},"Terms of Service":{"fetch":"https://www.paypal.com/sg/webapps/mpp/ua/lpm-tnc","select":"html > body > div:first-of-type > div > section > div"},"Acceptable Use Policy":{"fetch":"https://www.paypal.com/sg/webapps/mpp/ua/acceptableuse-full","select":"html > body > div:first-of-type > div > section"},"Review Guidelines":{"fetch":"https://www.paypal.com/sg/webapps/mpp/ua/infringementrpt-full","select":"html > body > div:first-of-type > div > section"}}}
+{
+  "name": "Paypal",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.paypal.com/sg/webapps/mpp/ua/privacy-full",
+      "select": "html > body > div:first-of-type > div > section > div"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://www.paypal.com/sg/webapps/mpp/ua/ebaybilling-full",
+      "select": "html > body > div:first-of-type > div > section > div"
+    },
+    "Legal Information": {
+      "fetch": "https://www.paypal.com/sg/webapps/mpp/ua/upcoming-policies-full",
+      "select": "html > body > div:first-of-type > div > section"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.paypal.com/sg/webapps/mpp/ua/lpm-tnc",
+      "select": "html > body > div:first-of-type > div > section > div"
+    },
+    "Acceptable Use Policy": {
+      "fetch": "https://www.paypal.com/sg/webapps/mpp/ua/acceptableuse-full",
+      "select": "html > body > div:first-of-type > div > section"
+    },
+    "Review Guidelines": {
+      "fetch": "https://www.paypal.com/sg/webapps/mpp/ua/infringementrpt-full",
+      "select": "html > body > div:first-of-type > div > section"
+    }
+  }
+}

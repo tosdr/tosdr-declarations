@@ -1,1 +1,9 @@
-{"name":" FileConverto","documents":{"Privacy Policy":{"fetch":"https://www.privalicy.com/privacy-policy/93897459/","select":"body"}}}
+{
+  "name": "Fileconverto",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.privalicy.com/privacy-policy/93897459/",
+      "select": "body"
+    }
+  }
+}

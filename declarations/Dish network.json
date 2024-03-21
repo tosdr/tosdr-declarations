@@ -1,1 +1,13 @@
-{"name":"DISH Network","documents":{"Terms of Service":{"fetch":"https://www.dish.com/terms-conditions/","select":"html > body > div:nth-of-type(4) > section:nth-of-type(2)"},"Privacy Policy":{"fetch":"https://www.dish.com/downloads/legal/privacystatement.aspx","select":"body"}}}
+{
+  "name": "Dish network",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.dish.com/terms-conditions/",
+      "select": "html > body > div:nth-of-type(4) > section:nth-of-type(2)"
+    },
+    "Legal Information": {
+      "fetch": "https://www.dish.com/downloads/legal/privacystatement.aspx",
+      "select": "body"
+    }
+  }
+}

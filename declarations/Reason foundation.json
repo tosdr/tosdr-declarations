@@ -1,1 +1,9 @@
-{"name":"Reason Foundation","documents":{"Terms of Service":{"fetch":"https://reason.com/terms-of-use/","select":"body"}}}
+{
+  "name": "Reason foundation",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://reason.com/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

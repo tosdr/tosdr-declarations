@@ -1,1 +1,9 @@
-{"name":"IN.gov","documents":{"Privacy Policy":{"fetch":"https://www.in.gov/core/privacy.html","select":"body"}}}
+{
+  "name": "Ingov",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.in.gov/core/privacy.html",
+      "select": "body"
+    }
+  }
+}

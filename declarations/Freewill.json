@@ -1,1 +1,13 @@
-{"name":"Freewill","documents":{"Privacy Policy":{"fetch":"https://www.freewill.com/privacy","select":"article"},"Terms of Service":{"fetch":"https://www.freewill.com/terms","select":"article"}}}
+{
+  "name": "Freewill",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.freewill.com/privacy",
+      "select": "article"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.freewill.com/terms",
+      "select": "article"
+    }
+  }
+}

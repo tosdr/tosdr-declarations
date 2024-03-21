@@ -1,1 +1,17 @@
-{"name":"DLive","documents":{"Terms of Service":{"fetch":"https://community.dlive.tv/about/terms-of-service/","select":"canvas.pdfemb-the-canvas"},"Privacy Policy":{"fetch":"https://community.dlive.tv/about/privacy-policy/","select":"canvas.pdfemb-the-canvas"},"Copyright Claims Policy":{"fetch":"https://community.dlive.tv/about/copyright-policy/","select":"canvas.pdfemb-the-canvas"}}}
+{
+  "name": "Dlive",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://community.dlive.tv/about/terms-of-service/",
+      "select": "canvas.pdfemb-the-canvas"
+    },
+    "Privacy Policy": {
+      "fetch": "https://community.dlive.tv/about/privacy-policy/",
+      "select": "canvas.pdfemb-the-canvas"
+    },
+    "Copyright Claims Policy": {
+      "fetch": "https://community.dlive.tv/about/copyright-policy/",
+      "select": "canvas.pdfemb-the-canvas"
+    }
+  }
+}

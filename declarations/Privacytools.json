@@ -1,1 +1,9 @@
-{"name":"PrivacyTools","documents":{"Privacy Policy":{"fetch":"https://www.privacytools.io/privacy-policy/","select":"html > body > div > main"}}}
+{
+  "name": "Privacytools",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.privacytools.io/privacy-policy/",
+      "select": "html > body > div > main"
+    }
+  }
+}

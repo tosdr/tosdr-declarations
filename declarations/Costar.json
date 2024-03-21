@@ -1,1 +1,13 @@
-{"name":"Co-Star","documents":{"Privacy Policy":{"fetch":"https://www.costarastrology.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.costarastrology.com/terms","select":"body"}}}
+{
+  "name": "Costar",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.costarastrology.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.costarastrology.com/terms",
+      "select": "body"
+    }
+  }
+}

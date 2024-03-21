@@ -1,1 +1,13 @@
-{"name":"HumanCo","documents":{"Terms of Service":{"fetch":"https://humanco.com/terms-and-conditions/","select":"body"},"Privacy Policy":{"fetch":"https://humanco.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Humanco",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://humanco.com/terms-and-conditions/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://humanco.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

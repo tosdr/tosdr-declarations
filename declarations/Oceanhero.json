@@ -1,1 +1,12 @@
-{"name":"Oceanhero","documents":{"Privacy Policy":{"fetch":"https://about.oceanhero.today/privacy-policy"},"Trackers Policy":{"fetch":"https://about.oceanhero.today/cookie-policy","select":"body"}}}
+{
+  "name": "Oceanhero",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://about.oceanhero.today/privacy-policy"
+    },
+    "Trackers Policy": {
+      "fetch": "https://about.oceanhero.today/cookie-policy",
+      "select": "body"
+    }
+  }
+}

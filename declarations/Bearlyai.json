@@ -1,1 +1,13 @@
-{"name":"bearly.ai","documents":{"Terms of Service":{"fetch":"https://bearly.ai/terms","select":"body"},"Privacy Policy":{"fetch":"https://bearly.ai/privacy","select":"body"}}}
+{
+  "name": "Bearlyai",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://bearly.ai/terms",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://bearly.ai/privacy",
+      "select": "body"
+    }
+  }
+}

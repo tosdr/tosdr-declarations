@@ -1,1 +1,9 @@
-{"name":"Forest River","documents":{"Terms of Service":{"fetch":"https://forestriverinc.com/termsofuse.aspx","select":"body"}}}
+{
+  "name": "Forest river",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://forestriverinc.com/termsofuse.aspx",
+      "select": "body"
+    }
+  }
+}

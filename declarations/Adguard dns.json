@@ -1,1 +1,13 @@
-{"name":"AdGuard DNS","documents":{"Terms of Service":{"fetch":"https://adguard-dns.io/en/eula.html","select":"html > body > div:first-of-type > div > div:nth-of-type(3)"},"Privacy Policy":{"fetch":"https://adguard-dns.io/en/privacy.html","select":"html > body > div:first-of-type > div > div:nth-of-type(3)"}}}
+{
+  "name": "Adguard dns",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://adguard-dns.io/en/eula.html",
+      "select": "html > body > div:first-of-type > div > div:nth-of-type(3)"
+    },
+    "Privacy Policy": {
+      "fetch": "https://adguard-dns.io/en/privacy.html",
+      "select": "html > body > div:first-of-type > div > div:nth-of-type(3)"
+    }
+  }
+}

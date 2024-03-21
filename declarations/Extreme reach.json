@@ -1,1 +1,8 @@
-{"name":"Extreme Reach","documents":{"Privacy Policy":{"fetch":"https://extremereach.com/privacy-policies/"}}}
+{
+  "name": "Extreme reach",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://extremereach.com/privacy-policies/"
+    }
+  }
+}

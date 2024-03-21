@@ -1,1 +1,9 @@
-{"name":"The Australian","documents":{"Terms of Service":{"fetch":"https://www.theaustralian.com.au/termsconditions","select":"body"}}}
+{
+  "name": "The australian",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.theaustralian.com.au/termsconditions",
+      "select": "body"
+    }
+  }
+}

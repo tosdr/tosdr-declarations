@@ -1,1 +1,11 @@
-{"name":"AliveCor ","documents":{"Privacy Policy":{"fetch":"https://www.kardia.com/privacy/en/"},"Terms of Service":{"fetch":"https://www.kardia.com/tos/en/"}}}
+{
+  "name": "Alivecor",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.kardia.com/privacy/en/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.kardia.com/tos/en/"
+    }
+  }
+}

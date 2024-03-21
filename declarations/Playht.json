@@ -1,1 +1,13 @@
-{"name":"Play.ht","documents":{"Terms of Service":{"fetch":"https://play.ht/terms/","select":"html > body > div:first-of-type > div > div"},"Privacy Policy":{"fetch":"https://play.ht/privacy/","select":"html > body > div:first-of-type > div > div"}}}
+{
+  "name": "Playht",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://play.ht/terms/",
+      "select": "html > body > div:first-of-type > div > div"
+    },
+    "Legal Information": {
+      "fetch": "https://play.ht/privacy/",
+      "select": "html > body > div:first-of-type > div > div"
+    }
+  }
+}

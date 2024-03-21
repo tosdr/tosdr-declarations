@@ -1,1 +1,9 @@
-{"name":"ClickMeeting","documents":{"Privacy Policy":{"fetch":"https://clickmeeting.com/legal","select":"body"}}}
+{
+  "name": "Clickmeeting",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://clickmeeting.com/legal",
+      "select": "body"
+    }
+  }
+}

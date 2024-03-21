@@ -1,1 +1,13 @@
-{"name":"Zcash Foundation","documents":{"Privacy Policy":{"fetch":"https://zfnd.org/privacy-policy/","select":"body"},"Copyright Claims Policy":{"fetch":"https://zfnd.org/copyright-policy/","select":"body"}}}
+{
+  "name": "Zcash foundation",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://zfnd.org/privacy-policy/",
+      "select": "body"
+    },
+    "Copyright Claims Policy": {
+      "fetch": "https://zfnd.org/copyright-policy/",
+      "select": "body"
+    }
+  }
+}

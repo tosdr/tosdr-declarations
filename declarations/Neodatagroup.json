@@ -1,1 +1,13 @@
-{"name":"neodatagroup","documents":{"Privacy Policy":{"fetch":"https://www.neodatagroup.com/services-privacy-policy/","select":"body"},"Trackers Policy":{"fetch":"https://www.neodatagroup.com/cookie-policy/","select":"body"}}}
+{
+  "name": "Neodatagroup",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.neodatagroup.com/services-privacy-policy/",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.neodatagroup.com/cookie-policy/",
+      "select": "body"
+    }
+  }
+}

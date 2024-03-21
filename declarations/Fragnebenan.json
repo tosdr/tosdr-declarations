@@ -1,1 +1,8 @@
-{"name":"FragNebenan","documents":{"Terms of Service":{"fetch":"https://fragnebenan.com/pages/terms-of-service"}}}
+{
+  "name": "Fragnebenan",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://fragnebenan.com/pages/terms-of-service"
+    }
+  }
+}

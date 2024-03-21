@@ -1,1 +1,9 @@
-{"name":"Spark for Appraisers","documents":{"Terms of Service":{"fetch":"https://app.sparkforappraisers.com/TermsOfService.pdf","select":"body"}}}
+{
+  "name": "Spark for appraisers",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://app.sparkforappraisers.com/TermsOfService.pdf",
+      "select": "body"
+    }
+  }
+}

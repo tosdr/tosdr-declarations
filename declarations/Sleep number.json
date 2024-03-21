@@ -1,1 +1,13 @@
-{"name":"Sleep Number","documents":{"Terms of Service":{"fetch":"https://www.sleepnumber.com/pages/legal-terms-of-use","select":"body"},"Privacy Policy":{"fetch":"https://www.sleepnumber.com/pages/legal-privacy-policy","select":"body"}}}
+{
+  "name": "Sleep number",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.sleepnumber.com/pages/legal-terms-of-use",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.sleepnumber.com/pages/legal-privacy-policy",
+      "select": "body"
+    }
+  }
+}

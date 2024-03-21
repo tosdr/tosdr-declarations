@@ -1,1 +1,9 @@
-{"name":"SquareTrade","documents":{"Terms of Service":{"fetch":"https://www.squaretrade.com/terms/","select":"body"}}}
+{
+  "name": "Squaretrade",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.squaretrade.com/terms/",
+      "select": "body"
+    }
+  }
+}

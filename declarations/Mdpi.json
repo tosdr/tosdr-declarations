@@ -1,1 +1,11 @@
-{"name":"MDPI ","documents":{"Terms of Service":{"fetch":"https://www.mdpi.com/about/terms-and-conditions"},"Privacy Policy":{"fetch":"https://www.mdpi.com/about/privacy"}}}
+{
+  "name": "Mdpi",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.mdpi.com/about/terms-and-conditions"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.mdpi.com/about/privacy"
+    }
+  }
+}

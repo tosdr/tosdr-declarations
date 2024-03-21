@@ -1,1 +1,9 @@
-{"name":"rewards-locker.com","documents":{"Privacy Policy":{"fetch":"https://www.rewards-locker.com/pp.php","select":"body"}}}
+{
+  "name": "Rewardslockercom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.rewards-locker.com/pp.php",
+      "select": "body"
+    }
+  }
+}

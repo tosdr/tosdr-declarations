@@ -1,1 +1,9 @@
-{"name":"Small Business Administration ","documents":{"Privacy Policy":{"fetch":"https://www.sba.gov/about-sba/sba-performance/open-government/about-sbagov-website/privacy-policy","select":"body"}}}
+{
+  "name": "Small business administration",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sba.gov/about-sba/sba-performance/open-government/about-sbagov-website/privacy-policy",
+      "select": "body"
+    }
+  }
+}

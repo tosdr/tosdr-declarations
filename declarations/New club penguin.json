@@ -1,1 +1,13 @@
-{"name":"New Club Penguin ","documents":{"Privacy Policy":{"fetch":"https://newcp.net/en/privacy/","select":"body"},"Terms of Service":{"fetch":"https://newcp.net/en/legal/","select":"body"}}}
+{
+  "name": "New club penguin",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://newcp.net/en/privacy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://newcp.net/en/legal/",
+      "select": "body"
+    }
+  }
+}

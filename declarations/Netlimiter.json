@@ -1,1 +1,13 @@
-{"name":"NetLimiter ","documents":{"Privacy Policy":{"fetch":"https://www.netlimiter.com/pages/privacy-notice","select":"html > body > div:first-of-type"},"Terms of Service":{"fetch":"https://www.netlimiter.com/eula","select":"html > body > div:first-of-type"}}}
+{
+  "name": "Netlimiter",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.netlimiter.com/pages/privacy-notice",
+      "select": "html > body > div:first-of-type"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.netlimiter.com/eula",
+      "select": "html > body > div:first-of-type"
+    }
+  }
+}

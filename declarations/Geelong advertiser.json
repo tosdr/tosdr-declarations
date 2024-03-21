@@ -1,1 +1,9 @@
-{"name":"Geelong Advertiser","documents":{"Terms of Service":{"fetch":"https://news-networkeditorial.s3-ap-southeast-2.amazonaws.com/mhr/tandcs/tcs_tc.html","select":"body"}}}
+{
+  "name": "Geelong advertiser",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://news-networkeditorial.s3-ap-southeast-2.amazonaws.com/mhr/tandcs/tcs_tc.html",
+      "select": "body"
+    }
+  }
+}

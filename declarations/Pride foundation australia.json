@@ -1,1 +1,13 @@
-{"name":"Pride Foundation Australia","documents":{"Privacy Policy":{"fetch":"https://pridefoundation.org.au/privacy/","select":"body"},"Terms of Service":{"fetch":"https://pridefoundation.org.au/terms-conditions/","select":"body"}}}
+{
+  "name": "Pride foundation australia",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://pridefoundation.org.au/privacy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://pridefoundation.org.au/terms-conditions/",
+      "select": "body"
+    }
+  }
+}

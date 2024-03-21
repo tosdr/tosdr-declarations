@@ -1,1 +1,9 @@
-{"name":"DepositFiles","documents":{"Privacy Policy":{"fetch":"https://dfiles.eu/privacy_policy.html","select":"body"}}}
+{
+  "name": "Depositfiles",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://dfiles.eu/privacy_policy.html",
+      "select": "body"
+    }
+  }
+}

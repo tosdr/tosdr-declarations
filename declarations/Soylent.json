@@ -1,1 +1,13 @@
-{"name":"Soylent","documents":{"Privacy Policy":{"fetch":"https://soylent.com/pages/privacy","select":"body"},"Terms of Service":{"fetch":"https://soylent.com/pages/terms","select":"body"}}}
+{
+  "name": "Soylent",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://soylent.com/pages/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://soylent.com/pages/terms",
+      "select": "body"
+    }
+  }
+}

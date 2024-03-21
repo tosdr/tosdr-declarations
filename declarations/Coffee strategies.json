@@ -1,1 +1,9 @@
-{"name":"Coffee Strategies","documents":{"Privacy Policy":{"fetch":"https://www.coffeestrategies.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Coffee strategies",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.coffeestrategies.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

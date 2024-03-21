@@ -1,1 +1,9 @@
-{"name":"Disroot","documents":{"Terms of Service":{"fetch":"https://disroot.org/en/tos","select":" > div > div"}}}
+{
+  "name": "Disroot",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://disroot.org/en/tos",
+      "select": " > div > div"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Texoma Council of Governments","documents":{"Privacy Policy":{"fetch":"https://www.tcog.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Texoma council of governments",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.tcog.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"Money Dashboard","documents":{"Privacy Policy":{"fetch":"https://www.moneydashboard.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.moneydashboard.com/terms-and-conditions","select":"body"}}}
+{
+  "name": "Money dashboard",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.moneydashboard.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.moneydashboard.com/terms-and-conditions",
+      "select": "body"
+    }
+  }
+}

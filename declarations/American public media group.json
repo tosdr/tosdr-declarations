@@ -1,1 +1,9 @@
-{"name":"American Public Media Group","documents":{"Privacy Policy":{"fetch":"https://www.americanpublicmedia.org/privacy/","select":"body"}}}
+{
+  "name": "American public media group",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.americanpublicmedia.org/privacy/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"PILI","documents":{"Privacy Policy":{"fetch":"https://www.pili.com.tw/service-privacy.php","select":"body"},"Terms of Service":{"fetch":"https://www.pili.com.tw/service-terms.php","select":"body"}}}
+{
+  "name": "Pili",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.pili.com.tw/service-privacy.php",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.pili.com.tw/service-terms.php",
+      "select": "body"
+    }
+  }
+}

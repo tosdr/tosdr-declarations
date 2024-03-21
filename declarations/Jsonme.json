@@ -1,1 +1,9 @@
-{"name":"JsonMe","documents":{"Privacy Policy":{"fetch":"https://jsonme.com/privacy","select":"body"}}}
+{
+  "name": "Jsonme",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://jsonme.com/privacy",
+      "select": "body"
+    }
+  }
+}

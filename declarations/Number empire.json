@@ -1,1 +1,13 @@
-{"name":"Number Empire","documents":{"Terms of Service":{"fetch":"https://www.numberempire.com/termsandconditions.php","select":"body"},"Privacy Policy":{"fetch":"https://www.numberempire.com/privacypolicy.php","select":"body"}}}
+{
+  "name": "Number empire",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.numberempire.com/termsandconditions.php",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.numberempire.com/privacypolicy.php",
+      "select": "body"
+    }
+  }
+}

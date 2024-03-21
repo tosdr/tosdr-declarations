@@ -1,1 +1,8 @@
-{"name":" NachDenkSeiten - Die kritische Website ","documents":{"Privacy Policy":{"fetch":"https://www.nachdenkseiten.de/?page_id=44004"}}}
+{
+  "name": "Nachdenkseiten  die kritische website",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.nachdenkseiten.de/?page_id=44004"
+    }
+  }
+}

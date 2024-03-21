@@ -1,1 +1,9 @@
-{"name":"Virginia Mason Franciscan Health","documents":{"Privacy Policy":{"fetch":"https://www.vmfh.org/privacy-notice","select":"html > body > div:first-of-type > div > div:nth-of-type(4) > div"}}}
+{
+  "name": "Virginia mason franciscan health",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.vmfh.org/privacy-notice",
+      "select": "html > body > div:first-of-type > div > div:nth-of-type(4) > div"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"Spruce Health","documents":{"Terms of Service":{"fetch":"https://d10gugzveyt6ly.cloudfront.net/www-sprucehealth-com/terms-website.html","select":"body"},"Privacy Policy":{"fetch":"https://d10gugzveyt6ly.cloudfront.net/www-sprucehealth-com/privacy.html","select":"body"}}}
+{
+  "name": "Spruce health",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://d10gugzveyt6ly.cloudfront.net/www-sprucehealth-com/terms-website.html",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://d10gugzveyt6ly.cloudfront.net/www-sprucehealth-com/privacy.html",
+      "select": "body"
+    }
+  }
+}

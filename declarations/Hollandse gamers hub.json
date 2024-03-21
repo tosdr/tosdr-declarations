@@ -1,1 +1,9 @@
-{"name":"Hollandse Gamers Hub","documents":{"Privacy Policy":{"fetch":"https://www.hollandsegamershub.nl/privacy/","select":"div#main_content:first-of-type"}}}
+{
+  "name": "Hollandse gamers hub",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.hollandsegamershub.nl/privacy/",
+      "select": "div#main_content:first-of-type"
+    }
+  }
+}

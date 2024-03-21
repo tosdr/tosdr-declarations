@@ -1,1 +1,9 @@
-{"name":"The Heights Apartments","documents":{"Privacy Policy":{"fetch":"https://www.theheightscs.com/privacy-policy","select":"body"}}}
+{
+  "name": "The heights apartments",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.theheightscs.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

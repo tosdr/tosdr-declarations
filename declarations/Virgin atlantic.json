@@ -1,1 +1,9 @@
-{"name":"Virgin Atlantic","documents":{"Privacy Policy":{"fetch":"https://www.virginatlantic.com///virginatlantic.com/us/en/footer/privacy-policy.html","select":"body"}}}
+{
+  "name": "Virgin atlantic",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.virginatlantic.com///virginatlantic.com/us/en/footer/privacy-policy.html",
+      "select": "body"
+    }
+  }
+}

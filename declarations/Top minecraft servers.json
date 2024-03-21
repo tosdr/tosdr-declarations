@@ -1,1 +1,9 @@
-{"name":"Top Minecraft Servers","documents":{"Privacy Policy":{"fetch":"https://topminecraftservers.org/privacy.php","select":"body"}}}
+{
+  "name": "Top minecraft servers",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://topminecraftservers.org/privacy.php",
+      "select": "body"
+    }
+  }
+}

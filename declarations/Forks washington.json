@@ -1,1 +1,13 @@
-{"name":"Forks Washington","documents":{"Terms of Service":{"fetch":"https://forkswa.com/terms/","select":"body"},"Privacy Policy":{"fetch":"https://forkswa.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Forks washington",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://forkswa.com/terms/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://forkswa.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

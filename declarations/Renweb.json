@@ -1,1 +1,14 @@
-{"name":"RenWeb","documents":{"Privacy Policy":{"fetch":"https://factsmgt.com/privacy-policy/"},"Legal Information":{"fetch":"https://factsmgt.com/terms-of-use"}}}
+{
+  "name": "Renweb",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://factsmgt.com/privacy-policy/"
+    },
+    "Legal Information": {
+      "fetch": "https://factsmgt.com/terms-of-use"
+    },
+    "Trackers Policy": {
+      "fetch": "https://factsmgt.com/privacy-policy/"
+    }
+  }
+}

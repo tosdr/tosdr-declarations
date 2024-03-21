@@ -1,1 +1,9 @@
-{"name":"Privacy Rights Clearinghouse","documents":{"Privacy Policy":{"fetch":"https://privacyrights.org/privacy-policy","select":"html > body > div:first-of-type > div > main"}}}
+{
+  "name": "Privacy rights clearinghouse",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://privacyrights.org/privacy-policy",
+      "select": "html > body > div:first-of-type > div > main"
+    }
+  }
+}

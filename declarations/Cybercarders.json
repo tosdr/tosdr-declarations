@@ -1,1 +1,13 @@
-{"name":"CyberCarders","documents":{"Trackers Policy":{"fetch":"https://cybercarders.su/cookie-usage/","select":"body"},"Privacy Policy":{"fetch":"https://cybercarders.su/privacy-policy/","select":"body"}}}
+{
+  "name": "Cybercarders",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://cybercarders.su/cookie-usage/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://cybercarders.su/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

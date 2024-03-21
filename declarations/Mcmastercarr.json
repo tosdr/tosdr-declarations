@@ -1,1 +1,9 @@
-{"name":"McMaster-Carr","documents":{"General Conditions of Sale":{"fetch":"https://www.mcmaster.com/termsandconditions/","select":"body"}}}
+{
+  "name": "Mcmastercarr",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.mcmaster.com/termsandconditions/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"OkayFreedom","documents":{"Terms of Service":{"fetch":"https://www.okayfreedom.com/en/tos","select":"body"}}}
+{
+  "name": "Okayfreedom",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.okayfreedom.com/en/tos",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"IntelTechniques By Michael Bazzel","documents":{"Privacy Policy":{"fetch":"https://inteltechniques.com/privacy.html","select":"html > body > main > div:first-of-type > div:first-of-type > div > div"}}}
+{
+  "name": "Inteltechniques by michael bazzel",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://inteltechniques.com/privacy.html",
+      "select": "html > body > main > div:first-of-type > div:first-of-type > div > div"
+    }
+  }
+}

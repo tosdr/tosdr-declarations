@@ -1,1 +1,8 @@
-{"name":"Guardline Security","documents":{"Privacy Policy":{"fetch":"https://www.guardlinesecurity.com/policies/privacy-policy"}}}
+{
+  "name": "Guardline security",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.guardlinesecurity.com/policies/privacy-policy"
+    }
+  }
+}

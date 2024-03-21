@@ -1,1 +1,9 @@
-{"name":"Do Good Points","documents":{"Terms of Service":{"fetch":"https://www.dogoodpoints.com/terms","select":"body"}}}
+{
+  "name": "Do good points",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.dogoodpoints.com/terms",
+      "select": "body"
+    }
+  }
+}

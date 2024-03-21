@@ -1,1 +1,9 @@
-{"name":"List Armor","documents":{"Privacy Policy":{"fetch":"https://listarmor.com/privacy-policy","select":"body"}}}
+{
+  "name": "List armor",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://listarmor.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

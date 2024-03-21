@@ -1,1 +1,13 @@
-{"name":"encrypting.host","documents":{"Privacy Policy":{"fetch":"https://encrypting.host/privacy","select":"body"},"Terms of Service":{"fetch":"https://encrypting.host/tos","select":"body"}}}
+{
+  "name": "Encryptinghost",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://encrypting.host/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://encrypting.host/tos",
+      "select": "body"
+    }
+  }
+}

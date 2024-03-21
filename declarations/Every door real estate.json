@@ -1,1 +1,11 @@
-{"name":"Every Door Real Estate","documents":{"Copyright Claims Policy":{"fetch":"https://search.everydoorrealestate.com/idx-information"},"Privacy Policy":{"fetch":"https://search.everydoorrealestate.com/privacy-policy"}}}
+{
+  "name": "Every door real estate",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://search.everydoorrealestate.com/idx-information"
+    },
+    "Privacy Policy": {
+      "fetch": "https://search.everydoorrealestate.com/privacy-policy"
+    }
+  }
+}

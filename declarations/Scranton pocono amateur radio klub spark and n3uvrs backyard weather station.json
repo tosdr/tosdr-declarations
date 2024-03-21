@@ -1,1 +1,9 @@
-{"name":"Scranton Pocono Amateur Radio Klub (SPARK) and N3UVR's Backyard Weather Station","documents":{"Privacy Policy":{"fetch":"https://k3csg.altervista.org/Privacy-Policy.html","select":"body"}}}
+{
+  "name": "Scranton pocono amateur radio klub spark and n3uvrs backyard weather station",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://k3csg.altervista.org/Privacy-Policy.html",
+      "select": "body"
+    }
+  }
+}

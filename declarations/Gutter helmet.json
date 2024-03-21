@@ -1,1 +1,8 @@
-{"name":"Gutter Helmet ","documents":{"Privacy Policy":{"fetch":"https://www.gutterhelmet.com/privacy-policy/"}}}
+{
+  "name": "Gutter helmet",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.gutterhelmet.com/privacy-policy/"
+    }
+  }
+}

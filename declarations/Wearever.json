@@ -1,1 +1,9 @@
-{"name":"Wearever","documents":{"Terms of Service":{"fetch":"https://www.weareverincontinence.com/terms-and-conditions/","select":"body"}}}
+{
+  "name": "Wearever",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.weareverincontinence.com/terms-and-conditions/",
+      "select": "body"
+    }
+  }
+}

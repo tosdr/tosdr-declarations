@@ -1,1 +1,8 @@
-{"name":"HealthyDebate","documents":{"Privacy Policy":{"fetch":"https://healthydebate.ca/privacy-policy/"}}}
+{
+  "name": "Healthydebate",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://healthydebate.ca/privacy-policy/"
+    }
+  }
+}

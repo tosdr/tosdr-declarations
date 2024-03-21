@@ -1,1 +1,11 @@
-{"name":"NameSilo","documents":{"Terms of Service":{"fetch":"https://www.namesilo.com/terms.php"},"Privacy Policy":{"fetch":"https://www.namesilo.com/Support/Privacy-Policy"}}}
+{
+  "name": "Namesilo",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.namesilo.com/terms.php"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.namesilo.com/Support/Privacy-Policy"
+    }
+  }
+}

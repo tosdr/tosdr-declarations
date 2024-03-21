@@ -1,1 +1,9 @@
-{"name":"Solo Design, LLC","documents":{"Privacy Policy":{"fetch":"https://www.solodesign.me/privacy-policy/","select":"body"}}}
+{
+  "name": "Solo design llc",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.solodesign.me/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

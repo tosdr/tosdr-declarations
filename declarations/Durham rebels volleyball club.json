@@ -1,1 +1,9 @@
-{"name":"Durham Rebels Volleyball Club","documents":{"Privacy Policy":{"fetch":"https://www.drvcvolleyball.ca/privacy/","select":"body"}}}
+{
+  "name": "Durham rebels volleyball club",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.drvcvolleyball.ca/privacy/",
+      "select": "body"
+    }
+  }
+}

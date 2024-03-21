@@ -1,1 +1,13 @@
-{"name":"polly.ai","documents":{"Privacy Policy":{"fetch":"https://www.polly.ai/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.polly.ai/terms-of-service","select":"body"}}}
+{
+  "name": "Pollyai",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.polly.ai/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.polly.ai/terms-of-service",
+      "select": "body"
+    }
+  }
+}

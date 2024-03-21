@@ -1,1 +1,9 @@
-{"name":"Hélène se promène","documents":{"Privacy Policy":{"fetch":"https://www.helenesepromene.com/confidentialite/","select":"body"}}}
+{
+  "name": "Hlne se promne",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.helenesepromene.com/confidentialite/",
+      "select": "body"
+    }
+  }
+}

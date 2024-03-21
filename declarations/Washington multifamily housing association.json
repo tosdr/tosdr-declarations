@@ -1,1 +1,8 @@
-{"name":"Washington Multi-Family Housing Association","documents":{"Privacy Policy":{"fetch":"https://www.wmfha.org/legal"}}}
+{
+  "name": "Washington multifamily housing association",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.wmfha.org/legal"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"gmx","documents":{"Terms of Service":{"fetch":"https://www.gmx.com/company/terms/","select":"body"},"Privacy Policy":{"fetch":"https://www.gmx.com/company/privacypolicy/","select":"body"}}}
+{
+  "name": "Gmx",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.gmx.com/company/terms/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.gmx.com/company/privacypolicy/",
+      "select": "body"
+    }
+  }
+}

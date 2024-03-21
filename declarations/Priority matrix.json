@@ -1,1 +1,9 @@
-{"name":"Priority Matrix","documents":{"Terms of Service":{"fetch":"https://appfluence.com/eula/","select":"body"}}}
+{
+  "name": "Priority matrix",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://appfluence.com/eula/",
+      "select": "body"
+    }
+  }
+}

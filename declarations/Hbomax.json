@@ -1,1 +1,9 @@
-{"name":"HBOMax","documents":{"Privacy Policy":{"fetch":"https://www.max.com/privacy/children","select":"body"}}}
+{
+  "name": "Hbomax",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.max.com/privacy/children",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"rbxscripts","documents":{"Privacy Policy":{"fetch":"https://rbxscript.com/privacy","select":"body"}}}
+{
+  "name": "Rbxscripts",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://rbxscript.com/privacy",
+      "select": "body"
+    }
+  }
+}

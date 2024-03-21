@@ -1,1 +1,13 @@
-{"name":"WebExtension","documents":{"Terms of Service":{"fetch":"https://webextension.org/privacy-policy/terms.html","select":"body"},"Privacy Policy":{"fetch":"https://webextension.org/privacy-policy/privacy.html","select":"body"}}}
+{
+  "name": "Webextension",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://webextension.org/privacy-policy/terms.html",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://webextension.org/privacy-policy/privacy.html",
+      "select": "body"
+    }
+  }
+}

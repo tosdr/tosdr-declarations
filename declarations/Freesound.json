@@ -1,1 +1,9 @@
-{"name":"Freesound ","documents":{"Trackers Policy":{"fetch":"https://freesound.org/help/cookies_policy/","select":"body"}}}
+{
+  "name": "Freesound",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://freesound.org/help/cookies_policy/",
+      "select": "body"
+    }
+  }
+}

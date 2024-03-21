@@ -1,1 +1,13 @@
-{"name":"Nutristore","documents":{"General Conditions of Sale":{"fetch":"https://nutristorefoods.com/pages/delivery-returns-policy","select":"body"},"Terms of Service":{"fetch":"https://nutristorefoods.com/policies/terms-of-service","select":"html > body > main"}}}
+{
+  "name": "Nutristore",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://nutristorefoods.com/pages/delivery-returns-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://nutristorefoods.com/policies/terms-of-service",
+      "select": "html > body > main"
+    }
+  }
+}

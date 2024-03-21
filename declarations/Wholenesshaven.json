@@ -1,1 +1,8 @@
-{"name":"WholenessHaven","documents":{"Privacy Policy":{"fetch":"https://wholenesshaven.com/privacy-policy/"}}}
+{
+  "name": "Wholenesshaven",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://wholenesshaven.com/privacy-policy/"
+    }
+  }
+}

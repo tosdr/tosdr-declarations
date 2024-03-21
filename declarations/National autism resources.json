@@ -1,1 +1,8 @@
-{"name":"National Autism Resources","documents":{"Privacy Policy":{"fetch":"https://nationalautismresources.com/privacy-policy/"}}}
+{
+  "name": "National autism resources",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://nationalautismresources.com/privacy-policy/"
+    }
+  }
+}

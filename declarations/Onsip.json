@@ -1,1 +1,9 @@
-{"name":"OnSIP","documents":{"Privacy Policy":{"fetch":"https://www.onsip.com/terms","select":"body"}}}
+{
+  "name": "Onsip",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.onsip.com/terms",
+      "select": "body"
+    }
+  }
+}

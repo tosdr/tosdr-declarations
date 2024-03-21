@@ -1,1 +1,9 @@
-{"name":"Simplifeye ","documents":{"Terms of Service":{"fetch":"https://simplifeye.co/terms","select":"html > body > div:nth-of-type(3) > section:nth-of-type(2) > div"}}}
+{
+  "name": "Simplifeye",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://simplifeye.co/terms",
+      "select": "html > body > div:nth-of-type(3) > section:nth-of-type(2) > div"
+    }
+  }
+}

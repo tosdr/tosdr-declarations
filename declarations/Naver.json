@@ -1,1 +1,9 @@
-{"name":"Naver","documents":{}}
+{
+  "name": "Naver",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://policy.naver.com/rules/disclaimer.html",
+      "select": "body"
+    }
+  }
+}

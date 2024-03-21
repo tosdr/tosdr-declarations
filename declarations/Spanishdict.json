@@ -1,1 +1,13 @@
-{"name":"SpanishDict","documents":{"Terms of Service":{"fetch":"https://www.spanishdict.com/company/tos","select":"html > body > div:first-of-type > div > div:nth-of-type(2) > div:nth-of-type(2) > div:first-of-type > div"},"Privacy Policy":{"fetch":"https://www.spanishdict.com/company/privacy","select":"html > body > div:first-of-type > div > div:nth-of-type(2) > div:nth-of-type(2) > div:first-of-type > div"}}}
+{
+  "name": "Spanishdict",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.spanishdict.com/company/tos",
+      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > div:nth-of-type(2) > div:first-of-type > div"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.spanishdict.com/company/privacy",
+      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > div:nth-of-type(2) > div:first-of-type > div"
+    }
+  }
+}

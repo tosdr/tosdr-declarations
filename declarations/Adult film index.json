@@ -1,1 +1,9 @@
-{"name":"Adult Film Index ","documents":{"Privacy Policy":{"fetch":"https://adultfilmindex.com/terms","select":"body"}}}
+{
+  "name": "Adult film index",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://adultfilmindex.com/terms",
+      "select": "body"
+    }
+  }
+}

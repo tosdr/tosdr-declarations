@@ -1,1 +1,9 @@
-{"name":"TravelWyoming ","documents":{"Privacy Policy":{"fetch":"https://travelwyoming.com/privacy-policy","select":"html > body > div:first-of-type > main > section > div > div > div"}}}
+{
+  "name": "Travelwyoming",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://travelwyoming.com/privacy-policy",
+      "select": "html > body > div:first-of-type > main > section > div > div > div"
+    }
+  }
+}

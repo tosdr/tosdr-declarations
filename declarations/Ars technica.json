@@ -1,1 +1,8 @@
-{"name":"Ars Technica","documents":{}}
+{
+  "name": "Ars technica",
+  "documents": {
+    "Affiliate Disclosure": {
+      "fetch": "https://arstechnica.com/affiliate-link-policy/"
+    }
+  }
+}

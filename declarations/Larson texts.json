@@ -1,1 +1,9 @@
-{"name":"Larson Texts","documents":{"Privacy Policy":{"fetch":"https://www.larsontexts.com/privacy-policy/","select":"html > body > div:nth-of-type(2) > div > div"}}}
+{
+  "name": "Larson texts",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.larsontexts.com/privacy-policy/",
+      "select": "html > body > div:nth-of-type(2) > div > div"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Re:scam","documents":{"Privacy Policy":{"fetch":"https://www.rescam.org/faq/privacy.php?c=v0.1.16","select":"body"}}}
+{
+  "name": "Rescam",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.rescam.org/faq/privacy.php?c=v0.1.16",
+      "select": "body"
+    }
+  }
+}

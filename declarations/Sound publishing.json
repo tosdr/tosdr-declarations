@@ -1,1 +1,8 @@
-{"name":"Sound Publishing","documents":{"Privacy Policy":{"fetch":"https://www.soundpublishing.com/about/privacy-policy/"}}}
+{
+  "name": "Sound publishing",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.soundpublishing.com/about/privacy-policy/"
+    }
+  }
+}

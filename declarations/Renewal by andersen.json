@@ -1,1 +1,8 @@
-{"name":"Renewal by Andersen","documents":{"Privacy Policy":{"fetch":"https://www.andersenwindows.com/support/privacy/"}}}
+{
+  "name": "Renewal by andersen",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.andersenwindows.com/support/privacy/"
+    }
+  }
+}

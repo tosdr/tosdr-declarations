@@ -1,1 +1,8 @@
-{"name":"DocumentaryHeaven ","documents":{"Privacy Policy":{"fetch":"https://documentaryheaven.com/terms-of-use/"}}}
+{
+  "name": "Documentaryheaven",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://documentaryheaven.com/terms-of-use/"
+    }
+  }
+}

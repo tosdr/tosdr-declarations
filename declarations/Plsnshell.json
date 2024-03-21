@@ -1,1 +1,13 @@
-{"name":"PlsnShell","documents":{"Privacy Policy":{"fetch":"https://planshell.com/index.php/privacy","select":"body"},"Terms of Service":{"fetch":"https://planshell.com/index.php/terms","select":"body"}}}
+{
+  "name": "Plsnshell",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://planshell.com/index.php/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://planshell.com/index.php/terms",
+      "select": "body"
+    }
+  }
+}

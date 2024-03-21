@@ -1,1 +1,8 @@
-{"name":"School Reading List","documents":{"Privacy Policy":{"fetch":"https://schoolreadinglist.co.uk/policies"}}}
+{
+  "name": "School reading list",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://schoolreadinglist.co.uk/policies"
+    }
+  }
+}

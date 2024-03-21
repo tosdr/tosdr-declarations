@@ -1,1 +1,8 @@
-{"name":"Las Vegas Review-Journal","documents":{"Terms of Service":{"fetch":"https://www.reviewjournal.com/terms-of-service/"}}}
+{
+  "name": "Las vegas reviewjournal",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.reviewjournal.com/terms-of-service/"
+    }
+  }
+}

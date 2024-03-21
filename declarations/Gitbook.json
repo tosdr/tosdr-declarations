@@ -1,1 +1,9 @@
-{"name":"GitBook","documents":{"Privacy Policy":{"fetch":"https://policies.gitbook.com/privacy","select":"body"}}}
+{
+  "name": "Gitbook",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://policies.gitbook.com/privacy",
+      "select": "body"
+    }
+  }
+}

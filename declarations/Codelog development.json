@@ -1,1 +1,9 @@
-{"name":"CodeLog Development","documents":{"Privacy Policy":{"fetch":"https://www.codelog.co.za/privacy_policy.html","select":"body"}}}
+{
+  "name": "Codelog development",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.codelog.co.za/privacy_policy.html",
+      "select": "body"
+    }
+  }
+}

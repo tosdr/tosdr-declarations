@@ -1,1 +1,9 @@
-{"name":"First National Bank of Omaha","documents":{"Privacy Policy":{"fetch":"https://www.fnbo.com/privacy/","select":"html > body > div:first-of-type > div > div:nth-of-type(2) > div > div:nth-of-type(3) > div"}}}
+{
+  "name": "First national bank of omaha",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.fnbo.com/privacy/",
+      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > div > div:nth-of-type(3) > div"
+    }
+  }
+}

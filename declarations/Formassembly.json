@@ -1,1 +1,9 @@
-{"name":"FormAssembly ","documents":{"Terms of Service":{"fetch":"https://www.formassembly.com/terms-of-service/formassembly-master-subscription-agreement/","select":"body"}}}
+{
+  "name": "Formassembly",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.formassembly.com/terms-of-service/formassembly-master-subscription-agreement/",
+      "select": "body"
+    }
+  }
+}

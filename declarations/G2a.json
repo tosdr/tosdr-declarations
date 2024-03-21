@@ -1,1 +1,12 @@
-{"name":"G2A","documents":{"Terms of Service":{"fetch":"https://www.g2a.com/terms-and-conditions"},"Privacy Policy":{"fetch":"https://www.g2a.com/privacy-policy","select":"body"}}}
+{
+  "name": "G2a",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.g2a.com/terms-and-conditions"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.g2a.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

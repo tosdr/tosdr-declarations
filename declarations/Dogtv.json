@@ -1,1 +1,11 @@
-{"name":" DOGTV ","documents":{"Privacy Policy":{"fetch":"https://www.dogtv.com/privacy-policy"},"Terms of Service":{"fetch":"https://www.dogtv.com/terms-and-conditions"}}}
+{
+  "name": "Dogtv",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.dogtv.com/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.dogtv.com/terms-and-conditions"
+    }
+  }
+}

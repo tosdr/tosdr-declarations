@@ -1,1 +1,9 @@
-{"name":"Maxar Technologies","documents":{"Terms of Service":{"fetch":"https://www.maxar.com/legal/website-terms-of-use","select":"body"}}}
+{
+  "name": "Maxar technologies",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.maxar.com/legal/website-terms-of-use",
+      "select": "body"
+    }
+  }
+}

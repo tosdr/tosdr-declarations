@@ -1,1 +1,8 @@
-{"name":"Business Line","documents":{"Privacy Policy":{"fetch":"https://www.thehindubusinessline.com/privacypolicy/"}}}
+{
+  "name": "Business line",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.thehindubusinessline.com/privacypolicy/"
+    }
+  }
+}

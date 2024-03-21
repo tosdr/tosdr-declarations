@@ -1,1 +1,9 @@
-{"name":"SenbilCloud","documents":{"Privacy Policy":{"fetch":"https://privacy.senbil.net/en.html","select":"body"}}}
+{
+  "name": "Senbilcloud",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://privacy.senbil.net/en.html",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"NewsBlur","documents":{"Terms of Service":{"fetch":"https://forum.newsblur.com/tos","select":"body"}}}
+{
+  "name": "Newsblur",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://forum.newsblur.com/tos",
+      "select": "body"
+    }
+  }
+}

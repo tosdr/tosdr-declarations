@@ -1,1 +1,11 @@
-{"name":"FUJITSU GENERAL","documents":{"Terms of Service":{"fetch":"https://www.fujitsugeneral.com/us/terms/index.html"},"Privacy Policy":{"fetch":"https://www.fujitsugeneral.com/us/privacy/index.html"}}}
+{
+  "name": "Fujitsu general",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.fujitsugeneral.com/us/terms/index.html"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.fujitsugeneral.com/us/privacy/index.html"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"SensoryHealth ","documents":{"Terms of Service":{"fetch":"https://www.sensory.health/tos","select":"body"},"Privacy Policy":{"fetch":"https://www.sensory.health/privacy-policy","select":"body"}}}
+{
+  "name": "Sensoryhealth",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.sensory.health/tos",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.sensory.health/privacy-policy",
+      "select": "body"
+    }
+  }
+}

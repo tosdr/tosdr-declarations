@@ -1,1 +1,9 @@
-{"name":"CockFile","documents":{}}
+{
+  "name": "Cockfile",
+  "documents": {
+    "Other": {
+      "fetch": "https://cockfile.com/faq.html",
+      "select": "body"
+    }
+  }
+}

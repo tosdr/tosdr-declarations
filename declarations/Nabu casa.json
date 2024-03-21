@@ -1,1 +1,9 @@
-{"name":"Nabu Casa","documents":{"Terms of Service":{"fetch":"https://nabucasa.com/tos/","select":"html > body > main"}}}
+{
+  "name": "Nabu casa",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://nabucasa.com/tos/",
+      "select": "html > body > main"
+    }
+  }
+}

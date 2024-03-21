@@ -1,1 +1,8 @@
-{"name":"USE Credit Union","documents":{"Privacy Policy":{"fetch":"https://www.usecu.org/privacy-security/"}}}
+{
+  "name": "Use credit union",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.usecu.org/privacy-security/"
+    }
+  }
+}

@@ -1,1 +1,12 @@
-{"name":"Walkers ","documents":{"Trackers Policy":{"fetch":"https://pepsicoprivacypolicy.com/en?domain=walkers.co.uk"},"Terms of Service":{"fetch":"https://www.walkers.co.uk/terms_and_conditions","select":"body"}}}
+{
+  "name": "Walkers",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://pepsicoprivacypolicy.com/en?domain=walkers.co.uk"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.walkers.co.uk/terms_and_conditions",
+      "select": "body"
+    }
+  }
+}

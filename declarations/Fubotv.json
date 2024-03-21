@@ -1,1 +1,9 @@
-{"name":"FuboTV","documents":{"Terms of Service":{"fetch":"https://www.fubo.tv/documents/USA/terms-of-service","select":"body"}}}
+{
+  "name": "Fubotv",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.fubo.tv/documents/USA/terms-of-service",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"7up","documents":{"Privacy Policy":{"fetch":"https://www.7up.com/__/legal/us/privacy/content.html","select":"body"}}}
+{
+  "name": "7up",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.7up.com/__/legal/us/privacy/content.html",
+      "select": "body"
+    }
+  }
+}

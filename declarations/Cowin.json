@@ -1,1 +1,9 @@
-{"name":"CoWin","documents":{"Privacy Policy":{"fetch":"https://www.cowin.gov.in/privacy-policy","select":"body"}}}
+{
+  "name": "Cowin",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.cowin.gov.in/privacy-policy",
+      "select": "body"
+    }
+  }
+}

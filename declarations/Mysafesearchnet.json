@@ -1,1 +1,13 @@
-{"name":"mysafe-search.net","documents":{"Terms of Service":{"fetch":"https://eula.mysafe-search.net/","select":"body"},"Privacy Policy":{"fetch":"https://privacy.mysafe-search.net/#extensions","select":"body"}}}
+{
+  "name": "Mysafesearchnet",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://eula.mysafe-search.net/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://privacy.mysafe-search.net/#extensions",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":" US Department of Education","documents":{"Privacy Policy":{"fetch":"https://www2.ed.gov/notices/privacy/index.html?src=ft"}}}
+{
+  "name": "Us department of education",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www2.ed.gov/notices/privacy/index.html?src=ft"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"SIPC","documents":{"Privacy Policy":{"fetch":"https://www.sipc.org/privacy-policy","select":"body"}}}
+{
+  "name": "Sipc",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sipc.org/privacy-policy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"ExtractMetadata.com ","documents":{"Privacy Policy":{"fetch":"https://www.extractmetadata.com/privacy.html","select":"body"}}}
+{
+  "name": "Extractmetadatacom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.extractmetadata.com/privacy.html",
+      "select": "body"
+    }
+  }
+}

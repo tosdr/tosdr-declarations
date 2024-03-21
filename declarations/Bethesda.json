@@ -1,1 +1,13 @@
-{"name":"Bethesda","documents":{"Trackers Policy":{"fetch":"https://documents.bethesda.net/en/cookie-policy","select":"body"},"Terms of Service":{"fetch":"https://documents.bethesda.net/en/terms-of-service","select":"body"}}}
+{
+  "name": "Bethesda",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://documents.bethesda.net/en/cookie-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://documents.bethesda.net/en/terms-of-service",
+      "select": "body"
+    }
+  }
+}

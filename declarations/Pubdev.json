@@ -1,1 +1,9 @@
-{"name":"pub.dev","documents":{}}
+{
+  "name": "Pubdev",
+  "documents": {
+    "Policy": {
+      "fetch": "https://pub.dev/policy",
+      "select": "html > body > footer > a:nth-of-type(3)"
+    }
+  }
+}

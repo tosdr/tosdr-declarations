@@ -1,1 +1,13 @@
-{"name":"unemploymentbenefitsguide","documents":{"Terms of Service":{"fetch":"https://unemploymentbenefitsguide.com/terms-conditions/","select":"body"},"Privacy Policy":{"fetch":"https://unemploymentbenefitsguide.com/privacy-notice/","select":"body"}}}
+{
+  "name": "Unemploymentbenefitsguide",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://unemploymentbenefitsguide.com/terms-conditions/",
+      "select": "body"
+    },
+    "Legal Information": {
+      "fetch": "https://unemploymentbenefitsguide.com/privacy-notice/",
+      "select": "body"
+    }
+  }
+}

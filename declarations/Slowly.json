@@ -1,1 +1,9 @@
-{"name":"Slowly","documents":{"Terms of Service":{"fetch":"https://slowly.app/en/terms/","select":"body"}}}
+{
+  "name": "Slowly",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://slowly.app/en/terms/",
+      "select": "body"
+    }
+  }
+}

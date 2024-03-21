@@ -1,1 +1,9 @@
-{"name":"The Weekly Times","documents":{"Terms of Service":{"fetch":"https://www.weeklytimesnow.com.au/help/termsconditions","select":"body"}}}
+{
+  "name": "The weekly times",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.weeklytimesnow.com.au/help/termsconditions",
+      "select": "body"
+    }
+  }
+}

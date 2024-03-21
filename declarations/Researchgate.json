@@ -1,1 +1,9 @@
-{"name":"ResearchGate","documents":{"Privacy Policy":{"fetch":"https://www.researchgate.net/privacy-policy","select":"div.privacy-policy"}}}
+{
+  "name": "Researchgate",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.researchgate.net/privacy-policy",
+      "select": "div.privacy-policy"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Biblio Reads.ga","documents":{"Privacy Policy":{"fetch":"https://biblioreads.ga/privacy","select":"html > body > div:first-of-type > div > div > div"}}}
+{
+  "name": "Biblio readsga",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://biblioreads.ga/privacy",
+      "select": "html > body > div:first-of-type > div > div > div"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":"What Can YOU Do?","documents":{"Privacy Policy":{"fetch":"https://www.whatcanyoudocampaign.org/privacy-policy/"}}}
+{
+  "name": "What can you do",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.whatcanyoudocampaign.org/privacy-policy/"
+    }
+  }
+}

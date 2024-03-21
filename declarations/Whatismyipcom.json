@@ -1,1 +1,11 @@
-{"name":"WhatIsMyIP.com","documents":{"Terms of Service":{"fetch":"https://www.whatismyip.com/terms-and-conditions-of-use/"},"Privacy Policy":{"fetch":"https://www.whatismyip.com/privacy-policy/"}}}
+{
+  "name": "Whatismyipcom",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.whatismyip.com/terms-and-conditions-of-use/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.whatismyip.com/privacy-policy/"
+    }
+  }
+}

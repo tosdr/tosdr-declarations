@@ -1,1 +1,9 @@
-{"name":"Pulzion","documents":{"Privacy Policy":{"fetch":"https://pulzion.in/privacy-policy","select":"body"}}}
+{
+  "name": "Pulzion",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://pulzion.in/privacy-policy",
+      "select": "body"
+    }
+  }
+}

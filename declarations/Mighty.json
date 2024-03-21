@@ -1,1 +1,13 @@
-{"name":"Mighty","documents":{"Terms of Service":{"fetch":"https://www.mightyapp.com/terms","select":"body"},"Privacy Policy":{"fetch":"https://www.mightyapp.com/privacy","select":"body"}}}
+{
+  "name": "Mighty",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.mightyapp.com/terms",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.mightyapp.com/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"GEDmatch","documents":{"Privacy Policy":{"fetch":"https://www.gedmatch.com/tos.htm","select":"html > body"}}}
+{
+  "name": "Gedmatch",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.gedmatch.com/tos.htm",
+      "select": "html > body"
+    }
+  }
+}

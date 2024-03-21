@@ -1,1 +1,8 @@
-{"name":"National Weather Service","documents":{"Privacy Policy":{"fetch":"https://www.weather.gov/privacy"}}}
+{
+  "name": "National weather service",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.weather.gov/privacy"
+    }
+  }
+}

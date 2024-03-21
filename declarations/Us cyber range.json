@@ -1,1 +1,9 @@
-{"name":"US Cyber Range","documents":{"Terms of Service":{"fetch":"https://www.uscyberrange.org/terms-of-use","select":"body"}}}
+{
+  "name": "Us cyber range",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.uscyberrange.org/terms-of-use",
+      "select": "body"
+    }
+  }
+}

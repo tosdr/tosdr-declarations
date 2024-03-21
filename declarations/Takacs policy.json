@@ -1,1 +1,9 @@
-{"name":"takacs policy","documents":{"Privacy Policy":{"fetch":"https://takacs-policy.eu/privacy-policy.html","select":"body"}}}
+{
+  "name": "Takacs policy",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://takacs-policy.eu/privacy-policy.html",
+      "select": "body"
+    }
+  }
+}

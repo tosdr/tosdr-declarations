@@ -1,1 +1,9 @@
-{"name":" Buckets Of Banners","documents":{"Terms of Service":{"fetch":"http://bucketsofbanners.com/terms.php","select":"body"}}}
+{
+  "name": "Buckets of banners",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "http://bucketsofbanners.com/terms.php",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"FCast","documents":{"Privacy Policy":{"fetch":"https://fcast.org/privacy-policy.html","select":"body"}}}
+{
+  "name": "Fcast",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://fcast.org/privacy-policy.html",
+      "select": "body"
+    }
+  }
+}

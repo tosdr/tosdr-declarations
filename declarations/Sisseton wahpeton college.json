@@ -1,1 +1,9 @@
-{"name":"Sisseton Wahpeton College ","documents":{"Privacy Policy":{"fetch":"https://my.swcollege.edu/ICS/ClientConfig/HtmlContent/Privacy.html","select":"body"}}}
+{
+  "name": "Sisseton wahpeton college",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://my.swcollege.edu/ICS/ClientConfig/HtmlContent/Privacy.html",
+      "select": "body"
+    }
+  }
+}

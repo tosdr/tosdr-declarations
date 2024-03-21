@@ -1,1 +1,9 @@
-{"name":"WT Social","documents":{"Trackers Policy":{"fetch":"https://wt.social/cookie-policy","select":"body"}}}
+{
+  "name": "Wt social",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://wt.social/cookie-policy",
+      "select": "body"
+    }
+  }
+}

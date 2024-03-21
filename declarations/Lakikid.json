@@ -1,1 +1,9 @@
-{"name":"LakiKid","documents":{"General Conditions of Sale":{"fetch":"https://lakikid.com/pages/return-policy","select":"html > body > div:nth-of-type(3) > main > div > div > div > div:nth-of-type(2) > div"}}}
+{
+  "name": "Lakikid",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://lakikid.com/pages/return-policy",
+      "select": "html > body > div:nth-of-type(3) > main > div > div > div > div:nth-of-type(2) > div"
+    }
+  }
+}

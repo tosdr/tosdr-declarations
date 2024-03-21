@@ -1,1 +1,9 @@
-{"name":"Choice Forum","documents":{"Privacy Policy":{"fetch":"https://www.choiceforum.org/privacy/","select":"body"}}}
+{
+  "name": "Choice forum",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.choiceforum.org/privacy/",
+      "select": "body"
+    }
+  }
+}

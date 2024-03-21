@@ -1,1 +1,9 @@
-{"name":"VIMCDCI","documents":{"Privacy Policy":{"fetch":"https://vicente-isabel.com/privacy-policy","select":"body"}}}
+{
+  "name": "Vimcdci",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://vicente-isabel.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

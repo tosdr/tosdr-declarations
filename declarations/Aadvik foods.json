@@ -1,1 +1,16 @@
-{"name":"Aadvik Foods","documents":{"General Conditions of Sale":{"fetch":"https://aadvikfoods.com/return-and-refund-policy/","select":"body"},"Privacy Policy":{"fetch":"https://aadvikfoods.com/privacy-policy"},"Terms of Service":{"fetch":"https://aadvikfoods.com/terms-and-conditions/","select":"body"}}}
+{
+  "name": "Aadvik foods",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://aadvikfoods.com/return-and-refund-policy/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://aadvikfoods.com/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://aadvikfoods.com/terms-and-conditions/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"3M","documents":{"Privacy Policy":{"fetch":"https://www.3m.com/3M/en_US/company-us/privacy-policy","select":"body"}}}
+{
+  "name": "3m",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.3m.com/3M/en_US/company-us/privacy-policy",
+      "select": "body"
+    }
+  }
+}

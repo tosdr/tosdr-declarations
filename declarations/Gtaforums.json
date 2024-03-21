@@ -1,1 +1,9 @@
-{"name":"GTAForums","documents":{"Privacy Policy":{"fetch":"https://gtaforums.com/gtanet/privacy","select":"body"}}}
+{
+  "name": "Gtaforums",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://gtaforums.com/gtanet/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":"MR HOMEBODY","documents":{"Privacy Policy":{"fetch":"https://www.mrhomebody.com/privacy/"}}}
+{
+  "name": "Mr homebody",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.mrhomebody.com/privacy/"
+    }
+  }
+}

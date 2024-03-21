@@ -1,1 +1,15 @@
-{"name":"Southwest","documents":{"Terms of Service":{"fetch":"https://www.southwest.com/html/about-southwest/terms-and-conditions/index.html"},"Conditions of Carriage":{"fetch":"https://www.southwest.com/assets/pdfs/corporate-commitments/contract-of-carriage.pdf","select":"body"},"Privacy Policy":{"fetch":"https://www.southwest.com/html/about-southwest/terms-and-conditions/privacy-policy-pol.html"}}}
+{
+  "name": "Southwest",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.southwest.com/html/about-southwest/terms-and-conditions/index.html"
+    },
+    "Conditions of Carriage": {
+      "fetch": "https://www.southwest.com/assets/pdfs/corporate-commitments/contract-of-carriage.pdf",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.southwest.com/html/about-southwest/terms-and-conditions/privacy-policy-pol.html"
+    }
+  }
+}

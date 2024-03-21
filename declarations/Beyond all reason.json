@@ -1,1 +1,9 @@
-{"name":"Beyond All Reason ","documents":{"Privacy Policy":{"fetch":"https://www.beyondallreason.info/privacy","select":"body"}}}
+{
+  "name": "Beyond all reason",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.beyondallreason.info/privacy",
+      "select": "body"
+    }
+  }
+}

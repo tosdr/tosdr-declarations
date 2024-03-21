@@ -1,1 +1,8 @@
-{"name":"Kilu.de","documents":{"Privacy Policy":{"fetch":"http://www.kilu.de/tos"}}}
+{
+  "name": "Kilude",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "http://www.kilu.de/tos"
+    }
+  }
+}

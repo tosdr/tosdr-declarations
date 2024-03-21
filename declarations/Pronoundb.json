@@ -1,1 +1,9 @@
-{"name":"pronounDB","documents":{"Privacy Policy":{"fetch":"https://pronoundb.org/privacy/","select":"body"}}}
+{
+  "name": "Pronoundb",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://pronoundb.org/privacy/",
+      "select": "body"
+    }
+  }
+}

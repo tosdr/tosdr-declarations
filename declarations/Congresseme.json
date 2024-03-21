@@ -1,1 +1,9 @@
-{"name":"congresse.me","documents":{"Privacy Policy":{"fetch":"https://eventos.congresse.me/politica-de-privacidade","select":"main"}}}
+{
+  "name": "Congresseme",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://eventos.congresse.me/politica-de-privacidade",
+      "select": "main"
+    }
+  }
+}

@@ -1,1 +1,14 @@
-{"name":"YTMP3.CC","documents":{"Terms of Service":{"fetch":"https://ytmp3.cc/terms-of-use/"},"Privacy Policy":{"fetch":"https://ytmp3.cc/privacy-policy/"},"Copyright Claims Policy":{"fetch":"https://ytmp3.cc/copyright-claims/"}}}
+{
+  "name": "Ytmp3cc",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://ytmp3.cc/terms-of-use/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://ytmp3.cc/privacy-policy/"
+    },
+    "Copyright Claims Policy": {
+      "fetch": "https://ytmp3.cc/copyright-claims/"
+    }
+  }
+}

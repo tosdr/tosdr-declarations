@@ -1,1 +1,13 @@
-{"name":"Premier Boxing Champions","documents":{"Privacy Policy":{"fetch":"https://www.premierboxingchampions.com/privacy-policy","select":"html > body > div:nth-of-type(2) > div > section > div > div > div"},"Terms of Service":{"fetch":"https://www.premierboxingchampions.com/terms-of-use","select":"html > body > div:nth-of-type(2) > div > section"}}}
+{
+  "name": "Premier boxing champions",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.premierboxingchampions.com/privacy-policy",
+      "select": "html > body > div:nth-of-type(2) > div > section > div > div > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.premierboxingchampions.com/terms-of-use",
+      "select": "html > body > div:nth-of-type(2) > div > section"
+    }
+  }
+}

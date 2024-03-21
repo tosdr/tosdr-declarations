@@ -1,1 +1,9 @@
-{"name":"Worldchannel.org","documents":{"Terms of Service":{"fetch":"https://worldchannel.org/about/terms-use","select":"body"}}}
+{
+  "name": "Worldchannelorg",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://worldchannel.org/about/terms-use",
+      "select": "body"
+    }
+  }
+}

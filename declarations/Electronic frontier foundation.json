@@ -1,1 +1,8 @@
-{"name":"Electronic Frontier Foundation","documents":{"Privacy Policy":{"fetch":"https://www.eff.org/policy"}}}
+{
+  "name": "Electronic frontier foundation",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.eff.org/policy"
+    }
+  }
+}

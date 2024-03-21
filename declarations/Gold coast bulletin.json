@@ -1,1 +1,9 @@
-{"name":"Gold Coast Bulletin","documents":{"Terms of Service":{"fetch":"https://www.goldcoastbulletin.com.au/help/termsconditions","select":"body"}}}
+{
+  "name": "Gold coast bulletin",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.goldcoastbulletin.com.au/help/termsconditions",
+      "select": "body"
+    }
+  }
+}

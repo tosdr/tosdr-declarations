@@ -1,1 +1,9 @@
-{"name":"Owl Mail","documents":{"Privacy Policy":{"fetch":"https://owlmail.io/privacy","select":" > main > div:nth-of-type(5) > div > div"}}}
+{
+  "name": "Owl mail",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://owlmail.io/privacy",
+      "select": " > main > div:nth-of-type(5) > div > div"
+    }
+  }
+}

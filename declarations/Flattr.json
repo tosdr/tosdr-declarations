@@ -1,1 +1,13 @@
-{"name":"Flattr","documents":{"Privacy Policy":{"fetch":"https://flattr.com/privacy","select":"main"},"Terms of Service":{"fetch":"https://flattr.com/terms","select":"main"}}}
+{
+  "name": "Flattr",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://flattr.com/privacy",
+      "select": "main"
+    },
+    "Terms of Service": {
+      "fetch": "https://flattr.com/terms",
+      "select": "main"
+    }
+  }
+}

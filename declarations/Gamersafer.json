@@ -1,1 +1,9 @@
-{"name":"GamerSafer","documents":{"Terms of Service":{"fetch":"https://gamersafer.com/tos/","select":"body"}}}
+{
+  "name": "Gamersafer",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://gamersafer.com/tos/",
+      "select": "body"
+    }
+  }
+}

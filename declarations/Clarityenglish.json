@@ -1,1 +1,13 @@
-{"name":"ClarityEnglish","documents":{"Privacy Policy":{"fetch":"https://www.clarityenglish.com/privacy.php","select":"body"},"Terms of Service":{"fetch":"https://www.clarityenglish.com/terms.php","select":"body"}}}
+{
+  "name": "Clarityenglish",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.clarityenglish.com/privacy.php",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.clarityenglish.com/terms.php",
+      "select": "body"
+    }
+  }
+}

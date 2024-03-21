@@ -1,1 +1,12 @@
-{"name":"SkillsClub","documents":{"Terms of Service":{"fetch":"https://skillsclub.com/terms-and-conditions","select":"html > body > div:first-of-type > main > div > section > div:first-of-type"},"Privacy Policy":{"fetch":"https://skillsclub.com/privacy-policy/"}}}
+{
+  "name": "Skillsclub",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://skillsclub.com/terms-and-conditions",
+      "select": "html > body > div:first-of-type > main > div > section > div:first-of-type"
+    },
+    "Privacy Policy": {
+      "fetch": "https://skillsclub.com/privacy-policy/"
+    }
+  }
+}

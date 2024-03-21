@@ -1,1 +1,9 @@
-{"name":"Miniclip","documents":{"Trackers Policy":{"fetch":"https://www.miniclip.com/cookie-policy","select":"html > body > div:first-of-type > div > div > div > article"}}}
+{
+  "name": "Miniclip",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.miniclip.com/cookie-policy",
+      "select": "html > body > div:first-of-type > div > div > div > article"
+    }
+  }
+}

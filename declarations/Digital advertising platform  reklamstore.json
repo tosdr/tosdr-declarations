@@ -1,1 +1,12 @@
-{"name":"Digital Advertising Platform | ReklamStore","documents":{"Trackers Policy":{"fetch":"https://www.reklamstore.com/cookie-policy/"},"Privacy Policy":{"fetch":"https://www.reklamstore.com/privacy-policy/","select":"html > body > div:first-of-type > div:nth-of-type(2) > div > article > div > div > div > div"}}}
+{
+  "name": "Digital advertising platform  reklamstore",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.reklamstore.com/cookie-policy/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.reklamstore.com/privacy-policy/",
+      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div > article > div > div > div > div"
+    }
+  }
+}

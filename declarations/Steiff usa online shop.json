@@ -1,1 +1,13 @@
-{"name":"Steiff USA Online Shop","documents":{"Privacy Policy":{"fetch":"https://www.steiffusa.com/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.steiffusa.com/terms-and-conditions/","select":"body"}}}
+{
+  "name": "Steiff usa online shop",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.steiffusa.com/privacy-policy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.steiffusa.com/terms-and-conditions/",
+      "select": "body"
+    }
+  }
+}

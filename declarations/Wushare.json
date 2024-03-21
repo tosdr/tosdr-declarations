@@ -1,1 +1,8 @@
-{"name":"WuShare","documents":{"Copyright Claims Policy":{"fetch":"https://wushare.com/dmca"}}}
+{
+  "name": "Wushare",
+  "documents": {
+    "Copyright Claims Policy": {
+      "fetch": "https://wushare.com/dmca"
+    }
+  }
+}

@@ -1,1 +1,12 @@
-{"name":"ExxonMobil","documents":{"Terms of Service":{"fetch":"http://corporate.exxonmobil.com/en/global-legal-pages/terms-and-conditions","select":"body"},"Privacy Policy":{"fetch":"http://corporate.exxonmobil.com/en/global-legal-pages/privacy-policy"}}}
+{
+  "name": "Exxonmobil",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "http://corporate.exxonmobil.com/en/global-legal-pages/terms-and-conditions",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "http://corporate.exxonmobil.com/en/global-legal-pages/privacy-policy"
+    }
+  }
+}

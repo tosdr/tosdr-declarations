@@ -1,1 +1,8 @@
-{"name":"ConvertICO","documents":{"Privacy Policy":{"fetch":"https://www.convertico.com/"}}}
+{
+  "name": "Convertico",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.convertico.com/"
+    }
+  }
+}

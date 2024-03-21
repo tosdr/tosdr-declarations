@@ -1,1 +1,17 @@
-{"name":"Fastly","documents":{"Trackers Policy":{"fetch":"https://www.fastly.com/cookies/"},"Privacy Policy":{"fetch":"https://www.fastly.com/privacy/"},"Acceptable Use Policy":{"fetch":"https://www.fastly.com/acceptable-use/"},"Terms of Service":{"fetch":"https://www.fastly.com/terms/"}}}
+{
+  "name": "Fastly",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.fastly.com/cookies/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.fastly.com/privacy/"
+    },
+    "Acceptable Use Policy": {
+      "fetch": "https://www.fastly.com/acceptable-use/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.fastly.com/terms/"
+    }
+  }
+}

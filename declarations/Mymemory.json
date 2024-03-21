@@ -1,1 +1,13 @@
-{"name":"MyMemory ","documents":{"Terms of Service":{"fetch":"https://mymemory.translated.net/terms-and-conditions","select":"body"},"Trackers Policy":{"fetch":"https://translated.com/confidentiality","select":"body"}}}
+{
+  "name": "Mymemory",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://mymemory.translated.net/terms-and-conditions",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://translated.com/confidentiality",
+      "select": "body"
+    }
+  }
+}

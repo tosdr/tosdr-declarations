@@ -1,1 +1,9 @@
-{"name":"Kristin Ess Hair","documents":{"Privacy Policy":{"fetch":"https://www.kristinesshair.com/pages/privacy-policy","select":" > div"}}}
+{
+  "name": "Kristin ess hair",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.kristinesshair.com/pages/privacy-policy",
+      "select": " > div"
+    }
+  }
+}

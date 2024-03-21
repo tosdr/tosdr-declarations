@@ -1,1 +1,18 @@
-{"name":"Bitpanda","documents":{"Privacy Policy":{"fetch":"https://www.bitpanda.com/en/legal#privacy-payments"},"Terms of Service":{"fetch":"https://www.bitpanda.com/en/legal#terms"},"Trackers Policy":{"fetch":"https://www.bitpanda.com/en/legal#cookies"}}}
+{
+  "name": "Bitpanda",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.bitpanda.com/en/legal#privacy-payments"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.bitpanda.com/en/legal#terms"
+    },
+    "Vulnerability Disclosure Policy": {
+      "fetch": "https://www.bitpanda.com/en/legal/bugbounty",
+      "select": " > section > div"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.bitpanda.com/en/legal#cookies"
+    }
+  }
+}

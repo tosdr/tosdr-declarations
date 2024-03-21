@@ -1,1 +1,9 @@
-{"name":"State Street Corporation","documents":{"Privacy Policy":{"fetch":"https://www.statestreet.com/utility/privacy-notice.html","select":"body"}}}
+{
+  "name": "State street corporation",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.statestreet.com/utility/privacy-notice.html",
+      "select": "body"
+    }
+  }
+}

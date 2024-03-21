@@ -1,1 +1,8 @@
-{"name":"Rakuten.ca","documents":{"Privacy Policy":{"fetch":"https://www.rakuten.ca/help/privacy-security"}}}
+{
+  "name": "Rakutenca",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.rakuten.ca/help/privacy-security"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"CanYouSeeMe  ","documents":{"Privacy Policy":{"fetch":"https://canyouseeme.org/privacy.php","select":"body"}}}
+{
+  "name": "Canyouseeme",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://canyouseeme.org/privacy.php",
+      "select": "body"
+    }
+  }
+}

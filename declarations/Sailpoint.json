@@ -1,1 +1,25 @@
-{"name":"SailPoint","documents":{"Trackers Policy":{"fetch":"https://www.sailpoint.com/legal/cookie-notice","select":"body"},"Privacy Policy":{"fetch":"https://www.sailpoint.com/legal/privacy","select":"body"},"Terms of Service":{"fetch":"https://docs.sailpoint.com/pdf/?file=https://docs.sailpoint.com/wp-content/uploads/SailPoint-Compass-User-Agreement-Final-8.19.19.pdf","select":"body"},"Legal Information":{"fetch":"https://docs.sailpoint.com/pdf/?file=https://docs.sailpoint.com/wp-content/uploads/SailPoint-Mutual-Nondisclosure-Agreement-APAC-v02-05-2021.pdf","select":"body"},"Corporate Social Responsibility":{"fetch":"https://www.sailpoint.com/legal/modern-slavery-statement","select":"body"}}}
+{
+  "name": "Sailpoint",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.sailpoint.com/legal/cookie-notice",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.sailpoint.com/legal/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://docs.sailpoint.com/pdf/?file=https://docs.sailpoint.com/wp-content/uploads/SailPoint-Compass-User-Agreement-Final-8.19.19.pdf",
+      "select": "body"
+    },
+    "Legal Information": {
+      "fetch": "https://docs.sailpoint.com/pdf/?file=https://docs.sailpoint.com/wp-content/uploads/SailPoint-Mutual-Nondisclosure-Agreement-APAC-v02-05-2021.pdf",
+      "select": "body"
+    },
+    "Corporate Social Responsibility": {
+      "fetch": "https://www.sailpoint.com/legal/modern-slavery-statement",
+      "select": "body"
+    }
+  }
+}

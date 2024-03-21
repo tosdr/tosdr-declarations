@@ -1,1 +1,9 @@
-{"name":"Edison Software","documents":{"Privacy Policy":{"fetch":"https://www.edison.tech/privacy","select":"body"}}}
+{
+  "name": "Edison software",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.edison.tech/privacy",
+      "select": "body"
+    }
+  }
+}

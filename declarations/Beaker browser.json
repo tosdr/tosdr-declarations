@@ -1,1 +1,9 @@
-{"name":"Beaker Browser ","documents":{"Frequently Asked Questions":{"fetch":"https://docs.beakerbrowser.com/faq","select":"body"}}}
+{
+  "name": "Beaker browser",
+  "documents": {
+    "Frequently Asked Questions": {
+      "fetch": "https://docs.beakerbrowser.com/faq",
+      "select": "body"
+    }
+  }
+}

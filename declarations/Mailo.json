@@ -1,1 +1,15 @@
-{"name":"Mailo","documents":{"Terms of Service":{"fetch":"https://www.mailo.com/mailo/en/terms-of-use.php"},"Other":{"fetch":"https://www.mailo.com/mailo/en/privacy-mailo-charter.php"},"Privacy Policy":{"fetch":"https://www.mailo.com/mailo/en/privacy-rules.php","select":" > div"}}}
+{
+  "name": "Mailo",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.mailo.com/mailo/en/terms-of-use.php"
+    },
+    "Other": {
+      "fetch": "https://www.mailo.com/mailo/en/privacy-mailo-charter.php"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.mailo.com/mailo/en/privacy-rules.php",
+      "select": " > div"
+    }
+  }
+}

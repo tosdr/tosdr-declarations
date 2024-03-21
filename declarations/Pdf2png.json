@@ -1,1 +1,9 @@
-{"name":"Pdf2Png","documents":{"Privacy Policy":{"fetch":"https://pdf2png.com/terms","select":"body"}}}
+{
+  "name": "Pdf2png",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://pdf2png.com/terms",
+      "select": "body"
+    }
+  }
+}

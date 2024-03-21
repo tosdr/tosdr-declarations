@@ -1,1 +1,13 @@
-{"name":"newsasfacts","documents":{"Terms of Service":{"fetch":"https://newsasfacts.com/terms","select":"body"},"Privacy Policy":{"fetch":"https://newsasfacts.com/privacy","select":"body"}}}
+{
+  "name": "Newsasfacts",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://newsasfacts.com/terms",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://newsasfacts.com/privacy",
+      "select": "body"
+    }
+  }
+}

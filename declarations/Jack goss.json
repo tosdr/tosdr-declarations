@@ -1,1 +1,9 @@
-{"name":"Jack Goss","documents":{"Privacy Policy":{"fetch":"https://jackgoss.uk/privacy","select":"body"}}}
+{
+  "name": "Jack goss",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://jackgoss.uk/privacy",
+      "select": "body"
+    }
+  }
+}

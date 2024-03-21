@@ -1,1 +1,9 @@
-{"name":"Canadian Scale Company Limited","documents":{"Privacy Policy":{"fetch":"https://canscale.com/privacy-policy.html","select":"body"}}}
+{
+  "name": "Canadian scale company limited",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://canscale.com/privacy-policy.html",
+      "select": "body"
+    }
+  }
+}

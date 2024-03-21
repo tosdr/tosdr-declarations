@@ -1,1 +1,11 @@
-{"name":"Boy Scouts of America","documents":{"Privacy Policy":{"fetch":"https://www.scouting.org/legal/donor-privacy-policy/"},"Terms of Service":{"fetch":"https://www.scouting.org/legal/terms-and-conditions/"}}}
+{
+  "name": "Boy scouts of america",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.scouting.org/legal/donor-privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.scouting.org/legal/terms-and-conditions/"
+    }
+  }
+}

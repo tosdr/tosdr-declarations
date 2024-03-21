@@ -1,1 +1,8 @@
-{"name":"Talk Point","documents":{"Privacy Policy":{"fetch":"https://talk-point.de/policies/privacy-policy"}}}
+{
+  "name": "Talk point",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://talk-point.de/policies/privacy-policy"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Sensory Integration Education ","documents":{"Terms of Service":{"fetch":"https://www.sensoryintegrationeducation.com/pages/terms","select":"body"}}}
+{
+  "name": "Sensory integration education",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.sensoryintegrationeducation.com/pages/terms",
+      "select": "body"
+    }
+  }
+}

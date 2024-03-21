@@ -1,1 +1,9 @@
-{"name":"island-empire.com ","documents":{"Privacy Policy":{"fetch":"https://www.island-empire.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Islandempirecom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.island-empire.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

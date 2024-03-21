@@ -1,1 +1,11 @@
-{"name":"Lyricstranslate","documents":{"Privacy Policy":{"fetch":"https://lyricstranslate.com/en/privacy-policy"},"Trackers Policy":{"fetch":"https://lyricstranslate.com/en/cookies-policy"}}}
+{
+  "name": "Lyricstranslate",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://lyricstranslate.com/en/privacy-policy"
+    },
+    "Trackers Policy": {
+      "fetch": "https://lyricstranslate.com/en/cookies-policy"
+    }
+  }
+}

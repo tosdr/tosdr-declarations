@@ -1,1 +1,9 @@
-{"name":"blogger","documents":{"Terms of Service":{"fetch":"https://policies.google.com/terms","select":"div[role=\"article\"]"}}}
+{
+  "name": "Blogger",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://policies.google.com/terms",
+      "select": "div[role=\"article\"]"
+    }
+  }
+}

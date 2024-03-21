@@ -1,1 +1,9 @@
-{"name":"TIME","documents":{"Privacy Policy":{"fetch":"https://time.com/privacy/generic_privacy_new.html","select":"body"}}}
+{
+  "name": "Time",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://time.com/privacy/generic_privacy_new.html",
+      "select": "body"
+    }
+  }
+}

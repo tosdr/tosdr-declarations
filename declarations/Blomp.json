@@ -1,1 +1,13 @@
-{"name":"blomp","documents":{"Terms of Service":{"fetch":"https://www.blomp.com/terms-and-conditions/","select":"body"},"Privacy Policy":{"fetch":"https://www.blomp.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Blomp",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.blomp.com/terms-and-conditions/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.blomp.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"linuxhandbook","documents":{"Privacy Policy":{"fetch":"https://linuxhandbook.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Linuxhandbook",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://linuxhandbook.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

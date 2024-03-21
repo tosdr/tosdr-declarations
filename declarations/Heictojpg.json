@@ -1,1 +1,13 @@
-{"name":"heictojpg","documents":{"Terms of Service":{"fetch":"https://heictojpg.com/tou.html","select":"body"},"Trackers Policy":{"fetch":"https://heictojpg.com/cookiepolicy.html","select":"body"}}}
+{
+  "name": "Heictojpg",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://heictojpg.com/tou.html",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://heictojpg.com/cookiepolicy.html",
+      "select": "body"
+    }
+  }
+}

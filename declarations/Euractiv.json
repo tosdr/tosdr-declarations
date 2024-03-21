@@ -1,1 +1,9 @@
-{"name":"EURACTIV","documents":{"Privacy Policy":{"fetch":"https://www.euractiv.com/privacy","select":"body"}}}
+{
+  "name": "Euractiv",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.euractiv.com/privacy",
+      "select": "body"
+    }
+  }
+}

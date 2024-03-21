@@ -1,1 +1,8 @@
-{"name":"ZeroCERT","documents":{"Privacy Policy":{"fetch":"https://zerocert.org/?act=privacy"}}}
+{
+  "name": "Zerocert",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://zerocert.org/?act=privacy"
+    }
+  }
+}

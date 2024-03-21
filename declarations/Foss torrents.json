@@ -1,1 +1,9 @@
-{"name":"FOSS Torrents","documents":{"Trackers Policy":{"fetch":"https://fosstorrents.com/privacy/","select":"html > body > div:first-of-type > div > div"}}}
+{
+  "name": "Foss torrents",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://fosstorrents.com/privacy/",
+      "select": "html > body > div:first-of-type > div > div"
+    }
+  }
+}

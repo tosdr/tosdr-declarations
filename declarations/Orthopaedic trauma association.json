@@ -1,1 +1,9 @@
-{"name":"Orthopaedic Trauma Association ","documents":{"Privacy Policy":{"fetch":"https://ota.org/privacy-policy","select":"body"}}}
+{
+  "name": "Orthopaedic trauma association",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://ota.org/privacy-policy",
+      "select": "body"
+    }
+  }
+}

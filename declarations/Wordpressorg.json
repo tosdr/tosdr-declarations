@@ -1,1 +1,9 @@
-{"name":"WordPress.org","documents":{"Trackers Policy":{"fetch":"https://wordpress.org/about/privacy/cookies/","select":"body"}}}
+{
+  "name": "Wordpressorg",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://wordpress.org/about/privacy/cookies/",
+      "select": "body"
+    }
+  }
+}

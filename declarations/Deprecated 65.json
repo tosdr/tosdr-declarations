@@ -1,1 +1,0 @@
-{"name":"DEPRECATED #65","documents":{"Privacy Policy":{"fetch":"https://www.friedrice.online/privacypolicy.php","select":"html > body > text"}}}

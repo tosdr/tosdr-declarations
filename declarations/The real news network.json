@@ -1,1 +1,9 @@
-{"name":"The Real News Network","documents":{"Terms of Service":{"fetch":"https://therealnews.com/termsandconditions","select":"body"}}}
+{
+  "name": "The real news network",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://therealnews.com/termsandconditions",
+      "select": "body"
+    }
+  }
+}

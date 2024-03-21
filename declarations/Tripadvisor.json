@@ -1,1 +1,9 @@
-{"name":"Tripadvisor","documents":{"Terms of Service":{"fetch":"https://tripadvisor.mediaroom.com/us-terms-of-use","select":"div#wd_printable_content > div:first-of-type"}}}
+{
+  "name": "Tripadvisor",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://tripadvisor.mediaroom.com/us-terms-of-use",
+      "select": "div#wd_printable_content > div:first-of-type"
+    }
+  }
+}

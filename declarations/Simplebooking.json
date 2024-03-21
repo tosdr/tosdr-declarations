@@ -1,1 +1,13 @@
-{"name":"simpleBooking","documents":{"Privacy Policy":{"fetch":"https://www.simplebooking.travel/privacy-policy","select":"body"},"Trackers Policy":{"fetch":"https://www.simplebooking.travel/cookie-policy","select":"body"}}}
+{
+  "name": "Simplebooking",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.simplebooking.travel/privacy-policy",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.simplebooking.travel/cookie-policy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"Delaware North Companies Inc","documents":{"Privacy Policy":{"fetch":"https://www.delawarenorth.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.delawarenorth.com/terms","select":"body"}}}
+{
+  "name": "Delaware north companies inc",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.delawarenorth.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.delawarenorth.com/terms",
+      "select": "body"
+    }
+  }
+}

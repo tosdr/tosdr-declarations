@@ -1,1 +1,9 @@
-{"name":"TurnosPR","documents":{"Terms of Service":{"fetch":"https://turnospr.com/Terms.aspx","select":"body"}}}
+{
+  "name": "Turnospr",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://turnospr.com/Terms.aspx",
+      "select": "body"
+    }
+  }
+}

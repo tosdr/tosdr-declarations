@@ -1,1 +1,9 @@
-{"name":"Murena","documents":{"Terms of Service":{"fetch":"https://murena.com/terms-conditions/","select":"body"}}}
+{
+  "name": "Murena",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://murena.com/terms-conditions/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":"PrepaidCompare","documents":{"Privacy Policy":{"fetch":"https://prepaidcompare.net/privacy.html"}}}
+{
+  "name": "Prepaidcompare",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://prepaidcompare.net/privacy.html"
+    }
+  }
+}

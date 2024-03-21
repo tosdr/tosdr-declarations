@@ -1,1 +1,13 @@
-{"name":"AVG Security","documents":{"Privacy Policy":{"fetch":"https://www.avg.com/en-ww/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.avg.com/en-us/eula","select":" > div:nth-of-type(2) > div"}}}
+{
+  "name": "Avg security",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.avg.com/en-ww/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.avg.com/en-us/eula",
+      "select": " > div:nth-of-type(2) > div"
+    }
+  }
+}

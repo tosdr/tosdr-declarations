@@ -1,1 +1,13 @@
-{"name":"ZAK","documents":{"Privacy Policy":{"fetch":"https://www.zak.com/policies/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.zak.com/policies/terms-of-service","select":"body"}}}
+{
+  "name": "Zak",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.zak.com/policies/privacy-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.zak.com/policies/terms-of-service",
+      "select": "body"
+    }
+  }
+}

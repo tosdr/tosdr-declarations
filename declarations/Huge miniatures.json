@@ -1,1 +1,13 @@
-{"name":"Huge Miniatures","documents":{"General Conditions of Sale":{"fetch":"https://hugeminis.com/return-policy/","select":"html > body > div:nth-of-type(5) > div:nth-of-type(2) > div > div:nth-of-type(2) > main > article"},"Privacy Policy":{"fetch":"https://hugeminis.com/privacy-policy/","select":"html > body > div:nth-of-type(5) > div:nth-of-type(2) > div > div:nth-of-type(2) > main > article"}}}
+{
+  "name": "Huge miniatures",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://hugeminis.com/return-policy/",
+      "select": "html > body > div:nth-of-type(5) > div:nth-of-type(2) > div > div:nth-of-type(2) > main > article"
+    },
+    "Privacy Policy": {
+      "fetch": "https://hugeminis.com/privacy-policy/",
+      "select": "html > body > div:nth-of-type(5) > div:nth-of-type(2) > div > div:nth-of-type(2) > main > article"
+    }
+  }
+}

@@ -1,1 +1,11 @@
-{"name":"Cypress.io Dashboard","documents":{"Privacy Policy":{"fetch":"https://cypress.io/privacy-policy"},"Terms of Service":{"fetch":"https://cypress.io/terms-of-use"}}}
+{
+  "name": "Cypressio dashboard",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://cypress.io/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://cypress.io/terms-of-use"
+    }
+  }
+}

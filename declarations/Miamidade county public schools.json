@@ -1,1 +1,9 @@
-{"name":"Miami-Dade County Public Schools","documents":{"Terms of Service":{"fetch":"https://go.boarddocs.com/fl/sbmd/Board.nsf/goto?open&id=BK6KWF4FFED0","select":"body"}}}
+{
+  "name": "Miamidade county public schools",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://go.boarddocs.com/fl/sbmd/Board.nsf/goto?open&id=BK6KWF4FFED0",
+      "select": "body"
+    }
+  }
+}

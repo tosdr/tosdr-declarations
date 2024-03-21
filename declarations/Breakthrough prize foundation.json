@@ -1,1 +1,11 @@
-{"name":"Breakthrough Prize Foundation","documents":{"Privacy Policy":{"fetch":"https://breakthroughjuniorchallenge.org/privacy"},"Terms of Service":{"fetch":"https://breakthroughjuniorchallenge.org/terms"}}}
+{
+  "name": "Breakthrough prize foundation",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://breakthroughjuniorchallenge.org/privacy"
+    },
+    "Terms of Service": {
+      "fetch": "https://breakthroughjuniorchallenge.org/terms"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"The Daily Telegraph","documents":{"Terms of Service":{"fetch":"https://www.dailytelegraph.com.au/more-information/terms-and-conditions","select":"body"}}}
+{
+  "name": "The daily telegraph",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.dailytelegraph.com.au/more-information/terms-and-conditions",
+      "select": "body"
+    }
+  }
+}

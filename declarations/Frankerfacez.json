@@ -1,1 +1,9 @@
-{"name":"FrankerFaceZ","documents":{"Terms of Service":{"fetch":"https://www.frankerfacez.com/terms","select":"body"}}}
+{
+  "name": "Frankerfacez",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.frankerfacez.com/terms",
+      "select": "body"
+    }
+  }
+}

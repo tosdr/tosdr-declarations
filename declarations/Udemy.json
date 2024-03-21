@@ -1,1 +1,9 @@
-{"name":"Udemy","documents":{"Terms of Service":{"fetch":"https://www.udemy.com/terms/","select":"body"}}}
+{
+  "name": "Udemy",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.udemy.com/terms/",
+      "select": "body"
+    }
+  }
+}

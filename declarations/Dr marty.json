@@ -1,1 +1,9 @@
-{"name":"Dr. Marty","documents":{"Privacy Policy":{"fetch":"https://drmartypets.com/privacy-policy/","select":"html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > article > div > div:nth-of-type(2)"}}}
+{
+  "name": "Dr marty",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://drmartypets.com/privacy-policy/",
+      "select": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > article > div > div:nth-of-type(2)"
+    }
+  }
+}

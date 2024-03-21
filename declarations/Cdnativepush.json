@@ -1,1 +1,13 @@
-{"name":"cdnativepush","documents":{"Terms of Service":{"fetch":"https://cdnativepush.com/feed/pages/terms-of-use","select":"html > body > div:first-of-type > div > section"},"Privacy Policy":{"fetch":"https://cdnativepush.com/feed/pages/privacy-policy","select":"html > body > div:first-of-type > div > section"}}}
+{
+  "name": "Cdnativepush",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://cdnativepush.com/feed/pages/terms-of-use",
+      "select": "html > body > div:first-of-type > div > section"
+    },
+    "Privacy Policy": {
+      "fetch": "https://cdnativepush.com/feed/pages/privacy-policy",
+      "select": "html > body > div:first-of-type > div > section"
+    }
+  }
+}

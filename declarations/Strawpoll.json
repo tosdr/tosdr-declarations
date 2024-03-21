@@ -1,1 +1,13 @@
-{"name":"StrawPoll","documents":{"Terms of Service":{"fetch":"https://strawpoll.com/en/terms/","select":"body"},"Privacy Policy":{"fetch":"https://strawpoll.com/en/privacy/","select":"body"}}}
+{
+  "name": "Strawpoll",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://strawpoll.com/en/terms/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://strawpoll.com/en/privacy/",
+      "select": "body"
+    }
+  }
+}

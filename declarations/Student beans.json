@@ -1,1 +1,9 @@
-{"name":"Student beans","documents":{"Terms of Service":{"fetch":"https://accounts.studentbeans.com/us/info/terms","select":"body"}}}
+{
+  "name": "Student beans",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://accounts.studentbeans.com/us/info/terms",
+      "select": "body"
+    }
+  }
+}

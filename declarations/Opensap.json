@@ -1,1 +1,13 @@
-{"name":"openSAP","documents":{"Trackers Policy":{"fetch":"https://open.sap.com/pages/cookies","select":"body"},"Terms of Service":{"fetch":"https://www.sap.com/corporate/en/legal/terms-of-use.html","select":"body"}}}
+{
+  "name": "Opensap",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://open.sap.com/pages/cookies",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.sap.com/corporate/en/legal/terms-of-use.html",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Kev Quirk's Blog","documents":{}}
+{
+  "name": "Kev quirks blog",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://kevquirk.com/disclaimer/",
+      "select": "body"
+    }
+  }
+}

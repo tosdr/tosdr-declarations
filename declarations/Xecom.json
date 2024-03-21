@@ -1,1 +1,14 @@
-{"name":"XE.com","documents":{"Privacy Policy":{"fetch":"https://www.xe.com/privacy.php"},"Terms of Service":{"fetch":"https://www.xe.com/legal/"},"Trackers Policy":{"fetch":"https://www.xe.com/cookiepolicy.php"}}}
+{
+  "name": "Xecom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.xe.com/privacy.php"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.xe.com/legal/"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.xe.com/cookiepolicy.php"
+    }
+  }
+}

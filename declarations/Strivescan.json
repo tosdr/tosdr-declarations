@@ -1,1 +1,8 @@
-{"name":"StriveScan","documents":{"Privacy Policy":{"fetch":"https://www.strivescan.com/privacy/"}}}
+{
+  "name": "Strivescan",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.strivescan.com/privacy/"
+    }
+  }
+}

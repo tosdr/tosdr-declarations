@@ -1,1 +1,9 @@
-{"name":"Web of Trust","documents":{}}
+{
+  "name": "Web of trust",
+  "documents": {
+    "Other": {
+      "fetch": "https://support.mywot.com/hc/en-us/articles/360013627219-General-guidelines",
+      "select": "body"
+    }
+  }
+}

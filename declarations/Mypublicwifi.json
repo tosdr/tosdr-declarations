@@ -1,1 +1,9 @@
-{"name":"MyPublicWiFi ","documents":{"Privacy Policy":{"fetch":"https://mypublicwifi.com/myhotspot/en/Datenschutzbestimmungen.html","select":"body"}}}
+{
+  "name": "Mypublicwifi",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://mypublicwifi.com/myhotspot/en/Datenschutzbestimmungen.html",
+      "select": "body"
+    }
+  }
+}

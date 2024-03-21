@@ -1,1 +1,8 @@
-{"name":" ID Watchdog ","documents":{"Privacy Policy":{"fetch":"https://www.idwatchdog.com/privacy"}}}
+{
+  "name": "Id watchdog",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.idwatchdog.com/privacy"
+    }
+  }
+}

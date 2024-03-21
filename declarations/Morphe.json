@@ -1,1 +1,11 @@
-{"name":"MORPHE ","documents":{"Privacy Policy":{"fetch":"https://www.morphe.com/pages/privacy-policy"},"Terms of Service":{"fetch":"https://www.morphe.com/pages/terms-conditions"}}}
+{
+  "name": "Morphe",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.morphe.com/pages/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.morphe.com/pages/terms-conditions"
+    }
+  }
+}

@@ -1,1 +1,16 @@
-{"name":"Consumer News & Business Channel","documents":{"Terms of Service":{"fetch":"https://www.cnbc.com/nbcuniversal-terms-of-service/","select":" > div"},"Privacy Policy":{"fetch":"https://www.nbcuniversal.com/privacy/notrtoo"},"Trackers Policy":{"fetch":"https://www.nbcuniversal.com/privacy/cookies","select":" > div:nth-of-type(3)"}}}
+{
+  "name": "Consumer news  business channel",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.cnbc.com/nbcuniversal-terms-of-service/",
+      "select": " > div"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.nbcuniversal.com/privacy/notrtoo"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.nbcuniversal.com/privacy/cookies",
+      "select": " > div:nth-of-type(3)"
+    }
+  }
+}

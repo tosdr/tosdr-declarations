@@ -1,1 +1,9 @@
-{"name":"Pennsylvania State University","documents":{"Privacy Policy":{"fetch":"https://www.psu.edu/web-privacy-statement/","select":" > section:first-of-type > div > div > div"}}}
+{
+  "name": "Pennsylvania state university",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.psu.edu/web-privacy-statement/",
+      "select": " > section:first-of-type > div > div > div"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"Raspberry Pi Foundation","documents":{"Trackers Policy":{"fetch":"https://www.raspberrypi.org/cookies","select":"html > body > div:first-of-type > main > section > div > div > div"},"Privacy Policy":{"fetch":"https://www.raspberrypi.org/privacy","select":"html > body > div:first-of-type > main > section > div > div > div"}}}
+{
+  "name": "Raspberry pi foundation",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.raspberrypi.org/cookies",
+      "select": "html > body > div:first-of-type > main > section > div > div > div"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.raspberrypi.org/privacy",
+      "select": "html > body > div:first-of-type > main > section > div > div > div"
+    }
+  }
+}

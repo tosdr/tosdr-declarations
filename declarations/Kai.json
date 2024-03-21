@@ -1,1 +1,9 @@
-{"name":"Kai","documents":{"Privacy Policy":{"fetch":"https://kai.ai/privacy-policy/","select":"body"}}}
+{
+  "name": "Kai",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://kai.ai/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

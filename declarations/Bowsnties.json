@@ -1,1 +1,8 @@
-{"name":"Bows-N-Ties","documents":{"Privacy Policy":{"fetch":"https://www.bows-n-ties.com/privacy/"}}}
+{
+  "name": "Bowsnties",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.bows-n-ties.com/privacy/"
+    }
+  }
+}

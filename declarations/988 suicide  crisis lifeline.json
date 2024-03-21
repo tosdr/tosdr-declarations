@@ -1,1 +1,8 @@
-{"name":"988 Suicide & Crisis Lifeline","documents":{"Privacy Policy":{"fetch":"https://988lifeline.org/about/"}}}
+{
+  "name": "988 suicide  crisis lifeline",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://988lifeline.org/about/"
+    }
+  }
+}

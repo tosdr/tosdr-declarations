@@ -1,1 +1,11 @@
-{"name":"Filestream.me","documents":{"Privacy Policy":{"fetch":"https://filestream.me/privacy-policy/"},"Terms of Service":{"fetch":"https://filestream.me/terms-of-service/"}}}
+{
+  "name": "Filestreamme",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://filestream.me/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://filestream.me/terms-of-service/"
+    }
+  }
+}

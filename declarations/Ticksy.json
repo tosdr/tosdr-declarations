@@ -1,1 +1,9 @@
-{"name":"Ticksy","documents":{"Privacy Policy":{"fetch":"https://ticksy.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Ticksy",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://ticksy.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

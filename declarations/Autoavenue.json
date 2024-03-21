@@ -1,1 +1,9 @@
-{"name":"Autoavenue","documents":{"Terms of Service":{"fetch":"https://autoavenue.net/terms_c.php","select":"body"}}}
+{
+  "name": "Autoavenue",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://autoavenue.net/terms_c.php",
+      "select": "body"
+    }
+  }
+}

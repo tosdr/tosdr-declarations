@@ -1,1 +1,9 @@
-{"name":"SurfNZ","documents":{"Privacy Policy":{"fetch":"http://www.surfnz.com/surf/privacy-policy","select":"body"}}}
+{
+  "name": "Surfnz",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "http://www.surfnz.com/surf/privacy-policy",
+      "select": "body"
+    }
+  }
+}

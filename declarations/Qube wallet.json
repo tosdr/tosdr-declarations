@@ -1,1 +1,13 @@
-{"name":"Qube Wallet","documents":{"Terms of Service":{"fetch":"https://qubewallet.io/terms-of-service.html","select":"body"},"Privacy Policy":{"fetch":"https://qubewallet.io/privacy.html","select":"body"}}}
+{
+  "name": "Qube wallet",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://qubewallet.io/terms-of-service.html",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://qubewallet.io/privacy.html",
+      "select": "body"
+    }
+  }
+}

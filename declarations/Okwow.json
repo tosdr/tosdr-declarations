@@ -1,1 +1,11 @@
-{"name":"OkWow","documents":{"Terms of Service":{"fetch":"https://okwow.com/terms/"},"Privacy Policy":{"fetch":"https://okwow.com/privacy/"}}}
+{
+  "name": "Okwow",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://okwow.com/terms/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://okwow.com/privacy/"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"Squid Academy ","documents":{"Privacy Policy":{"fetch":"https://www.squid.gg/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.squid.gg/terms-conditions/","select":"body"}}}
+{
+  "name": "Squid academy",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.squid.gg/privacy-policy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.squid.gg/terms-conditions/",
+      "select": "body"
+    }
+  }
+}

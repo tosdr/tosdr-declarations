@@ -1,1 +1,8 @@
-{"name":"OurGroceries","documents":{"Privacy Policy":{"fetch":"https://www.ourgroceries.com/privacy"}}}
+{
+  "name": "Ourgroceries",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.ourgroceries.com/privacy"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"TRESCA ","documents":{"Privacy Policy":{"fetch":"https://trescaproject.eu/privacy-policy-2","select":"body"}}}
+{
+  "name": "Tresca",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://trescaproject.eu/privacy-policy-2",
+      "select": "body"
+    }
+  }
+}

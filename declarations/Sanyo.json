@@ -1,1 +1,9 @@
-{"name":"sanyo","documents":{"Privacy Policy":{"fetch":"https://www.sanyo-av.com/us/support/privacy.php","select":"body"}}}
+{
+  "name": "Sanyo",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sanyo-av.com/us/support/privacy.php",
+      "select": "body"
+    }
+  }
+}

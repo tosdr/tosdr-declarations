@@ -1,1 +1,13 @@
-{"name":"7Cav.us","documents":{"Trackers Policy":{"fetch":"https://7cav.us/help/cookies/","select":"body"},"Privacy Policy":{"fetch":"https://7cav.us/help/privacy-policy/","select":"body"}}}
+{
+  "name": "7cavus",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://7cav.us/help/cookies/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://7cav.us/help/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

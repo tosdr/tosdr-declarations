@@ -1,1 +1,13 @@
-{"name":"NGA","documents":{"Privacy Policy":{"fetch":"https://bbs.nga.cn/misc/privacy.html","select":"body"}}}
+{
+  "name": "Nga",
+  "documents": {
+    "Miscellaneous Agreement": {
+      "fetch": "https://bbs.nga.cn/misc/agreement.html",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://bbs.nga.cn/misc/privacy.html",
+      "select": "body"
+    }
+  }
+}

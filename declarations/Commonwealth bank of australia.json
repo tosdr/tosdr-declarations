@@ -1,1 +1,11 @@
-{"name":"Commonwealth Bank of Australia ","documents":{"Privacy Policy":{"fetch":"https://www.commbank.com.au/support/privacy.html?ei=CB-footer_privacy"},"Trackers Policy":{"fetch":"https://www.commbank.com.au/important-info/cookies.html?ei=CB-footer_cookies"}}}
+{
+  "name": "Commonwealth bank of australia",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.commbank.com.au/support/privacy.html?ei=CB-footer_privacy"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.commbank.com.au/important-info/cookies.html?ei=CB-footer_cookies"
+    }
+  }
+}

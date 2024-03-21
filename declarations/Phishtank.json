@@ -1,1 +1,9 @@
-{"name":"PhishTank","documents":{"Privacy Policy":{"fetch":"https://www.phishtank.com/privacy.php","select":"body"}}}
+{
+  "name": "Phishtank",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.phishtank.com/privacy.php",
+      "select": "body"
+    }
+  }
+}

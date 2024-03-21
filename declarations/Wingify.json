@@ -1,1 +1,9 @@
-{"name":"Wingify","documents":{"Privacy Policy":{"fetch":"https://vwo.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Wingify",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://vwo.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

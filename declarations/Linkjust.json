@@ -1,1 +1,8 @@
-{"name":"Linkjust ","documents":{"Privacy Policy":{"fetch":"https://linkjust.com/pages/privacy"}}}
+{
+  "name": "Linkjust",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://linkjust.com/pages/privacy"
+    }
+  }
+}

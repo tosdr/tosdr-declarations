@@ -1,1 +1,13 @@
-{"name":"Collins Dictionary","documents":{"Privacy Policy":{"fetch":"https://corporate.harpercollins.co.uk/reporting/privacy-policy/","select":" > div > section"},"Terms of Service":{"fetch":"https://www.collinsdictionary.com/terms-and-conditions","select":"html > body > main"}}}
+{
+  "name": "Collins dictionary",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://corporate.harpercollins.co.uk/reporting/privacy-policy/",
+      "select": " > div > section"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.collinsdictionary.com/terms-and-conditions",
+      "select": "html > body > main"
+    }
+  }
+}

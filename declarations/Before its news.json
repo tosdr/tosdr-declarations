@@ -1,1 +1,11 @@
-{"name":"Before It's News","documents":{"Privacy Policy":{"fetch":"https://beforeitsnews.com/v3/privacy/"},"Terms of Service":{"fetch":"https://beforeitsnews.com/v3/terms/"}}}
+{
+  "name": "Before its news",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://beforeitsnews.com/v3/privacy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://beforeitsnews.com/v3/terms/"
+    }
+  }
+}

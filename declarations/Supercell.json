@@ -1,1 +1,9 @@
-{"name":"Supercell","documents":{"Terms of Service":{"fetch":"https://supercell.com/en/terms-of-service/","select":"html > body > div:first-of-type > div:nth-of-type(2)"}}}
+{
+  "name": "Supercell",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://supercell.com/en/terms-of-service/",
+      "select": "html > body > div:first-of-type > div:nth-of-type(2)"
+    }
+  }
+}

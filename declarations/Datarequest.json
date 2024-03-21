@@ -1,1 +1,9 @@
-{"name":"DataRequest","documents":{"Privacy Policy":{"fetch":"https://www.datarequests.org/privacy/","select":"html > body > div:first-of-type > main"}}}
+{
+  "name": "Datarequest",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.datarequests.org/privacy/",
+      "select": "html > body > div:first-of-type > main"
+    }
+  }
+}

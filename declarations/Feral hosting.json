@@ -1,1 +1,9 @@
-{"name":"Feral Hosting","documents":{"Privacy Policy":{"fetch":"https://www.feralhosting.com/wiki/privacy-policy","select":"body"}}}
+{
+  "name": "Feral hosting",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.feralhosting.com/wiki/privacy-policy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Warner Bros","documents":{"Terms of Service":{"fetch":"https://policies.warnerbros.com/terms/en-us/html/terms_en-us_1.2.0.html","select":"body"}}}
+{
+  "name": "Warner bros",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://policies.warnerbros.com/terms/en-us/html/terms_en-us_1.2.0.html",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Interpals","documents":{"Terms of Service":{"fetch":"https://www.interpals.net/app/tos","select":"body"}}}
+{
+  "name": "Interpals",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.interpals.net/app/tos",
+      "select": "body"
+    }
+  }
+}

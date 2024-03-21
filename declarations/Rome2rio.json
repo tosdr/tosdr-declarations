@@ -1,1 +1,9 @@
-{"name":"Rome2rio","documents":{"Terms of Service":{"fetch":"https://www.rome2rio.com/terms-of-use/","select":"body"}}}
+{
+  "name": "Rome2rio",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.rome2rio.com/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

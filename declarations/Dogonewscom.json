@@ -1,1 +1,17 @@
-{"name":"dogonews.com","documents":{"Trackers Policy":{"fetch":"https://www.dogonews.com/pages/cookie-policy"},"Terms of Service":{"fetch":"https://www.dogonews.com/pages/terms-and-conditions"},"Privacy Policy":{"fetch":"https://www.dogonews.com/pages/privacy-policy"},"Copyright Claims Policy":{"fetch":"https://www.dogonews.com/pages/copyright-policy"}}}
+{
+  "name": "Dogonewscom",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.dogonews.com/pages/cookie-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.dogonews.com/pages/terms-and-conditions"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.dogonews.com/pages/privacy-policy"
+    },
+    "Copyright Claims Policy": {
+      "fetch": "https://www.dogonews.com/pages/copyright-policy"
+    }
+  }
+}

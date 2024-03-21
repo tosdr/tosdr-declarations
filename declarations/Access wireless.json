@@ -1,1 +1,9 @@
-{"name":"Access Wireless ","documents":{"Privacy Policy":{"fetch":"https://www.accesswireless.com/support/privacy-policy","select":"body"}}}
+{
+  "name": "Access wireless",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.accesswireless.com/support/privacy-policy",
+      "select": "body"
+    }
+  }
+}

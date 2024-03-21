@@ -1,1 +1,8 @@
-{"name":"FoxZin","documents":{"Privacy Policy":{"fetch":"http://foxzin.com/privacy"}}}
+{
+  "name": "Foxzin",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "http://foxzin.com/privacy"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"D'Arcy Norman dot net","documents":{"Privacy Policy":{"fetch":"https://darcynorman.net/privacy","select":"article"}}}
+{
+  "name": "Darcy norman dot net",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://darcynorman.net/privacy",
+      "select": "article"
+    }
+  }
+}

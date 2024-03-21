@@ -1,1 +1,8 @@
-{"name":"Tito’s Handmade Vodka","documents":{"Privacy Policy":{"fetch":"https://www.titosvodka.com/privacy/"}}}
+{
+  "name": "Titos handmade vodka",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.titosvodka.com/privacy/"
+    }
+  }
+}

@@ -1,1 +1,16 @@
-{"name":"FanFiction","documents":{"Privacy Policy":{"fetch":"https://www.fanfiction.net/privacy/","select":"html > body > div:nth-of-type(3) > div > div > div > div"},"Terms of Service":{"fetch":"https://www.fanfiction.net/tos/"},"Trackers Policy":{"fetch":"https://www.fanfiction.net/cookies/","select":"html > body > div:nth-of-type(3) > div > div > div > div"}}}
+{
+  "name": "Fanfiction",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.fanfiction.net/privacy/",
+      "select": "html > body > div:nth-of-type(3) > div > div > div > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.fanfiction.net/tos/"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.fanfiction.net/cookies/",
+      "select": "html > body > div:nth-of-type(3) > div > div > div > div"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Doosra","documents":{"Privacy Policy":{"fetch":"https://www.doosra.com/privacy-policy","select":"body"}}}
+{
+  "name": "Doosra",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.doosra.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

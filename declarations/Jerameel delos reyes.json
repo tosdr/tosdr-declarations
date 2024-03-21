@@ -1,1 +1,9 @@
-{"name":"Jerameel Delos Reyes","documents":{"Privacy Policy":{"fetch":"https://raw.githubusercontent.com/jerameel/sushi/main/PRIVACY_POLICY.md","select":"body"}}}
+{
+  "name": "Jerameel delos reyes",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://raw.githubusercontent.com/jerameel/sushi/main/PRIVACY_POLICY.md",
+      "select": "body"
+    }
+  }
+}

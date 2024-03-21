@@ -1,1 +1,9 @@
-{"name":"Xayn","documents":{"Terms of Service":{"fetch":"https://www.xayn.com/terms-of-use","select":"body"}}}
+{
+  "name": "Xayn",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.xayn.com/terms-of-use",
+      "select": "body"
+    }
+  }
+}

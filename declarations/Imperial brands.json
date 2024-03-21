@@ -1,1 +1,9 @@
-{"name":"Imperial Brands","documents":{"Trackers Policy":{"fetch":"https://www.imperialbrandsplc.com/footer/privacy-cookies.html","select":"body"}}}
+{
+  "name": "Imperial brands",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.imperialbrandsplc.com/footer/privacy-cookies.html",
+      "select": "body"
+    }
+  }
+}

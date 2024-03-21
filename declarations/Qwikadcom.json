@@ -1,1 +1,11 @@
-{"name":"QwikAd.com","documents":{"Privacy Policy":{"fetch":"https://qwikad.com/0?view=page&pagename=privacy"},"Terms of Service":{"fetch":"https://qwikad.com/0?view=page&pagename=terms"}}}
+{
+  "name": "Qwikadcom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://qwikad.com/0?view=page&pagename=privacy"
+    },
+    "Terms of Service": {
+      "fetch": "https://qwikad.com/0?view=page&pagename=terms"
+    }
+  }
+}

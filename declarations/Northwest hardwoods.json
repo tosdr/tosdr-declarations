@@ -1,1 +1,8 @@
-{"name":"Northwest Hardwoods","documents":{"Privacy Policy":{"fetch":"https://nwh.com/privacy-policy/"}}}
+{
+  "name": "Northwest hardwoods",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://nwh.com/privacy-policy/"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"SpamCalls.net ","documents":{"Trackers Policy":{"fetch":"https://spamcalls.net/en/page/contact","select":"body"}}}
+{
+  "name": "Spamcallsnet",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://spamcalls.net/en/page/contact",
+      "select": "body"
+    }
+  }
+}

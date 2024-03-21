@@ -1,1 +1,9 @@
-{"name":"Lenovo NetFilter ","documents":{"Terms of Service":{"fetch":"https://files.lenovosoftware.com/legal/eula/Lenovo-NetFilter-Terms-of-Service.pdf","select":"body"}}}
+{
+  "name": "Lenovo netfilter",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://files.lenovosoftware.com/legal/eula/Lenovo-NetFilter-Terms-of-Service.pdf",
+      "select": "body"
+    }
+  }
+}

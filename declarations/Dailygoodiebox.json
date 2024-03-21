@@ -1,1 +1,13 @@
-{"name":"DailyGoodieBox ","documents":{"Privacy Policy":{"fetch":"https://dailygoodiebox.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://dailygoodiebox.com/terms","select":"body"}}}
+{
+  "name": "Dailygoodiebox",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://dailygoodiebox.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://dailygoodiebox.com/terms",
+      "select": "body"
+    }
+  }
+}

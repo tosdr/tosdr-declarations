@@ -1,1 +1,11 @@
-{"name":"mozaWeb","documents":{"Privacy Policy":{"fetch":"https://www.mozaweb.com/privacy"}}}
+{
+  "name": "Mozaweb",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.mozaweb.com/privacy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.mozaweb.com/en/eula"
+    }
+  }
+}

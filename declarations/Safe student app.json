@@ -1,1 +1,9 @@
-{"name":"Safe Student app ","documents":{"Privacy Policy":{"fetch":"https://safestudentapp.com/assets/ISA_Privacy_Policy.pdf","select":"body"}}}
+{
+  "name": "Safe student app",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://safestudentapp.com/assets/ISA_Privacy_Policy.pdf",
+      "select": "body"
+    }
+  }
+}

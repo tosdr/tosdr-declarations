@@ -1,1 +1,9 @@
-{"name":"WiFi Web Login","documents":{"Privacy Policy":{"fetch":"http://www.wifiweblogin.com/policy/policy.html","select":"body"}}}
+{
+  "name": "Wifi web login",
+  "documents": {
+    "Legal Information": {
+      "fetch": "http://www.wifiweblogin.com/policy/policy.html",
+      "select": "body"
+    }
+  }
+}

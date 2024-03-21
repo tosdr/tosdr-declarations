@@ -1,1 +1,9 @@
-{"name":"DMPTool","documents":{"Privacy Policy":{"fetch":"https://dmptool.org/privacy","select":"body"}}}
+{
+  "name": "Dmptool",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://dmptool.org/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Exploding Kittens ","documents":{"Terms of Service":{"fetch":"https://www.explodingkittens.com/pages/terms-of-service","select":"body"}}}
+{
+  "name": "Exploding kittens",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.explodingkittens.com/pages/terms-of-service",
+      "select": "body"
+    }
+  }
+}

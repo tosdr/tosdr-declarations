@@ -1,1 +1,9 @@
-{"name":"Kurt Ness Support, LLC","documents":{"Privacy Policy":{"fetch":"https://kurtnesssupport.com/privacy-policy","select":"body"}}}
+{
+  "name": "Kurt ness support llc",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://kurtnesssupport.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

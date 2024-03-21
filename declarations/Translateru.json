@@ -1,1 +1,9 @@
-{"name":"translate.ru","documents":{"Privacy Policy":{"fetch":"https://www.translate.ru/about/terms","select":"body"}}}
+{
+  "name": "Translateru",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.translate.ru/about/terms",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"Vincent Photography","documents":{"Privacy Policy":{"fetch":"https://about.vincent-photography.com/data-privacy-information.html","select":"body"}}}
+{
+  "name": "Vincent photography",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://about.vincent-photography.com/data-privacy-information.html",
+      "select": "body"
+    },
+    "Other": {
+      "fetch": "https://about.vincent-photography.com/imprint.html",
+      "select": "body"
+    }
+  }
+}

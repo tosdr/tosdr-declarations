@@ -1,1 +1,9 @@
-{"name":"CleverType","documents":{"Terms of Service":{"fetch":"https://www.clevertype.co/terms-and-conditions","select":"body"}}}
+{
+  "name": "Clevertype",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.clevertype.co/terms-and-conditions",
+      "select": "body"
+    }
+  }
+}

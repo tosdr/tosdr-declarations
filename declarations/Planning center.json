@@ -1,1 +1,13 @@
-{"name":"Planning Center","documents":{"Privacy Policy":{"fetch":"https://www.planningcenter.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.planningcenter.com/terms","select":"body"}}}
+{
+  "name": "Planning center",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.planningcenter.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.planningcenter.com/terms",
+      "select": "body"
+    }
+  }
+}

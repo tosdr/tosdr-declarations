@@ -1,1 +1,9 @@
-{"name":"Sun Sounds","documents":{"Privacy Policy":{"fetch":"https://www.sun-sounds.com/sunsoundsprivacypolicy","select":"body"}}}
+{
+  "name": "Sun sounds",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sun-sounds.com/sunsoundsprivacypolicy",
+      "select": "body"
+    }
+  }
+}

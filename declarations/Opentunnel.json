@@ -1,1 +1,13 @@
-{"name":"OpenTunnel","documents":{"Privacy Policy":{"fetch":"https://opentunnel.net/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://opentunnel.net/term-of-service","select":"body"}}}
+{
+  "name": "Opentunnel",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://opentunnel.net/privacy-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://opentunnel.net/term-of-service",
+      "select": "body"
+    }
+  }
+}

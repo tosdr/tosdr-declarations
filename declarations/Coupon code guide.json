@@ -1,1 +1,9 @@
-{"name":"Coupon Code Guide","documents":{"Privacy Policy":{"fetch":"https://www.couponcodeguide.com/en/info/terms-and-privacy","select":"body"}}}
+{
+  "name": "Coupon code guide",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.couponcodeguide.com/en/info/terms-and-privacy",
+      "select": "body"
+    }
+  }
+}

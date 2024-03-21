@@ -1,1 +1,17 @@
-{"name":"Kritik","documents":{"Acceptable Use Policy":{"fetch":"https://www.kritik.io/policy/acceptable-use-policy","select":"html > body > div:nth-of-type(2)"},"Terms of Service":{"fetch":"https://www.kritik.io/policy/master-subscription-agreement","select":"html > body > div:nth-of-type(2)"},"Privacy Policy":{"fetch":"https://www.kritik.io/policy/privacy-policy","select":"html > body > div:nth-of-type(2)"}}}
+{
+  "name": "Kritik",
+  "documents": {
+    "Acceptable Use Policy": {
+      "fetch": "https://www.kritik.io/policy/acceptable-use-policy",
+      "select": "html > body > div:nth-of-type(2)"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.kritik.io/policy/master-subscription-agreement",
+      "select": "html > body > div:nth-of-type(2)"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.kritik.io/policy/privacy-policy",
+      "select": "html > body > div:nth-of-type(2)"
+    }
+  }
+}

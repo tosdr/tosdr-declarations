@@ -1,1 +1,9 @@
-{"name":"Eco-Products","documents":{"Privacy Policy":{"fetch":"https://www.ecoproducts.com/privacy_policy.html","select":"body"}}}
+{
+  "name": "Ecoproducts",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.ecoproducts.com/privacy_policy.html",
+      "select": "body"
+    }
+  }
+}

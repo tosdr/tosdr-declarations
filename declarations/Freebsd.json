@@ -1,1 +1,8 @@
-{"name":"FreeBsd","documents":{"Privacy Policy":{"fetch":"https://www.freebsd.org/privacy/"}}}
+{
+  "name": "Freebsd",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.freebsd.org/privacy/"
+    }
+  }
+}

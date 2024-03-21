@@ -1,1 +1,11 @@
-{"name":"interparcel","documents":{"Privacy Policy":{"fetch":"https://uk.interparcel.com/privacy"},"Terms of Service":{"fetch":"https://uk.interparcel.com/terms"}}}
+{
+  "name": "Interparcel",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://uk.interparcel.com/privacy"
+    },
+    "Terms of Service": {
+      "fetch": "https://uk.interparcel.com/terms"
+    }
+  }
+}

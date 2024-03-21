@@ -1,1 +1,9 @@
-{"name":"Grindr","documents":{"Terms of Service":{"fetch":"https://www.grindr.com/terms-of-service","select":"body"}}}
+{
+  "name": "Grindr",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.grindr.com/terms-of-service",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Children’s Dental Health","documents":{"Privacy Policy":{"fetch":"https://childrensdentalhealth.com/privacy-policy","select":"html > body > div:first-of-type > div:first-of-type > div > main > div > div > div:first-of-type > div > div > div > div"}}}
+{
+  "name": "Childrens dental health",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://childrensdentalhealth.com/privacy-policy",
+      "select": "html > body > div:first-of-type > div:first-of-type > div > main > div > div > div:first-of-type > div > div > div > div"
+    }
+  }
+}

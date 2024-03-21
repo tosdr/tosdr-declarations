@@ -1,1 +1,13 @@
-{"name":"macProVideo","documents":{"Privacy Policy":{"fetch":"https://macprovideo.com/privacy","select":"html > body > div:nth-of-type(2)"},"Terms of Service":{"fetch":"https://macprovideo.com/terms","select":"body"}}}
+{
+  "name": "Macprovideo",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://macprovideo.com/privacy",
+      "select": "html > body > div:nth-of-type(2)"
+    },
+    "Terms of Service": {
+      "fetch": "https://macprovideo.com/terms",
+      "select": "body"
+    }
+  }
+}

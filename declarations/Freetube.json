@@ -1,1 +1,9 @@
-{"name":"FreeTube","documents":{"Privacy Policy":{"fetch":"https://freetubeapp.io/privacy.php","select":"html > body > main"}}}
+{
+  "name": "Freetube",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://freetubeapp.io/privacy.php",
+      "select": "html > body > main"
+    }
+  }
+}

@@ -1,1 +1,12 @@
-{"name":"Marmiton","documents":{"Privacy Policy":{"fetch":"https://www.marmiton.org/sp/aide/politque-de-protection-des-donnees-personnelles.html"},"Terms of Service":{"fetch":"https://www.marmiton.org/sp/aide/conditions-generales-utilisation.html","select":"html > body > div:nth-of-type(8) > div"}}}
+{
+  "name": "Marmiton",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.marmiton.org/sp/aide/politque-de-protection-des-donnees-personnelles.html"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.marmiton.org/sp/aide/conditions-generales-utilisation.html",
+      "select": "html > body > div:nth-of-type(8) > div"
+    }
+  }
+}

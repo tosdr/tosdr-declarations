@@ -1,1 +1,8 @@
-{"name":"Kiddie Academy","documents":{"Terms of Service":{"fetch":"https://kiddieacademy.com/terms-conditions/"}}}
+{
+  "name": "Kiddie academy",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://kiddieacademy.com/terms-conditions/"
+    }
+  }
+}

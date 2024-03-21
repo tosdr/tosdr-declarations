@@ -1,1 +1,9 @@
-{"name":"TwentyThree","documents":{"Trackers Policy":{"fetch":"https://d1jyqwpez3grep.cloudfront.net/integrations/TwentyThree-Privacy-and-Cookie-Policy_2023-09-24-213357_lcsn.pdf?","select":"body"}}}
+{
+  "name": "Twentythree",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://d1jyqwpez3grep.cloudfront.net/integrations/TwentyThree-Privacy-and-Cookie-Policy_2023-09-24-213357_lcsn.pdf?",
+      "select": "body"
+    }
+  }
+}

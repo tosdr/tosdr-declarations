@@ -1,1 +1,9 @@
-{"name":"Mental Health Forum ","documents":{"Terms of Service":{"fetch":"https://www.mentalhealthforum.net/terms/","select":"body"}}}
+{
+  "name": "Mental health forum",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.mentalhealthforum.net/terms/",
+      "select": "body"
+    }
+  }
+}

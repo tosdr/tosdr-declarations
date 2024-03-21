@@ -1,1 +1,9 @@
-{"name":"Epos Now  ","documents":{"Privacy Policy":{"fetch":"https://www.eposnow.com/us/contact-us/about/privacy-policy/","select":"html > body > main"}}}
+{
+  "name": "Epos now",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.eposnow.com/us/contact-us/about/privacy-policy/",
+      "select": "html > body > main"
+    }
+  }
+}

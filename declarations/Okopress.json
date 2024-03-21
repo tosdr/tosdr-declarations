@@ -1,1 +1,9 @@
-{"name":"oko.press","documents":{"Privacy Policy":{"fetch":"https://oko.press/polityka-prywatnosci/","select":"body"}}}
+{
+  "name": "Okopress",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://oko.press/polityka-prywatnosci/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Interfolio","documents":{"Trackers Policy":{"fetch":"https://www.interfolio.com/cookies-policy/","select":"body"}}}
+{
+  "name": "Interfolio",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.interfolio.com/cookies-policy/",
+      "select": "body"
+    }
+  }
+}

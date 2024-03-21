@@ -1,1 +1,9 @@
-{"name":"Toggl Track","documents":{"Terms of Service":{"fetch":"https://toggl.com/track/legal/terms/","select":"body"}}}
+{
+  "name": "Toggl track",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://toggl.com/track/legal/terms/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Y Combinator","documents":{"Privacy Policy":{"fetch":"https://www.ycombinator.com/legal/","select":"body"}}}
+{
+  "name": "Y combinator",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.ycombinator.com/legal/",
+      "select": "body"
+    }
+  }
+}

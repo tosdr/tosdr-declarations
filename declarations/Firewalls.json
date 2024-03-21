@@ -1,1 +1,14 @@
-{"name":"Firewalls","documents":{"General Conditions of Sale":{"fetch":"https://www.firewalls.com/return-policy"},"Privacy Policy":{"fetch":"https://www.firewalls.com/security-policy"},"Trackers Policy":{"fetch":"https://www.firewalls.com/privacy-policy-cookie-restriction-mode"}}}
+{
+  "name": "Firewalls",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://www.firewalls.com/return-policy"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.firewalls.com/security-policy"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.firewalls.com/privacy-policy-cookie-restriction-mode"
+    }
+  }
+}

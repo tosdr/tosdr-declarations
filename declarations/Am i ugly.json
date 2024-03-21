@@ -1,1 +1,9 @@
-{"name":"am i ugly?","documents":{"Privacy Policy":{"fetch":"https://am-i-ugly.com/privacy.html","select":"html > body > section > div > div > div"}}}
+{
+  "name": "Am i ugly",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://am-i-ugly.com/privacy.html",
+      "select": "html > body > section > div > div > div"
+    }
+  }
+}

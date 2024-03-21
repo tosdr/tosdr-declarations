@@ -1,1 +1,11 @@
-{"name":"FOSS Linux","documents":{"Privacy Policy":{"fetch":"https://www.fosslinux.com/cookie-policy"},"Terms of Service":{"fetch":"https://www.fosslinux.com/disclaimer"}}}
+{
+  "name": "Foss linux",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.fosslinux.com/cookie-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.fosslinux.com/disclaimer"
+    }
+  }
+}

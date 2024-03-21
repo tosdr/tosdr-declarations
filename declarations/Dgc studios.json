@@ -1,1 +1,9 @@
-{"name":"DGC Studios","documents":{"Privacy Policy":{"fetch":"https://davidgameco.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Dgc studios",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://davidgameco.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

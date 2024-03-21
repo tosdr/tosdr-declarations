@@ -1,1 +1,9 @@
-{"name":"eufy","documents":{"Terms of Service":{"fetch":"https://us.eufy.com/policies/terms-of-service?ref=footer","select":"html > body > div:nth-of-type(6)"}}}
+{
+  "name": "Eufy",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://us.eufy.com/policies/terms-of-service?ref=footer",
+      "select": "html > body > div:nth-of-type(6)"
+    }
+  }
+}

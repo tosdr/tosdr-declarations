@@ -1,1 +1,13 @@
-{"name":"Get Copper Fit Energy Socks","documents":{"Privacy Policy":{"fetch":"https://getenergysocks.com/Privacy-Policy","select":"body"},"General Conditions of Sale":{"fetch":"https://getenergysocks.com/Return-Policy","select":"body"}}}
+{
+  "name": "Get copper fit energy socks",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://getenergysocks.com/Privacy-Policy",
+      "select": "body"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://getenergysocks.com/Return-Policy",
+      "select": "body"
+    }
+  }
+}

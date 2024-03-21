@@ -1,1 +1,13 @@
-{"name":"Zeptoabs UK","documents":{"Privacy Policy":{"fetch":"https://www.zeptolab.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.zeptolab.com/terms","select":"body"}}}
+{
+  "name": "Zeptoabs uk",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.zeptolab.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.zeptolab.com/terms",
+      "select": "body"
+    }
+  }
+}

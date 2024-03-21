@@ -1,1 +1,8 @@
-{"name":"diaspora pod.interlin.nl","documents":{"Privacy Policy":{"fetch":"https://pod.interlin.nl/terms"}}}
+{
+  "name": "Diaspora podinterlinnl",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://pod.interlin.nl/terms"
+    }
+  }
+}

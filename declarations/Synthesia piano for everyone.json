@@ -1,1 +1,9 @@
-{"name":"Synthesia, Piano for Everyone","documents":{"Legal Information":{"fetch":"https://www.synthesiagame.com/legal","select":"body"}}}
+{
+  "name": "Synthesia piano for everyone",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.synthesiagame.com/legal",
+      "select": "body"
+    }
+  }
+}

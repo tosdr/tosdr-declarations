@@ -1,1 +1,9 @@
-{"name":"AppDB","documents":{"Terms of Service":{"fetch":"https://appdb.to/info/tos","select":" > section > div"}}}
+{
+  "name": "Appdb",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://appdb.to/info/tos",
+      "select": " > section > div"
+    }
+  }
+}

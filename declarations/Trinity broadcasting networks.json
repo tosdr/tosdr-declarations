@@ -1,1 +1,11 @@
-{"name":"Trinity Broadcasting Networks","documents":{"Terms of Service":{"fetch":"https://www.tbn.org/terms"},"Privacy Policy":{"fetch":"https://www.tbn.org/privacy"}}}
+{
+  "name": "Trinity broadcasting networks",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.tbn.org/terms"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.tbn.org/privacy"
+    }
+  }
+}

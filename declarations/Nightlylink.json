@@ -1,1 +1,9 @@
-{"name":"nightly.link","documents":{"Privacy Policy":{"fetch":"https://nightly.link/","select":"html > body"}}}
+{
+  "name": "Nightlylink",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://nightly.link/",
+      "select": "html > body"
+    }
+  }
+}

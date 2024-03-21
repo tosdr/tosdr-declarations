@@ -1,1 +1,11 @@
-{"name":"Boston Pizza","documents":{"Privacy Policy":{"fetch":"https://bostonpizza.com/en/privacy-policy.html"},"Legal Information":{"fetch":"https://bostonpizza.com/en/legal-disclaimer.html"}}}
+{
+  "name": "Boston pizza",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://bostonpizza.com/en/privacy-policy.html"
+    },
+    "Legal Information": {
+      "fetch": "https://bostonpizza.com/en/legal-disclaimer.html"
+    }
+  }
+}

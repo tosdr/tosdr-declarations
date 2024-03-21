@@ -1,1 +1,14 @@
-{"name":"BFM TV","documents":{"Privacy Policy":{"fetch":"https://www.bfmtv.com/politique-donnees-personnelles/"},"Terms of Service":{"fetch":"https://www.bfmtv.com/cgu/"},"Trackers Policy":{"fetch":"https://www.bfmtv.com/cookies/"}}}
+{
+  "name": "Bfm tv",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.bfmtv.com/politique-donnees-personnelles/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.bfmtv.com/cgu/"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.bfmtv.com/cookies/"
+    }
+  }
+}

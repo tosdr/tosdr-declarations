@@ -1,1 +1,17 @@
-{"name":"SimpleMMO","documents":{"Trackers Policy":{"fetch":"https://simple-mmo.com/cookies","select":"body"},"Privacy Policy":{"fetch":"https://simple-mmo.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://simple-mmo.com/terms","select":"body"}}}
+{
+  "name": "Simplemmo",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://simple-mmo.com/cookies",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://simple-mmo.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://simple-mmo.com/terms",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"malshare","documents":{"Terms of Service":{"fetch":"https://malshare.com/tos.php","select":"html > body > div:nth-of-type(2) > div"}}}
+{
+  "name": "Malshare",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://malshare.com/tos.php",
+      "select": "html > body > div:nth-of-type(2) > div"
+    }
+  }
+}

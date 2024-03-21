@@ -1,1 +1,9 @@
-{"name":"SANS Institute","documents":{"Privacy Policy":{"fetch":"https://www.sans.org/privacy/","select":"html > body > div:first-of-type > div > div > main > div > div"}}}
+{
+  "name": "Sans institute",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sans.org/privacy/",
+      "select": "html > body > div:first-of-type > div > div > main > div > div"
+    }
+  }
+}

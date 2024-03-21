@@ -1,1 +1,13 @@
-{"name":"hrk game","documents":{"General Conditions of Sale":{"fetch":"https://www.hrkgame.com/en/pages/refund-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.hrkgame.com/en/pages/terms-of-service/","select":"body"}}}
+{
+  "name": "Hrk game",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://www.hrkgame.com/en/pages/refund-policy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.hrkgame.com/en/pages/terms-of-service/",
+      "select": "body"
+    }
+  }
+}

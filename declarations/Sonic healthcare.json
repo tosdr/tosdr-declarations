@@ -1,1 +1,9 @@
-{"name":"Sonic Healthcare","documents":{"Privacy Policy":{"fetch":"https://www.sonichealthcare.com/privacy-and-security/privacy-policy/","select":"body"}}}
+{
+  "name": "Sonic healthcare",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sonichealthcare.com/privacy-and-security/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

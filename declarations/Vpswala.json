@@ -1,1 +1,13 @@
-{"name":"VPSWALA ","documents":{"Copyright Claims Policy":{"fetch":"https://vpswala.org/privacy-policy-dmca.html","select":"body"},"Terms of Service":{"fetch":"https://vpswala.org/terms-conditions.html","select":"body"}}}
+{
+  "name": "Vpswala",
+  "documents": {
+    "Copyright Claims Policy": {
+      "fetch": "https://vpswala.org/privacy-policy-dmca.html",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://vpswala.org/terms-conditions.html",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"loom","documents":{"Terms of Service":{"fetch":"https://www.loom.com/terms","select":"body"}}}
+{
+  "name": "Loom",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.loom.com/terms",
+      "select": "body"
+    }
+  }
+}

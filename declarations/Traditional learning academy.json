@@ -1,1 +1,13 @@
-{"name":"Traditional Learning Academy","documents":{"Terms of Service":{"fetch":"https://schoolathome.ca/terms-and-conditions/","select":"body"},"Privacy Policy":{"fetch":"https://schoolathome.ca/privacy-policy/","select":"body"}}}
+{
+  "name": "Traditional learning academy",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://schoolathome.ca/terms-and-conditions/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://schoolathome.ca/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

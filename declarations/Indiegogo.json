@@ -1,1 +1,9 @@
-{"name":"Indiegogo","documents":{"Trackers Policy":{"fetch":"https://www.indiegogo.com/about/cookies","select":"body"}}}
+{
+  "name": "Indiegogo",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.indiegogo.com/about/cookies",
+      "select": "body"
+    }
+  }
+}

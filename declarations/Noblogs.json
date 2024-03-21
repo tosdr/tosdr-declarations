@@ -1,1 +1,9 @@
-{"name":"Noblogs","documents":{"Trackers Policy":{"fetch":"https://noblogs.org/privacy/","select":"body"}}}
+{
+  "name": "Noblogs",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://noblogs.org/privacy/",
+      "select": "body"
+    }
+  }
+}

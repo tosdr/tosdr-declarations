@@ -1,1 +1,9 @@
-{"name":"Maildrop","documents":{"Privacy Policy":{"fetch":"https://maildrop.cc/privacy","select":"body"}}}
+{
+  "name": "Maildrop",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://maildrop.cc/privacy",
+      "select": "body"
+    }
+  }
+}

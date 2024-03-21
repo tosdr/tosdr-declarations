@@ -1,1 +1,9 @@
-{"name":"StimuliRX CBD Gummies","documents":{"Terms of Service":{"fetch":"https://stimulirx.com/sx-bw-v1/terms/","select":"body"}}}
+{
+  "name": "Stimulirx cbd gummies",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://stimulirx.com/sx-bw-v1/terms/",
+      "select": "body"
+    }
+  }
+}

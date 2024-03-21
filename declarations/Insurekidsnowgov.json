@@ -1,1 +1,8 @@
-{"name":"InsureKidsNow.gov","documents":{"Privacy Policy":{"fetch":"https://www.insurekidsnow.gov/privacy-policy/index.html"}}}
+{
+  "name": "Insurekidsnowgov",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.insurekidsnow.gov/privacy-policy/index.html"
+    }
+  }
+}

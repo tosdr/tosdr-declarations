@@ -1,1 +1,8 @@
-{"name":"NaturalNews.com","documents":{"Privacy Policy":{"fetch":"https://www.naturalnews.com/PrivacyPolicy.html"}}}
+{
+  "name": "Naturalnewscom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.naturalnews.com/PrivacyPolicy.html"
+    }
+  }
+}

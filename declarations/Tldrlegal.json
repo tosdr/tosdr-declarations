@@ -1,1 +1,9 @@
-{"name":"tldrlegal","documents":{"Terms of Service":{"fetch":"https://www.tldrlegal.com/terms-of-service","select":"body"}}}
+{
+  "name": "Tldrlegal",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.tldrlegal.com/terms-of-service",
+      "select": "body"
+    }
+  }
+}

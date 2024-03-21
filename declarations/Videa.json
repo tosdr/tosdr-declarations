@@ -1,1 +1,9 @@
-{"name":"Videa","documents":{"Privacy Policy":{"fetch":"https://videa.tv/privacy/","select":"div"}}}
+{
+  "name": "Videa",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://videa.tv/privacy/",
+      "select": "div"
+    }
+  }
+}

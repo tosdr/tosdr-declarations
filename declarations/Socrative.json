@@ -1,1 +1,11 @@
-{"name":"Socrative","documents":{"Privacy Policy":{"fetch":"https://www.socrative.com/privacy/"},"Terms of Service":{"fetch":"https://www.socrative.com/terms-of-use/"}}}
+{
+  "name": "Socrative",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.socrative.com/privacy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.socrative.com/terms-of-use/"
+    }
+  }
+}

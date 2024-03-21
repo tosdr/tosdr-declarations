@@ -1,1 +1,8 @@
-{"name":"California Lutheran University ","documents":{"Terms of Service":{"fetch":"https://www.callutheran.edu/about/privacy.html"}}}
+{
+  "name": "California lutheran university",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.callutheran.edu/about/privacy.html"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Matthew J Harmon","documents":{"Privacy Policy":{"fetch":"https://matthewjharmon.com/privacy","select":"body"}}}
+{
+  "name": "Matthew j harmon",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://matthewjharmon.com/privacy",
+      "select": "body"
+    }
+  }
+}

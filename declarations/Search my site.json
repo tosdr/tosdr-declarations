@@ -1,1 +1,9 @@
-{"name":"Search My Site ","documents":{"Privacy Policy":{"fetch":"https://searchmysite.net/pages/privacy","select":"body"}}}
+{
+  "name": "Search my site",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://searchmysite.net/pages/privacy",
+      "select": "body"
+    }
+  }
+}

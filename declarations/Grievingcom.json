@@ -1,1 +1,9 @@
-{"name":"Grieving.com","documents":{"Privacy Policy":{"fetch":"https://forums.grieving.com/privacy/","select":"body"}}}
+{
+  "name": "Grievingcom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://forums.grieving.com/privacy/",
+      "select": "body"
+    }
+  }
+}

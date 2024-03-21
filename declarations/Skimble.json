@@ -1,1 +1,13 @@
-{"name":"skimble","documents":{"Terms of Service":{"fetch":"https://www.skimble.com/terms","select":"html > body > div:nth-of-type(3) > div:nth-of-type(2)"},"Privacy Policy":{"fetch":"https://www.skimble.com/privacy","select":"html > body > div:nth-of-type(3) > div:nth-of-type(2)"}}}
+{
+  "name": "Skimble",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.skimble.com/terms",
+      "select": "html > body > div:nth-of-type(3) > div:nth-of-type(2)"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.skimble.com/privacy",
+      "select": "html > body > div:nth-of-type(3) > div:nth-of-type(2)"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"HuffmanCoding","documents":{"Privacy Policy":{"fetch":"https://www.huffmancoding.com/privacy-policy","select":"html > body > div:nth-of-type(2) > div > div:first-of-type"}}}
+{
+  "name": "Huffmancoding",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.huffmancoding.com/privacy-policy",
+      "select": "html > body > div:nth-of-type(2) > div > div:first-of-type"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"TopSweeps","documents":{"Privacy Policy":{"fetch":"https://get.topsweeps.com/privacy","select":"body"}}}
+{
+  "name": "Topsweeps",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://get.topsweeps.com/privacy",
+      "select": "body"
+    }
+  }
+}

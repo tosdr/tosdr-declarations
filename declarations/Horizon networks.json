@@ -1,1 +1,13 @@
-{"name":"Horizon Networks","documents":{"Terms of Service":{"fetch":"https://horizonnetworks.uk/tos.php","select":"html > body > main"},"Privacy Policy":{"fetch":"https://horizonnetworks.uk/privacy.php","select":"html > body > main"}}}
+{
+  "name": "Horizon networks",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://horizonnetworks.uk/tos.php",
+      "select": "html > body > main"
+    },
+    "Privacy Policy": {
+      "fetch": "https://horizonnetworks.uk/privacy.php",
+      "select": "html > body > main"
+    }
+  }
+}

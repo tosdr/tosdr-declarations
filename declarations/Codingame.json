@@ -1,1 +1,11 @@
-{"name":"Codingame","documents":{"Privacy Policy":{"fetch":"https://www.codingame.com/legal/privacy-policy"},"Trackers Policy":{"fetch":"https://www.codingame.com/legal/cookies-policy"}}}
+{
+  "name": "Codingame",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.codingame.com/legal/privacy-policy"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.codingame.com/legal/cookies-policy"
+    }
+  }
+}

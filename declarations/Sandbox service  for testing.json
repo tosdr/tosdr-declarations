@@ -1,1 +1,9 @@
-{"name":"Sandbox Service - For Testing","documents":{}}
+{
+  "name": "Sandbox service  for testing",
+  "documents": {
+    "Spam": {
+      "fetch": "https://example.com",
+      "select": "body > div"
+    }
+  }
+}

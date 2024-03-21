@@ -1,1 +1,13 @@
-{"name":"VPNArea","documents":{"General Conditions of Sale":{"fetch":"https://vpnarea.com/front/home/refund","select":"html > body > div:nth-of-type(3) > form"},"Terms of Service":{"fetch":"https://vpnarea.com/front/home/terms","select":"html > body > div:first-of-type > form"}}}
+{
+  "name": "Vpnarea",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://vpnarea.com/front/home/refund",
+      "select": "html > body > div:nth-of-type(3) > form"
+    },
+    "Terms of Service": {
+      "fetch": "https://vpnarea.com/front/home/terms",
+      "select": "html > body > div:first-of-type > form"
+    }
+  }
+}

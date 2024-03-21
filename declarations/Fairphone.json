@@ -1,1 +1,9 @@
-{"name":"Fairphone","documents":{"Terms of Service":{"fetch":"https://www.fairphone.com/en/legal/terms-and-conditions-for-fairphone-website-usage/","select":"body"}}}
+{
+  "name": "Fairphone",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.fairphone.com/en/legal/terms-and-conditions-for-fairphone-website-usage/",
+      "select": "body"
+    }
+  }
+}

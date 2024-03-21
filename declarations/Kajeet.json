@@ -1,1 +1,9 @@
-{"name":"Kajeet ","documents":{"Terms of Service":{"fetch":"https://www.kajeet.com/terms-of-service","select":"body"}}}
+{
+  "name": "Kajeet",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.kajeet.com/terms-of-service",
+      "select": "body"
+    }
+  }
+}

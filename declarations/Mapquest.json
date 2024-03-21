@@ -1,1 +1,13 @@
-{"name":"MapQuest","documents":{"Terms of Service":{"fetch":"https://hello.mapquest.com/terms-of-use","select":"body"},"Privacy Policy":{"fetch":"https://system1.com/terms/privacy-policy","select":"body"}}}
+{
+  "name": "Mapquest",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://hello.mapquest.com/terms-of-use",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://system1.com/terms/privacy-policy",
+      "select": "body"
+    }
+  }
+}

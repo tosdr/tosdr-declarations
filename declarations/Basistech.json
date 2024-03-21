@@ -1,1 +1,9 @@
-{"name":"Basistech","documents":{"Terms of Service":{"fetch":"https://www.basistech.com/terms-of-use/","select":"body"}}}
+{
+  "name": "Basistech",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.basistech.com/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

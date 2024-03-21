@@ -1,1 +1,8 @@
-{"name":"Los Angeles Federal Credit Union","documents":{"Privacy Policy":{"fetch":"https://www.lafcu.org/privacypolicies/privacy-policy"}}}
+{
+  "name": "Los angeles federal credit union",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.lafcu.org/privacypolicies/privacy-policy"
+    }
+  }
+}

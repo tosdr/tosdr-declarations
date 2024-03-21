@@ -1,1 +1,9 @@
-{"name":"LawNewz ","documents":{"Privacy Policy":{"fetch":"https://lawandcrime.com/privacy","select":"body"}}}
+{
+  "name": "Lawnewz",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://lawandcrime.com/privacy",
+      "select": "body"
+    }
+  }
+}

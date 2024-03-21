@@ -1,1 +1,9 @@
-{"name":"SmartBots","documents":{"Terms of Service":{"fetch":"https://www.mysmartbots.com/docs/Terms_of_Service","select":"html > body > page"}}}
+{
+  "name": "Smartbots",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.mysmartbots.com/docs/Terms_of_Service",
+      "select": "html > body > page"
+    }
+  }
+}

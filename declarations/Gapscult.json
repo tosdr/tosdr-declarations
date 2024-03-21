@@ -1,1 +1,9 @@
-{"name":"gapscult ","documents":{"Terms of Service":{"fetch":"https://gapscult.com/feed/pages/terms-of-use","select":"body"}}}
+{
+  "name": "Gapscult",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://gapscult.com/feed/pages/terms-of-use",
+      "select": "body"
+    }
+  }
+}

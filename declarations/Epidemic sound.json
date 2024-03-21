@@ -1,1 +1,13 @@
-{"name":"Epidemic Sound","documents":{"Trackers Policy":{"fetch":"https://www.epidemicsound.com/policy/cookie-policy/","select":"body"},"Privacy Policy":{"fetch":"https://www.epidemicsound.com/policy/v2/privacy-policy/","select":"body"}}}
+{
+  "name": "Epidemic sound",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.epidemicsound.com/policy/cookie-policy/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.epidemicsound.com/policy/v2/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

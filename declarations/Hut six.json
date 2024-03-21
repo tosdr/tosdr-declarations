@@ -1,1 +1,9 @@
-{"name":"Hut Six","documents":{"Privacy Policy":{"fetch":"https://www.hutsix.io/privacy-policy","select":"body"}}}
+{
+  "name": "Hut six",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.hutsix.io/privacy-policy",
+      "select": "body"
+    }
+  }
+}

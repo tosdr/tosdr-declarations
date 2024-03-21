@@ -1,1 +1,8 @@
-{"name":"IP Logger","documents":{"Privacy Policy":{"fetch":"https://iplogger.ru/privacy/"}}}
+{
+  "name": "Ip logger",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://iplogger.ru/privacy/"
+    }
+  }
+}

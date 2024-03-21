@@ -1,1 +1,8 @@
-{"name":"GLMA  ","documents":{"Privacy Policy":{"fetch":"https://glma.org/privacy_policy.php"}}}
+{
+  "name": "Glma",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://glma.org/privacy_policy.php"
+    }
+  }
+}

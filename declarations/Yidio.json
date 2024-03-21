@@ -1,1 +1,11 @@
-{"name":"Yidio","documents":{"Terms of Service":{"fetch":"https://www.yidio.com/tos"},"Privacy Policy":{"fetch":"https://www.yidio.com/privacy"}}}
+{
+  "name": "Yidio",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.yidio.com/tos"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.yidio.com/privacy"
+    }
+  }
+}

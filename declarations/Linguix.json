@@ -1,1 +1,13 @@
-{"name":"linguix","documents":{"Terms of Service":{"fetch":"https://linguix.com/page/terms","select":"html > body > main > div:first-of-type > div > section"},"Privacy Policy":{"fetch":"https://linguix.com/page/privacy-policy","select":"html > body > main > div:first-of-type > div > section:nth-of-type(5)"}}}
+{
+  "name": "Linguix",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://linguix.com/page/terms",
+      "select": "html > body > main > div:first-of-type > div > section"
+    },
+    "Privacy Policy": {
+      "fetch": "https://linguix.com/page/privacy-policy",
+      "select": "html > body > main > div:first-of-type > div > section:nth-of-type(5)"
+    }
+  }
+}

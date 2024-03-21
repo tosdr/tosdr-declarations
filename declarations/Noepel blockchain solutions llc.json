@@ -1,1 +1,9 @@
-{"name":"Noepel Blockchain Solutions, LLC","documents":{"Privacy Policy":{"fetch":"https://noepel.net/privacy","select":"body"}}}
+{
+  "name": "Noepel blockchain solutions llc",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://noepel.net/privacy",
+      "select": "body"
+    }
+  }
+}

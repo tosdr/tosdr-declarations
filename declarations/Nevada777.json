@@ -1,1 +1,9 @@
-{"name":"Nevada777 ","documents":{"Terms of Service":{"fetch":"https://nevada777.com/terms-conditions/","select":"body"}}}
+{
+  "name": "Nevada777",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://nevada777.com/terms-conditions/",
+      "select": "body"
+    }
+  }
+}

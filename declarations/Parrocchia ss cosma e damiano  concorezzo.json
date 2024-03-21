@@ -1,1 +1,9 @@
-{"name":"PArrocchia SS. Cosma e Damiano - Concorezzo","documents":{"Privacy Policy":{"fetch":"https://www.chiesadiconcorezzo.it/privacy/","select":"body"}}}
+{
+  "name": "Parrocchia ss cosma e damiano  concorezzo",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.chiesadiconcorezzo.it/privacy/",
+      "select": "body"
+    }
+  }
+}

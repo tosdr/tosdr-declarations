@@ -1,1 +1,13 @@
-{"name":"Old Skull Games","documents":{"Privacy Policy":{"fetch":"https://oldskullgames.com/privacy-policy","select":"body"},"Legal Information":{"fetch":"https://oldskullgames.com/legal-notice/","select":"body"}}}
+{
+  "name": "Old skull games",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://oldskullgames.com/privacy-policy",
+      "select": "body"
+    },
+    "Legal Information": {
+      "fetch": "https://oldskullgames.com/legal-notice/",
+      "select": "body"
+    }
+  }
+}

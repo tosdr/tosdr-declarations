@@ -1,1 +1,9 @@
-{"name":"ouo.io","documents":{"Terms of Service":{"fetch":"https://ouo.io/terms","select":"body"}}}
+{
+  "name": "Ouoio",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://ouo.io/terms",
+      "select": "body"
+    }
+  }
+}

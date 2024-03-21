@@ -1,1 +1,8 @@
-{"name":"Animaker","documents":{"Privacy Policy":{"fetch":"https://www.animaker.com/terms-policy"}}}
+{
+  "name": "Animaker",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.animaker.com/terms-policy"
+    }
+  }
+}

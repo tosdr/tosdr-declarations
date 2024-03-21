@@ -1,1 +1,13 @@
-{"name":"Territorial.io","documents":{"Privacy Policy":{"fetch":"https://territorial.io/privacy_policy","select":"body"},"Trackers Policy":{"fetch":"https://territorial.io/cookie_policy","select":"body"}}}
+{
+  "name": "Territorialio",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://territorial.io/privacy_policy",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://territorial.io/cookie_policy",
+      "select": "body"
+    }
+  }
+}

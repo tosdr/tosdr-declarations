@@ -1,1 +1,9 @@
-{"name":"DriveSure","documents":{"Privacy Policy":{"fetch":"https://drivesure.com/privacy-statement/","select":"body"}}}
+{
+  "name": "Drivesure",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://drivesure.com/privacy-statement/",
+      "select": "body"
+    }
+  }
+}

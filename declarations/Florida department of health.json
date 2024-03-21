@@ -1,1 +1,8 @@
-{"name":"Florida Department of Health","documents":{"Privacy Policy":{"fetch":"https://www.floridahealth.gov/privacy-policy.html"}}}
+{
+  "name": "Florida department of health",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.floridahealth.gov/privacy-policy.html"
+    }
+  }
+}

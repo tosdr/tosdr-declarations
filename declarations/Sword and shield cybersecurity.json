@@ -1,1 +1,8 @@
-{"name":"Sword and Shield Cybersecurity","documents":{"Privacy Policy":{"fetch":"https://swordshieldcyber.com/privacy-policy/"}}}
+{
+  "name": "Sword and shield cybersecurity",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://swordshieldcyber.com/privacy-policy/"
+    }
+  }
+}

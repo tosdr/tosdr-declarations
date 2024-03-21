@@ -1,1 +1,13 @@
-{"name":"Nas Academy","documents":{"Terms of Service":{"fetch":"https://nasacademy.com/enrolment-terms","select":"html > body > div:first-of-type > div > div:nth-of-type(2)"},"Privacy Policy":{"fetch":"https://nasacademy.com/privacy","select":"html > body > div:first-of-type > div > div:nth-of-type(2)"}}}
+{
+  "name": "Nas academy",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://nasacademy.com/enrolment-terms",
+      "select": "html > body > div:first-of-type > div > div:nth-of-type(2)"
+    },
+    "Privacy Policy": {
+      "fetch": "https://nasacademy.com/privacy",
+      "select": "html > body > div:first-of-type > div > div:nth-of-type(2)"
+    }
+  }
+}

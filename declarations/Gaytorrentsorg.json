@@ -1,1 +1,13 @@
-{"name":"Gay-Torrents.Org","documents":{"Privacy Policy":{"fetch":"https://gay-torrents.org/privacy.php","select":"body"},"Copyright Claims Policy":{"fetch":"https://gay-torrents.org/dmca.php","select":"body"}}}
+{
+  "name": "Gaytorrentsorg",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://gay-torrents.org/privacy.php",
+      "select": "body"
+    },
+    "Copyright Claims Policy": {
+      "fetch": "https://gay-torrents.org/dmca.php",
+      "select": "body"
+    }
+  }
+}

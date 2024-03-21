@@ -1,1 +1,9 @@
-{"name":"Librera ","documents":{"Privacy Policy":{"fetch":"https://librera.mobi/PrivacyPolicy/tts.reader","select":"body"}}}
+{
+  "name": "Librera",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://librera.mobi/PrivacyPolicy/tts.reader",
+      "select": "body"
+    }
+  }
+}

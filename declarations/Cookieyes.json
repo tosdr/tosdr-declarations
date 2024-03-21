@@ -1,1 +1,9 @@
-{"name":"CookieYes","documents":{"Privacy Policy":{"fetch":"https://www.cookieyes.com/dpa/","select":"body"}}}
+{
+  "name": "Cookieyes",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.cookieyes.com/dpa/",
+      "select": "body"
+    }
+  }
+}

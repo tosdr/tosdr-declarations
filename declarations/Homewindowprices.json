@@ -1,1 +1,9 @@
-{"name":"HomeWindowPrices ","documents":{"Privacy Policy":{"fetch":"https://www.homewindowprices.org/modals/privacy/index.html","select":"body"}}}
+{
+  "name": "Homewindowprices",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.homewindowprices.org/modals/privacy/index.html",
+      "select": "body"
+    }
+  }
+}

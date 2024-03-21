@@ -1,1 +1,9 @@
-{"name":"Super Cook","documents":{"Privacy Policy":{"fetch":"https://www.supercook.com/privacypolicy.htm","select":"body"}}}
+{
+  "name": "Super cook",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.supercook.com/privacypolicy.htm",
+      "select": "body"
+    }
+  }
+}

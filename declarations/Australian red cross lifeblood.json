@@ -1,1 +1,12 @@
-{"name":"Australian Red Cross Lifeblood","documents":{"Terms of Service":{"fetch":"https://www.lifeblood.com.au/terms-conditions"},"Privacy Policy":{"fetch":"https://my.donateblood.com.au/app/answers/detail/a_id/1363","select":"body"}}}
+{
+  "name": "Australian red cross lifeblood",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.lifeblood.com.au/terms-conditions"
+    },
+    "Privacy Policy": {
+      "fetch": "https://my.donateblood.com.au/app/answers/detail/a_id/1363",
+      "select": "body"
+    }
+  }
+}

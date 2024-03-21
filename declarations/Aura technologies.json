@@ -1,1 +1,9 @@
-{"name":"AURA Technologies ","documents":{"Terms of Service":{"fetch":"https://aura.company/terms-and-conditions/","select":"body"}}}
+{
+  "name": "Aura technologies",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://aura.company/terms-and-conditions/",
+      "select": "body"
+    }
+  }
+}

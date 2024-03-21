@@ -1,1 +1,9 @@
-{"name":"TechBurner","documents":{"Privacy Policy":{"fetch":"https://techburner.in/burnerguard-privacy-policy/","select":"body"}}}
+{
+  "name": "Techburner",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://techburner.in/burnerguard-privacy-policy/",
+      "select": "body"
+    }
+  }
+}

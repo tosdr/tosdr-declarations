@@ -1,1 +1,9 @@
-{"name":"Let's Encrypt","documents":{"Privacy Policy":{"fetch":"https://letsencrypt.org/privacy/","select":"div"}}}
+{
+  "name": "Lets encrypt",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://letsencrypt.org/privacy/",
+      "select": "div"
+    }
+  }
+}

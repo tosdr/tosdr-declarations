@@ -1,1 +1,9 @@
-{"name":"Tribel","documents":{"Privacy Policy":{"fetch":"https://www.m.tribel.com/privacy","select":"body"}}}
+{
+  "name": "Tribel",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.m.tribel.com/privacy",
+      "select": "body"
+    }
+  }
+}

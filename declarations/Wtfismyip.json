@@ -1,1 +1,13 @@
-{"name":"wtfismyip","documents":{"Privacy Policy":{"fetch":"https://myip.wtf/privacy","select":"body"}}}
+{
+  "name": "Wtfismyip",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://myip.wtf/privacy",
+      "select": "body"
+    },
+    "Policy": {
+      "fetch": "https://myip.wtf/automation",
+      "select": "body"
+    }
+  }
+}

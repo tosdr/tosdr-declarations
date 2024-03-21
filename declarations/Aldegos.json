@@ -1,1 +1,8 @@
-{"name":"Aldegos","documents":{"Privacy Policy":{"fetch":"https://aldegos.com/privacy-policy/"}}}
+{
+  "name": "Aldegos",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://aldegos.com/privacy-policy/"
+    }
+  }
+}

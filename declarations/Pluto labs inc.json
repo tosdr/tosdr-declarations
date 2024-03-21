@@ -1,1 +1,13 @@
-{"name":"Pluto Labs, Inc.","documents":{"Terms of Service":{"fetch":"https://www.scinapse.io/terms-of-service","select":" > div:nth-of-type(2)"},"Privacy Policy":{"fetch":"https://www.scinapse.io/privacy-policy","select":" > div:nth-of-type(2)"}}}
+{
+  "name": "Pluto labs inc",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.scinapse.io/terms-of-service",
+      "select": " > div:nth-of-type(2)"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.scinapse.io/privacy-policy",
+      "select": " > div:nth-of-type(2)"
+    }
+  }
+}

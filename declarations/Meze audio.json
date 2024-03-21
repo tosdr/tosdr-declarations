@@ -1,1 +1,8 @@
-{"name":"Meze Audio","documents":{"Terms of Service":{"fetch":"https://mezeaudio.com/pages/terms"}}}
+{
+  "name": "Meze audio",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://mezeaudio.com/pages/terms"
+    }
+  }
+}

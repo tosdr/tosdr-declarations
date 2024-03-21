@@ -1,1 +1,9 @@
-{"name":"drgns.space","documents":{"Privacy Policy":{"fetch":"https://invidious.drgns.space/privacy","select":"body"}}}
+{
+  "name": "Drgnsspace",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://invidious.drgns.space/privacy",
+      "select": "body"
+    }
+  }
+}

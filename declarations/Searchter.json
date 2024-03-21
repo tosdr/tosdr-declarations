@@ -1,1 +1,9 @@
-{"name":"searchter","documents":{"Privacy Policy":{"fetch":"http://searchter.com/privacy.php","select":"body"}}}
+{
+  "name": "Searchter",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "http://searchter.com/privacy.php",
+      "select": "body"
+    }
+  }
+}

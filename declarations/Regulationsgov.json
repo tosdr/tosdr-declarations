@@ -1,1 +1,8 @@
-{"name":"Regulations.gov","documents":{"Privacy Policy":{"fetch":"https://www.regulations.gov/privacy-notice"}}}
+{
+  "name": "Regulationsgov",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.regulations.gov/privacy-notice"
+    }
+  }
+}

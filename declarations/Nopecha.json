@@ -1,1 +1,13 @@
-{"name":"NopeCHA","documents":{"Privacy Policy":{"fetch":"https://nopecha.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://nopecha.com/terms","select":"body"}}}
+{
+  "name": "Nopecha",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://nopecha.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://nopecha.com/terms",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"TugOfWar","documents":{"Trackers Policy":{"fetch":"https://tugofwar.io/privacy/","select":"body"}}}
+{
+  "name": "Tugofwar",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://tugofwar.io/privacy/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Shape Technologies Group","documents":{"Privacy Policy":{"fetch":"https://www.shapetechnologies.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Shape technologies group",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.shapetechnologies.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

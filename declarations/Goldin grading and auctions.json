@@ -1,1 +1,9 @@
-{"name":"Goldin Grading And Auctions","documents":{"Privacy Policy":{"fetch":"https://www.collectors.com/privacy","select":"body"}}}
+{
+  "name": "Goldin grading and auctions",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.collectors.com/privacy",
+      "select": "body"
+    }
+  }
+}

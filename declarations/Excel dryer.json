@@ -1,1 +1,8 @@
-{"name":"Excel Dryer ","documents":{"Privacy Policy":{"fetch":"https://www.exceldryer.com/privacy-policy/"}}}
+{
+  "name": "Excel dryer",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.exceldryer.com/privacy-policy/"
+    }
+  }
+}

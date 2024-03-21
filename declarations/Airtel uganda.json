@@ -1,1 +1,13 @@
-{"name":"Airtel Uganda","documents":{"Copyright Claims Policy":{"fetch":"https://www.airtel.co.ug/assets/pdf/Privacy-notice-Airtel-ug-AUL.pdf","select":"body"},"Terms of Service":{"fetch":"https://www.airtel.co.ug/termCondition","select":"body"}}}
+{
+  "name": "Airtel uganda",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.airtel.co.ug/assets/pdf/Privacy-notice-Airtel-ug-AUL.pdf",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.airtel.co.ug/termCondition",
+      "select": "body"
+    }
+  }
+}

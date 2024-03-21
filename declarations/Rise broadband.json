@@ -1,1 +1,13 @@
-{"name":"Rise Broadband","documents":{"Terms of Service":{"fetch":"https://www.risebroadband.com/legal/broadband-internet-terms-and-conditions-of-service/","select":"body"}}}
+{
+  "name": "Rise broadband",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.risebroadband.com/legal/broadband-internet-terms-and-conditions-of-service/",
+      "select": "body"
+    },
+    "Vulnerability Disclosure Policy": {
+      "fetch": "https://www.risebroadband.com/additional-fees-disclosure-statement/",
+      "select": "body"
+    }
+  }
+}

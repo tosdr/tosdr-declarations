@@ -1,1 +1,17 @@
-{"name":"ihub.global ","documents":{"Privacy Policy":{"fetch":"https://kiriptofun.ihub.global/site/privacy-policy","select":"body"},"General Conditions of Sale":{"fetch":"https://heliumtrack.com/refund-policy","select":"body"},"Terms of Service":{"fetch":"https://kiriptofun.ihub.global/site/terms-of-service/","select":"body"}}}
+{
+  "name": "Ihubglobal",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://kiriptofun.ihub.global/site/privacy-policy",
+      "select": "body"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://heliumtrack.com/refund-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://kiriptofun.ihub.global/site/terms-of-service/",
+      "select": "body"
+    }
+  }
+}

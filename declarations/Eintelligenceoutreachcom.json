@@ -1,1 +1,9 @@
-{"name":"eintelligenceoutreach.com","documents":{"Terms of Service":{"fetch":"https://eintelligenceoutreach.com/terms.php","select":"body"}}}
+{
+  "name": "Eintelligenceoutreachcom",
+  "documents": {
+    "Vulnerability Disclosure Policy": {
+      "fetch": "https://eintelligenceoutreach.com/terms.php",
+      "select": "body"
+    }
+  }
+}

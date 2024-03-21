@@ -1,1 +1,9 @@
-{"name":"Sports Direct","documents":{"Terms of Service":{"fetch":"https://help.sportsdirect.com/support/solutions/articles/80000495592-terms-conditions-current-promotions","select":" > li > div:nth-of-type(2)"}}}
+{
+  "name": "Sports direct",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://help.sportsdirect.com/support/solutions/articles/80000495592-terms-conditions-current-promotions",
+      "select": " > li > div:nth-of-type(2)"
+    }
+  }
+}

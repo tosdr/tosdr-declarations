@@ -1,1 +1,8 @@
-{"name":"Geeksupport","documents":{"Privacy Policy":{"fetch":"https://geeksupport.nl/privacybeleid/"}}}
+{
+  "name": "Geeksupport",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://geeksupport.nl/privacybeleid/"
+    }
+  }
+}

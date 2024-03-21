@@ -1,1 +1,13 @@
-{"name":"Dante Labs","documents":{"Privacy Policy":{"fetch":"https://us.dantelabs.com/pages/privacy","select":"body"},"Trackers Policy":{"fetch":"https://us.dantelabs.com/pages/cookie-policy","select":"body"}}}
+{
+  "name": "Dante labs",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://us.dantelabs.com/pages/privacy",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://us.dantelabs.com/pages/cookie-policy",
+      "select": "body"
+    }
+  }
+}

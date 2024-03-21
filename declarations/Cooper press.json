@@ -1,1 +1,13 @@
-{"name":"Cooper Press ","documents":{"Terms of Service":{"fetch":"https://cooperpress.com/legal/terms","select":"body"}}}
+{
+  "name": "Cooper press",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://cooperpress.com/legal/terms",
+      "select": "body"
+    },
+    "Policy": {
+      "fetch": "https://cooperpress.com/legal/spam/",
+      "select": "body"
+    }
+  }
+}

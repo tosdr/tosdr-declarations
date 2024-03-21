@@ -1,1 +1,13 @@
-{"name":"Aeris ","documents":{"Terms of Service":{"fetch":"https://www.aeris.com/legal/services-terms-of-use","select":"body"}}}
+{
+  "name": "Aeris",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://www.aeris.com/legal/billing-and-purchase-terms",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.aeris.com/legal/services-terms-of-use",
+      "select": "body"
+    }
+  }
+}

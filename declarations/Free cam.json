@@ -1,1 +1,13 @@
-{"name":"Free Cam","documents":{"Terms of Service":{"fetch":"https://www.freescreenrecording.com/legal/freeware_license_agreement.html","select":"body"},"Trackers Policy":{"fetch":"https://www.freescreenrecording.com/legal/cookie_policy","select":"body"}}}
+{
+  "name": "Free cam",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.freescreenrecording.com/legal/freeware_license_agreement.html",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.freescreenrecording.com/legal/cookie_policy",
+      "select": "body"
+    }
+  }
+}

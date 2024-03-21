@@ -1,1 +1,9 @@
-{"name":"FluffyChat","documents":{"Privacy Policy":{"fetch":"https://gitlab.com/famedly/fluffychat/-/raw/main/PRIVACY.md","select":"body"}}}
+{
+  "name": "Fluffychat",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://gitlab.com/famedly/fluffychat/-/raw/main/PRIVACY.md",
+      "select": "body"
+    }
+  }
+}

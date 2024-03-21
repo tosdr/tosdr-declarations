@@ -1,1 +1,9 @@
-{"name":"Online Etymology Dictionary","documents":{"Privacy Policy":{"fetch":"https://www.etymonline.com/legal/privacy","select":"body"}}}
+{
+  "name": "Online etymology dictionary",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.etymonline.com/legal/privacy",
+      "select": "body"
+    }
+  }
+}

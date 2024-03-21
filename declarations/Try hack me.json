@@ -1,1 +1,8 @@
-{"name":"Try Hack Me","documents":{"Terms of Service":{"fetch":"https://www.tryhackme.com/terms"}}}
+{
+  "name": "Try hack me",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.tryhackme.com/terms"
+    }
+  }
+}

@@ -1,1 +1,11 @@
-{"name":" Wi-Fi Space ","documents":{"Privacy Policy":{"fetch":"https://wifispc.com/privacy-policy.html"},"Terms of Service":{"fetch":"https://wifispc.com/terms.html"}}}
+{
+  "name": "Wifi space",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://wifispc.com/privacy-policy.html"
+    },
+    "Terms of Service": {
+      "fetch": "https://wifispc.com/terms.html"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"flote app","documents":{"Terms of Service":{"fetch":"https://flote.biz/terms-of-service/","select":"body"},"Privacy Policy":{"fetch":"https://flote.biz/privacy-policy/","select":"body"}}}
+{
+  "name": "Flote app",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://flote.biz/terms-of-service/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://flote.biz/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

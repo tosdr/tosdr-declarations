@@ -1,1 +1,8 @@
-{"name":"Fmovies","documents":{"Terms of Service":{"fetch":"https://fmoviesto.cc/terms"}}}
+{
+  "name": "Fmovies",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://fmoviesto.cc/terms"
+    }
+  }
+}

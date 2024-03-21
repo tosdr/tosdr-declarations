@@ -1,1 +1,11 @@
-{"name":"Keysight","documents":{"Privacy Policy":{"fetch":"https://www.keysight.com/us/en/contact/privacy.html"},"Terms of Service":{"fetch":"https://www.keysight.com/us/en/contact/terms-of-use.html"}}}
+{
+  "name": "Keysight",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.keysight.com/us/en/contact/privacy.html"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.keysight.com/us/en/contact/terms-of-use.html"
+    }
+  }
+}

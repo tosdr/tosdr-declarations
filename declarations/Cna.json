@@ -1,1 +1,9 @@
-{"name":"CNA","documents":{"Privacy Policy":{"fetch":"https://www.cna.com/web/guest/cna/privacy/privacy-policy","select":"body"}}}
+{
+  "name": "Cna",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.cna.com/web/guest/cna/privacy/privacy-policy",
+      "select": "body"
+    }
+  }
+}

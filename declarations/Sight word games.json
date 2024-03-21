@@ -1,1 +1,8 @@
-{"name":"Sight Word Games","documents":{"Privacy Policy":{"fetch":"https://www.sightwordsgame.com/privacy-policy//"}}}
+{
+  "name": "Sight word games",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sightwordsgame.com/privacy-policy//"
+    }
+  }
+}

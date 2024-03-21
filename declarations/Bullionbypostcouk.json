@@ -1,1 +1,14 @@
-{"name":"BullionByPost.co.uk","documents":{"Privacy Policy":{"fetch":"https://www.bullionbypost.co.uk/info/privacy/"},"Acceptable Use Policy":{"fetch":"https://www.bullionbypost.co.uk/info/acceptable-use/"},"Terms of Service":{"fetch":"https://www.bullionbypost.co.uk/info/terms-and-conditions/"}}}
+{
+  "name": "Bullionbypostcouk",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.bullionbypost.co.uk/info/privacy/"
+    },
+    "Acceptable Use Policy": {
+      "fetch": "https://www.bullionbypost.co.uk/info/acceptable-use/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.bullionbypost.co.uk/info/terms-and-conditions/"
+    }
+  }
+}

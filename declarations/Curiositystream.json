@@ -1,1 +1,13 @@
-{"name":"CuriosityStream","documents":{"Terms of Service":{"fetch":"https://curiositystream.com/terms","select":"html > body > div:first-of-type > div > div"},"Privacy Policy":{"fetch":"https://curiositystream.com/privacy","select":"html > body > div:first-of-type > div > div"}}}
+{
+  "name": "Curiositystream",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://curiositystream.com/terms",
+      "select": "html > body > div:first-of-type > div > div"
+    },
+    "Privacy Policy": {
+      "fetch": "https://curiositystream.com/privacy",
+      "select": "html > body > div:first-of-type > div > div"
+    }
+  }
+}

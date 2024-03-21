@@ -1,1 +1,12 @@
-{"name":"Ubuntu","documents":{"Terms of Service":{"fetch":"http://www.ubuntu.com/legal","select":"div#main-content"},"Privacy Policy":{"fetch":"https://ubuntu.com/legal/data-privacy"}}}
+{
+  "name": "Ubuntu",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "http://www.ubuntu.com/legal",
+      "select": "div#main-content"
+    },
+    "Privacy Policy": {
+      "fetch": "https://ubuntu.com/legal/data-privacy"
+    }
+  }
+}

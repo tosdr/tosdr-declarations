@@ -1,1 +1,8 @@
-{"name":"Driverge Vehicle Innovations","documents":{"Privacy Policy":{"fetch":"https://www.driverge.com/support/general-disclaimer/"}}}
+{
+  "name": "Driverge vehicle innovations",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.driverge.com/support/general-disclaimer/"
+    }
+  }
+}

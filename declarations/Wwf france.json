@@ -1,1 +1,9 @@
-{"name":"WWF France","documents":{"Legal Information":{"fetch":"https://www.wwf.fr/mentions-legales","select":"body"}}}
+{
+  "name": "Wwf france",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.wwf.fr/mentions-legales",
+      "select": "body"
+    }
+  }
+}

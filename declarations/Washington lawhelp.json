@@ -1,1 +1,8 @@
-{"name":"Washington LawHelp","documents":{"Privacy Policy":{"fetch":"https://www.washingtonlawhelp.org/privacy"}}}
+{
+  "name": "Washington lawhelp",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.washingtonlawhelp.org/privacy"
+    }
+  }
+}

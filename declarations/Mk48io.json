@@ -1,1 +1,13 @@
-{"name":"mk48.io","documents":{"Terms of Service":{"fetch":"https://mk48.io/#/terms","select":"html > body > div:nth-of-type(2) > div"},"Privacy Policy":{"fetch":"https://mk48.io/#/privacy","select":"html > body > div:nth-of-type(2) > div"}}}
+{
+  "name": "Mk48io",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://mk48.io/#/terms",
+      "select": "html > body > div:nth-of-type(2) > div"
+    },
+    "Privacy Policy": {
+      "fetch": "https://mk48.io/#/privacy",
+      "select": "html > body > div:nth-of-type(2) > div"
+    }
+  }
+}

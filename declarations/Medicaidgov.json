@@ -1,1 +1,8 @@
-{"name":"Medicaid.gov","documents":{"Privacy Policy":{"fetch":"https://www.medicaid.gov/privacy-policy/index.html"}}}
+{
+  "name": "Medicaidgov",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.medicaid.gov/privacy-policy/index.html"
+    }
+  }
+}

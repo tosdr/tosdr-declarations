@@ -1,1 +1,9 @@
-{"name":"Roland Zoss","documents":{"Privacy Policy":{"fetch":"https://www.rolandzoss.com/app/index.html","select":"body"}}}
+{
+  "name": "Roland zoss",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.rolandzoss.com/app/index.html",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Deveroonie.xyz","documents":{"Privacy Policy":{"fetch":"https://deveroonie.xyz/privacy","select":"html > body > div"}}}
+{
+  "name": "Deverooniexyz",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://deveroonie.xyz/privacy",
+      "select": "html > body > div"
+    }
+  }
+}

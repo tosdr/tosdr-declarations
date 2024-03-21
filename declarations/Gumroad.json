@@ -1,1 +1,9 @@
-{"name":"Gumroad","documents":{"Terms of Service":{"fetch":"https://gumroad.com/terms","select":"body"}}}
+{
+  "name": "Gumroad",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://gumroad.com/terms",
+      "select": "body"
+    }
+  }
+}

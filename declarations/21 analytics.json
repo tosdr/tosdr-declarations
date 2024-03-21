@@ -1,1 +1,9 @@
-{"name":"21 Analytics","documents":{"Privacy Policy":{"fetch":"https://www.21analytics.ch/privacy-policy/","select":"body"}}}
+{
+  "name": "21 analytics",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.21analytics.ch/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

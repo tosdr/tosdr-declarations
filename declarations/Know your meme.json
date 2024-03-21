@@ -1,1 +1,9 @@
-{"name":"Know Your Meme","documents":{"Terms of Service":{"fetch":"https://knowyourmeme.com/terms-of-service","select":"body"}}}
+{
+  "name": "Know your meme",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://knowyourmeme.com/terms-of-service",
+      "select": "body"
+    }
+  }
+}

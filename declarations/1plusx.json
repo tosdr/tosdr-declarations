@@ -1,1 +1,9 @@
-{"name":"1plusX ","documents":{"Privacy Policy":{"fetch":"https://www.1plusx.com/privacy-policy","select":"html > body > main"}}}
+{
+  "name": "1plusx",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.1plusx.com/privacy-policy",
+      "select": "html > body > main"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Amgen ","documents":{"Terms of Service":{"fetch":"https://www.amgen.com/terms-of-use","select":"html > body > div:nth-of-type(9) > div > div > div"}}}
+{
+  "name": "Amgen",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.amgen.com/terms-of-use",
+      "select": "html > body > div:nth-of-type(9) > div > div > div"
+    }
+  }
+}

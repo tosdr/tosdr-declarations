@@ -1,1 +1,9 @@
-{"name":"Muffin’s Milkers","documents":{"Privacy Policy":{"fetch":"https://muffinsmilkers.com/Info/PrivacyPolicy","select":"body"}}}
+{
+  "name": "Muffins milkers",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://muffinsmilkers.com/Info/PrivacyPolicy",
+      "select": "body"
+    }
+  }
+}

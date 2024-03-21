@@ -1,1 +1,8 @@
-{"name":"VLR.GG","documents":{"Privacy Policy":{"fetch":"https://www.vlr.gg/privacy"}}}
+{
+  "name": "Vlrgg",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.vlr.gg/privacy"
+    }
+  }
+}

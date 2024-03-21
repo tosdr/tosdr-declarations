@@ -1,1 +1,13 @@
-{"name":"WALMART FAMILY MOBILE","documents":{"Terms of Service":{"fetch":"https://www.myfamilymobile.com/termsandconditions","select":"body"}}}
+{
+  "name": "Walmart family mobile",
+  "documents": {
+    "Policy": {
+      "fetch": "http://www.tfwunlockpolicy.com/?lang=en",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.myfamilymobile.com/termsandconditions",
+      "select": "body"
+    }
+  }
+}

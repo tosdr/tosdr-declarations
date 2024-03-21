@@ -1,1 +1,14 @@
-{"name":"QuestionCove","documents":{"Privacy Policy":{"fetch":"https://questioncove.com/privacy-policy"},"Terms of Service":{"fetch":"https://questioncove.com/terms-and-conditions"},"Frequently Asked Questions":{"fetch":"https://questioncove.com/faq"}}}
+{
+  "name": "Questioncove",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://questioncove.com/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://questioncove.com/rules"
+    },
+    "Frequently Asked Questions": {
+      "fetch": "https://questioncove.com/faq"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":"VICIdial ","documents":{"Privacy Policy":{"fetch":"https://www.vicidial.com/?page_id=495"}}}
+{
+  "name": "Vicidial",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.vicidial.com/?page_id=495"
+    }
+  }
+}

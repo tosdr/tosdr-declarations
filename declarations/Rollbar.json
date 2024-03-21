@@ -1,1 +1,12 @@
-{"name":"Rollbar ","documents":{"Terms of Service":{"fetch":"https://docs.rollbar.com/docs/terms-of-service"},"Privacy Policy":{"fetch":"https://docs.rollbar.com/docs/privacy-policy","select":"body"}}}
+{
+  "name": "Rollbar",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://docs.rollbar.com/docs/terms-of-service"
+    },
+    "Privacy Policy": {
+      "fetch": "https://docs.rollbar.com/docs/privacy-policy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"XtraMath ","documents":{"Privacy Policy":{"fetch":"https://cdn0.xtramath.org/docs/en/privacy-policy.pdf","select":"body"}}}
+{
+  "name": "Xtramath",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://cdn0.xtramath.org/docs/en/privacy-policy.pdf",
+      "select": "body"
+    }
+  }
+}

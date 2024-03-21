@@ -1,1 +1,13 @@
-{"name":"freecreditreport.com","documents":{"Privacy Policy":{"fetch":"http://www.freecreditreport.com/help/privacy-policy","select":"body"},"Terms of Service":{"fetch":"http://www.freecreditreport.com/help/terms-and-conditions","select":"body"}}}
+{
+  "name": "Freecreditreportcom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "http://www.freecreditreport.com/help/privacy-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "http://www.freecreditreport.com/help/terms-and-conditions",
+      "select": "body"
+    }
+  }
+}

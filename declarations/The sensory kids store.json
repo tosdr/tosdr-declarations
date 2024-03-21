@@ -1,1 +1,9 @@
-{"name":"The Sensory Kids Store","documents":{"Privacy Policy":{"fetch":"https://www.sensorykidstore.com/service/privacy-policy/","select":"html > body > div:nth-of-type(2) > section"}}}
+{
+  "name": "The sensory kids store",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sensorykidstore.com/service/privacy-policy/",
+      "select": "html > body > div:nth-of-type(2) > section"
+    }
+  }
+}

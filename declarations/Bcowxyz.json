@@ -1,1 +1,13 @@
-{"name":"bcow.xyz","documents":{"Privacy Policy":{"fetch":"https://bcow.xyz/legal/privacy/","select":"body"},"Terms of Service":{"fetch":"https://bcow.xyz/legal/terms/","select":"body"}}}
+{
+  "name": "Bcowxyz",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://bcow.xyz/legal/privacy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://bcow.xyz/legal/terms/",
+      "select": "body"
+    }
+  }
+}

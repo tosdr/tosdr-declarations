@@ -1,1 +1,11 @@
-{"name":"Matomo","documents":{"Privacy Policy":{"fetch":"https://matomo.org/matomo-cloud-dpa/"},"Terms of Service":{"fetch":"https://matomo.org/matomo-cloud-terms-of-service/"}}}
+{
+  "name": "Matomo",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://matomo.org/matomo-cloud-dpa/"
+    },
+    "Terms of Service": {
+      "fetch": "https://matomo.org/matomo-cloud-terms-of-service/"
+    }
+  }
+}

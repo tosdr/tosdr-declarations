@@ -1,1 +1,9 @@
-{"name":"Money Lover ","documents":{"Privacy Policy":{"fetch":"https://moneylover.me/policy/","select":"body"}}}
+{
+  "name": "Money lover",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://moneylover.me/policy/",
+      "select": "body"
+    }
+  }
+}

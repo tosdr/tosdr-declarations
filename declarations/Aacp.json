@@ -1,1 +1,9 @@
-{"name":"AACP","documents":{"Privacy Policy":{"fetch":"https://www.aacfp.org/ams/legal-privacy.htm","select":"body"}}}
+{
+  "name": "Aacp",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.aacfp.org/ams/legal-privacy.htm",
+      "select": "body"
+    }
+  }
+}

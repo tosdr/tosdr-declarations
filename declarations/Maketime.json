@@ -1,1 +1,9 @@
-{"name":"Maketime","documents":{"Privacy Policy":{"fetch":"https://maketime.online/privacy.html","select":"body"}}}
+{
+  "name": "Maketime",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://maketime.online/privacy.html",
+      "select": "body"
+    }
+  }
+}

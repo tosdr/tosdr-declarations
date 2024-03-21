@@ -1,1 +1,0 @@
-{"name":"~Vern","documents":{"Privacy Policy":{"fetch":"https://libremdb.vern.cc/privacy","select":"body"},"Legal Information":{"fetch":"https://vern.cc/en/tos.html","select":"body"},"Terms of Service":{"fetch":"https://vern.cc/rules","select":"body"},"Copyright Claims Policy":{"fetch":"https://gothub.vern.cc/","select":"html > body > main"}}}

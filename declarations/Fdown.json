@@ -1,1 +1,9 @@
-{"name":"FDOWN ","documents":{"Privacy Policy":{"fetch":"https://www.fdown.net/privacy.php","select":"body"}}}
+{
+  "name": "Fdown",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.fdown.net/privacy.php",
+      "select": "body"
+    }
+  }
+}

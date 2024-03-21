@@ -1,1 +1,9 @@
-{"name":"Scrolller.com","documents":{"Privacy Policy":{"fetch":"https://scrolller.com/about","select":"body"}}}
+{
+  "name": "Scrolllercom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://scrolller.com/about",
+      "select": "body"
+    }
+  }
+}

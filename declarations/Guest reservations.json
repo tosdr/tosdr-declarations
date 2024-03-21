@@ -1,1 +1,13 @@
-{"name":"Guest Reservations","documents":{"Terms of Service":{"fetch":"https://www.guestreservations.com/about/termsofuse","select":"html > body > div:first-of-type > main > div > div:nth-of-type(2) > div"},"Privacy Policy":{"fetch":"https://www.guestreservations.com/about/privacy","select":"html > body > div:first-of-type > main > div > div:nth-of-type(2) > div"}}}
+{
+  "name": "Guest reservations",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.guestreservations.com/about/termsofuse",
+      "select": "html > body > div:first-of-type > main > div > div:nth-of-type(2) > div"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.guestreservations.com/about/privacy",
+      "select": "html > body > div:first-of-type > main > div > div:nth-of-type(2) > div"
+    }
+  }
+}

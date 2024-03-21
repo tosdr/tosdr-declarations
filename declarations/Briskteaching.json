@@ -1,1 +1,9 @@
-{"name":"Briskteaching","documents":{"Privacy Policy":{"fetch":"https://www.briskteaching.com/privacypolicy","select":"body"}}}
+{
+  "name": "Briskteaching",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.briskteaching.com/privacypolicy",
+      "select": "body"
+    }
+  }
+}

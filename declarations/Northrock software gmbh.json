@@ -1,1 +1,9 @@
-{"name":"NorthRock software GmbH","documents":{"Privacy Policy":{"fetch":"https://northrock.software/privacy/","select":"body"}}}
+{
+  "name": "Northrock software gmbh",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://northrock.software/privacy/",
+      "select": "body"
+    }
+  }
+}

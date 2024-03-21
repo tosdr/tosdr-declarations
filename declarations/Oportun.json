@@ -1,1 +1,9 @@
-{"name":"Oportun","documents":{"Privacy Policy":{"fetch":"https://digit.co/privacy","select":"body"}}}
+{
+  "name": "Oportun",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://digit.co/privacy",
+      "select": "body"
+    }
+  }
+}

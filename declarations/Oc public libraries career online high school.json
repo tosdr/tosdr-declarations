@@ -1,1 +1,13 @@
-{"name":"OC Public Libraries Career Online High School","documents":{"Privacy Policy":{"fetch":"https://ocplca.mycareerhs.com/privacy-notice","select":"body"}}}
+{
+  "name": "Oc public libraries career online high school",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://ocplca.mycareerhs.com/conditions-of-use",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://ocplca.mycareerhs.com/privacy-notice",
+      "select": "body"
+    }
+  }
+}

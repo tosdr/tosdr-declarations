@@ -1,1 +1,13 @@
-{"name":"Powerup Toys","documents":{"General Conditions of Sale":{"fetch":"https://www.poweruptoys.com/pages/shipping-and-return-policies","select":"body"},"Terms of Service":{"fetch":"https://www.poweruptoys.com/pages/copyright-policy","select":"body"}}}
+{
+  "name": "Powerup toys",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://www.poweruptoys.com/pages/shipping-and-return-policies",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.poweruptoys.com/pages/copyright-policy",
+      "select": "body"
+    }
+  }
+}

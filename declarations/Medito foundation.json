@@ -1,1 +1,13 @@
-{"name":"Medito Foundation","documents":{"Terms of Service":{"fetch":"https://meditofoundation.org/terms-of-service","select":"body"},"Privacy Policy":{"fetch":"https://meditofoundation.org/privacy","select":"body"}}}
+{
+  "name": "Medito foundation",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://meditofoundation.org/terms-of-service",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://meditofoundation.org/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"WxSocial","documents":{"Terms of Service":{"fetch":"https://wxsocial.app/terms/","select":"body"},"Privacy Policy":{"fetch":"https://wxsocial.app/privacy/","select":"body"}}}
+{
+  "name": "Wxsocial",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://wxsocial.app/terms/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://wxsocial.app/privacy/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Vultr","documents":{}}
+{
+  "name": "Vultr",
+  "documents": {
+    "Service Level Agreement": {
+      "fetch": "https://www.vultr.com/legal/sla/",
+      "select": "body"
+    }
+  }
+}

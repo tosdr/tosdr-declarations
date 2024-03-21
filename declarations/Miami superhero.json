@@ -1,1 +1,14 @@
-{"name":"Miami Superhero","documents":{"Terms of Service":{"fetch":"https://miamisuperhero.com/terms-of-use"},"General Conditions of Sale":{"fetch":"https://miamisuperhero.com/refund-policy"},"Privacy Policy":{"fetch":"https://miamisuperhero.com/privacy-policy"}}}
+{
+  "name": "Miami superhero",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://miamisuperhero.com/terms-of-use"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://miamisuperhero.com/refund-policy"
+    },
+    "Privacy Policy": {
+      "fetch": "https://miamisuperhero.com/privacy-policy"
+    }
+  }
+}

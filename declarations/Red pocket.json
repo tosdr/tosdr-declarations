@@ -1,1 +1,9 @@
-{"name":"Red Pocket","documents":{"General Conditions of Sale":{"fetch":"https://www.redpocket.com/return-policy","select":"body"}}}
+{
+  "name": "Red pocket",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://www.redpocket.com/return-policy",
+      "select": "body"
+    }
+  }
+}

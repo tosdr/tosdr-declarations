@@ -1,1 +1,9 @@
-{"name":"Straight Talk","documents":{"Terms of Service":{"fetch":"https://www.straighttalk.com/support/terms-conditions","select":"body"}}}
+{
+  "name": "Straight talk",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.straighttalk.com/support/terms-conditions",
+      "select": "body"
+    }
+  }
+}

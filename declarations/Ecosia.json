@@ -1,1 +1,9 @@
-{"name":"Ecosia","documents":{"Terms of Service":{"fetch":"https://docs.google.com/a/ecosia.org/document/d/1x31-MsVMcl17dK3k80IRPxIj5ZKQEHZPXRhU01H_Xfw/pub","select":"html > body > div:nth-of-type(2) > div"}}}
+{
+  "name": "Ecosia",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://docs.google.com/a/ecosia.org/document/d/1x31-MsVMcl17dK3k80IRPxIj5ZKQEHZPXRhU01H_Xfw/pub",
+      "select": "html > body > div:nth-of-type(2) > div"
+    }
+  }
+}

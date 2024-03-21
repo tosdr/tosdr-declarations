@@ -1,1 +1,9 @@
-{"name":"D-Wave","documents":{"Terms of Service":{"fetch":"https://www.dwavesys.com/terms-and-conditions/","select":"body"}}}
+{
+  "name": "Dwave",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.dwavesys.com/terms-and-conditions/",
+      "select": "body"
+    }
+  }
+}

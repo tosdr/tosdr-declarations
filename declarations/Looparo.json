@@ -1,1 +1,9 @@
-{"name":"Looparo","documents":{}}
+{
+  "name": "Looparo",
+  "documents": {
+    "Other": {
+      "fetch": "https://looparo.com/integrity-and-privacypolicy/",
+      "select": "#privacy-definitions"
+    }
+  }
+}

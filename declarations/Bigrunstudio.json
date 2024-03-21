@@ -1,1 +1,13 @@
-{"name":"BigRunStudio","documents":{"Terms of Service":{"fetch":"https://bigrunstudios.com/tos.html","select":"body"},"Privacy Policy":{"fetch":"https://bigrunstudios.com/privacy.html","select":"body"}}}
+{
+  "name": "Bigrunstudio",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://bigrunstudios.com/tos.html",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://bigrunstudios.com/privacy.html",
+      "select": "body"
+    }
+  }
+}

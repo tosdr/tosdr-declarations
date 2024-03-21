@@ -1,1 +1,9 @@
-{"name":"Appuals ","documents":{"Terms of Service":{"fetch":"https://appuals.com/terms-conditions/","select":"body"}}}
+{
+  "name": "Appuals",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://appuals.com/terms-conditions/",
+      "select": "body"
+    }
+  }
+}

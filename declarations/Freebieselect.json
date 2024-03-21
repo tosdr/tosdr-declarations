@@ -1,1 +1,9 @@
-{"name":"FreebieSelect ","documents":{"Privacy Policy":{"fetch":"https://enter.freebieselect.com/privacy-policy-2","select":"body"}}}
+{
+  "name": "Freebieselect",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://enter.freebieselect.com/privacy-policy-2",
+      "select": "body"
+    }
+  }
+}

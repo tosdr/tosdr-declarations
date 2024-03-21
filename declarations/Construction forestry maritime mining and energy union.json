@@ -1,1 +1,8 @@
-{"name":"Construction Forestry Maritime Mining And Energy Union ","documents":{"Privacy Policy":{"fetch":"https://www.cfmmeu.org.au/privacy-policy"}}}
+{
+  "name": "Construction forestry maritime mining and energy union",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.cfmmeu.org.au/privacy-policy"
+    }
+  }
+}

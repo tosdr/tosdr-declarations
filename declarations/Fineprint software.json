@@ -1,1 +1,8 @@
-{"name":"FinePrint Software","documents":{"Privacy Policy":{"fetch":"https://fineprint.com/company/policies/"}}}
+{
+  "name": "Fineprint software",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://fineprint.com/company/policies/"
+    }
+  }
+}

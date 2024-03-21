@@ -1,1 +1,9 @@
-{"name":"Blocktrainer","documents":{"Privacy Policy":{"fetch":"https://www.blocktrainer.de/datenschutz/","select":"body"}}}
+{
+  "name": "Blocktrainer",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.blocktrainer.de/datenschutz/",
+      "select": "body"
+    }
+  }
+}

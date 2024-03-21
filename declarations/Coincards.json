@@ -1,1 +1,13 @@
-{"name":"COINCARDS","documents":{"Privacy Policy":{"fetch":"https://coincards.com/privacy-policy/","select":"html > body > div:first-of-type > div"},"Trackers Policy":{"fetch":"https://www.iubenda.com/privacy-policy/84207070/cookie-policy","select":"body"}}}
+{
+  "name": "Coincards",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://coincards.com/privacy-policy/",
+      "select": "html > body > div:first-of-type > div"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.iubenda.com/privacy-policy/84207070/cookie-policy",
+      "select": "body"
+    }
+  }
+}

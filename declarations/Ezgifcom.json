@@ -1,1 +1,8 @@
-{"name":"EZGIF.COM","documents":{"Trackers Policy":{"fetch":"https://ezgif.com/privacy"}}}
+{
+  "name": "Ezgifcom",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://ezgif.com/privacy"
+    }
+  }
+}

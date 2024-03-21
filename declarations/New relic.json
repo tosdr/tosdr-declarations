@@ -1,1 +1,13 @@
-{"name":"New Relic","documents":{"Trackers Policy":{"fetch":"https://newrelic.com/termsandconditions/cookie-policy","select":"body"},"Terms of Service":{"fetch":"https://newrelic.com/termsandconditions/terms","select":"body"}}}
+{
+  "name": "New relic",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://newrelic.com/termsandconditions/cookie-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://newrelic.com/termsandconditions/terms",
+      "select": "body"
+    }
+  }
+}

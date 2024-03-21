@@ -1,1 +1,11 @@
-{"name":"AnswersToAll","documents":{"Privacy Policy":{"fetch":"https://answerstoall.com/privacy-policy/"},"Terms of Service":{"fetch":"https://answerstoall.com/terms-and-conditions/"}}}
+{
+  "name": "Answerstoall",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://answerstoall.com/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://answerstoall.com/terms-and-conditions/"
+    }
+  }
+}

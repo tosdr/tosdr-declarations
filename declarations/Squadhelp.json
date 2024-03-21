@@ -1,1 +1,9 @@
-{"name":"Squadhelp ","documents":{"Privacy Policy":{"fetch":"https://www.squadhelp.com/privacy-policy","select":"html > body > section:first-of-type > div"}}}
+{
+  "name": "Squadhelp",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.squadhelp.com/privacy-policy",
+      "select": "html > body > section:first-of-type > div"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"NameMC","documents":{"Privacy Policy":{"fetch":"https://namemc.com/privacy","select":"html > body > main"}}}
+{
+  "name": "Namemc",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://namemc.com/privacy",
+      "select": "html > body > main"
+    }
+  }
+}

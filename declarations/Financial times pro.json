@@ -1,1 +1,9 @@
-{"name":"Financial Times Pro","documents":{"Privacy Policy":{"fetch":"https://financialtimespro.com/privacy","select":"body"}}}
+{
+  "name": "Financial times pro",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://financialtimespro.com/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"POWR","documents":{"Terms of Service":{"fetch":"https://www.powr.io/terms","select":"body"}}}
+{
+  "name": "Powr",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.powr.io/terms",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Vogel","documents":{"Privacy Policy":{"fetch":"https://www.vogelme.com/privacy-policy","select":"body"}}}
+{
+  "name": "Vogel",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.vogelme.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

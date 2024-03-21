@@ -1,1 +1,17 @@
-{"name":"FamilyTreeDNA","documents":{"General Conditions of Sale":{"fetch":"https://www.familytreedna.com/legal/refund-policy"},"Trackers Policy":{"fetch":"https://www.familytreedna.com/legal/cookie-policy"},"Privacy Policy":{"fetch":"https://www.familytreedna.com/legal/privacy-statement"},"Terms of Service":{"fetch":"https://www.familytreedna.com/legal/terms-of-service"}}}
+{
+  "name": "Familytreedna",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://www.familytreedna.com/legal/refund-policy"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.familytreedna.com/legal/cookie-policy"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.familytreedna.com/legal/privacy-statement"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.familytreedna.com/legal/terms-of-service"
+    }
+  }
+}

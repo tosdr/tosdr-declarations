@@ -1,1 +1,13 @@
-{"name":"PostHog","documents":{"Privacy Policy":{"fetch":"https://posthog.com/privacy","select":"html > body > div:first-of-type > div:first-of-type > main"},"Terms of Service":{"fetch":"https://posthog.com/terms","select":"html > body > div:first-of-type > div:first-of-type > main"}}}
+{
+  "name": "Posthog",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://posthog.com/privacy",
+      "select": "html > body > div:first-of-type > div:first-of-type > main"
+    },
+    "Terms of Service": {
+      "fetch": "https://posthog.com/terms",
+      "select": "html > body > div:first-of-type > div:first-of-type > main"
+    }
+  }
+}

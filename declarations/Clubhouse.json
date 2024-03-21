@@ -1,1 +1,9 @@
-{"name":"Clubhouse","documents":{"Privacy Policy":{"fetch":"https://www.notion.so/Privacy-Policy-cd4b415950204a46819478b31f6ce14f","select":"body"}}}
+{
+  "name": "Clubhouse",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.notion.so/Privacy-Policy-cd4b415950204a46819478b31f6ce14f",
+      "select": "body"
+    }
+  }
+}

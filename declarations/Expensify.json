@@ -1,1 +1,9 @@
-{"name":"Expensify","documents":{"Terms of Service":{"fetch":"https://use.expensify.com/terms","select":"body"}}}
+{
+  "name": "Expensify",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://use.expensify.com/terms",
+      "select": "body"
+    }
+  }
+}

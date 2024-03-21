@@ -1,1 +1,11 @@
-{"name":"Tizen Project","documents":{"Privacy Policy":{"fetch":"https://www.tizen.org/about/privacy-policy"},"Terms of Service":{"fetch":"https://www.tizen.org/about/terms-service"}}}
+{
+  "name": "Tizen project",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.tizen.org/about/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.tizen.org/about/terms-service"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":"4chan","documents":{}}
+{
+  "name": "4chan",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://4chan.org/rules"
+    }
+  }
+}

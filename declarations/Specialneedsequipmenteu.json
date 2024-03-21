@@ -1,1 +1,11 @@
-{"name":"specialneedsequipment.eu","documents":{"General Conditions of Sale":{"fetch":"https://specialneedsequipment.eu/page/1/product-replacement.html"},"Terms of Service":{"fetch":"https://specialneedsequipment.eu/page/5/terms-conditions.html"},"Privacy Policy":{"fetch":"https://specialneedsequipment.eu/page/4/privacy-policy.html"}}}
+{
+  "name": "Specialneedsequipmenteu",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://specialneedsequipment.eu/page/4/privacy-policy.html"
+    },
+    "Terms of Service": {
+      "fetch": "https://specialneedsequipment.eu/page/5/terms-conditions.html"
+    }
+  }
+}

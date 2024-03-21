@@ -1,1 +1,11 @@
-{"name":"Adblock Plus","documents":{"Terms of Service":{"fetch":"https://adblockplus.org/en/terms"},"Privacy Policy":{"fetch":"https://adblockplus.org/en/privacy"}}}
+{
+  "name": "Adblock plus",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://adblockplus.org/en/terms"
+    },
+    "Privacy Policy": {
+      "fetch": "https://adblockplus.org/en/privacy"
+    }
+  }
+}

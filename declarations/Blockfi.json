@@ -1,1 +1,9 @@
-{"name":"Blockfi","documents":{"Privacy Policy":{"fetch":"https://blockfi.com/privacy/","select":"body"}}}
+{
+  "name": "Blockfi",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://blockfi.com/privacy/",
+      "select": "body"
+    }
+  }
+}

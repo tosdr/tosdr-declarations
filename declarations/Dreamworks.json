@@ -1,1 +1,13 @@
-{"name":"dreamworks ","documents":{"Privacy Policy":{"fetch":"https://www.dreamworks.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.dreamworks.com/terms-of-use","select":"body"}}}
+{
+  "name": "Dreamworks",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.dreamworks.com/privacy-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.dreamworks.com/terms-of-use",
+      "select": "body"
+    }
+  }
+}

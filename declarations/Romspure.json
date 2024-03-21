@@ -1,1 +1,15 @@
-{"name":"ROMSPURE","documents":{"Privacy Policy":{"fetch":"https://romspure.com/privacy-policy/"},"Terms of Service":{"fetch":"https://romspure.com/terms-of-use/"},"Copyright Claims Policy":{"fetch":"https://romspure.com/disclaimer/","select":"html > body > div:first-of-type > div > div:nth-of-type(2) > div > main > div"}}}
+{
+  "name": "Romspure",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://romspure.com/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://romspure.com/terms-of-use/"
+    },
+    "Legal Information": {
+      "fetch": "https://romspure.com/disclaimer/",
+      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > div > main > div"
+    }
+  }
+}

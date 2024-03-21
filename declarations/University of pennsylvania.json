@@ -1,1 +1,8 @@
-{"name":"University of Pennsylvania","documents":{"Privacy Policy":{"fetch":"https://www.upenn.edu/about/privacy-policy"}}}
+{
+  "name": "University of pennsylvania",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.upenn.edu/about/privacy-policy"
+    }
+  }
+}

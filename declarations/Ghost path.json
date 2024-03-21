@@ -1,1 +1,9 @@
-{"name":"Ghost Path ","documents":{"Terms of Service":{"fetch":"https://ghostpath.com/terms","select":"body"}}}
+{
+  "name": "Ghost path",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://ghostpath.com/terms",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"TTS Monster","documents":{"Terms of Service":{"fetch":"https://tts.monster/static/terms","select":"body"}}}
+{
+  "name": "Tts monster",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://tts.monster/static/terms",
+      "select": "body"
+    }
+  }
+}

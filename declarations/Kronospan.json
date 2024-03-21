@@ -1,1 +1,9 @@
-{"name":"Kronospan","documents":{"Privacy Policy":{"fetch":"https://www.kronospan-worldwide.com/privacy/","select":"body"}}}
+{
+  "name": "Kronospan",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.kronospan-worldwide.com/privacy/",
+      "select": "body"
+    }
+  }
+}

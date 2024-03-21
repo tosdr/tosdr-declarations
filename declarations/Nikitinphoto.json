@@ -1,1 +1,9 @@
-{"name":"nikitin.photo","documents":{"Privacy Policy":{"fetch":"https://www.nikitin.photo/privacy/","select":"html > body > div:first-of-type"}}}
+{
+  "name": "Nikitinphoto",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.nikitin.photo/privacy/",
+      "select": "html > body > div:first-of-type"
+    }
+  }
+}

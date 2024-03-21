@@ -1,1 +1,9 @@
-{"name":"INHOPE Association","documents":{"Privacy Policy":{"fetch":"https://www.inhope.org/media/site/c852131a1b-1692193290/inhope.org_privacystatement_2023.pdf","select":"body"}}}
+{
+  "name": "Inhope association",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.inhope.org/media/site/c852131a1b-1692193290/inhope.org_privacystatement_2023.pdf",
+      "select": "body"
+    }
+  }
+}

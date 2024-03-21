@@ -1,1 +1,9 @@
-{"name":"kavin.rocks","documents":{"Privacy Policy":{"fetch":"https://invidious.kavin.rocks/privacy","select":"body"}}}
+{
+  "name": "Kavinrocks",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://invidious.kavin.rocks/privacy",
+      "select": "body"
+    }
+  }
+}

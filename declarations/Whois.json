@@ -1,1 +1,11 @@
-{"name":"Whois","documents":{"Frequently Asked Questions":{"fetch":"https://who.is/faq"},"Terms of Service":{"fetch":"https://who.is/terms"}}}
+{
+  "name": "Whois",
+  "documents": {
+    "Frequently Asked Questions": {
+      "fetch": "https://who.is/faq"
+    },
+    "Terms of Service": {
+      "fetch": "https://who.is/terms"
+    }
+  }
+}

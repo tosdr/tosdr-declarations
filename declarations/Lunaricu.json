@@ -1,1 +1,13 @@
-{"name":"Lunar.ICU","documents":{"Other":{"fetch":"https://max.srl/impressum-datenschutz.html","select":"body"},"Privacy Policy":{"fetch":"https://quetre.lunar.icu/privacy","select":"body"}}}
+{
+  "name": "Lunaricu",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://quetre.lunar.icu/privacy",
+      "select": "body"
+    },
+    "Other": {
+      "fetch": "https://invidious.lunar.icu/privacy",
+      "select": "body"
+    }
+  }
+}

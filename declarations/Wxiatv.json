@@ -1,1 +1,9 @@
-{"name":" WXIA-TV","documents":{"Privacy Policy":{"fetch":"https://www.11alive.com/privacy","select":"body"}}}
+{
+  "name": "Wxiatv",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.11alive.com/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"ad-zip","documents":{"Terms of Service":{"fetch":"https://oa.ad-zip.com/terms","select":"body"},"Privacy Policy":{"fetch":"https://oa.ad-zip.com/privacy","select":"body"}}}
+{
+  "name": "Adzip",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://oa.ad-zip.com/terms",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://oa.ad-zip.com/privacy",
+      "select": "body"
+    }
+  }
+}

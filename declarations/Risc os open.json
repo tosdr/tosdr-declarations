@@ -1,1 +1,8 @@
-{"name":"RISC OS Open","documents":{"Privacy Policy":{"fetch":"https://www.riscosopen.org/content/documents/privacy"}}}
+{
+  "name": "Risc os open",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.riscosopen.org/content/documents/privacy"
+    }
+  }
+}

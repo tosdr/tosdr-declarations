@@ -1,1 +1,9 @@
-{"name":"Joinup","documents":{"Legal Information":{"fetch":"https://joinup.ec.europa.eu/joinup/legal-notice","select":"div"}}}
+{
+  "name": "Joinup",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://joinup.ec.europa.eu/joinup/legal-notice",
+      "select": "div"
+    }
+  }
+}

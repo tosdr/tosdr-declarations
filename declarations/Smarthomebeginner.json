@@ -1,1 +1,9 @@
-{"name":"smarthomebeginner","documents":{"Privacy Policy":{"fetch":"https://www.smarthomebeginner.com/about/privacy-policy/","select":"body"}}}
+{
+  "name": "Smarthomebeginner",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.smarthomebeginner.com/about/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

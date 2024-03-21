@@ -1,1 +1,9 @@
-{"name":"The Atlas Society","documents":{"Privacy Policy":{"fetch":"https://www.atlassociety.org/privacy-notice","select":"body"}}}
+{
+  "name": "The atlas society",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.atlassociety.org/privacy-notice",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"Folding@home Forum ","documents":{"Privacy Policy":{"fetch":"https://foldingforum.org/ucp.php?mode=privacy","select":"body"},"Terms of Service":{"fetch":"https://foldingforum.org/ucp.php?mode=terms","select":"body"}}}
+{
+  "name": "Foldinghome forum",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://foldingforum.org/ucp.php?mode=privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://foldingforum.org/ucp.php?mode=terms",
+      "select": "body"
+    }
+  }
+}

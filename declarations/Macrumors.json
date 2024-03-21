@@ -1,1 +1,9 @@
-{"name":"MacRumors","documents":{"Privacy Policy":{"fetch":"https://www.macrumors.com/privacydmca.html","select":"html > body"}}}
+{
+  "name": "Macrumors",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.macrumors.com/privacydmca.html",
+      "select": "html > body"
+    }
+  }
+}

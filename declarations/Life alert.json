@@ -1,1 +1,9 @@
-{"name":"Life Alert","documents":{"Privacy Policy":{"fetch":"https://lifealerthelp.com/privacypolicy.aspx","select":"body"}}}
+{
+  "name": "Life alert",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://lifealerthelp.com/privacypolicy.aspx",
+      "select": "body"
+    }
+  }
+}

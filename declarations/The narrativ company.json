@@ -1,1 +1,9 @@
-{"name":"The Narrativ Company ","documents":{"Terms of Service":{"fetch":"https://narrativ.com/legal/msa/","select":"body"}}}
+{
+  "name": "The narrativ company",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://narrativ.com/legal/msa/",
+      "select": "body"
+    }
+  }
+}

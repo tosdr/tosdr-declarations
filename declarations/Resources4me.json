@@ -1,1 +1,9 @@
-{"name":"Resources4me ","documents":{"Privacy Policy":{"fetch":"https://resources4me.com/lp#/privacy","select":"body"}}}
+{
+  "name": "Resources4me",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://resources4me.com/lp#/privacy",
+      "select": "body"
+    }
+  }
+}

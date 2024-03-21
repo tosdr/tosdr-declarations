@@ -1,1 +1,8 @@
-{"name":"THE GOOGLE CEMETERY","documents":{"Privacy Policy":{"fetch":"https://gcemetery.co/privacy-policy/"}}}
+{
+  "name": "The google cemetery",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://gcemetery.co/privacy-policy/"
+    }
+  }
+}

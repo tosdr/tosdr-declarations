@@ -1,1 +1,13 @@
-{"name":"FlowCV","documents":{"Privacy Policy":{"fetch":"https://flowcv.io/privacy-policy","select":"html > body > div:first-of-type > main"},"Terms of Service":{"fetch":"https://flowcv.com/terms-of-service","select":"html > body > div:first-of-type > main"}}}
+{
+  "name": "Flowcv",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://flowcv.io/privacy-policy",
+      "select": "html > body > div:first-of-type > main"
+    },
+    "Terms of Service": {
+      "fetch": "https://flowcv.com/terms-of-service",
+      "select": "html > body > div:first-of-type > main"
+    }
+  }
+}

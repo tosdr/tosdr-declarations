@@ -1,1 +1,9 @@
-{"name":"Weber","documents":{"Trackers Policy":{"fetch":"https://www.weber.com/US/en/privacypolicy.html","select":"body"}}}
+{
+  "name": "Weber",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.weber.com/US/en/privacypolicy.html",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Cleetus Mcfarland","documents":{"Privacy Policy":{"fetch":"https://www.cleetusmcfarland.com/policies/privacy-policy","select":"body"}}}
+{
+  "name": "Cleetus mcfarland",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.cleetusmcfarland.com/policies/privacy-policy",
+      "select": "body"
+    }
+  }
+}

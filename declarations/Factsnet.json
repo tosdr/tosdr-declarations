@@ -1,1 +1,9 @@
-{"name":"facts.net","documents":{"Terms of Service":{"fetch":"https://facts.net/terms","select":"body"}}}
+{
+  "name": "Factsnet",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://facts.net/terms",
+      "select": "body"
+    }
+  }
+}

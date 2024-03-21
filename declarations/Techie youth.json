@@ -1,1 +1,9 @@
-{"name":"Techie Youth","documents":{"Terms of Service":{"fetch":"https://www.techieyouth.org/tos#tos","select":"body"}}}
+{
+  "name": "Techie youth",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.techieyouth.org/tos#tos",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,16 @@
-{"name":"Warby Parker","documents":{"Privacy Policy":{"fetch":"https://www.warbyparker.com/notice-of-privacy-practices"},"Terms of Service":{"fetch":"https://www.warbyparker.com/terms-of-use","select":"html > body > div:nth-of-type(2) > div > main > div"}}}
+{
+  "name": "Warby parker",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.warbyparker.com/privacy-policy",
+      "select": "html > body > div:nth-of-type(2) > div > main > div > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.warbyparker.com/terms-of-use",
+      "select": "html > body > div:nth-of-type(2) > div > main > div"
+    },
+    "Legal Information": {
+      "fetch": "https://www.warbyparker.com/notice-of-privacy-practices"
+    }
+  }
+}

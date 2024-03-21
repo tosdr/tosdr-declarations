@@ -1,1 +1,13 @@
-{"name":"Computer Science Wiki","documents":{"Terms of Service":{"fetch":"https://common.computersciencewiki.org/terms.php","select":"body"},"Privacy Policy":{"fetch":"https://common.computersciencewiki.org/privacy.php","select":"body"}}}
+{
+  "name": "Computer science wiki",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://common.computersciencewiki.org/terms.php",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://common.computersciencewiki.org/privacy.php",
+      "select": "body"
+    }
+  }
+}

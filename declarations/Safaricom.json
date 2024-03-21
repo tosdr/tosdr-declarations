@@ -1,1 +1,13 @@
-{"name":"Safari.com","documents":{"Privacy Policy":{"fetch":"https://www.safari.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.safari.com/terms-and-conditions","select":"body"}}}
+{
+  "name": "Safaricom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.safari.com/privacy-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.safari.com/terms-and-conditions",
+      "select": "body"
+    }
+  }
+}

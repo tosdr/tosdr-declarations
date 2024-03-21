@@ -1,1 +1,14 @@
-{"name":"British Airways","documents":{"Privacy Policy":{"fetch":"https://www.britishairways.com/en-ch/information/legal/privacy-policy","select":"#1526261596331"},"Terms of Service":{"fetch":"https://www.britishairways.com/en-ca/information/legal/website-terms-conditions"},"Trackers Policy":{"fetch":"https://www.britishairways.com/en-ca/information/legal/cookies"}}}
+{
+  "name": "British airways",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.britishairways.com/en-ca/information/legal/website-security"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.britishairways.com/en-ca/information/legal/website-terms-conditions"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.britishairways.com/en-ca/information/legal/cookies"
+    }
+  }
+}

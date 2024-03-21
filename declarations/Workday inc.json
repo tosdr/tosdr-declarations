@@ -1,1 +1,17 @@
-{"name":"Workday, Inc.","documents":{"Privacy Policy":{"fetch":"https://www.workday.com/en-us/privacy.html","select":"body"},"Terms of Service":{"fetch":"https://www.workday.com/en-us/legal/site-terms.html","select":"body"},"Review Guidelines":{"fetch":"https://www.workday.com/en-us/legal/notice-and-takedown-policy.html","select":"body"}}}
+{
+  "name": "Workday inc",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.workday.com/en-us/privacy.html",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.workday.com/en-us/legal/site-terms.html",
+      "select": "body"
+    },
+    "Legal Information": {
+      "fetch": "https://www.workday.com/en-us/legal/notice-and-takedown-policy.html",
+      "select": "body"
+    }
+  }
+}

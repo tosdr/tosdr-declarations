@@ -1,1 +1,9 @@
-{"name":"juramika.","documents":{"Privacy Policy":{"fetch":"https://juramika.ch/privacy-policy","select":"body"}}}
+{
+  "name": "Juramika",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://juramika.ch/privacy-policy",
+      "select": "body"
+    }
+  }
+}

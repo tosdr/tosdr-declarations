@@ -1,1 +1,8 @@
-{"name":"Marquette University","documents":{"Privacy Policy":{"fetch":"https://www.marquette.edu/tools/privacy.php"}}}
+{
+  "name": "Marquette university",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.marquette.edu/tools/privacy.php"
+    }
+  }
+}

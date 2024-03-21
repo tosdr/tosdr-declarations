@@ -1,1 +1,8 @@
-{"name":"CattleFax","documents":{"Privacy Policy":{"fetch":"https://www.cattlefax.com/#!/privacy-policy"}}}
+{
+  "name": "Cattlefax",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.cattlefax.com/#!/privacy-policy"
+    }
+  }
+}

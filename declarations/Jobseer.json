@@ -1,1 +1,9 @@
-{"name":"JobSeer","documents":{"Terms of Service":{"fetch":"https://jobseer.ai/policy/termsofuse","select":"body"}}}
+{
+  "name": "Jobseer",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://jobseer.ai/policy/termsofuse",
+      "select": "body"
+    }
+  }
+}

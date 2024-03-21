@@ -1,1 +1,9 @@
-{"name":"SchoolBlocks","documents":{"Privacy Policy":{"fetch":"https://www.schoolblocks.com/privacy-policy.html","select":"body"}}}
+{
+  "name": "Schoolblocks",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.schoolblocks.com/privacy-policy.html",
+      "select": "body"
+    }
+  }
+}

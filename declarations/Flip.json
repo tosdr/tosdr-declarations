@@ -1,1 +1,8 @@
-{"name":"Flip","documents":{"Privacy Policy":{"fetch":"https://info.flip.com/about/trust-and-safety/privacy-policy.html"}}}
+{
+  "name": "Flip",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://info.flip.com/about/trust-and-safety/privacy-policy.html"
+    }
+  }
+}

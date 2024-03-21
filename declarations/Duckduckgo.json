@@ -1,1 +1,9 @@
-{"name":"DuckDuckGo","documents":{"Privacy Policy":{"fetch":"https://duckduckgo.com/privacy","select":"div div"}}}
+{
+  "name": "Duckduckgo",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://duckduckgo.com/privacy",
+      "select": "div div"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"The FLORIDA Channel","documents":{"Privacy Policy":{"fetch":"https://thefloridachannel.org/privacy-policy/","select":"html > body > main > div > section"},"Trackers Policy":{"fetch":"https://thefloridachannel.org/about-tfc/cookie-policy/","select":"html > body > main > div > section"}}}
+{
+  "name": "The florida channel",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://thefloridachannel.org/privacy-policy/",
+      "select": "html > body > main > div > section"
+    },
+    "Trackers Policy": {
+      "fetch": "https://thefloridachannel.org/about-tfc/cookie-policy/",
+      "select": "html > body > main > div > section"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":"Sleep Foundation ","documents":{"Privacy Policy":{"fetch":"https://www.sleepfoundation.org/privacy-policy"}}}
+{
+  "name": "Sleep foundation",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sleepfoundation.org/privacy-policy"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Food Darzee","documents":{"Privacy Policy":{"fetch":"https://fooddarzee.com/privacy-policy","select":"body"}}}
+{
+  "name": "Food darzee",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://fooddarzee.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

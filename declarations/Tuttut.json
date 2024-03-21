@@ -1,1 +1,9 @@
-{"name":"Tut-Tut","documents":{"Privacy Policy":{"fetch":"https://www.tut-tut.org/TOS-PrivacyPolicy","select":"body"}}}
+{
+  "name": "Tuttut",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.tut-tut.org/TOS-PrivacyPolicy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Eastern Washington University","documents":{"Privacy Policy":{"fetch":"https://www.ewu.edu/privacy-policy/","select":"body"}}}
+{
+  "name": "Eastern washington university",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.ewu.edu/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

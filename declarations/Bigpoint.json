@@ -1,1 +1,9 @@
-{"name":"Bigpoint ","documents":{"Privacy Policy":{"fetch":"https://legal.bigpoint.com/DE/privacy-policy/en-GB","select":"body"}}}
+{
+  "name": "Bigpoint",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://legal.bigpoint.com/DE/privacy-policy/en-GB",
+      "select": "body"
+    }
+  }
+}

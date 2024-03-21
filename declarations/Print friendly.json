@@ -1,1 +1,13 @@
-{"name":"Print Friendly","documents":{"Privacy Policy":{"fetch":"https://www.printfriendly.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.printfriendly.com/terms","select":"body"}}}
+{
+  "name": "Print friendly",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.printfriendly.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.printfriendly.com/terms",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"zzzchan","documents":{"Frequently Asked Questions":{"fetch":"https://zzzchan.xyz/faq.html","select":"body"}}}
+{
+  "name": "Zzzchan",
+  "documents": {
+    "Frequently Asked Questions": {
+      "fetch": "https://zzzchan.xyz/faq.html",
+      "select": "body"
+    }
+  }
+}

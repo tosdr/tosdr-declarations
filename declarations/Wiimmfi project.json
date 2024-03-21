@@ -1,1 +1,8 @@
-{"name":"Wiimmfi Project","documents":{"Privacy Policy":{"fetch":"https://wiimmfi.de/privacy"}}}
+{
+  "name": "Wiimmfi project",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://wiimmfi.de/privacy"
+    }
+  }
+}

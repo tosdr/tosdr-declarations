@@ -1,1 +1,9 @@
-{"name":"Sierra Club","documents":{"Terms of Service":{"fetch":"https://www.sierraclub.org/terms","select":"body"}}}
+{
+  "name": "Sierra club",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.sierraclub.org/terms",
+      "select": "body"
+    }
+  }
+}

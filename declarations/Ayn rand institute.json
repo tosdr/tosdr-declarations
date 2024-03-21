@@ -1,1 +1,9 @@
-{"name":"Ayn Rand Institute","documents":{"Privacy Policy":{"fetch":"https://aynrand.org/privacy-policy/","select":"body"}}}
+{
+  "name": "Ayn rand institute",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://aynrand.org/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

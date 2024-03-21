@@ -1,1 +1,9 @@
-{"name":" Merger Investing","documents":{"Privacy Policy":{"fetch":"https://www.mergerinvesting.com/privacy.html","select":"body"}}}
+{
+  "name": "Merger investing",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.mergerinvesting.com/privacy.html",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Deflect","documents":{"Privacy Policy":{"fetch":"https://deflect.ca/privacy-notice/","select":"body"}}}
+{
+  "name": "Deflect",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://deflect.ca/privacy-notice/",
+      "select": "body"
+    }
+  }
+}

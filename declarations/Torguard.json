@@ -1,1 +1,18 @@
-{"name":"TorGuard","documents":{"Privacy Policy":{"fetch":"https://torguard.net/privacy.php"},"Terms of Service":{"fetch":"https://torguard.net/terms.php"},"Copyright Claims Policy":{"fetch":"https://torguard.net/dmca.php"}}}
+{
+  "name": "Torguard",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://torguard.net/privacy.php"
+    },
+    "Terms of Service": {
+      "fetch": "https://torguard.net/terms.php"
+    },
+    "Legal Information": {
+      "fetch": "https://torguard.net/export.php",
+      "select": "html > body > div > div:nth-of-type(2)"
+    },
+    "Copyright Claims Policy": {
+      "fetch": "https://torguard.net/dmca.php"
+    }
+  }
+}

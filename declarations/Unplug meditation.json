@@ -1,1 +1,13 @@
-{"name":"Unplug Meditation","documents":{"Privacy Policy":{"fetch":"https://www.unplug.com/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.unplug.com/terms-of-use","select":"body"}}}
+{
+  "name": "Unplug meditation",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.unplug.com/privacy-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.unplug.com/terms-of-use",
+      "select": "body"
+    }
+  }
+}

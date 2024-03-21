@@ -1,1 +1,8 @@
-{"name":"MathsIsFun","documents":{"Privacy Policy":{"fetch":"https://www.mathsisfun.com/Privacy.htm"}}}
+{
+  "name": "Mathsisfun",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.mathsisfun.com/Privacy.htm"
+    }
+  }
+}

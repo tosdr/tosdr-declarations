@@ -1,1 +1,9 @@
-{"name":"Netsweeper","documents":{"Privacy Policy":{"fetch":"https://www.netsweeper.com/policies-terms/privacy-policy","select":"body"}}}
+{
+  "name": "Netsweeper",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.netsweeper.com/policies-terms/privacy-policy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"TeacherVision","documents":{"Terms of Service":{"fetch":"https://www.teachervision.com/tv/membership-terms","select":"body"},"Privacy Policy":{"fetch":"https://www.teachervision.com/teachervision-privacy-policy","select":"body"}}}
+{
+  "name": "Teachervision",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.teachervision.com/tv/membership-terms",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.teachervision.com/teachervision-privacy-policy",
+      "select": "body"
+    }
+  }
+}

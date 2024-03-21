@@ -1,1 +1,9 @@
-{"name":"Extinction Rebellion","documents":{"Privacy Policy":{"fetch":"https://rebellion.global/privacy-policy/","select":"html > body > div:first-of-type > div > main"}}}
+{
+  "name": "Extinction rebellion",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://rebellion.global/privacy-policy/",
+      "select": "html > body > div:first-of-type > div > main"
+    }
+  }
+}

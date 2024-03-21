@@ -1,1 +1,9 @@
-{"name":"Nulled","documents":{"Terms of Service":{"fetch":"https://www.nulled.to/helpdocs?hid=tos","select":"body"}}}
+{
+  "name": "Nulled",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.nulled.to/helpdocs?hid=tos",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"All Results Web","documents":{"Privacy Policy":{"fetch":"https://www.allresultsweb.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.allresultsweb.com/terms","select":"body"}}}
+{
+  "name": "All results web",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.allresultsweb.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.allresultsweb.com/terms",
+      "select": "body"
+    }
+  }
+}

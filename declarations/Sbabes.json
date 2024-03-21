@@ -1,1 +1,9 @@
-{"name":"SBabes","documents":{"Privacy Policy":{"fetch":"https://members.sbabes.com/docs/privacy-policy","select":"body"},"Copyright Claims Policy":{"fetch":"https://members.sbabes.com/docs/dmca-copyright","select":"body"}}}
+{
+  "name": "Sbabes",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://members.sbabes.com/docs/dmca-copyright",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"REDARM","documents":{"Privacy Policy":{"fetch":"https://redarm.tech/privacy.html","select":"body"}}}
+{
+  "name": "Redarm",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://redarm.tech/privacy.html",
+      "select": "body"
+    }
+  }
+}

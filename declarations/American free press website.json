@@ -1,1 +1,12 @@
-{"name":" American Free Press Website","documents":{"Privacy Policy":{"fetch":"https://americanfreepress.net/privacy-policy/"},"Terms of Service":{"fetch":"https://americanfreepress.net/terms-of-service/","select":"body"}}}
+{
+  "name": "American free press website",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://americanfreepress.net/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://americanfreepress.net/terms-of-service/",
+      "select": "body"
+    }
+  }
+}

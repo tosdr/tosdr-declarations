@@ -1,1 +1,13 @@
-{"name":"Vivi International ","documents":{"Privacy Policy":{"fetch":"https://www.vivi.io/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.vivi.io/terms-of-service/","select":"body"}}}
+{
+  "name": "Vivi international",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.vivi.io/privacy-policy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.vivi.io/terms-of-service/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"Direct Factory Gadgets","documents":{"Privacy Policy":{"fetch":"https://www.directfactorygadgets.com/toprateddeals/v1/page-privacy.php","select":"body"},"Terms of Service":{"fetch":"https://www.directfactorygadgets.com/toprateddeals/v1/page-terms.php","select":"body"}}}
+{
+  "name": "Direct factory gadgets",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.directfactorygadgets.com/toprateddeals/v1/page-privacy.php",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.directfactorygadgets.com/toprateddeals/v1/page-terms.php",
+      "select": "body"
+    }
+  }
+}

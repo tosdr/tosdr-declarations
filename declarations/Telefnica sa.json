@@ -1,1 +1,14 @@
-{"name":"Telefónica S.A","documents":{"Privacy Policy":{"fetch":"https://www.telefonica.com/es/politica-de-privacidad/"},"Trackers Policy":{"fetch":"https://www.telefonica.com/es/cookies/"},"Legal Information":{"fetch":"https://www.telefonica.com/es/aviso-legal/"}}}
+{
+  "name": "Telefnica sa",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.telefonica.com/es/politica-de-privacidad/"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.telefonica.com/es/cookies/"
+    },
+    "Legal Information": {
+      "fetch": "https://www.telefonica.com/es/aviso-legal/"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Bored Panda","documents":{"Privacy Policy":{"fetch":"https://www.boredpanda.com/privacy-policy/","select":"html > body > main > div > section > article > div"}}}
+{
+  "name": "Bored panda",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.boredpanda.com/privacy-policy/",
+      "select": "html > body > main > div > section > article > div"
+    }
+  }
+}

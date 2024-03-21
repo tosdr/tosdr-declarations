@@ -1,1 +1,9 @@
-{"name":"YNAB","documents":{"Terms of Service":{"fetch":"https://www.youneedabudget.com/terms/","select":"body"}}}
+{
+  "name": "Ynab",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.youneedabudget.com/terms/",
+      "select": "body"
+    }
+  }
+}

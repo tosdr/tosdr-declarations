@@ -1,1 +1,13 @@
-{"name":"RITS Browser","documents":{"Terms of Service":{"fetch":"https://ritsbrowser.com/terms-and-conditions.php","select":"body"},"Privacy Policy":{"fetch":"https://ritsbrowser.com/privacy-policy.php","select":"body"}}}
+{
+  "name": "Rits browser",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://ritsbrowser.com/terms-and-conditions.php",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://ritsbrowser.com/privacy-policy.php",
+      "select": "body"
+    }
+  }
+}

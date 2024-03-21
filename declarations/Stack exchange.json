@@ -1,1 +1,9 @@
-{"name":"Stack Exchange","documents":{"Copyright Claims Policy":{"fetch":"https://stackexchange.com/legal/trademark-guidance","select":"html > body > div:nth-of-type(4) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > main"}}}
+{
+  "name": "Stack exchange",
+  "documents": {
+    "Copyright Claims Policy": {
+      "fetch": "https://stackexchange.com/legal/trademark-guidance",
+      "select": "html > body > div:nth-of-type(4) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > main"
+    }
+  }
+}

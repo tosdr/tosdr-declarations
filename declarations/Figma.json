@@ -1,1 +1,13 @@
-{"name":"Figma","documents":{"Terms of Service":{"fetch":"https://www.figma.com/tos/","select":"body"},"Privacy Policy":{"fetch":"https://www.figma.com/privacy/","select":"body"}}}
+{
+  "name": "Figma",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.figma.com/tos/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.figma.com/privacy/",
+      "select": "body"
+    }
+  }
+}

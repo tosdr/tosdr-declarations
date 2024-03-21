@@ -1,1 +1,18 @@
-{"name":"SSRN | Social Science Research Network","documents":{"Trackers Policy":{"fetch":"https://www.elsevier.com/legal/cookienotice","select":" > div:nth-of-type(3) > div"},"Copyright Claims Policy":{"fetch":"https://www.ssrn.com/index.cfm/en/dmca-notice-policy/"},"Privacy Policy":{"fetch":"https://www.elsevier.com/legal/privacy-policy"},"Terms of Service":{"fetch":"https://www.ssrn.com/index.cfm/en/terms-of-use/"}}}
+{
+  "name": "Ssrn  social science research network",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.elsevier.com/legal/cookienotice",
+      "select": " > div:nth-of-type(3) > div"
+    },
+    "Copyright Claims Policy": {
+      "fetch": "https://www.ssrn.com/index.cfm/en/dmca-notice-policy/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.elsevier.com/legal/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.ssrn.com/index.cfm/en/terms-of-use/"
+    }
+  }
+}

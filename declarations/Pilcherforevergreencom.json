@@ -1,1 +1,8 @@
-{"name":"pilcherforevergreen.com","documents":{"Privacy Policy":{"fetch":"https://pilcherforevergreen.com/privacy-policy"}}}
+{
+  "name": "Pilcherforevergreencom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://pilcherforevergreen.com/privacy-policy"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Menti","documents":{"Privacy Policy":{"fetch":"https://www.mentimeter.com/privacy","select":"body"}}}
+{
+  "name": "Menti",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.mentimeter.com/privacy",
+      "select": "body"
+    }
+  }
+}

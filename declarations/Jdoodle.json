@@ -1,1 +1,9 @@
-{"name":"JDoodle","documents":{"Terms of Service":{"fetch":"https://www.jdoodle.com/terms/","select":"body"}}}
+{
+  "name": "Jdoodle",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.jdoodle.com/terms/",
+      "select": "body"
+    }
+  }
+}

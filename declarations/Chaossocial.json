@@ -1,1 +1,9 @@
-{"name":"chaos.social","documents":{"Privacy Policy":{"fetch":"https://meta.chaos.social/terms","select":"html > body > main"}}}
+{
+  "name": "Chaossocial",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://meta.chaos.social/terms",
+      "select": "html > body > main"
+    }
+  }
+}

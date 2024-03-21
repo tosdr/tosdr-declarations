@@ -1,1 +1,9 @@
-{"name":"Wordtune","documents":{"Terms of Service":{"fetch":"https://www.wordtune.com/terms-of-use","select":"body"}}}
+{
+  "name": "Wordtune",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.wordtune.com/terms-of-use",
+      "select": "body"
+    }
+  }
+}

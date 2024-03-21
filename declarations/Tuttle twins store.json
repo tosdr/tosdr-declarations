@@ -1,1 +1,12 @@
-{"name":"Tuttle Twins Store","documents":{"Privacy Policy":{"fetch":"https://tuttletwins.store/policies/privacy-policy"},"General Conditions of Sale":{"fetch":"https://tuttletwins.store/policies/refund-policy","select":"body"}}}
+{
+  "name": "Tuttle twins store",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://tuttletwins.store/policies/privacy-policy"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://tuttletwins.store/policies/refund-policy",
+      "select": "body"
+    }
+  }
+}

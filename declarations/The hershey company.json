@@ -1,1 +1,9 @@
-{"name":"The Hershey Company","documents":{"Terms of Service":{"fetch":"https://www.thehersheycompany.com/en_us/home/terms-and-conditions.html","select":"body"}}}
+{
+  "name": "The hershey company",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.thehersheycompany.com/en_us/home/terms-and-conditions.html",
+      "select": "body"
+    }
+  }
+}

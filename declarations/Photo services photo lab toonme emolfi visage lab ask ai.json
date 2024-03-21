@@ -1,1 +1,13 @@
-{"name":"Pho.to Services: Photo Lab, Toonme, Emolfi, Visage Lab, Ask AI","documents":{"Privacy Policy":{"fetch":"https://pho.to/privacy","select":"html > body > article"},"Terms of Service":{"fetch":"https://pho.to/terms","select":"html > body > article"}}}
+{
+  "name": "Photo services photo lab toonme emolfi visage lab ask ai",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://pho.to/privacy",
+      "select": "html > body > article"
+    },
+    "Terms of Service": {
+      "fetch": "https://pho.to/terms",
+      "select": "html > body > article"
+    }
+  }
+}

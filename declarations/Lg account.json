@@ -1,1 +1,9 @@
-{"name":"LG Account","documents":{"Privacy Policy":{"fetch":"https://us.m.lgaccount.com/login/terms_popup_detail","select":"body"}}}
+{
+  "name": "Lg account",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://us.m.lgaccount.com/login/terms_popup_detail",
+      "select": "body"
+    }
+  }
+}

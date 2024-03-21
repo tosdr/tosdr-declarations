@@ -1,1 +1,8 @@
-{"name":"ReligionFacts","documents":{"Privacy Policy":{"fetch":"https://religionfacts.com/privacy"}}}
+{
+  "name": "Religionfacts",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://religionfacts.com/privacy"
+    }
+  }
+}

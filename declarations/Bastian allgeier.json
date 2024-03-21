@@ -1,1 +1,9 @@
-{"name":"Bastian Allgeier","documents":{"Privacy Policy":{"fetch":"https://bastianallgeier.com/privacy","select":"html > body > main > article > div"}}}
+{
+  "name": "Bastian allgeier",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://bastianallgeier.com/privacy",
+      "select": "html > body > main > article > div"
+    }
+  }
+}

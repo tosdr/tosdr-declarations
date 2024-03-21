@@ -1,1 +1,9 @@
-{"name":"Nightwave Plaza","documents":{"Privacy Policy":{"fetch":"https://plaza.one/privacy","select":"body"}}}
+{
+  "name": "Nightwave plaza",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://plaza.one/privacy",
+      "select": "body"
+    }
+  }
+}

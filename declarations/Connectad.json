@@ -1,1 +1,9 @@
-{"name":"ConnectAd  ","documents":{"Privacy Policy":{"fetch":"https://www.connectadrealtime.com/privacy","select":"html > body > div:first-of-type > div:nth-of-type(3) > div > div > div:nth-of-type(2)"}}}
+{
+  "name": "Connectad",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.connectadrealtime.com/privacy",
+      "select": "html > body > div:first-of-type > div:nth-of-type(3) > div > div > div:nth-of-type(2)"
+    }
+  }
+}

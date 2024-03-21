@@ -1,1 +1,11 @@
-{"name":"Glimesh","documents":{"Trackers Policy":{"fetch":"https://glimesh.tv/about/privacy"},"Terms of Service":{"fetch":"https://glimesh.tv/about/terms"}}}
+{
+  "name": "Glimesh",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://glimesh.tv/about/privacy"
+    },
+    "Terms of Service": {
+      "fetch": "https://glimesh.tv/about/terms"
+    }
+  }
+}

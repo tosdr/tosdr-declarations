@@ -1,1 +1,13 @@
-{"name":"Crystal Knows","documents":{"Privacy Policy":{"fetch":"https://www.crystalknows.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.crystalknows.com/tos","select":"body"}}}
+{
+  "name": "Crystal knows",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.crystalknows.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.crystalknows.com/tos",
+      "select": "body"
+    }
+  }
+}

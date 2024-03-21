@@ -1,1 +1,9 @@
-{"name":"Wasabi Technologies","documents":{"Privacy Policy":{"fetch":"https://wasabi.com/legal/privacy-policy/","select":"html > body > main > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div"}}}
+{
+  "name": "Wasabi technologies",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://wasabi.com/legal/privacy-policy/",
+      "select": "html > body > main > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div"
+    }
+  }
+}

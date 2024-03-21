@@ -1,1 +1,9 @@
-{"name":"BestFreeStreaming.org","documents":{"Privacy Policy":{"fetch":"https://www.bestfreestreaming.org/privacy-policy.html","select":"body"}}}
+{
+  "name": "Bestfreestreamingorg",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.bestfreestreaming.org/privacy-policy.html",
+      "select": "body"
+    }
+  }
+}

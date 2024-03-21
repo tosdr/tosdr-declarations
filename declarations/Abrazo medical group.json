@@ -1,1 +1,14 @@
-{"name":"Abrazo Medical Group ","documents":{"Privacy Policy":{"fetch":"https://abrazomedicalgroup.com/notice-of-privacy-practices/"},"Terms of Service":{"fetch":"https://abrazomedicalgroup.com/patient-resources/terms-of-use/"}}}
+{
+  "name": "Abrazo medical group",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://abrazomedicalgroup.com/patient-resources/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://abrazomedicalgroup.com/patient-resources/terms-of-use/"
+    },
+    "Legal Information": {
+      "fetch": "https://abrazomedicalgroup.com/notice-of-privacy-practices/"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"CoinControversy","documents":{"Privacy Policy":{"fetch":"https://coincontroversy.com/privacy/","select":"html > body > main > div"}}}
+{
+  "name": "Coincontroversy",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://coincontroversy.com/privacy/",
+      "select": "html > body > main > div"
+    }
+  }
+}

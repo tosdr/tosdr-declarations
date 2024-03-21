@@ -1,1 +1,8 @@
-{"name":"UCLA","documents":{"Terms of Service":{"fetch":"https://www.ucla.edu/terms-of-use/"}}}
+{
+  "name": "Ucla",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.ucla.edu/terms-of-use/"
+    }
+  }
+}

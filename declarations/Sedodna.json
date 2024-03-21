@@ -1,1 +1,8 @@
-{"name":"SedoDNA","documents":{"Privacy Policy":{"fetch":"https://www.sedodna.com/privacy"}}}
+{
+  "name": "Sedodna",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sedodna.com/privacy"
+    }
+  }
+}

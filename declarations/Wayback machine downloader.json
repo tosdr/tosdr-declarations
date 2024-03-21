@@ -1,1 +1,8 @@
-{"name":"WAYBACK MACHINE DOWNLOADER","documents":{"Privacy Policy":{"fetch":"https://www.waybackmachinedownloader.com/en/privacy-policy-wayback-machine-downloader-recover"}}}
+{
+  "name": "Wayback machine downloader",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.waybackmachinedownloader.com/en/privacy-policy-wayback-machine-downloader-recover"
+    }
+  }
+}

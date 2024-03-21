@@ -1,1 +1,8 @@
-{"name":"Soapbox","documents":{"Privacy Policy":{"fetch":"https://www.soapboxsoaps.com/policies/privacy-policy"}}}
+{
+  "name": "Soapbox",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.soapboxsoaps.com/policies/privacy-policy"
+    }
+  }
+}

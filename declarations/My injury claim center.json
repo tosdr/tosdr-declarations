@@ -1,1 +1,13 @@
-{"name":"My Injury Claim Center","documents":{"Privacy Policy":{"fetch":"https://myinjuryclaimcenter.com/privacy/","select":"body"},"Terms of Service":{"fetch":"https://myinjuryclaimcenter.com/terms/","select":"body"}}}
+{
+  "name": "My injury claim center",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://myinjuryclaimcenter.com/privacy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://myinjuryclaimcenter.com/terms/",
+      "select": "body"
+    }
+  }
+}

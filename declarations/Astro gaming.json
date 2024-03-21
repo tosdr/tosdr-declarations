@@ -1,1 +1,12 @@
-{"name":"ASTRO GAMING ","documents":{"Terms of Service":{"fetch":"https://www.astrogaming.com/en-us/support/terms-and-conditions.html"},"Privacy Policy":{"fetch":"https://www.astrogaming.com/en-us/support/privacy-policy.html","select":"body"}}}
+{
+  "name": "Astro gaming",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.astrogaming.com/en-us/support/terms-and-conditions.html"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.astrogaming.com/en-us/support/privacy-policy.html",
+      "select": "body"
+    }
+  }
+}

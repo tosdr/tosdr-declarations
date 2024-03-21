@@ -1,1 +1,9 @@
-{"name":"AdTranquility ","documents":{"Terms of Service":{"fetch":"https://www.iubenda.com/terms-and-conditions/59177745","select":"body"}}}
+{
+  "name": "Adtranquility",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.iubenda.com/terms-and-conditions/59177745",
+      "select": "body"
+    }
+  }
+}

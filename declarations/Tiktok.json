@@ -1,1 +1,21 @@
-{"name":"TikTok","documents":{"Terms of Service":{"fetch":"https://www.tiktok.com/en-uk/terms-of-use","select":"body"},"Privacy Policy":{"fetch":"https://www.tiktok.com/ru/privacy-policy/","select":"body"},"Copyright Claims Policy":{"fetch":"https://www.tiktok.com/legal/copyright-policy","select":"body"},"Community Guidelines":{"fetch":"https://www.tiktok.com/community-guidelines","select":"body"}}}
+{
+  "name": "Tiktok",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.tiktok.com/en-uk/terms-of-use",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.tiktok.com/ru/privacy-policy/",
+      "select": "body"
+    },
+    "Copyright Claims Policy": {
+      "fetch": "https://www.tiktok.com/legal/copyright-policy",
+      "select": "body"
+    },
+    "Community Guidelines": {
+      "fetch": "https://www.tiktok.com/community-guidelines",
+      "select": "body"
+    }
+  }
+}

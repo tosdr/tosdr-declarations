@@ -1,1 +1,13 @@
-{"name":"PayFlex","documents":{"Terms of Service":{"fetch":"https://www.payflex.com/en/footer/term-of-use.html","select":"body"},"Privacy Policy":{"fetch":"https://www.payflex.com/en/footer/privacy.html","select":"body"}}}
+{
+  "name": "Payflex",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.payflex.com/en/footer/term-of-use.html",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.payflex.com/en/footer/privacy.html",
+      "select": "body"
+    }
+  }
+}

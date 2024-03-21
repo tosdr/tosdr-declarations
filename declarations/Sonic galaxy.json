@@ -1,1 +1,8 @@
-{"name":"Sonic Galaxy","documents":{"Privacy Policy":{"fetch":"https://www.sonicgalaxy.net/privacy/"}}}
+{
+  "name": "Sonic galaxy",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sonicgalaxy.net/privacy/"
+    }
+  }
+}

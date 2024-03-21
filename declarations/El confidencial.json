@@ -1,1 +1,9 @@
-{"name":"El Confidencial","documents":{"Terms of Service":{"fetch":"https://www.elconfidencial.com/politicas-de-privacidad/condiciones/","select":"body"}}}
+{
+  "name": "El confidencial",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.elconfidencial.com/politicas-de-privacidad/condiciones/",
+      "select": "body"
+    }
+  }
+}

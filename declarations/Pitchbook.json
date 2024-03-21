@@ -1,1 +1,9 @@
-{"name":"Pitchbook","documents":{"Privacy Policy":{"fetch":"https://pitchbook.com/privacy-policy","select":"body"}}}
+{
+  "name": "Pitchbook",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://pitchbook.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

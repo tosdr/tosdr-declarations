@@ -1,1 +1,17 @@
-{"name":"Docker","documents":{"Copyright Claims Policy":{"fetch":"https://www.docker.com/legal/trademark-guidelines","select":"article > div > div > div > div:nth-of-type(2)"},"Terms of Service":{"fetch":"https://www.docker.com/legal/docker-subscription-service-agreement/","select":"article > div > div > div > div:nth-of-type(3)"},"Privacy Policy":{"fetch":"https://www.docker.com/wp-content/uploads/2022/03/2022-Docker-EU-UK-SCC-Data-Processing-Agreement.pdf","select":"body"}}}
+{
+  "name": "Docker",
+  "documents": {
+    "Copyright Claims Policy": {
+      "fetch": "https://www.docker.com/legal/trademark-guidelines",
+      "select": "article > div > div > div > div:nth-of-type(2)"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.docker.com/legal/docker-subscription-service-agreement/",
+      "select": "article > div > div > div > div:nth-of-type(3)"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.docker.com/wp-content/uploads/2022/03/2022-Docker-EU-UK-SCC-Data-Processing-Agreement.pdf",
+      "select": "body"
+    }
+  }
+}

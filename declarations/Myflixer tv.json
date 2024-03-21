@@ -1,1 +1,9 @@
-{"name":"MyFlixer TV","documents":{"Terms of Service":{"fetch":"https://myflixertv.to/terms","select":"body"}}}
+{
+  "name": "Myflixer tv",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://myflixertv.to/terms",
+      "select": "body"
+    }
+  }
+}

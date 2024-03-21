@@ -1,1 +1,9 @@
-{"name":"G20","documents":{"Privacy Policy":{"fetch":"https://www.g20.org/privacy-policy.html","select":"body"}}}
+{
+  "name": "G20",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.g20.org/privacy-policy.html",
+      "select": "body"
+    }
+  }
+}

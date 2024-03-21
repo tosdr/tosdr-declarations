@@ -1,1 +1,9 @@
-{"name":"arXiv","documents":{"Privacy Policy":{"fetch":"https://info.arxiv.org/help/policies/privacy_policy.html","select":"html > body > div:nth-of-type(5) > main > div > div:nth-of-type(3) > article"}}}
+{
+  "name": "Arxiv",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://info.arxiv.org/help/policies/privacy_policy.html",
+      "select": "html > body > div:nth-of-type(5) > main > div > div:nth-of-type(3) > article"
+    }
+  }
+}

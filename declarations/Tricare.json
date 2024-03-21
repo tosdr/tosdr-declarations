@@ -1,1 +1,11 @@
-{"name":"Tricare","documents":{"Merged":{"fetch":"https://samuelsamuelbusinessofinformation.enterprise"}}}
+{
+  "name": "Tricare",
+  "documents": {
+    "Merged": {
+      "fetch": "https://samuelsamuelbusinessofinformation.enterprise"
+    },
+    "Other": {
+      "fetch": "http://www.samuelsamuelbusinessofinformation.enterprises"
+    }
+  }
+}

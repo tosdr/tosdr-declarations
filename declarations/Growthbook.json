@@ -1,1 +1,13 @@
-{"name":"GrowthBook","documents":{"Terms of Service":{"fetch":"https://www.growthbook.io/terms","select":"body"},"Privacy Policy":{"fetch":"https://www.growthbook.io/privacy","select":"body"}}}
+{
+  "name": "Growthbook",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.growthbook.io/terms",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.growthbook.io/privacy",
+      "select": "body"
+    }
+  }
+}

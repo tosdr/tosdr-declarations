@@ -1,1 +1,17 @@
-{"name":"TransferMate","documents":{"Trackers Policy":{"fetch":"https://transfermate.io/en/cookies_info.asp"},"Terms of Service":{"fetch":"https://transfermate.io/en/us_terms"},"Privacy Policy":{"fetch":"https://transfermate.io/en/privacy_statement.html"},"Corporate Social Responsibility":{"fetch":"https://transfermate.io/en/anti_money_laundering_policy.html"}}}
+{
+  "name": "Transfermate",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://transfermate.io/en/cookies_info.asp"
+    },
+    "Terms of Service": {
+      "fetch": "https://transfermate.io/en/us_terms"
+    },
+    "Privacy Policy": {
+      "fetch": "https://transfermate.io/en/privacy_statement.html"
+    },
+    "Corporate Social Responsibility": {
+      "fetch": "https://transfermate.io/en/anti_money_laundering_policy.html"
+    }
+  }
+}

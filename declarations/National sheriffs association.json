@@ -1,1 +1,9 @@
-{"name":"National Sheriffs' Association","documents":{"Privacy Policy":{"fetch":"https://www.sheriffs.org/privacy-policy","select":"html > body > div:nth-of-type(3) > div > div:nth-of-type(3) > div > div:first-of-type"}}}
+{
+  "name": "National sheriffs association",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sheriffs.org/privacy-policy",
+      "select": "html > body > div:nth-of-type(3) > div > div:nth-of-type(3) > div > div:first-of-type"
+    }
+  }
+}

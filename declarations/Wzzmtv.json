@@ -1,1 +1,9 @@
-{"name":"WZZM-TV","documents":{"Terms of Service":{"fetch":"https://www.wzzm13.com/terms","select":"body"}}}
+{
+  "name": "Wzzmtv",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.wzzm13.com/terms",
+      "select": "body"
+    }
+  }
+}

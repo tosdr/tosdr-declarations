@@ -1,1 +1,13 @@
-{"name":"National Hockey League (NHL.com)","documents":{"Copyright Claims Policy":{"fetch":"https://www.nhl.com/info/copyright-policy","select":"body"},"Privacy Policy":{"fetch":"https://www.nhl.com/info/privacy-policy","select":"body"}}}
+{
+  "name": "National hockey league nhlcom",
+  "documents": {
+    "Copyright Claims Policy": {
+      "fetch": "https://www.nhl.com/info/copyright-policy",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.nhl.com/info/privacy-policy",
+      "select": "body"
+    }
+  }
+}

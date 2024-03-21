@@ -1,1 +1,9 @@
-{"name":"Nestle","documents":{"Terms of Service":{"fetch":"https://www.nestle.com/info/tc","select":"body"}}}
+{
+  "name": "Nestle",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.nestle.com/info/tc",
+      "select": "body"
+    }
+  }
+}

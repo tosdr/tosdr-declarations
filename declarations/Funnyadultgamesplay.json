@@ -1,1 +1,9 @@
-{"name":"Funnyadultgamesplay","documents":{"Privacy Policy":{"fetch":"https://www.funnyadultgamesplay.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Funnyadultgamesplay",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.funnyadultgamesplay.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

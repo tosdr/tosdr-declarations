@@ -1,1 +1,13 @@
-{"name":"K-9 Mail","documents":{"Privacy Policy":{"fetch":"https://k9mail.app/privacy","select":"body"}}}
+{
+  "name": "K9 mail",
+  "documents": {
+    "About": {
+      "fetch": "https://k9mail.app/about",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://k9mail.app/privacy",
+      "select": "body"
+    }
+  }
+}

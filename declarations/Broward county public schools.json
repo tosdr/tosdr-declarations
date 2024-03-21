@@ -1,1 +1,12 @@
-{"name":"Broward County Public Schools","documents":{"Terms of Service":{"fetch":"https://www.browardschools.com/Domain/13935"},"Privacy Policy":{"fetch":"https://www.browardschools.com/Domain/13932","select":"body"}}}
+{
+  "name": "Broward county public schools",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.browardschools.com/Domain/13935"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.browardschools.com/Domain/13932",
+      "select": "body"
+    }
+  }
+}

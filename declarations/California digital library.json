@@ -1,1 +1,11 @@
-{"name":"California Digital Library","documents":{"Privacy Policy":{"fetch":"https://cdlib.org/about/policies-and-guidelines/privacy-policy/"},"Terms of Service":{"fetch":"https://cdlib.org/about/policies-and-guidelines/terms-conditions/"}}}
+{
+  "name": "California digital library",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://cdlib.org/about/policies-and-guidelines/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://cdlib.org/about/policies-and-guidelines/terms-conditions/"
+    }
+  }
+}

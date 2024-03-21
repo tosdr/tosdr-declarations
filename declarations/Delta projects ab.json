@@ -1,1 +1,9 @@
-{"name":"Delta Projects AB","documents":{"Privacy Policy":{"fetch":"https://deltaprojects.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Delta projects ab",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://deltaprojects.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

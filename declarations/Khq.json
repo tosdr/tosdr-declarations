@@ -1,1 +1,8 @@
-{"name":"KHQ","documents":{"Privacy Policy":{"fetch":"https://www.khq.com/site/privacy.html"}}}
+{
+  "name": "Khq",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.khq.com/site/privacy.html"
+    }
+  }
+}

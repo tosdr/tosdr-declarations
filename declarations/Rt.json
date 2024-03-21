@@ -1,1 +1,9 @@
-{"name":"RT","documents":{"Terms of Service":{"fetch":"https://www.rt.com/terms-of-use/","select":"body"}}}
+{
+  "name": "Rt",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.rt.com/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

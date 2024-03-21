@@ -1,1 +1,11 @@
-{"name":"Eclipse Foundation","documents":{"Terms of Service":{"fetch":"https://www.eclipse.org/legal/termsofuse.php"},"Privacy Policy":{"fetch":"https://www.eclipse.org/legal/privacy.php"}}}
+{
+  "name": "Eclipse foundation",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.eclipse.org/legal/termsofuse.php"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.eclipse.org/legal/privacy.php"
+    }
+  }
+}

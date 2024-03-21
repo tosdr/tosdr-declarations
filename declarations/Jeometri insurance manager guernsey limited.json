@@ -1,1 +1,9 @@
-{"name":"Jeometri Insurance Manager (Guernsey) Limited","documents":{"Privacy Policy":{"fetch":"https://www.jeometri.com/Jeometri_Insurance_Guernsey.html","select":"body"}}}
+{
+  "name": "Jeometri insurance manager guernsey limited",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.jeometri.com/Jeometri_Insurance_Guernsey.html",
+      "select": "body"
+    }
+  }
+}

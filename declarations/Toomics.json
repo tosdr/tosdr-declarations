@@ -1,1 +1,9 @@
-{"name":"Toomics","documents":{"Privacy Policy":{"fetch":"https://toomics.com/en/help/private_terms","select":"body"}}}
+{
+  "name": "Toomics",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://toomics.com/en/help/private_terms",
+      "select": "body"
+    }
+  }
+}

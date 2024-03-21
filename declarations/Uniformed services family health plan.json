@@ -1,1 +1,9 @@
-{"name":"Uniformed Services Family Health Plan","documents":{"Privacy Policy":{"fetch":"https://www.usfamilyhealth.org/privacy-policy/","select":"html > body > div:first-of-type > div > div:nth-of-type(2) > div"}}}
+{
+  "name": "Uniformed services family health plan",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.usfamilyhealth.org/privacy-policy/",
+      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > div"
+    }
+  }
+}

@@ -1,1 +1,11 @@
-{"name":"tube8","documents":{"Terms of Service":{"fetch":"https://www.tube8.com/info.html#terms"},"Privacy Policy":{"fetch":"https://www.tube8.com/info.html#privacy"}}}
+{
+  "name": "Tube8",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.tube8.com/info.html#terms"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.tube8.com/info.html#privacy"
+    }
+  }
+}

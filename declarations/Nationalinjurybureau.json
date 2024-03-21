@@ -1,1 +1,9 @@
-{"name":"NationalInjuryBureau","documents":{"Privacy Policy":{"fetch":"https://www.nationalinjurybureau.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Nationalinjurybureau",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.nationalinjurybureau.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

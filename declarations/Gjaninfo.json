@@ -1,1 +1,9 @@
-{"name":"gjan.info","documents":{}}
+{
+  "name": "Gjaninfo",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://gjan.info/privacy/",
+      "select": "main > section"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":"Sphero","documents":{"Privacy Policy":{"fetch":"https://sphero.com/pages/privacy"}}}
+{
+  "name": "Sphero",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://sphero.com/pages/privacy"
+    }
+  }
+}

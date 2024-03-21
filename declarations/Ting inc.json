@@ -1,1 +1,9 @@
-{"name":"Ting Inc.","documents":{"Privacy Policy":{"fetch":"https://ting.com/privacy_policy","select":"html > body > div:nth-of-type(5) > div:first-of-type > div:nth-of-type(3) > div > div:nth-of-type(2)"}}}
+{
+  "name": "Ting inc",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://ting.com/privacy_policy",
+      "select": "html > body > div:nth-of-type(5) > div:first-of-type > div:nth-of-type(3) > div > div:nth-of-type(2)"
+    }
+  }
+}

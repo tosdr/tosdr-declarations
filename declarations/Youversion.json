@@ -1,1 +1,13 @@
-{"name":"YouVersion","documents":{"Privacy Policy":{"fetch":"https://www.bible.com/privacy","select":"html > body > div:first-of-type > div > main > div > div"},"Terms of Service":{"fetch":"https://www.bible.com/terms","select":"body"}}}
+{
+  "name": "Youversion",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.bible.com/privacy",
+      "select": "html > body > div:first-of-type > div > main > div > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.bible.com/terms",
+      "select": "body"
+    }
+  }
+}

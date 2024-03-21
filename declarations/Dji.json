@@ -1,1 +1,9 @@
-{"name":"DJI","documents":{"Privacy Policy":{"fetch":"https://www.dji.com/policy","select":"body"}}}
+{
+  "name": "Dji",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.dji.com/policy",
+      "select": "body"
+    }
+  }
+}

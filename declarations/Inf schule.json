@@ -1,1 +1,9 @@
-{"name":"Inf Schule","documents":{"Other":{"fetch":"https://inf-schule.de/impressum","select":"inf-schule > impressum"}}}
+{
+  "name": "Inf schule",
+  "documents": {
+    "Other": {
+      "fetch": "https://inf-schule.de/impressum",
+      "select": "inf-schule > impressum"
+    }
+  }
+}

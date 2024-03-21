@@ -1,1 +1,9 @@
-{"name":"Max Kohler Visual Communication","documents":{"Privacy Policy":{"fetch":"https://maxkoehler.com/privacy/","select":"body"}}}
+{
+  "name": "Max kohler visual communication",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://maxkoehler.com/privacy/",
+      "select": "body"
+    }
+  }
+}

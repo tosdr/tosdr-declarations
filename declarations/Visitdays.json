@@ -1,1 +1,9 @@
-{"name":"VisitDays ","documents":{"Privacy Policy":{"fetch":"https://www.iubenda.com/privacy-policy/23453634/full-legal","select":"body"}}}
+{
+  "name": "Visitdays",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.iubenda.com/privacy-policy/23453634/full-legal",
+      "select": "body"
+    }
+  }
+}

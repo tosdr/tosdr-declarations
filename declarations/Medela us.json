@@ -1,1 +1,9 @@
-{"name":"Medela U.S ","documents":{"Trackers Policy":{"fetch":"https://www.medela.us/breastfeeding/privacy-policy","select":"body"}}}
+{
+  "name": "Medela us",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.medela.us/breastfeeding/privacy-policy",
+      "select": "body"
+    }
+  }
+}

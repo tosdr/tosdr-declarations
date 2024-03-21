@@ -1,1 +1,12 @@
-{"name":"Audiogon","documents":{"Privacy Policy":{"fetch":"https://support.audiogon.com/hc/en-us/articles/360017799711","select":"body"}}}
+{
+  "name": "Audiogon",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://support.audiogon.com/hc/en-us/articles/360017799711",
+      "select": "body"
+    },
+    "Policy": {
+      "fetch": "https://support.audiogon.com/hc/en-us/articles/360017799751-Flagging-Policy"
+    }
+  }
+}

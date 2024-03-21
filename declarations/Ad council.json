@@ -1,1 +1,9 @@
-{"name":"AD COUNCIL","documents":{"Terms of Service":{"fetch":"https://www.adcouncil.org/terms-of-use","select":"body"}}}
+{
+  "name": "Ad council",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.adcouncil.org/terms-of-use",
+      "select": "body"
+    }
+  }
+}

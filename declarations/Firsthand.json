@@ -1,1 +1,9 @@
-{"name":"Firsthand ","documents":{"Privacy Policy":{"fetch":"https://firsthand.co/privacy-policy","select":"body"}}}
+{
+  "name": "Firsthand",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://firsthand.co/privacy-policy",
+      "select": "body"
+    }
+  }
+}

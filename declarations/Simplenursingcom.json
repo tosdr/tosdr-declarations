@@ -1,1 +1,8 @@
-{"name":"SimpleNursing.com ","documents":{"Privacy Policy":{"fetch":"https://simplenursing.com/privacy-policy"}}}
+{
+  "name": "Simplenursingcom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://simplenursing.com/privacy-policy"
+    }
+  }
+}

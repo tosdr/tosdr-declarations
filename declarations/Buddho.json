@@ -1,1 +1,8 @@
-{"name":"Buddho","documents":{"Privacy Policy":{"fetch":"https://buddho.org/privacy-policy"}}}
+{
+  "name": "Buddho",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://buddho.org/privacy-policy"
+    }
+  }
+}

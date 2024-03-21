@@ -1,1 +1,9 @@
-{"name":"Rise Science","documents":{"Privacy Policy":{"fetch":"https://www.risescience.com/privacy","select":"div.faqblock div.w-richtext"}}}
+{
+  "name": "Rise science",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.risescience.com/privacy",
+      "select": "div.faqblock div.w-richtext"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"PrivateVPN Global AB","documents":{"Terms of Service":{"fetch":"https://privatevpn.com/terms-of-use/","select":"body"}}}
+{
+  "name": "Privatevpn global ab",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://privatevpn.com/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

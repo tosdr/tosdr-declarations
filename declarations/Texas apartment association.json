@@ -1,1 +1,9 @@
-{"name":"Texas Apartment Association","documents":{"Privacy Policy":{"fetch":"https://www.taa.org/privacy-policy/","select":"html > body > main > section"}}}
+{
+  "name": "Texas apartment association",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.taa.org/privacy-policy/",
+      "select": "html > body > main > section"
+    }
+  }
+}

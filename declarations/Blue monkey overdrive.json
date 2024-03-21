@@ -1,1 +1,9 @@
-{"name":"Blue Monkey Overdrive","documents":{"Privacy Policy":{"fetch":"https://bluemonkeyoverdrive.com/privacy","select":"body"}}}
+{
+  "name": "Blue monkey overdrive",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://bluemonkeyoverdrive.com/privacy",
+      "select": "body"
+    }
+  }
+}

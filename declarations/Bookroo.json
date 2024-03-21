@@ -1,1 +1,9 @@
-{"name":"Bookroo ","documents":{"Privacy Policy":{"fetch":"https://bookroo.com/privacy-policy","select":"body"}}}
+{
+  "name": "Bookroo",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://bookroo.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

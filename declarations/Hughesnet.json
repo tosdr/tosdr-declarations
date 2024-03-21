@@ -1,1 +1,9 @@
-{"name":"HughesNet","documents":{"Terms of Service":{"fetch":"https://legal.hughesnet.com/TermsOfUse.cfm","select":" > div > div > div > div:nth-of-type(2) > div > div > div > div > div"}}}
+{
+  "name": "Hughesnet",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://legal.hughesnet.com/TermsOfUse.cfm",
+      "select": " > div > div > div > div:nth-of-type(2) > div > div > div > div > div"
+    }
+  }
+}

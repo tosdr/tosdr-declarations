@@ -1,1 +1,8 @@
-{"name":"Bertelsmann","documents":{"Trackers Policy":{"fetch":"https://www.bertelsmann.com/meta/privacy/"}}}
+{
+  "name": "Bertelsmann",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.bertelsmann.com/meta/privacy/"
+    }
+  }
+}

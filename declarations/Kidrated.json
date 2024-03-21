@@ -1,1 +1,11 @@
-{"name":"KidRated","documents":{"Privacy Policy":{"fetch":"https://www.kidrated.com/privacy-policy/"},"Terms of Service":{"fetch":"https://www.kidrated.com/terms-conditions/"}}}
+{
+  "name": "Kidrated",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.kidrated.com/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.kidrated.com/terms-conditions/"
+    }
+  }
+}

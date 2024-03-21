@@ -1,1 +1,11 @@
-{"name":"Gateway Festival Orchestra","documents":{"Privacy Policy":{"fetch":"https://www.gatewayfestivalorchestra.org/privacy-policy/"},"Terms of Service":{"fetch":"https://www.gatewayfestivalorchestra.org/terms-of-use/"}}}
+{
+  "name": "Gateway festival orchestra",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.gatewayfestivalorchestra.org/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.gatewayfestivalorchestra.org/terms-of-use/"
+    }
+  }
+}

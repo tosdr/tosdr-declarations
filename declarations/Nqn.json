@@ -1,1 +1,9 @@
-{"name":"NQN","documents":{"Terms of Service":{"fetch":"https://nqn.blue/terms","select":"body"}}}
+{
+  "name": "Nqn",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://nqn.blue/terms",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,14 @@
-{"name":"DIY Tube Video Community","documents":{"Privacy Policy":{"fetch":"https://www.diytube.info/privacy-policy/"},"Terms of Service":{"fetch":"https://www.diytube.info/terms-of-service/"}}}
+{
+  "name": "Diy tube video community",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.diytube.info/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.diytube.info/terms-of-service/"
+    },
+    "About": {
+      "fetch": "https://www.diytube.info/about/"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Fav Trip","documents":{"Privacy Policy":{"fetch":"http://www.favtrip.com/private-policy.html","select":" > div:first-of-type"}}}
+{
+  "name": "Fav trip",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "http://www.favtrip.com/private-policy.html",
+      "select": " > div:first-of-type"
+    }
+  }
+}

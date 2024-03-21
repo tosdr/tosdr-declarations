@@ -1,1 +1,13 @@
-{"name":"Clicksco","documents":{"Trackers Policy":{"fetch":"https://clicksco.com/cookies","select":"body"},"Privacy Policy":{"fetch":"https://clicksco.com/privacy","select":"body"}}}
+{
+  "name": "Clicksco",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://clicksco.com/cookies",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://clicksco.com/privacy",
+      "select": "body"
+    }
+  }
+}

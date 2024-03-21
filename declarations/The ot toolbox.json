@@ -1,1 +1,8 @@
-{"name":"The OT Toolbox","documents":{"Privacy Policy":{"fetch":"https://www.theottoolbox.com/disclosure-policy/"}}}
+{
+  "name": "The ot toolbox",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.theottoolbox.com/disclosure-policy/"
+    }
+  }
+}

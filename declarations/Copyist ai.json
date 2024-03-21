@@ -1,1 +1,9 @@
-{"name":"Copyist AI","documents":{"Privacy Policy":{"fetch":"https://copyistai.com/privacy/","select":"body"}}}
+{
+  "name": "Copyist ai",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://copyistai.com/privacy/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"South China Morning Post Publishers","documents":{"Terms of Service":{"fetch":"https://www.scmp.com/terms-conditions","select":"body"}}}
+{
+  "name": "South china morning post publishers",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.scmp.com/terms-conditions",
+      "select": "body"
+    }
+  }
+}

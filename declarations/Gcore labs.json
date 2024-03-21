@@ -1,1 +1,9 @@
-{"name":"G-Core Labs","documents":{"Legal Information":{"fetch":"https://gcorelabs.com/legal/","select":"body"}}}
+{
+  "name": "Gcore labs",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://gcorelabs.com/legal/",
+      "select": "body"
+    }
+  }
+}

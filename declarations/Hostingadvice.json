@@ -1,1 +1,13 @@
-{"name":"HostingAdvice","documents":{"Terms of Service":{"fetch":"https://www.hostingadvice.com/terms/","select":"html > body > div:first-of-type > div > div:first-of-type > section"},"Privacy Policy":{"fetch":"https://www.hostingadvice.com/privacy/","select":"body"}}}
+{
+  "name": "Hostingadvice",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.hostingadvice.com/terms/",
+      "select": "html > body > div:first-of-type > div > div:first-of-type > section"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.hostingadvice.com/privacy/",
+      "select": "body"
+    }
+  }
+}

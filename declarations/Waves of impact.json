@@ -1,1 +1,9 @@
-{"name":"Waves Of Impact","documents":{"Privacy Policy":{"fetch":"https://www.wavesofimpact.com/general-5","select":"body"}}}
+{
+  "name": "Waves of impact",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.wavesofimpact.com/general-5",
+      "select": "body"
+    }
+  }
+}

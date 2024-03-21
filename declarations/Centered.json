@@ -1,1 +1,13 @@
-{"name":"Centered","documents":{"Terms of Service":{"fetch":"https://www.centered.app/terms","select":"body"},"Privacy Policy":{"fetch":"https://www.centered.app/privacy","select":"body"}}}
+{
+  "name": "Centered",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.centered.app/terms",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.centered.app/privacy",
+      "select": "body"
+    }
+  }
+}

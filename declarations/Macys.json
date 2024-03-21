@@ -1,1 +1,13 @@
-{"name":"Macy's","documents":{"Terms of Service":{"fetch":"https://customerservice-macys.com/articles/legal-notice","select":"body"}}}
+{
+  "name": "Macys",
+  "documents": {
+    "Policy": {
+      "fetch": "https://customerservice-macys.com/articles/what-are-macys-policies-for-online-merchandise-pricing-and-price-adjustments",
+      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2)"
+    },
+    "Terms of Service": {
+      "fetch": "https://customerservice-macys.com/articles/legal-notice",
+      "select": "body"
+    }
+  }
+}

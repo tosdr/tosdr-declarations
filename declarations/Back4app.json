@@ -1,1 +1,13 @@
-{"name":"back4app","documents":{"Privacy Policy":{"fetch":"https://www.back4app.com/privacy.pdf","select":"body"},"Terms of Service":{"fetch":"https://www.back4app.com/terms-of-service.pdf","select":"body"}}}
+{
+  "name": "Back4app",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.back4app.com/privacy.pdf",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.back4app.com/terms-of-service.pdf",
+      "select": "body"
+    }
+  }
+}

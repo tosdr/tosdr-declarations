@@ -1,1 +1,11 @@
-{"name":"Veloady ","documents":{"Privacy Policy":{"fetch":"https://veloady.com/privacy-policy/"},"Terms of Service":{"fetch":"https://veloady.com/terms-and-conditions/"}}}
+{
+  "name": "Veloady",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://veloady.com/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://veloady.com/terms-and-conditions/"
+    }
+  }
+}

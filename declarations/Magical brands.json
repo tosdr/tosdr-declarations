@@ -1,1 +1,12 @@
-{"name":"Magical Brands","documents":{"Terms of Service":{"fetch":"https://magicalbutter.com/policies/terms-of-service"},"General Conditions of Sale":{"fetch":"https://magicalbutter.com/policies/refund-policy","select":"body"}}}
+{
+  "name": "Magical brands",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://magicalbutter.com/policies/terms-of-service"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://magicalbutter.com/policies/refund-policy",
+      "select": "body"
+    }
+  }
+}

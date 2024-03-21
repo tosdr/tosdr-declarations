@@ -1,1 +1,8 @@
-{"name":"CleanItSupply ","documents":{"Privacy Policy":{"fetch":"https://www.cleanitsupply.com/t/privacy.aspx"}}}
+{
+  "name": "Cleanitsupply",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.cleanitsupply.com/t/privacy.aspx"
+    }
+  }
+}

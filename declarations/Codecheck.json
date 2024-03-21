@@ -1,1 +1,11 @@
-{"name":"CodeCheck","documents":{"Privacy Policy":{"fetch":"https://codecheck-app.com/privacy-policy/"},"Terms of Service":{"fetch":"https://codecheck-app.com/terms-of-use/"}}}
+{
+  "name": "Codecheck",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://codecheck-app.com/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://codecheck-app.com/terms-of-use/"
+    }
+  }
+}

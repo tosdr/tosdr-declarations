@@ -1,1 +1,9 @@
-{"name":"Bright VPN","documents":{"Privacy Policy":{"fetch":"https://brightvpn.com/legal/privacy","select":"body"}}}
+{
+  "name": "Bright vpn",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://brightvpn.com/legal/privacy",
+      "select": "body"
+    }
+  }
+}

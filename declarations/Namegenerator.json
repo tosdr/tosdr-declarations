@@ -1,1 +1,9 @@
-{"name":"NameGenerator","documents":{"Privacy Policy":{"fetch":"https://namegenerator.com/terms","select":"body"}}}
+{
+  "name": "Namegenerator",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://namegenerator.com/terms",
+      "select": "body"
+    }
+  }
+}

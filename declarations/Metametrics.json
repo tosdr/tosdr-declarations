@@ -1,1 +1,9 @@
-{"name":"MetaMetrics ","documents":{"Privacy Policy":{"fetch":"https://policies.metametricsinc.com/MetaMetrics_Global_Privacy_Policy.pdf","select":"body"}}}
+{
+  "name": "Metametrics",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://policies.metametricsinc.com/MetaMetrics_Global_Privacy_Policy.pdf",
+      "select": "body"
+    }
+  }
+}

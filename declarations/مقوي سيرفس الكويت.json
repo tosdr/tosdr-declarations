@@ -1,0 +1,9 @@
+{
+  "name": "مقوي سيرفس الكويت",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://mobilesignalboosterkuwait.com/terms-and-conditions/",
+      "select": "body"
+    }
+  }
+}

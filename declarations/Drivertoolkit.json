@@ -1,1 +1,9 @@
-{"name":"drivertoolkit","documents":{"Terms of Service":{"fetch":"http://www.drivertoolkit.com/terms","select":"body"}}}
+{
+  "name": "Drivertoolkit",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "http://www.drivertoolkit.com/terms",
+      "select": "body"
+    }
+  }
+}

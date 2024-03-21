@@ -1,1 +1,17 @@
-{"name":"Else Nutrition USA","documents":{"Terms of Service":{"fetch":"https://elsenutrition.com/policies/terms-of-service"},"Trackers Policy":{"fetch":"https://elsenutrition.com/pages/cookies-policy"},"General Conditions of Sale":{"fetch":"https://elsenutrition.com/pages/refund-policy"},"Privacy Policy":{"fetch":"https://elsenutrition.com/pages/privacy-policy"}}}
+{
+  "name": "Else nutrition usa",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://elsenutrition.com/policies/terms-of-service"
+    },
+    "Trackers Policy": {
+      "fetch": "https://elsenutrition.com/pages/cookies-policy"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://elsenutrition.com/pages/refund-policy"
+    },
+    "Privacy Policy": {
+      "fetch": "https://elsenutrition.com/pages/privacy-policy"
+    }
+  }
+}

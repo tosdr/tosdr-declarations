@@ -1,1 +1,9 @@
-{"name":"Bergfreunde","documents":{}}
+{
+  "name": "Bergfreunde",
+  "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://www.bergfreunde.de/agb/",
+      "select": "body"
+    }
+  }
+}

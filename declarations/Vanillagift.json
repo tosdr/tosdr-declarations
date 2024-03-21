@@ -1,1 +1,9 @@
-{"name":"Vanilla.Gift","documents":{"Terms of Service":{"fetch":"https://www.fscarddisclosures.com/InComm_Website_Terms_of_Use_General_July_2016.pdf","select":"body"}}}
+{
+  "name": "Vanillagift",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.fscarddisclosures.com/InComm_Website_Terms_of_Use_General_July_2016.pdf",
+      "select": "body"
+    }
+  }
+}

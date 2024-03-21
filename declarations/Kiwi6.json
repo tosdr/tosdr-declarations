@@ -1,1 +1,11 @@
-{"name":"Kiwi6","documents":{"Terms of Service":{"fetch":"https://kiwi6.com/pages/tos"},"Acceptable Use Policy":{"fetch":"https://kiwi6.com/pages/aup"}}}
+{
+  "name": "Kiwi6",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://kiwi6.com/pages/tos"
+    },
+    "Acceptable Use Policy": {
+      "fetch": "https://kiwi6.com/pages/aup"
+    }
+  }
+}

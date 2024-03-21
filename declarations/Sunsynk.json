@@ -1,1 +1,9 @@
-{"name":"SunSynk","documents":{"Terms of Service":{"fetch":"https://www.sunsynk.net/agreementen","select":"body"}}}
+{
+  "name": "Sunsynk",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.sunsynk.net/agreementen",
+      "select": "body"
+    }
+  }
+}

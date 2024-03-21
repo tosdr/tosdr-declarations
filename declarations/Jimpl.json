@@ -1,1 +1,9 @@
-{"name":"Jimpl","documents":{"Terms of Service":{"fetch":"https://jimpl.com/terms","select":"body"}}}
+{
+  "name": "Jimpl",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://jimpl.com/terms",
+      "select": "body"
+    }
+  }
+}

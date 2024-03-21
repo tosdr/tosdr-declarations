@@ -1,1 +1,11 @@
-{"name":"oxifresh","documents":{"Terms of Service":{"fetch":"https://www.oxifresh.com/terms-of-use"},"Privacy Policy":{"fetch":"https://www.oxifresh.com/privacy-policy/"}}}
+{
+  "name": "Oxifresh",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.oxifresh.com/terms-of-use"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.oxifresh.com/privacy-policy/"
+    }
+  }
+}

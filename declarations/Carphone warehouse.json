@@ -1,1 +1,9 @@
-{"name":"Carphone Warehouse","documents":{"Trackers Policy":{"fetch":"https://www.carphonewarehouse.com/terms-and-conditions/privacy-policy.html","select":"body"}}}
+{
+  "name": "Carphone warehouse",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.carphonewarehouse.com/terms-and-conditions/privacy-policy.html",
+      "select": "body"
+    }
+  }
+}

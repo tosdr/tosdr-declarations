@@ -1,1 +1,9 @@
-{"name":"Campaign Against Antisemitism","documents":{"Privacy Policy":{"fetch":"https://antisemitism.org/terms/","select":"body"}}}
+{
+  "name": "Campaign against antisemitism",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://antisemitism.org/terms/",
+      "select": "body"
+    }
+  }
+}

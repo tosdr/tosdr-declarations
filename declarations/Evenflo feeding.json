@@ -1,1 +1,9 @@
-{"name":"Evenflo Feeding ","documents":{"Privacy Policy":{"fetch":"https://www.evenflofeeding.com/policies/privacy-policy","select":"body"}}}
+{
+  "name": "Evenflo feeding",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.evenflofeeding.com/policies/privacy-policy",
+      "select": "body"
+    }
+  }
+}

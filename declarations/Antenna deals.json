@@ -1,1 +1,8 @@
-{"name":"antenna deals","documents":{"Privacy Policy":{"fetch":"https://antennadeals.com/PrivacyPolicy.html"}}}
+{
+  "name": "Antenna deals",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://antennadeals.com/PrivacyPolicy.html"
+    }
+  }
+}

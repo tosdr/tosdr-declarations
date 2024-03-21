@@ -1,1 +1,11 @@
-{"name":"Dribbble","documents":{"Privacy Policy":{"fetch":"https://dribbble.com/privacy"},"Terms of Service":{"fetch":"https://dribbble.com/terms"}}}
+{
+  "name": "Dribbble",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://dribbble.com/privacy"
+    },
+    "Terms of Service": {
+      "fetch": "https://dribbble.com/terms"
+    }
+  }
+}

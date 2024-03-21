@@ -1,1 +1,9 @@
-{"name":"Securus Software ","documents":{"Privacy Policy":{"fetch":"https://www.securus-software.com/wp-content/uploads/2022/10/Securus-Privacy-Policy-17th-October-2022.pdf","select":"body"}}}
+{
+  "name": "Securus software",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.securus-software.com/wp-content/uploads/2022/10/Securus-Privacy-Policy-17th-October-2022.pdf",
+      "select": "body"
+    }
+  }
+}

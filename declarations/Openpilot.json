@@ -1,1 +1,13 @@
-{"name":"openpilot","documents":{"Privacy Policy":{"fetch":"https://comma.ai/privacy","select":"body"},"Terms of Service":{"fetch":"https://comma.ai/terms","select":"body"}}}
+{
+  "name": "Openpilot",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://comma.ai/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://comma.ai/terms",
+      "select": "body"
+    }
+  }
+}

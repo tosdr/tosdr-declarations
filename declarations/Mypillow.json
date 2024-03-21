@@ -1,1 +1,12 @@
-{"name":"MyPillow","documents":{"Privacy Policy":{"fetch":"https://www.mypillow.com/privacy"},"Terms of Service":{"fetch":"https://www.mypillow.com/terms-conditions","select":"body"}}}
+{
+  "name": "Mypillow",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.mypillow.com/privacy"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.mypillow.com/terms-conditions",
+      "select": "body"
+    }
+  }
+}

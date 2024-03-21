@@ -1,1 +1,9 @@
-{"name":"p2pb2b","documents":{"Privacy Policy":{"fetch":"https://p2pb2b.zendesk.com/hc/en-us/articles/360010946078-Privacy-Policy","select":"html > body > main"}}}
+{
+  "name": "P2pb2b",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://p2pb2b.zendesk.com/hc/en-us/articles/360010946078-Privacy-Policy",
+      "select": "html > body > main"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"EarthLink","documents":{"Privacy Policy":{"fetch":"https://www.earthlink.net/tcs/privacy-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.earthlink.net/tcs/","select":"body"}}}
+{
+  "name": "Earthlink",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.earthlink.net/tcs/privacy-policy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.earthlink.net/tcs/",
+      "select": "body"
+    }
+  }
+}

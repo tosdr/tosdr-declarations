@@ -1,1 +1,9 @@
-{"name":"Future Today, Inc","documents":{"Terms of Service":{"fetch":"http://futuretodayinc.com/terms/","select":"body"}}}
+{
+  "name": "Future today inc",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "http://futuretodayinc.com/terms/",
+      "select": "body"
+    }
+  }
+}

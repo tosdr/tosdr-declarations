@@ -1,1 +1,9 @@
-{"name":"LineageOS","documents":{"Legal Information":{"fetch":"https://lineageos.org/legal/","select":"body"}}}
+{
+  "name": "Lineageos",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://lineageos.org/legal/",
+      "select": "body"
+    }
+  }
+}

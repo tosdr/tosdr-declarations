@@ -1,1 +1,9 @@
-{"name":"Turbo Heat ","documents":{"Privacy Policy":{"fetch":"https://www.buyturboheat.com/Privacy-Policy.dtm","select":"html > body > main > section:first-of-type > div > article"}}}
+{
+  "name": "Turbo heat",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.buyturboheat.com/Privacy-Policy.dtm",
+      "select": "html > body > main > section:first-of-type > div > article"
+    }
+  }
+}

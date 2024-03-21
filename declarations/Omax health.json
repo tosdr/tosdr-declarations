@@ -1,1 +1,9 @@
-{"name":"Omax Health","documents":{"Privacy Policy":{"fetch":"https://omaxhealth.com/pages/privacy-policy","select":"body"}}}
+{
+  "name": "Omax health",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://omaxhealth.com/pages/privacy-policy",
+      "select": "body"
+    }
+  }
+}

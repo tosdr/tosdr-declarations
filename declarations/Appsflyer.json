@@ -1,1 +1,9 @@
-{"name":"AppsFlyer","documents":{"Privacy Policy":{"fetch":"https://www.appsflyer.com/services-privacy-policy/","select":"body"}}}
+{
+  "name": "Appsflyer",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.appsflyer.com/services-privacy-policy/",
+      "select": "body"
+    }
+  }
+}

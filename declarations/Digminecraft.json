@@ -1,1 +1,8 @@
-{"name":"DigMinecraft","documents":{"Privacy Policy":{"fetch":"https://www.digminecraft.com/privacy.php"}}}
+{
+  "name": "Digminecraft",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.digminecraft.com/privacy.php"
+    }
+  }
+}

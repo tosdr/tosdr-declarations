@@ -1,1 +1,9 @@
-{"name":"Open Broadcaster Software","documents":{"Terms of Service":{"fetch":"https://obsproject.com/forum/help/terms/","select":"body"}}}
+{
+  "name": "Open broadcaster software",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://obsproject.com/forum/help/terms/",
+      "select": "body"
+    }
+  }
+}

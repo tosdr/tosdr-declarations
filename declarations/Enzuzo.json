@@ -1,1 +1,9 @@
-{"name":"Enzuzo","documents":{"Privacy Policy":{"fetch":"https://www.enzuzo.com/privacy-policy","select":"html > body > div:first-of-type > div:nth-of-type(2) > main > div > div > div > div > div"}}}
+{
+  "name": "Enzuzo",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.enzuzo.com/privacy-policy",
+      "select": "html > body > div:first-of-type > div:nth-of-type(2) > main > div > div > div > div > div"
+    }
+  }
+}

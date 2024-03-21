@@ -1,1 +1,13 @@
-{"name":"Anchor","documents":{"Privacy Policy":{"fetch":"https://anchor.fm/privacy","select":"html > body > div:first-of-type > div > main > div > div"},"Copyright Claims Policy":{"fetch":"https://anchor.fm/dmca","select":"body"}}}
+{
+  "name": "Anchor",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://anchor.fm/privacy",
+      "select": "html > body > div:first-of-type > div > main > div > div"
+    },
+    "Copyright Claims Policy": {
+      "fetch": "https://anchor.fm/dmca",
+      "select": "body"
+    }
+  }
+}

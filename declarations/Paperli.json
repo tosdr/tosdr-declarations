@@ -1,1 +1,14 @@
-{"name":"Paper.li","documents":{"Copyright Claims Policy":{"fetch":"https://paper.li/ip.html"},"Terms of Service":{"fetch":"https://paper.li/terms.html"},"Privacy Policy":{"fetch":"https://paper.li/privacy.html"}}}
+{
+  "name": "Paperli",
+  "documents": {
+    "Copyright Claims Policy": {
+      "fetch": "https://paper.li/ip.html"
+    },
+    "Terms of Service": {
+      "fetch": "https://paper.li/terms.html"
+    },
+    "Privacy Policy": {
+      "fetch": "https://paper.li/privacy.html"
+    }
+  }
+}

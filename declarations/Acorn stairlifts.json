@@ -1,1 +1,9 @@
-{"name":"Acorn Stairlifts ","documents":{"Privacy Policy":{"fetch":"https://acornstairlifts.com/info/privacy-policy","select":"html > body > section > div"}}}
+{
+  "name": "Acorn stairlifts",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://acornstairlifts.com/info/privacy-policy",
+      "select": "html > body > section > div"
+    }
+  }
+}

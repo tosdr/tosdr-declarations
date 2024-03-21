@@ -1,1 +1,13 @@
-{"name":"Razer","documents":{"Terms of Service":{"fetch":"https://www.razer.com/legal/general-terms-of-use","select":"body"},"Trackers Policy":{"fetch":"https://www.razer.com/legal/cookies","select":"body"}}}
+{
+  "name": "Razer",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.razer.com/legal/general-terms-of-use",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.razer.com/legal/cookies",
+      "select": "body"
+    }
+  }
+}

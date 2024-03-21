@@ -1,1 +1,11 @@
-{"name":"vudu","documents":{"Terms of Service":{"fetch":"https://www.vudu.com/content/termsofservice.html"},"Privacy Policy":{"fetch":"https://www.vudu.com/content/privacypolicy.html"}}}
+{
+  "name": "Vudu",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.vudu.com/content/termsofservice.html"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.vudu.com/content/privacypolicy.html"
+    }
+  }
+}

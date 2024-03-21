@@ -1,1 +1,8 @@
-{"name":"MA Consultancy Cardif","documents":{"Privacy Policy":{"fetch":"https://maconsultancycardiff.com/privacy-policy/"}}}
+{
+  "name": "Ma consultancy cardif",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://maconsultancycardiff.com/privacy-policy/"
+    }
+  }
+}

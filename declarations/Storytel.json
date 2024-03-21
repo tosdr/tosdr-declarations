@@ -1,1 +1,9 @@
-{"name":"STORYTEL","documents":{"Privacy Policy":{"fetch":"https://www.storytel.com/in/en/documents/privacy-policy","select":"html > body > div:first-of-type > div > div > main > section"}}}
+{
+  "name": "Storytel",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.storytel.com/in/en/documents/privacy-policy",
+      "select": "html > body > div:first-of-type > div > div > main > section"
+    }
+  }
+}

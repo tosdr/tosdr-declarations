@@ -1,1 +1,13 @@
-{"name":"BattleVision Wrap ","documents":{"Privacy Policy":{"fetch":"https://getwraparounds.com/Privacy-Policy","select":"body"},"Terms of Service":{"fetch":"https://getwraparounds.com/Terms-and-Conditions","select":"body"}}}
+{
+  "name": "Battlevision wrap",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://getwraparounds.com/Privacy-Policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://getwraparounds.com/Terms-and-Conditions",
+      "select": "body"
+    }
+  }
+}

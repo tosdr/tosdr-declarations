@@ -1,1 +1,9 @@
-{"name":"Sustainable Web Design","documents":{"Privacy Policy":{"fetch":"https://sustainablewebdesign.org/privacy-policy/","select":"body"}}}
+{
+  "name": "Sustainable web design",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://sustainablewebdesign.org/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

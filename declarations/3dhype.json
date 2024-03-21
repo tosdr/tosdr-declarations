@@ -1,1 +1,9 @@
-{"name":"3DHYPE","documents":{"Privacy Policy":{"fetch":"https://www.3dhype.com/index/privacy","select":"html > body > div:nth-of-type(2) > div"}}}
+{
+  "name": "3dhype",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.3dhype.com/index/privacy",
+      "select": "html > body > div:nth-of-type(2) > div"
+    }
+  }
+}

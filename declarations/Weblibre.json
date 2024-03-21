@@ -1,1 +1,9 @@
-{"name":"weblibre","documents":{"Privacy Policy":{"fetch":"https://invidious.weblibre.org/privacy","select":"body"}}}
+{
+  "name": "Weblibre",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://invidious.weblibre.org/privacy",
+      "select": "body"
+    }
+  }
+}

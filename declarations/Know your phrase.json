@@ -1,1 +1,8 @@
-{"name":"Know Your Phrase","documents":{"Privacy Policy":{"fetch":"https://knowyourphrase.com/privacy-policy"}}}
+{
+  "name": "Know your phrase",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://knowyourphrase.com/privacy-policy"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":"BobRTC","documents":{"Terms of Service":{"fetch":"https://bobrtc.tel/legal"}}}
+{
+  "name": "Bobrtc",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://bobrtc.tel/legal"
+    }
+  }
+}

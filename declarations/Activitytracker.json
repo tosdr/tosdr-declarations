@@ -1,1 +1,11 @@
-{"name":"ActivityTracker","documents":{"Terms of Service":{"fetch":"https://activitytrackerapp.com/terms-of-service.html"},"Privacy Policy":{"fetch":"https://activitytrackerapp.com/privacy-policy.html"}}}
+{
+  "name": "Activitytracker",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://activitytrackerapp.com/terms-of-service.html"
+    },
+    "Privacy Policy": {
+      "fetch": "https://activitytrackerapp.com/privacy-policy.html"
+    }
+  }
+}

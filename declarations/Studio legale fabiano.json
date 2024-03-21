@@ -1,1 +1,9 @@
-{"name":"Studio Legale Fabiano","documents":{"Privacy Policy":{"fetch":"https://www.fabiano.law/en/page/privacy-policy/","select":"html > body > main"}}}
+{
+  "name": "Studio legale fabiano",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.fabiano.law/en/page/privacy-policy/",
+      "select": "html > body > main"
+    }
+  }
+}

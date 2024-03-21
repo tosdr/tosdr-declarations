@@ -1,1 +1,9 @@
-{"name":"Live2D","documents":{"Privacy Policy":{"fetch":"https://www.live2d.jp/terms/privacy/","select":"body"}}}
+{
+  "name": "Live2d",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.live2d.jp/terms/privacy/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"SMLIT ","documents":{"Terms of Service":{"fetch":"https://smlit.site/page/terms","select":"body"}}}
+{
+  "name": "Smlit",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://smlit.site/page/terms",
+      "select": "body"
+    }
+  }
+}

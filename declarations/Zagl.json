@@ -1,1 +1,11 @@
-{"name":"za.gl","documents":{"Privacy Policy":{"fetch":"https://za.gl/pages/privacy"},"Terms of Service":{"fetch":"https://za.gl/pages/terms"}}}
+{
+  "name": "Zagl",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://za.gl/pages/privacy"
+    },
+    "Terms of Service": {
+      "fetch": "https://za.gl/pages/terms"
+    }
+  }
+}

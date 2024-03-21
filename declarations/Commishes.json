@@ -1,1 +1,9 @@
-{"name":"Commishes","documents":{"Privacy Policy":{"fetch":"https://ych.commishes.com/home/privacy","select":"body"}}}
+{
+  "name": "Commishes",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://ych.commishes.com/home/privacy",
+      "select": "body"
+    }
+  }
+}

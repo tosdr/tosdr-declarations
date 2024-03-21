@@ -1,1 +1,9 @@
-{"name":"ITV","documents":{"Privacy Policy":{"fetch":"https://www.itv.com/privacy","select":"body"}}}
+{
+  "name": "Itv",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.itv.com/privacy",
+      "select": "body"
+    }
+  }
+}

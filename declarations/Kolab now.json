@@ -1,1 +1,9 @@
-{"name":"Kolab Now","documents":{"Privacy Policy":{"fetch":"https://kolabnow.com/privacy","select":"body"}}}
+{
+  "name": "Kolab now",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://kolabnow.com/privacy",
+      "select": "body"
+    }
+  }
+}

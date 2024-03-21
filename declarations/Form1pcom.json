@@ -1,1 +1,17 @@
-{"name":"form1-p.com","documents":{"Terms of Service":{"fetch":"https://form1-p.com/11/terms.html","select":"body"},"Trackers Policy":{"fetch":"https://form1-p.com/11/cookie.html","select":"body"},"Privacy Policy":{"fetch":"https://form1-p.com/11/privacy.html","select":"body"}}}
+{
+  "name": "Form1pcom",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://form1-p.com/11/terms.html",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://form1-p.com/11/cookie.html",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://form1-p.com/11/privacy.html",
+      "select": "body"
+    }
+  }
+}

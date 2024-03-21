@@ -1,1 +1,9 @@
-{"name":"The Uninteresting Me","documents":{"Privacy Policy":{"fetch":"https://www.theuninteresting.me/privacy-policy/","select":"body"}}}
+{
+  "name": "The uninteresting me",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.theuninteresting.me/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

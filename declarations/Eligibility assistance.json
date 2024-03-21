@@ -1,1 +1,11 @@
-{"name":"Eligibility Assistance","documents":{"Terms of Service":{"fetch":"https://eligibilityassistance.org/tc/"},"Privacy Policy":{"fetch":"https://eligibilityassistance.org/privacy/"}}}
+{
+  "name": "Eligibility assistance",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://eligibilityassistance.org/tc/"
+    },
+    "Privacy Policy": {
+      "fetch": "https://eligibilityassistance.org/privacy/"
+    }
+  }
+}

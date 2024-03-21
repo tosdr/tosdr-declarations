@@ -1,1 +1,13 @@
-{"name":"meistertask","documents":{"Privacy Policy":{"fetch":"https://www.meisterlabs.com/privacy","select":"html > body > div:first-of-type > div > div"},"Terms of Service":{"fetch":"https://www.meisterlabs.com/terms-conditions/","select":"body"}}}
+{
+  "name": "Meistertask",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.meisterlabs.com/privacy",
+      "select": "html > body > div:first-of-type > div > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.meisterlabs.com/terms-conditions/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Hubbard Broadcasting","documents":{"Privacy Policy":{"fetch":"https://hubbardbroadcasting.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Hubbard broadcasting",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://hubbardbroadcasting.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

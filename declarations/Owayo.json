@@ -1,1 +1,9 @@
-{"name":"owayo ","documents":{"Terms of Service":{"fetch":"https://www.owayo.com/soccer/terms-us.htm","select":"body"}}}
+{
+  "name": "Owayo",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.owayo.com/soccer/terms-us.htm",
+      "select": "body"
+    }
+  }
+}

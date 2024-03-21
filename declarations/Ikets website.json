@@ -1,1 +1,9 @@
-{"name":"Iket's website","documents":{"Privacy Policy":{"fetch":"https://quetre.iket.me/privacy","select":"body"}}}
+{
+  "name": "Ikets website",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://quetre.iket.me/privacy",
+      "select": "body"
+    }
+  }
+}

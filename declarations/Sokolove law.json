@@ -1,1 +1,11 @@
-{"name":"Sokolove Law","documents":{"Terms of Service":{"fetch":"https://www.sokolovelaw.com/terms"},"Privacy Policy":{"fetch":"https://www.sokolovelaw.com/privacy"}}}
+{
+  "name": "Sokolove law",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.sokolovelaw.com/terms"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.sokolovelaw.com/privacy"
+    }
+  }
+}

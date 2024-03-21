@@ -1,1 +1,8 @@
-{"name":"Romance Scam ","documents":{"Terms of Service":{"fetch":"https://www.romancescam.com/forum/ucp.php?mode=register"}}}
+{
+  "name": "Romance scam",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.romancescam.com/forum/ucp.php?mode=register"
+    }
+  }
+}

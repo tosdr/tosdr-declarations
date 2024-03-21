@@ -1,1 +1,9 @@
-{"name":"Seedlang","documents":{"Privacy Policy":{"fetch":"https://www.seedlang.com/privacy","select":"body"}}}
+{
+  "name": "Seedlang",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.seedlang.com/privacy",
+      "select": "body"
+    }
+  }
+}

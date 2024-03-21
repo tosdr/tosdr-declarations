@@ -1,1 +1,9 @@
-{"name":"FutrzakFM","documents":{"Privacy Policy":{"fetch":"https://futrzakfm.pl/privacy-policy","select":"body"}}}
+{
+  "name": "Futrzakfm",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://futrzakfm.pl/privacy-policy",
+      "select": "body"
+    }
+  }
+}

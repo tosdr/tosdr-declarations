@@ -1,1 +1,9 @@
-{"name":"carsales","documents":{"Terms of Service":{"fetch":"https://www.carsales.com.au/info/terms-conditions/?ret=carsales-desktop-footer","select":"body"}}}
+{
+  "name": "Carsales",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.carsales.com.au/info/terms-conditions/?ret=carsales-desktop-footer",
+      "select": "body"
+    }
+  }
+}

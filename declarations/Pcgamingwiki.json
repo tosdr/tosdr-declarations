@@ -1,1 +1,8 @@
-{"name":"PCGamingWiki","documents":{"Privacy Policy":{"fetch":"https://www.pcgamingwiki.com/wiki/PCGamingWiki:Privacy_policy"}}}
+{
+  "name": "Pcgamingwiki",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.pcgamingwiki.com/wiki/PCGamingWiki:Privacy_policy"
+    }
+  }
+}

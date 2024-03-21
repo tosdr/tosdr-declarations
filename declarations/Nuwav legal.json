@@ -1,1 +1,9 @@
-{"name":"NuWav Legal","documents":{"Terms of Service":{"fetch":"https://nuwavlegaldocuments.com/tos/","select":"body"}}}
+{
+  "name": "Nuwav legal",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://nuwavlegaldocuments.com/tos/",
+      "select": "body"
+    }
+  }
+}

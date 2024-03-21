@@ -1,1 +1,9 @@
-{"name":"SC Johnson","documents":{"Privacy Policy":{"fetch":"https://privacy.scjbrands.com/en-us","select":" > article"}}}
+{
+  "name": "Sc johnson",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://privacy.scjbrands.com/en-us",
+      "select": " > article"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Build Royale","documents":{"Privacy Policy":{"fetch":"https://buildroyale.io/changelog.html","select":"body"}}}
+{
+  "name": "Build royale",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://buildroyale.io/changelog.html",
+      "select": "body"
+    }
+  }
+}

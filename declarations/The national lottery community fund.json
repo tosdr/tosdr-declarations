@@ -1,1 +1,9 @@
-{"name":"The National Lottery Community Fund ","documents":{"Terms of Service":{"fetch":"https://www.tnlcommunityfund.org.uk/about/customer-service/terms-of-use","select":"body"}}}
+{
+  "name": "The national lottery community fund",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.tnlcommunityfund.org.uk/about/customer-service/terms-of-use",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"HugeDomains.com","documents":{"Terms of Service":{"fetch":"https://www.hugedomains.com/terms.cfm","select":"html > body > main > section > div"}}}
+{
+  "name": "Hugedomainscom",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.hugedomains.com/terms.cfm",
+      "select": "html > body > main > section > div"
+    }
+  }
+}

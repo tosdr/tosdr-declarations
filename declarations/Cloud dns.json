@@ -1,1 +1,9 @@
-{"name":"Cloud DNS","documents":{"Terms of Service":{"fetch":"https://www.cloudns.net/tos/","select":"body"}}}
+{
+  "name": "Cloud dns",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.cloudns.net/tos/",
+      "select": "body"
+    }
+  }
+}

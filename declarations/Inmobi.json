@@ -1,1 +1,13 @@
-{"name":"InMobi","documents":{"Terms of Service":{"fetch":"https://www.inmobi.com/exchange-terms/","select":"body"},"Privacy Policy":{"fetch":"https://www.inmobi.com/website-privacy-policy","select":"html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2)"}}}
+{
+  "name": "Inmobi",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.inmobi.com/exchange-terms/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.inmobi.com/website-privacy-policy",
+      "select": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2)"
+    }
+  }
+}

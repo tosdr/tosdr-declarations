@@ -1,1 +1,9 @@
-{"name":"Watermark Insights","documents":{"Privacy Policy":{"fetch":"https://www.watermarkinsights.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Watermark insights",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.watermarkinsights.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

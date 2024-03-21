@@ -1,1 +1,11 @@
-{"name":"Auto Accident Team ","documents":{"Privacy Policy":{"fetch":"https://autoaccidentteam.com/privacy-policy"},"Terms of Service":{"fetch":"https://autoaccidentteam.com/terms-of-use"}}}
+{
+  "name": "Auto accident team",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://autoaccidentteam.com/privacy-policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://autoaccidentteam.com/terms-of-use"
+    }
+  }
+}

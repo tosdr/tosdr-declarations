@@ -1,1 +1,13 @@
-{"name":"A+E Networks","documents":{"Trackers Policy":{"fetch":"https://www.aenetworks.com/cookie-notice","select":"body"},"Privacy Policy":{"fetch":"https://www.aenetworks.tv/privacy-notice","select":"body"}}}
+{
+  "name": "A+e networks",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.aenetworks.com/cookie-notice",
+      "select": "body"
+    },
+    "Legal Information": {
+      "fetch": "https://www.aenetworks.tv/privacy-notice",
+      "select": "body"
+    }
+  }
+}

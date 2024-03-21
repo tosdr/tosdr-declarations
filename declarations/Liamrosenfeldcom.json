@@ -1,1 +1,9 @@
-{"name":"liamrosenfeld.com","documents":{"Privacy Policy":{"fetch":"https://www.liamrosenfeld.com/privacy.html","select":"p.policy"}}}
+{
+  "name": "Liamrosenfeldcom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.liamrosenfeld.com/privacy.html",
+      "select": "p.policy"
+    }
+  }
+}

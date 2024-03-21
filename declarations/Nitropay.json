@@ -1,1 +1,13 @@
-{"name":"NitroPay","documents":{"Privacy Policy":{"fetch":"https://nitropay.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://nitropay.com/terms","select":"body"}}}
+{
+  "name": "Nitropay",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://nitropay.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://nitropay.com/terms",
+      "select": "body"
+    }
+  }
+}

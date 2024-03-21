@@ -1,1 +1,9 @@
-{"name":"ReceiptJAR","documents":{"Terms of Service":{"fetch":"https://receiptjar.com/terms-conditions","select":"body"}}}
+{
+  "name": "Receiptjar",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://receiptjar.com/terms-conditions",
+      "select": "body"
+    }
+  }
+}

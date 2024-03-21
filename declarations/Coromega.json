@@ -1,1 +1,9 @@
-{"name":"Coromega ","documents":{"Privacy Policy":{"fetch":"https://coromega.com/policies/privacy-policy","select":"body"}}}
+{
+  "name": "Coromega",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://coromega.com/policies/privacy-policy",
+      "select": "body"
+    }
+  }
+}

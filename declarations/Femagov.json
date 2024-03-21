@@ -1,1 +1,9 @@
-{"name":"fema.gov","documents":{"Privacy Policy":{"fetch":"https://www.fema.gov/about/website-information/privacy-policy","select":"html > body > div:first-of-type > main > div:nth-of-type(2) > div:nth-of-type(2)"}}}
+{
+  "name": "Femagov",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.fema.gov/about/website-information/privacy-policy",
+      "select": "html > body > div:first-of-type > main > div:nth-of-type(2) > div:nth-of-type(2)"
+    }
+  }
+}

@@ -1,1 +1,12 @@
-{"name":"e-foundation","documents":{"Privacy Policy":{"fetch":"https://e.foundation/legal-notice-privacy/"},"Terms of Service":{"fetch":"https://community.e.foundation/tos","select":"body"}}}
+{
+  "name": "Efoundation",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://e.foundation/legal-notice-privacy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://community.e.foundation/tos",
+      "select": "body"
+    }
+  }
+}

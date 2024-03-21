@@ -1,1 +1,9 @@
-{"name":"Healthy Male","documents":{"Terms of Service":{"fetch":"https://www.healthymale.org.au/terms-use","select":"body"}}}
+{
+  "name": "Healthy male",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.healthymale.org.au/terms-use",
+      "select": "body"
+    }
+  }
+}

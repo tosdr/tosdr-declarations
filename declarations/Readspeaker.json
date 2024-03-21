@@ -1,1 +1,11 @@
-{"name":"ReadSpeaker ","documents":{"Privacy Policy":{"fetch":"https://www.readspeaker.com/privacy-policy"},"Trackers Policy":{"fetch":"https://www.readspeaker.com/cookie-policy/"}}}
+{
+  "name": "Readspeaker",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.readspeaker.com/privacy-policy"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.readspeaker.com/cookie-policy/"
+    }
+  }
+}

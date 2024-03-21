@@ -1,1 +1,13 @@
-{"name":"mh-nexus","documents":{"Privacy Policy":{"fetch":"https://forum.mh-nexus.de/ucp.php?mode=privacy","select":"body"},"Terms of Service":{"fetch":"https://forum.mh-nexus.de/ucp.php?mode=terms","select":"body"}}}
+{
+  "name": "Mhnexus",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://forum.mh-nexus.de/ucp.php?mode=privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://forum.mh-nexus.de/ucp.php?mode=terms",
+      "select": "body"
+    }
+  }
+}

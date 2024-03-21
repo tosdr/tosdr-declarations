@@ -1,1 +1,13 @@
-{"name":"Dober","documents":{"Privacy Policy":{"fetch":"https://dober.chat/privacy-polity","select":"body"},"Terms of Service":{"fetch":"https://dober.chat/terms","select":"body"}}}
+{
+  "name": "Dober",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://dober.chat/privacy-polity",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://dober.chat/terms",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Pronatura Switzerland","documents":{"Terms of Service":{"fetch":"https://www.pronatura.ch/de/allgemeine-geschaeftsbedingungen","select":"body"}}}
+{
+  "name": "Pronatura switzerland",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.pronatura.ch/de/allgemeine-geschaeftsbedingungen",
+      "select": "body"
+    }
+  }
+}

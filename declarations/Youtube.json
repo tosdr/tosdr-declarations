@@ -1,1 +1,16 @@
-{"name":"YouTube","documents":{"Community Guidelines":{"fetch":"https://www.youtube.com/yt/about/policies/#community-guidelines","select":"body"},"Privacy Policy":{"fetch":"https://policies.google.com/privacy","select":"div[role=\"article\"]"},"Terms of Service":{"fetch":"https://www.youtube.com/t/terms"}}}
+{
+  "name": "Youtube",
+  "documents": {
+    "Community Guidelines": {
+      "fetch": "https://support.google.com/youtube/answer/9229472?hl=en&ref_topic=2803176",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://policies.google.com/privacy",
+      "select": "div[role=\"article\"]"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.youtube.com/t/terms"
+    }
+  }
+}

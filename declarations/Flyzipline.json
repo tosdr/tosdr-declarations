@@ -1,1 +1,9 @@
-{"name":"flyzipline","documents":{"Privacy Policy":{"fetch":"https://www.flyzipline.com/privacy-policy","select":"body"}}}
+{
+  "name": "Flyzipline",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.flyzipline.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

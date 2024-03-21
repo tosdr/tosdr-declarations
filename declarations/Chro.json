@@ -1,1 +1,9 @@
-{"name":"CHRO ","documents":{"Privacy Policy":{"fetch":"https://chroseries.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Chro",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://chroseries.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

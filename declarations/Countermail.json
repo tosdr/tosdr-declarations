@@ -1,1 +1,13 @@
-{"name":"CounterMail","documents":{"Privacy Policy":{"fetch":"https://countermail.com/?p=privacy","select":"body"},"Terms of Service":{"fetch":"https://countermail.com/?p=terms","select":"body"}}}
+{
+  "name": "Countermail",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://countermail.com/?p=privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://countermail.com/?p=terms",
+      "select": "body"
+    }
+  }
+}

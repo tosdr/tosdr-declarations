@@ -1,1 +1,8 @@
-{"name":"Elementary OS","documents":{"Privacy Policy":{"fetch":"https://elementary.io/privacy"}}}
+{
+  "name": "Elementary os",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://elementary.io/privacy"
+    }
+  }
+}

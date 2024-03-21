@@ -1,1 +1,15 @@
-{"name":"WinZip","documents":{"Privacy Policy":{"fetch":"https://www.winzip.com/win/en/privacy.html"},"Terms of Service":{"fetch":"https://www.winzip.com/win/en/tou.html","select":"html > body > div:nth-of-type(2) > div"},"Trackers Policy":{"fetch":"https://www.winzip.com/win/en/cookies.html"}}}
+{
+  "name": "Winzip",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.winzip.com/win/en/privacy.html"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.winzip.com/win/en/tou.html",
+      "select": "html > body > div:nth-of-type(2) > div"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.winzip.com/win/en/cookies.html"
+    }
+  }
+}

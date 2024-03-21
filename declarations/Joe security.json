@@ -1,1 +1,9 @@
-{"name":"Joe Security","documents":{"Privacy Policy":{"fetch":"https://www.joesandbox.com/pdpp","select":"body"}}}
+{
+  "name": "Joe security",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.joesandbox.com/pdpp",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"magicJack for BUSINESS","documents":{"Privacy Policy":{"fetch":"https://www.magicjackforbusiness.com/legal/","select":"html > body > section > div"}}}
+{
+  "name": "Magicjack for business",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.magicjackforbusiness.com/legal/",
+      "select": "html > body > section > div"
+    }
+  }
+}

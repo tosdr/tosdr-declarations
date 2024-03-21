@@ -1,1 +1,8 @@
-{"name":"Shadertoy","documents":{"Privacy Policy":{"fetch":"https://www.shadertoy.com/terms"}}}
+{
+  "name": "Shadertoy",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.shadertoy.com/terms"
+    }
+  }
+}

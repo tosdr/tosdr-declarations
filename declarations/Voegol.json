@@ -1,1 +1,9 @@
-{"name":"voegol ","documents":{"Privacy Policy":{"fetch":"https://www.voegol.com.br/en-us/legal-information/privacy-policy","select":"body"}}}
+{
+  "name": "Voegol",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.voegol.com.br/en-us/legal-information/privacy-policy",
+      "select": "body"
+    }
+  }
+}

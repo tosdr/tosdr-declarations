@@ -1,1 +1,9 @@
-{"name":"MilfFinder","documents":{"Privacy Policy":{"fetch":"https://www.milffinder.com/assets/tplegal/privacy.html","select":"body"}}}
+{
+  "name": "Milffinder",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.milffinder.com/assets/tplegal/privacy.html",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"Fathom Analytics","documents":{"Privacy Policy":{"fetch":"https://usefathom.com/privacy","select":"html > body > fa-rapper:nth-of-type(3) > article"},"Terms of Service":{"fetch":"https://usefathom.com/terms","select":"html > body > fa-rapper:nth-of-type(3) > article"}}}
+{
+  "name": "Fathom analytics",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://usefathom.com/privacy",
+      "select": "html > body > fa-rapper:nth-of-type(3) > article"
+    },
+    "Terms of Service": {
+      "fetch": "https://usefathom.com/terms",
+      "select": "html > body > fa-rapper:nth-of-type(3) > article"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"Your Custom Meal Plan","documents":{"Privacy Policy":{"fetch":"https://yourcustomplan.com/privacy","select":"html > body > div:first-of-type > div:nth-of-type(3)"},"Terms of Service":{"fetch":"https://yourcustomplan.com/site/terms","select":"body"}}}
+{
+  "name": "Your custom meal plan",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://yourcustomplan.com/privacy",
+      "select": "html > body > div:first-of-type > div:nth-of-type(3)"
+    },
+    "Terms of Service": {
+      "fetch": "https://yourcustomplan.com/site/terms",
+      "select": "body"
+    }
+  }
+}

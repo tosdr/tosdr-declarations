@@ -1,1 +1,13 @@
-{"name":"Arthritis Foundation","documents":{"Terms of Service":{"fetch":"https://www.arthritis.org/about-us/terms-use","select":"body"},"Privacy Policy":{"fetch":"https://www.arthritis.org/about-us/privacy-notice","select":"body"}}}
+{
+  "name": "Arthritis foundation",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.arthritis.org/about-us/terms-use",
+      "select": "body"
+    },
+    "Legal Information": {
+      "fetch": "https://www.arthritis.org/about-us/privacy-notice",
+      "select": "body"
+    }
+  }
+}

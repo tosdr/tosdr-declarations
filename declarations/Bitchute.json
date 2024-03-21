@@ -1,1 +1,17 @@
-{"name":"BitChute","documents":{"Terms of Service":{"fetch":"https://support.bitchute.com/policy/terms/"},"Community Guidelines":{"fetch":"https://support.bitchute.com/policy/guidelines"},"Privacy Policy":{"fetch":"https://support.bitchute.com/policy/privacy"},"Trackers Policy":{"fetch":"https://support.bitchute.com/policy/cookie/"}}}
+{
+  "name": "Bitchute",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://support.bitchute.com/policy/terms/"
+    },
+    "Community Guidelines": {
+      "fetch": "https://support.bitchute.com/policy/guidelines"
+    },
+    "Privacy Policy": {
+      "fetch": "https://support.bitchute.com/policy/privacy"
+    },
+    "Trackers Policy": {
+      "fetch": "https://support.bitchute.com/policy/cookie/"
+    }
+  }
+}

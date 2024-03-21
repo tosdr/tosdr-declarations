@@ -1,1 +1,9 @@
-{"name":"Children's Braces and Dentistry","documents":{"Privacy Policy":{"fetch":"https://sandiegokidsdentist.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Childrens braces and dentistry",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://sandiegokidsdentist.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

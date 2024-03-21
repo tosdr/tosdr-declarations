@@ -1,1 +1,9 @@
-{"name":"  National Council of Certified Dementia Practitioners","documents":{"Privacy Policy":{"fetch":"https://www.nccdp.org/privacy-policy/","select":"html > body > main > div > div:first-of-type > div"}}}
+{
+  "name": "National council of certified dementia practitioners",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.nccdp.org/privacy-policy/",
+      "select": "html > body > main > div > div:first-of-type > div"
+    }
+  }
+}

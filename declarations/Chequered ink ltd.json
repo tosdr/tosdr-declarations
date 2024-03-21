@@ -1,1 +1,8 @@
-{"name":"Chequered Ink Ltd.","documents":{"Privacy Policy":{"fetch":"https://chequered.ink/privacy-policy/"}}}
+{
+  "name": "Chequered ink ltd",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://chequered.ink/privacy-policy/"
+    }
+  }
+}

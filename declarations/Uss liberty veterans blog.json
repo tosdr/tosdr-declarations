@@ -1,1 +1,8 @@
-{"name":" USS Liberty Veterans Blog ","documents":{"Privacy Policy":{"fetch":"https://www.usslibertyveterans.blog/wpautoterms/privacy-policy-2/"}}}
+{
+  "name": "Uss liberty veterans blog",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.usslibertyveterans.blog/wpautoterms/privacy-policy-2/"
+    }
+  }
+}

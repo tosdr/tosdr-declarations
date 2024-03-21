@@ -1,1 +1,11 @@
-{"name":"The Society for German Genealogy in Eastern Europe","documents":{"Privacy Policy":{"fetch":"https://www.sggee.org/about_us/data_collection_guidelines.html"}}}
+{
+  "name": "The society for german genealogy in eastern europe",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sggee.org/about_us/data_collection_guidelines.html"
+    },
+    "Legal Information": {
+      "fetch": "https://www.sggee.org/about_us/site_disclaimer.html"
+    }
+  }
+}

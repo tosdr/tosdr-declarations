@@ -1,1 +1,13 @@
-{"name":"SparkDev","documents":{"Terms of Service":{"fetch":"https://sparkdev.me/terms","select":"body"},"Privacy Policy":{"fetch":"https://sparkdev.me/privacy","select":"body"}}}
+{
+  "name": "Sparkdev",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://sparkdev.me/terms",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://sparkdev.me/privacy",
+      "select": "body"
+    }
+  }
+}

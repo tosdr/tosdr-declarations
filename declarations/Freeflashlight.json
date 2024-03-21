@@ -1,1 +1,9 @@
-{"name":"FreeFlashLight","documents":{"Privacy Policy":{"fetch":"https://freeflashlight.com/us/privacy.php","select":"body"}}}
+{
+  "name": "Freeflashlight",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://freeflashlight.com/us/privacy.php",
+      "select": "body"
+    }
+  }
+}

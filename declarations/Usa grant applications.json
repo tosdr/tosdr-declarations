@@ -1,1 +1,13 @@
-{"name":"USA Grant Applications","documents":{"Terms of Service":{"fetch":"https://usagrantapplications.org/v5/terms.php","select":"html > body > div:nth-of-type(2)"},"Privacy Policy":{"fetch":"https://usagrantapplications.org/v5/privacy.php","select":"html > body > div:nth-of-type(2)"}}}
+{
+  "name": "Usa grant applications",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://usagrantapplications.org/v5/terms.php",
+      "select": "html > body > div:nth-of-type(2)"
+    },
+    "Privacy Policy": {
+      "fetch": "https://usagrantapplications.org/v5/privacy.php",
+      "select": "html > body > div:nth-of-type(2)"
+    }
+  }
+}

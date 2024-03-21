@@ -1,1 +1,9 @@
-{"name":"Special Needs Pediatric Therapy Services","documents":{"Privacy Policy":{"fetch":"https://specialneedspt.com/privacy-policies","select":"body"}}}
+{
+  "name": "Special needs pediatric therapy services",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://specialneedspt.com/privacy-policies",
+      "select": "body"
+    }
+  }
+}

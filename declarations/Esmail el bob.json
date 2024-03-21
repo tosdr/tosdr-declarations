@@ -1,1 +1,13 @@
-{"name":"Esmail EL BoB","documents":{"Privacy Policy":{"fetch":"https://libremdb.esmailelbob.xyz/privacy","select":"body"},"Copyright Claims Policy":{"fetch":"https://gothub.esmailelbob.xyz/","select":"body"}}}
+{
+  "name": "Esmail el bob",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://libremdb.esmailelbob.xyz/privacy",
+      "select": "body"
+    },
+    "Legal Information": {
+      "fetch": "https://gothub.esmailelbob.xyz/",
+      "select": "body"
+    }
+  }
+}

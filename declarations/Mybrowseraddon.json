@@ -1,1 +1,13 @@
-{"name":"MyBrowserAddon","documents":{"Terms of Service":{"fetch":"https://mybrowseraddon.com/terms.html","select":"body"},"Privacy Policy":{"fetch":"https://mybrowseraddon.com/privacy.html","select":"body"}}}
+{
+  "name": "Mybrowseraddon",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://mybrowseraddon.com/terms.html",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://mybrowseraddon.com/privacy.html",
+      "select": "body"
+    }
+  }
+}

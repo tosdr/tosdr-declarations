@@ -1,1 +1,9 @@
-{"name":"Callcentric","documents":{"Privacy Policy":{"fetch":"https://www.callcentric.com/privacy/","select":"body"}}}
+{
+  "name": "Callcentric",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.callcentric.com/privacy/",
+      "select": "body"
+    }
+  }
+}

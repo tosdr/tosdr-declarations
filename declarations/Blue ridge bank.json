@@ -1,1 +1,8 @@
-{"name":"Blue Ridge Bank","documents":{"Privacy Policy":{"fetch":"https://www.mybrb.bank/privacy-policy.html"}}}
+{
+  "name": "Blue ridge bank",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.mybrb.bank/privacy-policy.html"
+    }
+  }
+}

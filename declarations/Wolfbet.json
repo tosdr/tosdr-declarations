@@ -1,1 +1,9 @@
-{"name":"wolf.bet","documents":{"Terms of Service":{"fetch":"https://wolfbet-static.storage.googleapis.com/documents/Terms.pdf","select":"body"}}}
+{
+  "name": "Wolfbet",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://wolfbet-static.storage.googleapis.com/documents/Terms.pdf",
+      "select": "body"
+    }
+  }
+}

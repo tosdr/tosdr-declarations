@@ -1,1 +1,9 @@
-{"name":"Coolors","documents":{"Privacy Policy":{"fetch":"https://coolors.co/privacy-policy","select":"body"}}}
+{
+  "name": "Coolors",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://coolors.co/privacy-policy",
+      "select": "body"
+    }
+  }
+}

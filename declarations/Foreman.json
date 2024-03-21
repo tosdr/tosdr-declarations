@@ -1,1 +1,8 @@
-{"name":"Foreman","documents":{"Privacy Policy":{"fetch":"https://theforeman.org/privacy.html"}}}
+{
+  "name": "Foreman",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://theforeman.org/privacy.html"
+    }
+  }
+}

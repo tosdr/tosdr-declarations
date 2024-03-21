@@ -1,1 +1,12 @@
-{"name":"Our World In Data","documents":{"Legal Information":{"fetch":"https://ourworldindata.org/about#legal"},"Privacy Policy":{"fetch":"https://ourworldindata.org/privacy-policy","select":"html > body > main > article > div:nth-of-type(2) > div > div"}}}
+{
+  "name": "Our world in data",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://ourworldindata.org/about#legal"
+    },
+    "Privacy Policy": {
+      "fetch": "https://ourworldindata.org/privacy-policy",
+      "select": "html > body > main > article > div:nth-of-type(2) > div > div"
+    }
+  }
+}

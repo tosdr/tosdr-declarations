@@ -1,1 +1,9 @@
-{"name":"cuntempire.com","documents":{"Terms of Service":{"fetch":"https://www.cuntempire.com/docs/terms_of_use.html","select":"body"}}}
+{
+  "name": "Cuntempirecom",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.cuntempire.com/docs/terms_of_use.html",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"googeradio.com","documents":{"Privacy Policy":{"fetch":"https://googeradio.com/PrivacyPolicy/privacy_policy.html","select":"body"}}}
+{
+  "name": "Googeradiocom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://googeradio.com/PrivacyPolicy/privacy_policy.html",
+      "select": "body"
+    }
+  }
+}

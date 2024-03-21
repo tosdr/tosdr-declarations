@@ -1,1 +1,12 @@
-{"name":"Xodo","documents":{"Privacy Policy":{"fetch":"https://www.xodo.com/privacy-policy.html","select":"html > body > section > div > div"},"Terms of Service":{"fetch":"https://www.xodo.com/terms-of-use.html"}}}
+{
+  "name": "Xodo",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.xodo.com/privacy-policy.html",
+      "select": "html > body > section > div > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.xodo.com/terms-of-use.html"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Privé Alliance ","documents":{"Terms of Service":{"fetch":"https://privealliance.com/pages/terms-of-use","select":"body"}}}
+{
+  "name": "Priv alliance",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://privealliance.com/pages/terms-of-use",
+      "select": "body"
+    }
+  }
+}

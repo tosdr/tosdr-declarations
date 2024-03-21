@@ -1,1 +1,9 @@
-{"name":"Status.net","documents":{"Privacy Policy":{"fetch":"https://status.net/articles/privacy-policy/","select":"body"}}}
+{
+  "name": "Statusnet",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://status.net/articles/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

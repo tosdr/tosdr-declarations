@@ -1,1 +1,9 @@
-{"name":"GAP WIRELESS","documents":{"Terms of Service":{"fetch":"https://www.gapwireless.com/terms-of-use/","select":"html > body > div:first-of-type > div > div > section > div:nth-of-type(2) > div > div"}}}
+{
+  "name": "Gap wireless",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.gapwireless.com/terms-of-use/",
+      "select": "html > body > div:first-of-type > div > div > section > div:nth-of-type(2) > div > div"
+    }
+  }
+}

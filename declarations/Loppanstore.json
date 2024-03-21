@@ -1,1 +1,9 @@
-{"name":"loppan.store ","documents":{"Privacy Policy":{"fetch":"https://privacy.officialssg.com/","select":"body"}}}
+{
+  "name": "Loppanstore",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://privacy.officialssg.com/",
+      "select": "body"
+    }
+  }
+}

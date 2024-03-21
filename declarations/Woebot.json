@@ -1,1 +1,13 @@
-{"name":"woebot","documents":{"Privacy Policy":{"fetch":"https://woebothealth.com/privacy-webview/","select":"body"},"Terms of Service":{"fetch":"https://woebothealth.com/terms-webview/","select":"body"}}}
+{
+  "name": "Woebot",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://woebothealth.com/privacy-webview/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://woebothealth.com/terms-webview/",
+      "select": "body"
+    }
+  }
+}

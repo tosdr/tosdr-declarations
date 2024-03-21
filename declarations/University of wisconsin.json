@@ -1,1 +1,8 @@
-{"name":"University of Wisconsin","documents":{"Privacy Policy":{"fetch":"https://www.wisc.edu/privacy-notice/"}}}
+{
+  "name": "University of wisconsin",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.wisc.edu/privacy-notice/"
+    }
+  }
+}

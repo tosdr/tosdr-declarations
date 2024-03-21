@@ -1,1 +1,8 @@
-{"name":"Karkhane","documents":{"Privacy Policy":{"fetch":"https://karkhane.org/privacy-policy/"}}}
+{
+  "name": "Karkhane",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://karkhane.org/privacy-policy/"
+    }
+  }
+}

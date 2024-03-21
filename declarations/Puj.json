@@ -1,1 +1,9 @@
-{"name":"Puj","documents":{"Privacy Policy":{"fetch":"https://puj.com/pages/privacy-policy","select":"body"}}}
+{
+  "name": "Puj",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://puj.com/pages/privacy-policy",
+      "select": "body"
+    }
+  }
+}

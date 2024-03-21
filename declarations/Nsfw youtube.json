@@ -1,1 +1,9 @@
-{"name":"NSFW Youtube","documents":{"Privacy Policy":{"fetch":"https://www.nsfwyoutube.com/privacy-policy","select":"body"}}}
+{
+  "name": "Nsfw youtube",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.nsfwyoutube.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Reiseblitz","documents":{"Privacy Policy":{"fetch":"https://www.reiseblitz.com/datenschutzerklaerung/","select":"body"}}}
+{
+  "name": "Reiseblitz",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.reiseblitz.com/datenschutzerklaerung/",
+      "select": "body"
+    }
+  }
+}

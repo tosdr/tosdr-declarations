@@ -1,1 +1,15 @@
-{"name":"softpedia","documents":{"Privacy Policy":{"fetch":"http://www.softpedia.com/user/privacy.shtml","select":"body"},"Trackers Policy":{"fetch":"https://www.softpedia.com/user/cookies.shtml"},"Terms of Service":{"fetch":"https://www.softpedia.com/user/terms.shtml"}}}
+{
+  "name": "Softpedia",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "http://www.softpedia.com/user/privacy.shtml",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.softpedia.com/user/cookies.shtml"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.softpedia.com/user/terms.shtml"
+    }
+  }
+}

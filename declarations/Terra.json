@@ -1,1 +1,11 @@
-{"name":"TERRA ","documents":{"Privacy Policy":{"fetch":"https://www.terrastaffinggroup.com/privacy-policy/"},"Terms of Service":{"fetch":"https://www.terrastaffinggroup.com/terms-conditions/"}}}
+{
+  "name": "Terra",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.terrastaffinggroup.com/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.terrastaffinggroup.com/terms-conditions/"
+    }
+  }
+}

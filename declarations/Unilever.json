@@ -1,1 +1,9 @@
-{"name":"Unilever","documents":{"Trackers Policy":{"fetch":"https://www.unilevernotices.com/global/en_gb/cookie-notice/notice.html","select":"body"}}}
+{
+  "name": "Unilever",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://www.unilevernotices.com/global/en_gb/cookie-notice/notice.html",
+      "select": "body"
+    }
+  }
+}

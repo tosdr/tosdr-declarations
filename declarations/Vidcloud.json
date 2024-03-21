@@ -1,1 +1,11 @@
-{"name":"Vidcloud ","documents":{"Terms of Service":{"fetch":"https://vidcloud.co/terms"},"Copyright Claims Policy":{"fetch":"https://vidcloud.co/copyright"}}}
+{
+  "name": "Vidcloud",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://vidcloud.co/terms"
+    },
+    "Copyright Claims Policy": {
+      "fetch": "https://vidcloud.co/copyright"
+    }
+  }
+}

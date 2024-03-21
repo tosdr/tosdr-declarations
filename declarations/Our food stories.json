@@ -1,1 +1,9 @@
-{"name":"Our Food Stories ","documents":{"Privacy Policy":{"fetch":"https://ourfoodstories.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Our food stories",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://ourfoodstories.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Jarrow Formulas ","documents":{"Privacy Policy":{"fetch":"https://jarrow.com/pages/privacy-policy","select":"body"}}}
+{
+  "name": "Jarrow formulas",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://jarrow.com/pages/privacy-policy",
+      "select": "body"
+    }
+  }
+}

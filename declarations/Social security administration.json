@@ -1,1 +1,9 @@
-{"name":"Social Security Administration","documents":{"Privacy Policy":{"fetch":"https://www.ssa.gov/agency/privacy.html","select":"html > body > main > section:nth-of-type(2)"}}}
+{
+  "name": "Social security administration",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.ssa.gov/agency/privacy.html",
+      "select": "html > body > main > section:nth-of-type(2)"
+    }
+  }
+}

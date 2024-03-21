@@ -1,1 +1,11 @@
-{"name":"Steam China","documents":{"Privacy Policy":{"fetch":"https://store.steamchina.com/privacy_agreement"},"Terms of Service":{"fetch":"https://store.steamchina.com/subscriber_agreement"}}}
+{
+  "name": "Steam china",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://store.steamchina.com/privacy_agreement"
+    },
+    "Terms of Service": {
+      "fetch": "https://store.steamchina.com/subscriber_agreement"
+    }
+  }
+}

@@ -1,1 +1,8 @@
-{"name":"NTS Radio","documents":{"Privacy Policy":{"fetch":"https://www.nts.live/privacy-policy"}}}
+{
+  "name": "Nts radio",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.nts.live/privacy-policy"
+    }
+  }
+}

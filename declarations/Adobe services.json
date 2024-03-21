@@ -1,1 +1,11 @@
-{"name":"Adobe Services","documents":{"Terms of Service":{"fetch":"https://www.adobe.com/legal/terms.html"},"Privacy Policy":{"fetch":"https://www.adobe.com/privacy/policy.html"}}}
+{
+  "name": "Adobe services",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.adobe.com/legal/terms.html"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.adobe.com/privacy/policy.html"
+    }
+  }
+}

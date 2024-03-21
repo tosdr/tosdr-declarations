@@ -1,1 +1,9 @@
-{"name":"Uden AI Federated Network","documents":{"Privacy Policy":{"fetch":"https://social.uden.ai/about/privacy","select":"body"}}}
+{
+  "name": "Uden ai federated network",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://social.uden.ai/about/privacy",
+      "select": "body"
+    }
+  }
+}

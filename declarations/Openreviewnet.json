@@ -1,1 +1,11 @@
-{"name":"OpenReview.net","documents":{"Privacy Policy":{"fetch":"https://openreview.net/legal/privacy"},"Terms of Service":{"fetch":"https://openreview.net/legal/terms"}}}
+{
+  "name": "Openreviewnet",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://openreview.net/legal/privacy"
+    },
+    "Terms of Service": {
+      "fetch": "https://openreview.net/legal/terms"
+    }
+  }
+}

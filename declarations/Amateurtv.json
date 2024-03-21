@@ -1,1 +1,9 @@
-{"name":"amateur.tv","documents":{"Privacy Policy":{"fetch":"https://en.amateur.tv/web/privacy-summary","select":"body"}}}
+{
+  "name": "Amateurtv",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://en.amateur.tv/web/privacy-summary",
+      "select": "body"
+    }
+  }
+}

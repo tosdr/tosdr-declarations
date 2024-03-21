@@ -1,1 +1,9 @@
-{"name":"Occidental Observer","documents":{"Privacy Policy":{"fetch":"https://www.theoccidentalobserver.net/privacy/","select":"html > body > div:first-of-type > div > div:first-of-type > div > main"}}}
+{
+  "name": "Occidental observer",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.theoccidentalobserver.net/privacy/",
+      "select": "html > body > div:first-of-type > div > div:first-of-type > div > main"
+    }
+  }
+}

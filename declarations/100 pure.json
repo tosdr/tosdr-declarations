@@ -1,1 +1,9 @@
-{"name":"100% PURE","documents":{"Privacy Policy":{"fetch":"https://www.100percentpure.com/pages/privacy-policy","select":"body"}}}
+{
+  "name": "100 pure",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.100percentpure.com/pages/privacy-policy",
+      "select": "body"
+    }
+  }
+}

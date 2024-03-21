@@ -1,1 +1,9 @@
-{"name":"anidb","documents":{}}
+{
+  "name": "Anidb",
+  "documents": {
+    "Policy": {
+      "fetch": "https://anidb.net/policy",
+      "select": "body"
+    }
+  }
+}

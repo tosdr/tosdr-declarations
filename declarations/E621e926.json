@@ -1,1 +1,8 @@
-{"name":"e621/e926","documents":{"Review Guidelines":{"fetch":"https://e621.net/static/takedown"}}}
+{
+  "name": "E621e926",
+  "documents": {
+    "Review Guidelines": {
+      "fetch": "https://e621.net/static/takedown"
+    }
+  }
+}

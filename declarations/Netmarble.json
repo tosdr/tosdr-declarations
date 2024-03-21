@@ -1,1 +1,13 @@
-{"name":"netmarble ","documents":{"Privacy Policy":{"fetch":"https://help.netmarble.com/terms/privacy_policy_en","select":"body"},"Terms of Service":{"fetch":"https://help.netmarble.com/terms/terms_of_service_en?locale=en","select":"body"}}}
+{
+  "name": "Netmarble",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://help.netmarble.com/terms/privacy_policy_en",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://help.netmarble.com/terms/terms_of_service_en?locale=en",
+      "select": "body"
+    }
+  }
+}

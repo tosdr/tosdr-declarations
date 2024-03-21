@@ -1,1 +1,9 @@
-{"name":"Lukol","documents":{"Privacy Policy":{"fetch":"https://www.lukol.com/privacy.php","select":"body"}}}
+{
+  "name": "Lukol",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.lukol.com/privacy.php",
+      "select": "body"
+    }
+  }
+}

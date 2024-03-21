@@ -1,1 +1,9 @@
-{"name":"U.S. Department of Agriculture","documents":{"Privacy Policy":{"fetch":"https://www.usda.gov/privacy-policy","select":"html > body > div:first-of-type > main > div"}}}
+{
+  "name": "Us department of agriculture",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.usda.gov/privacy-policy",
+      "select": "html > body > div:first-of-type > main > div"
+    }
+  }
+}

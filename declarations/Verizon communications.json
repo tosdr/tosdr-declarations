@@ -1,1 +1,9 @@
-{"name":"Verizon Communications","documents":{"Privacy Policy":{"fetch":"http://www.verizon.com/about/privacy/full-privacy-policy","select":"body"}}}
+{
+  "name": "Verizon communications",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "http://www.verizon.com/about/privacy/full-privacy-policy",
+      "select": "body"
+    }
+  }
+}

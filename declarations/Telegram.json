@@ -1,1 +1,15 @@
-{"name":"Telegram","documents":{"Frequently Asked Questions":{"fetch":"https://telegram.org/faq"},"Terms of Service":{"fetch":"https://telegram.org/tos"},"Privacy Policy":{"fetch":"https://telegram.org/privacy","select":"body"}}}
+{
+  "name": "Telegram",
+  "documents": {
+    "Frequently Asked Questions": {
+      "fetch": "https://telegram.org/faq"
+    },
+    "Terms of Service": {
+      "fetch": "https://telegram.org/tos"
+    },
+    "Privacy Policy": {
+      "fetch": "https://telegram.org/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"Blinkist","documents":{"Terms of Service":{"fetch":"https://www.blinkist.com/en/tos","select":"body"},"Privacy Policy":{"fetch":"https://www.blinkist.com/en/user_research_privacy","select":"body"}}}
+{
+  "name": "Blinkist",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.blinkist.com/en/tos",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.blinkist.com/en/user_research_privacy",
+      "select": "body"
+    }
+  }
+}

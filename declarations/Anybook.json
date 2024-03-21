@@ -1,1 +1,9 @@
-{"name":"AnyBook","documents":{"Privacy Policy":{"fetch":"https://www.anybook.ai/privacy-en.html","select":"body"}}}
+{
+  "name": "Anybook",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.anybook.ai/privacy-en.html",
+      "select": "body"
+    }
+  }
+}

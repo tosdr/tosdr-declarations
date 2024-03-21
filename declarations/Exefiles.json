@@ -1,1 +1,9 @@
-{"name":"EXEFiles","documents":{"Terms of Service":{"fetch":"https://www.exefiles.com/en/terms/","select":"html > body > div:nth-of-type(4) > div:first-of-type"}}}
+{
+  "name": "Exefiles",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.exefiles.com/en/terms/",
+      "select": "html > body > div:nth-of-type(4) > div:first-of-type"
+    }
+  }
+}

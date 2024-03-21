@@ -1,1 +1,9 @@
-{"name":"kitetech.co","documents":{"Privacy Policy":{"fetch":"http://www.kitetech.co/privacy-policy","select":"body"}}}
+{
+  "name": "Kitetechco",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "http://www.kitetech.co/privacy-policy",
+      "select": "body"
+    }
+  }
+}

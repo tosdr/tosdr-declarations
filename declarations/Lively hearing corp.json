@@ -1,1 +1,9 @@
-{"name":"Lively Hearing Corp","documents":{"Terms of Service":{"fetch":"https://www.listenlively.com/?bk=1#terms-and-conditions","select":"body"}}}
+{
+  "name": "Lively hearing corp",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.listenlively.com/?bk=1#terms-and-conditions",
+      "select": "body"
+    }
+  }
+}

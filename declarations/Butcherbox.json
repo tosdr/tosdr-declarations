@@ -1,1 +1,13 @@
-{"name":"ButcherBox","documents":{"Terms of Service":{"fetch":"https://www.butcherbox.com/terms-of-use/","select":"body"},"Privacy Policy":{"fetch":"https://www.butcherbox.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Butcherbox",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.butcherbox.com/terms-of-use/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.butcherbox.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

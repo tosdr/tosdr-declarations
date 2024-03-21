@@ -1,1 +1,13 @@
-{"name":"Best Proxy And VPN","documents":{"Privacy Policy":{"fetch":"https://www.bestproxyandvpn.com/privacy-policy.html","select":"body"},"Terms of Service":{"fetch":"https://www.bestproxyandvpn.com/service-terms.html","select":"body"}}}
+{
+  "name": "Best proxy and vpn",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.bestproxyandvpn.com/privacy-policy.html",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.bestproxyandvpn.com/service-terms.html",
+      "select": "body"
+    }
+  }
+}

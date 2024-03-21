@@ -1,1 +1,13 @@
-{"name":"Maps.me","documents":{"Privacy Policy":{"fetch":"https://maps.me/policy/","select":"html > body > div:first-of-type > div:nth-of-type(2) > article > div"},"Terms of Service":{"fetch":"https://maps.me/terms/","select":"html > body > div:first-of-type > div:nth-of-type(2) > article > div"}}}
+{
+  "name": "Mapsme",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://maps.me/policy/",
+      "select": "html > body > div:first-of-type > div:nth-of-type(2) > article > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://maps.me/terms/",
+      "select": "html > body > div:first-of-type > div:nth-of-type(2) > article > div"
+    }
+  }
+}

@@ -1,1 +1,11 @@
-{"name":"Child Research Net ","documents":{"Terms of Service":{"fetch":"https://www.childresearch.net/terms-conditions.html"},"Privacy Policy":{"fetch":"https://www.childresearch.net/privacy.html"}}}
+{
+  "name": "Child research net",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.childresearch.net/terms-conditions.html"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.childresearch.net/privacy.html"
+    }
+  }
+}

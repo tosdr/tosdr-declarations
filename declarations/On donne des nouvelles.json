@@ -1,1 +1,11 @@
-{"name":"On donne des nouvelles","documents":{"Terms of Service":{"fetch":"https://www.ondonnedesnouvelles.com/rgpd.html?t=1559589103#introduction"}}}
+{
+  "name": "On donne des nouvelles",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.ondonnedesnouvelles.com/rgpd.html?t=1559589103#introduction"
+    },
+    "Other": {
+      "fetch": "https://www.ondonnedesnouvelles.com/rgpd.html?t=1559589103#privacyPolicy"
+    }
+  }
+}

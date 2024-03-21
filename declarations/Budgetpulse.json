@@ -1,1 +1,11 @@
-{"name":"BudgetPulse","documents":{"Privacy Policy":{"fetch":"https://www.budgetpulse.com/pages/privacy_policy"},"Terms of Service":{"fetch":"https://budgetpulse.com/pages/terms_of_use"}}}
+{
+  "name": "Budgetpulse",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.budgetpulse.com/pages/privacy_policy"
+    },
+    "Terms of Service": {
+      "fetch": "https://budgetpulse.com/pages/terms_of_use"
+    }
+  }
+}

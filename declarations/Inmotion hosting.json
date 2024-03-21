@@ -1,1 +1,14 @@
-{"name":"InMotion Hosting","documents":{"Privacy Policy":{"fetch":"https://www.inmotionhosting.com/privacy/"},"Trackers Policy":{"fetch":"https://www.inmotionhosting.com/privacy/cookie-policy/"},"Terms of Service":{"fetch":"https://www.inmotionhosting.com/legal/"}}}
+{
+  "name": "Inmotion hosting",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.inmotionhosting.com/privacy/"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.inmotionhosting.com/privacy/cookie-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.inmotionhosting.com/legal/"
+    }
+  }
+}

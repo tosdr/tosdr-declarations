@@ -1,1 +1,13 @@
-{"name":"Private Eye","documents":{"Privacy Policy":{"fetch":"https://www.private-eye.co.uk/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://shop.private-eye.co.uk/Terms-and-Conditions/","select":"body"}}}
+{
+  "name": "Private eye",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.private-eye.co.uk/privacy-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://shop.private-eye.co.uk/Terms-and-Conditions/",
+      "select": "body"
+    }
+  }
+}

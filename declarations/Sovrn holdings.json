@@ -1,1 +1,9 @@
-{"name":"Sovrn Holdings","documents":{"Privacy Policy":{"fetch":"https://www.sovrn.com/privacy-policy/privacy-policy/","select":"body"}}}
+{
+  "name": "Sovrn holdings",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sovrn.com/privacy-policy/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

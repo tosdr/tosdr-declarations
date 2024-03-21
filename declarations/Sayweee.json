@@ -1,1 +1,13 @@
-{"name":"sayweee","documents":{"Privacy Policy":{"fetch":"https://www.sayweee.com/en/about/privacy-policy","select":"body"},"Terms of Service":{"fetch":"https://www.sayweee.com/en/about/terms-of-service","select":"body"}}}
+{
+  "name": "Sayweee",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sayweee.com/en/about/privacy-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.sayweee.com/en/about/terms-of-service",
+      "select": "body"
+    }
+  }
+}

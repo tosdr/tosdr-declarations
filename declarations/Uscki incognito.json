@@ -1,1 +1,11 @@
-{"name":"U.S.C.K.I. Incognito","documents":{"Privacy Policy":{"fetch":"https://www.uscki.nl/?pagina=Wicki&subject=Privacy_Policy"}}}
+{
+  "name": "Uscki incognito",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.uscki.nl/?pagina=Wicki&subject=Privacy_Policy"
+    },
+    "Other": {
+      "fetch": "https://www.uscki.nl/?pagina=Wicki&subject=dataindexatie"
+    }
+  }
+}

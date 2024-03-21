@@ -1,1 +1,9 @@
-{"name":"Chrischona Brugg","documents":{"Privacy Policy":{"fetch":"https://chrischona-brugg.ch/datenschutz","select":"html > body > main > div:nth-of-type(4) > div"}}}
+{
+  "name": "Chrischona brugg",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://chrischona-brugg.ch/datenschutz",
+      "select": "html > body > main > div:nth-of-type(4) > div"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"Time.is","documents":{"Terms of Service":{"fetch":"https://time.is/terms_of_use#privacy_policy","select":"body"}}}
+{
+  "name": "Timeis",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://time.is/terms_of_use#privacy_policy",
+      "select": "body"
+    }
+  }
+}

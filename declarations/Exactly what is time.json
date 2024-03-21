@@ -1,1 +1,9 @@
-{"name":"Exactly What Is Time","documents":{"Privacy Policy":{"fetch":"https://www.exactlywhatistime.com/privacy-policy","select":"body"}}}
+{
+  "name": "Exactly what is time",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.exactlywhatistime.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

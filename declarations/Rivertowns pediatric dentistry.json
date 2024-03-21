@@ -1,1 +1,9 @@
-{"name":"Rivertowns Pediatric Dentistry ","documents":{"Privacy Policy":{"fetch":"https://rivertownspediatricdentistry.com/privacy-policy","select":"html > body > div:first-of-type > main > div"}}}
+{
+  "name": "Rivertowns pediatric dentistry",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://rivertownspediatricdentistry.com/privacy-policy",
+      "select": "html > body > div:first-of-type > main > div"
+    }
+  }
+}

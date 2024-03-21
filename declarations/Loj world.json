@@ -1,1 +1,9 @@
-{"name":"LOJ World","documents":{"Privacy Policy":{"fetch":"https://www.LOJworld.rf.gd/privacy.txt","select":"body"}}}
+{
+  "name": "Loj world",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.LOJworld.rf.gd/privacy.txt",
+      "select": "body"
+    }
+  }
+}

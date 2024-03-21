@@ -1,1 +1,13 @@
-{"name":"Find My Kids","documents":{"Privacy Policy":{"fetch":"https://findmykids.org/docs/privacy-policy/en","select":"body"},"Terms of Service":{"fetch":"https://findmykids.org/docs/terms-of-use/en","select":"body"}}}
+{
+  "name": "Find my kids",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://findmykids.org/docs/privacy-policy/en",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://findmykids.org/docs/terms-of-use/en",
+      "select": "body"
+    }
+  }
+}

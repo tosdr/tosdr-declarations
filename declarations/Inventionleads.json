@@ -1,1 +1,8 @@
-{"name":"Inventionleads","documents":{"Privacy Policy":{"fetch":"https://inventionleads.com/privacy"}}}
+{
+  "name": "Inventionleads",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://inventionleads.com/privacy"
+    }
+  }
+}

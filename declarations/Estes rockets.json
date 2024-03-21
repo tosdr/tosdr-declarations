@@ -1,1 +1,9 @@
-{"name":"Estes Rockets","documents":{"Privacy Policy":{"fetch":"https://estesrockets.com/policies/privacy-policy","select":"body"}}}
+{
+  "name": "Estes rockets",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://estesrockets.com/policies/privacy-policy",
+      "select": "body"
+    }
+  }
+}

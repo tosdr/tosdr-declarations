@@ -1,1 +1,8 @@
-{"name":"Tango Regensburg","documents":{"Other":{"fetch":"https://tango-regensburg.de/impressum.php"}}}
+{
+  "name": "Tango regensburg",
+  "documents": {
+    "Other": {
+      "fetch": "https://tango-regensburg.de/impressum.php"
+    }
+  }
+}

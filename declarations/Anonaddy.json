@@ -1,1 +1,9 @@
-{"name":"AnonAddy","documents":{"Privacy Policy":{"fetch":"https://anonaddy.com/privacy/","select":"html > body > main"}}}
+{
+  "name": "Anonaddy",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://anonaddy.com/privacy/",
+      "select": "html > body > main"
+    }
+  }
+}

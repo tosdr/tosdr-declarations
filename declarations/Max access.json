@@ -1,1 +1,13 @@
-{"name":"Max Access","documents":{"Terms of Service":{"fetch":"https://maxaccess.io/terms/","select":"body"},"Privacy Policy":{"fetch":"https://maxaccess.io/privacy/","select":"body"}}}
+{
+  "name": "Max access",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://maxaccess.io/terms/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://maxaccess.io/privacy/",
+      "select": "body"
+    }
+  }
+}

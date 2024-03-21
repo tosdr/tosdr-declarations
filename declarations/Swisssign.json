@@ -1,1 +1,9 @@
-{"name":"SwissSign","documents":{}}
+{
+  "name": "Swisssign",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.swisssign.com/en/rechtlicher-hinweis.html",
+      "select": "body"
+    }
+  }
+}

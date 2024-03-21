@@ -1,1 +1,9 @@
-{"name":"The Tortoise Table","documents":{"Privacy Policy":{"fetch":"https://www.thetortoisetable.org.uk/home/privacy-policy/","select":"body"}}}
+{
+  "name": "The tortoise table",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.thetortoisetable.org.uk/home/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

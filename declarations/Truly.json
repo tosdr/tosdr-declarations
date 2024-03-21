@@ -1,1 +1,9 @@
-{"name":"Truly","documents":{"Privacy Policy":{"fetch":"https://www.trulybeauty.com/pages/privacy-policy-and-terms-of-use","select":"body"}}}
+{
+  "name": "Truly",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.trulybeauty.com/pages/privacy-policy-and-terms-of-use",
+      "select": "body"
+    }
+  }
+}

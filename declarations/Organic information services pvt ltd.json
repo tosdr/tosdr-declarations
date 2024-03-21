@@ -1,1 +1,18 @@
-{"name":"Organic Information Services Pvt Ltd","documents":{"Terms of Service":{"fetch":"https://www.organicfacts.net/terms-and-conditions"},"Trackers Policy":{"fetch":"https://www.organicfacts.net/cookie-policy-organic-facts"},"Privacy Policy":{"fetch":"https://www.organicfacts.net/privacy-policy"}}}
+{
+  "name": "Organic information services pvt ltd",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.organicfacts.net/terms-and-conditions"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.organicfacts.net/cookie-policy-organic-facts"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.organicfacts.net/privacy-policy"
+    },
+    "Vulnerability Disclosure Policy": {
+      "fetch": "https://www.organicfacts.net/affiliate-disclosure",
+      "select": "body"
+    }
+  }
+}

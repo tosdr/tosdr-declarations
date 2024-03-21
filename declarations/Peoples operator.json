@@ -1,1 +1,17 @@
-{"name":"People’s Operator. ","documents":{"Privacy Policy":{"fetch":"https://www.thepeoplesoperator.com/privacy-policy/","select":"body"},"General Conditions of Sale":{"fetch":"https://www.thepeoplesoperator.com/shipping-policy/","select":"body"},"Terms of Service":{"fetch":"https://www.thepeoplesoperator.com/trade-in-terms-and-conditions/","select":"body"}}}
+{
+  "name": "Peoples operator",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.thepeoplesoperator.com/privacy-policy/",
+      "select": "body"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://www.thepeoplesoperator.com/shipping-policy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.thepeoplesoperator.com/trade-in-terms-and-conditions/",
+      "select": "body"
+    }
+  }
+}

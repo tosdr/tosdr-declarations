@@ -1,1 +1,9 @@
-{"name":"Getty Images","documents":{"Terms of Service":{"fetch":"https://www.gettyimages.com/company/terms","select":"html > body > div:nth-of-type(2) > section > div > div:nth-of-type(3)"}}}
+{
+  "name": "Getty images",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.gettyimages.com/company/terms",
+      "select": "html > body > div:nth-of-type(2) > section > div > div:nth-of-type(3)"
+    }
+  }
+}

@@ -1,1 +1,12 @@
-{"name":"iKeepSafe ","documents":{"Privacy Policy":{"fetch":"https://ikeepsafe.org/privacy-policy/"},"Terms of Service":{"fetch":"https://ikeepsafe.org/terms-of-use/","select":"body"}}}
+{
+  "name": "Ikeepsafe",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://ikeepsafe.org/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://ikeepsafe.org/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

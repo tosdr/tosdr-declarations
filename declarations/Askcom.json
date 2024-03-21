@@ -1,1 +1,13 @@
-{"name":"Ask.com","documents":{"Privacy Policy":{"fetch":"https://www.ask.com/privacy","select":"html > body > div:nth-of-type(2) > div > main > div > div > section > div"},"Terms of Service":{"fetch":"https://www.ask.com/terms?qo=footerLinks","select":"html > body > div:nth-of-type(2) > div > main > div > div > section > div > div"}}}
+{
+  "name": "Askcom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.ask.com/privacy",
+      "select": "html > body > div:nth-of-type(2) > div > main > div > div > section > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.ask.com/terms?qo=footerLinks",
+      "select": "html > body > div:nth-of-type(2) > div > main > div > div > section > div > div"
+    }
+  }
+}

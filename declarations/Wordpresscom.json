@@ -1,1 +1,15 @@
-{"name":"Wordpress.com","documents":{"Privacy Policy":{"fetch":"https://automattic.com/privacy/"},"Terms of Service":{"fetch":"https://wordpress.com/tos/"},"Trackers Policy":{"fetch":"https://automattic.com/cookies/","select":" > div > div:first-of-type"}}}
+{
+  "name": "Wordpresscom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://automattic.com/privacy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://wordpress.com/tos/"
+    },
+    "Trackers Policy": {
+      "fetch": "https://automattic.com/cookies/",
+      "select": " > div > div:first-of-type"
+    }
+  }
+}

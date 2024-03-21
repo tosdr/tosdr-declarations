@@ -1,1 +1,9 @@
-{"name":"ExceptionalSmiles ","documents":{"Terms of Service":{"fetch":"https://exceptionalsmiles.org/terms-of-use/","select":"body"}}}
+{
+  "name": "Exceptionalsmiles",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://exceptionalsmiles.org/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

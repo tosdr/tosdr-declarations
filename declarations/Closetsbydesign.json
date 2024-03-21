@@ -1,1 +1,9 @@
-{"name":"closetsbydesign ","documents":{"Privacy Policy":{"fetch":"https://www.closetsbydesign.com/privacy-policy","select":"html > body > div:first-of-type > div > div > div > div:nth-of-type(2) > div > div:first-of-type"}}}
+{
+  "name": "Closetsbydesign",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.closetsbydesign.com/privacy-policy",
+      "select": "html > body > div:first-of-type > div > div > div > div:nth-of-type(2) > div > div:first-of-type"
+    }
+  }
+}

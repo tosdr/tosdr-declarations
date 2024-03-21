@@ -1,1 +1,9 @@
-{"name":"Fred Hutchinson Cancer Center","documents":{"Privacy Policy":{"fetch":"https://www.fredhutch.org/en/util/terms-privacy.html","select":"body"}}}
+{
+  "name": "Fred hutchinson cancer center",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.fredhutch.org/en/util/terms-privacy.html",
+      "select": "body"
+    }
+  }
+}

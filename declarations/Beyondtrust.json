@@ -1,1 +1,9 @@
-{"name":"BeyondTrust ","documents":{"Privacy Policy":{"fetch":"https://www.beyondtrust.com/privacy-notice","select":"html > body > div:nth-of-type(2) > div"}}}
+{
+  "name": "Beyondtrust",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://www.beyondtrust.com/privacy-notice",
+      "select": "html > body > div:nth-of-type(2) > div"
+    }
+  }
+}

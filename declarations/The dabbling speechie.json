@@ -1,1 +1,9 @@
-{"name":"The Dabbling Speechie","documents":{"Privacy Policy":{"fetch":"https://thedabblingspeechie.com/disclosures/terms-of-use-privacy-policy/","select":"body"}}}
+{
+  "name": "The dabbling speechie",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://thedabblingspeechie.com/disclosures/terms-of-use-privacy-policy/",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"name":"tonightsflirt","documents":{"Privacy Policy":{"fetch":"https://tonightsflirt.com/privacy","select":"body"},"Terms of Service":{"fetch":"https://tonightsflirt.com/terms","select":"body"}}}
+{
+  "name": "Tonightsflirt",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://tonightsflirt.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://tonightsflirt.com/terms",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,14 @@
-{"name":"Hey","documents":{"Privacy Policy":{"fetch":"https://www.hey.com/policies/privacy/"},"Terms of Service":{"fetch":"https://www.hey.com/policies/terms/"}}}
+{
+  "name": "Hey",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.hey.com/policies/privacy/"
+    },
+    "Acceptable Use Policy": {
+      "fetch": "https://www.hey.com/policies/abuse/"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.hey.com/policies/terms/"
+    }
+  }
+}

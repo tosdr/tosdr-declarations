@@ -1,1 +1,11 @@
-{"name":"ipapi ","documents":{"Privacy Policy":{"fetch":"https://ipapi.co/privacy/"},"Terms of Service":{"fetch":"https://ipapi.co/terms/"}}}
+{
+  "name": "Ipapi",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://ipapi.co/privacy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://ipapi.co/terms/"
+    }
+  }
+}

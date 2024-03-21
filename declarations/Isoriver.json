@@ -1,1 +1,13 @@
-{"name":"ISORIVER","documents":{"Copyright Claims Policy":{"fetch":"https://isoriver.com/dmca/","select":"body"},"Privacy Policy":{"fetch":"https://isoriver.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Isoriver",
+  "documents": {
+    "Copyright Claims Policy": {
+      "fetch": "https://isoriver.com/dmca/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://isoriver.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

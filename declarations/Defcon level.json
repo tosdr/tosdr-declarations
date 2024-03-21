@@ -1,1 +1,9 @@
-{"name":"DEFCON Level","documents":{"Privacy Policy":{"fetch":"https://www.defconlevel.com/privacy-policy.php","select":"body"}}}
+{
+  "name": "Defcon level",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.defconlevel.com/privacy-policy.php",
+      "select": "body"
+    }
+  }
+}

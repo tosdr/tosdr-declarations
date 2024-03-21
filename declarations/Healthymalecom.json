@@ -1,1 +1,9 @@
-{"name":"HealthyMale.com","documents":{"Privacy Policy":{"fetch":"https://www.healthymale.com/privacy-policy/","select":"body"}}}
+{
+  "name": "Healthymalecom",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.healthymale.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

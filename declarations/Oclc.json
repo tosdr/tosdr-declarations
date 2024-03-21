@@ -1,1 +1,9 @@
-{"name":"OCLC","documents":{"Trackers Policy":{"fetch":"https://policies.oclc.org/en/privacy/cookie-statement.html","select":"body"}}}
+{
+  "name": "Oclc",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://policies.oclc.org/en/privacy/cookie-statement.html",
+      "select": "body"
+    }
+  }
+}

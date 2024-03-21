@@ -1,1 +1,13 @@
-{"name":"Casting Call Club","documents":{"Privacy Policy":{"fetch":"https://www.castingcall.club/privacy","select":"body"},"Terms of Service":{"fetch":"https://www.castingcall.club/terms-of-service","select":"body"}}}
+{
+  "name": "Casting call club",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.castingcall.club/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.castingcall.club/terms-of-service",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,14 @@
-{"name":"Sanity","documents":{"Privacy Policy":{"fetch":"https://www.sanity.io/legal/privacy"},"Terms of Service":{"fetch":"https://www.sanity.io/legal/tos"}}}
+{
+  "name": "Sanity",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.sanity.io/legal/privacy"
+    },
+    "Legal Information": {
+      "fetch": "https://www.sanity.io/security"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.sanity.io/legal/tos"
+    }
+  }
+}

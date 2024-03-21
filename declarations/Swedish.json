@@ -1,1 +1,9 @@
-{"name":"swedish","documents":{"Privacy Policy":{"fetch":"https://www.swedish.org/policy","select":"html > body > form > section:nth-of-type(2) > div:nth-of-type(3) > section:first-of-type > div"}}}
+{
+  "name": "Swedish",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.swedish.org/policy",
+      "select": "html > body > form > section:nth-of-type(2) > div:nth-of-type(3) > section:first-of-type > div"
+    }
+  }
+}

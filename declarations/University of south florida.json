@@ -1,1 +1,8 @@
-{"name":"University of South Florida","documents":{"Privacy Policy":{"fetch":"https://www.usf.edu/it/documentation/privacy-policy.aspx"}}}
+{
+  "name": "University of south florida",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.usf.edu/it/documentation/privacy-policy.aspx"
+    }
+  }
+}

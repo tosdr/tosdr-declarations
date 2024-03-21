@@ -1,1 +1,13 @@
-{"name":"Psiphon","documents":{"Trackers Policy":{"fetch":"https://psiphon.ca/cookiepolicy.html","select":"body"},"Terms of Service":{"fetch":"https://psiphon.ca/en/license.html","select":"body"}}}
+{
+  "name": "Psiphon",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://psiphon.ca/cookiepolicy.html",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://psiphon.ca/en/license.html",
+      "select": "body"
+    }
+  }
+}

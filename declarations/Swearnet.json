@@ -1,1 +1,9 @@
-{"name":"Swearnet","documents":{"Privacy Policy":{"fetch":"https://www.swearnet.com/privacy","select":"body"}}}
+{
+  "name": "Swearnet",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.swearnet.com/privacy",
+      "select": "body"
+    }
+  }
+}

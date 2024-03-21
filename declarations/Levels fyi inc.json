@@ -1,1 +1,13 @@
-{"name":"Levels Fyi Inc","documents":{"Privacy Policy":{"fetch":"https://www.levels.fyi/about/privacy.html","select":"html > body > div:nth-of-type(2)"},"Terms of Service":{"fetch":"https://www.levels.fyi/about/terms.html","select":"html > body > div:nth-of-type(2)"}}}
+{
+  "name": "Levels fyi inc",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.levels.fyi/about/privacy.html",
+      "select": "html > body > div:nth-of-type(2)"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.levels.fyi/about/terms.html",
+      "select": "html > body > div:nth-of-type(2)"
+    }
+  }
+}

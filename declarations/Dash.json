@@ -1,1 +1,13 @@
-{"name":"Dash","documents":{"Privacy Policy":{"fetch":"https://www.dash.org/privacy/","select":" > div:first-of-type"},"Terms of Service":{"fetch":"https://www.dash.org/terms-of-use/","select":" > div:first-of-type"}}}
+{
+  "name": "Dash",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.dash.org/privacy/",
+      "select": " > div:first-of-type"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.dash.org/terms-of-use/",
+      "select": " > div:first-of-type"
+    }
+  }
+}

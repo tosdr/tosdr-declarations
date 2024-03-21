@@ -1,1 +1,11 @@
-{"name":"Sessions Live","documents":{"Privacy Policy":{"fetch":"https://about.sessionslive.com/privacy-policy/"},"Terms of Service":{"fetch":"https://about.sessionslive.com/terms-conditions/"}}}
+{
+  "name": "Sessions live",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://about.sessionslive.com/privacy-policy/"
+    },
+    "Terms of Service": {
+      "fetch": "https://about.sessionslive.com/terms-conditions/"
+    }
+  }
+}

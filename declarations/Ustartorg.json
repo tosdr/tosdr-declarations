@@ -1,1 +1,9 @@
-{"name":"ustart.org","documents":{"Privacy Policy":{"fetch":"https://www.ustart.org/help/help_privacy_en.html","select":"body"}}}
+{
+  "name": "Ustartorg",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.ustart.org/help/help_privacy_en.html",
+      "select": "body"
+    }
+  }
+}

@@ -1,1 +1,9 @@
-{"name":"The GPS Store","documents":{"Privacy Policy":{"fetch":"https://www.thegpsstore.com/help/privacy-security.aspx","select":"body"}}}
+{
+  "name": "The gps store",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.thegpsstore.com/help/privacy-security.aspx",
+      "select": "body"
+    }
+  }
+}

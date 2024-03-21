@@ -1,1 +1,9 @@
-{"name":"Zeam Health","documents":{"Terms of Service":{"fetch":"https://www.zeamhealth.com/our-terms","select":"body"}}}
+{
+  "name": "Zeam health",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.zeamhealth.com/our-terms",
+      "select": "body"
+    }
+  }
+}

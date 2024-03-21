@@ -1,1 +1,9 @@
-{"name":"teamhealth ","documents":{"Privacy Policy":{"fetch":"https://www.teamhealth.com/our-company/human-resources/privacy-policy/?r=1","select":"body"}}}
+{
+  "name": "Teamhealth",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.teamhealth.com/our-company/human-resources/privacy-policy/?r=1",
+      "select": "body"
+    }
+  }
+}

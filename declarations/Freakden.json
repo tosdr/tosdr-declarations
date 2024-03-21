@@ -1,1 +1,9 @@
-{"name":"Freakden","documents":{"Privacy Policy":{"fetch":"https://www.freakden.com/pin/privacy-policy/","select":"body"}}}
+{
+  "name": "Freakden",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.freakden.com/pin/privacy-policy/",
+      "select": "body"
+    }
+  }
+}
