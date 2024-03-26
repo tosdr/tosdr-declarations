@@ -2,13 +2,16 @@
   "name": "Cfi education",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://corporatefinanceinstitute.com/about-cfi/privacy-policy/"
+      "fetch": "https://corporatefinanceinstitute.com/about-cfi/privacy-policy/",
+      "select": null
     },
     "Legal Information": {
-      "fetch": "https://corporatefinanceinstitute.com/about-cfi/copyright-trademark-notice/"
+      "fetch": "https://corporatefinanceinstitute.com/about-cfi/copyright-trademark-notice/",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://corporatefinanceinstitute.com/about-cfi/website-terms-of-use/"
+      "fetch": "https://corporatefinanceinstitute.com/about-cfi/website-terms-of-use/",
+      "select": null
     }
   }
 }

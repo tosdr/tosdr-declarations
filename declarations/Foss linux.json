@@ -2,10 +2,12 @@
   "name": "Foss linux",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.fosslinux.com/cookie-policy"
+      "fetch": "https://www.fosslinux.com/cookie-policy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.fosslinux.com/disclaimer"
+      "fetch": "https://www.fosslinux.com/disclaimer",
+      "select": null
     }
   }
 }

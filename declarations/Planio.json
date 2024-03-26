@@ -1,6 +1,10 @@
 {
   "name": "Planio",
   "documents": {
+    "Other": {
+      "fetch": "https://plan.io/redmine-and-open-source/",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://plan.io/privacy-policy/",
       "select": "html > body > div:nth-of-type(5) > div"

@@ -2,7 +2,8 @@
   "name": "Sharedproxiescom",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.sharedproxies.com/terms.html"
+      "fetch": "https://www.sharedproxies.com/terms.html",
+      "select": null
     }
   }
 }

@@ -2,7 +2,8 @@
   "name": "Wuolah",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://wuolah.com/terms"
+      "fetch": "https://wuolah.com/terms",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://wuolah.com/privacy",

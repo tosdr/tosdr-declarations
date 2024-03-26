@@ -2,7 +2,8 @@
   "name": "Open invention network",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://openinventionnetwork.com/privacy-policy"
+      "fetch": "https://openinventionnetwork.com/privacy-policy",
+      "select": null
     }
   }
 }

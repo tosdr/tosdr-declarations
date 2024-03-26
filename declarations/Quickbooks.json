@@ -4,6 +4,10 @@
     "Terms of Service": {
       "fetch": "https://qbo.intuit.com/Terms_Of_Service.html",
       "select": "html > body > div:nth-of-type(2)"
+    },
+    "Privacy Policy": {
+      "fetch": "https://quickbooks.intuit.com/uk/privacy-policy/",
+      "select": "body"
     }
   }
 }

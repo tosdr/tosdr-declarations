@@ -6,7 +6,8 @@
       "select": " > div > div"
     },
     "Privacy Policy": {
-      "fetch": "https://www.visible.com/legal/privacy/"
+      "fetch": "https://www.visible.com/legal/privacy/",
+      "select": null
     }
   }
 }

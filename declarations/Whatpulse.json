@@ -2,7 +2,8 @@
   "name": "Whatpulse",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://whatpulse.org/pages/tos/"
+      "fetch": "https://whatpulse.org/pages/tos/",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://whatpulse.org/pages/privacy/",

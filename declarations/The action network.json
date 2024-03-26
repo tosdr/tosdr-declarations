@@ -2,16 +2,20 @@
   "name": "The action network",
   "documents": {
     "Legal Information": {
-      "fetch": "https://actionnetwork.org/privacy"
+      "fetch": "https://actionnetwork.org/privacy",
+      "select": null
     },
     "Trackers Policy": {
-      "fetch": "https://actionnetwork.org/cookies/"
+      "fetch": "https://actionnetwork.org/cookies/",
+      "select": null
     },
     "Acceptable Use Policy": {
-      "fetch": "https://actionnetwork.org/acceptable/"
+      "fetch": "https://actionnetwork.org/acceptable/",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://actionnetwork.org/terms/"
+      "fetch": "https://actionnetwork.org/terms/",
+      "select": null
     }
   }
 }

@@ -2,13 +2,16 @@
   "name": "Vox media",
   "documents": {
     "Legal Information": {
-      "fetch": "https://www.voxmedia.com/legal/privacy-notice"
+      "fetch": "https://www.voxmedia.com/legal/privacy-notice",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.voxmedia.com/legal/terms-of-use"
+      "fetch": "https://www.voxmedia.com/legal/terms-of-use",
+      "select": null
     },
     "Trackers Policy": {
-      "fetch": "https://www.voxmedia.com/legal/cookie-policy"
+      "fetch": "https://www.voxmedia.com/legal/cookie-policy",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://www.voxmedia.com/pages/security",

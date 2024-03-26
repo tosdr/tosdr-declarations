@@ -1,6 +1,10 @@
 {
   "name": "Ouyaworld",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://ouya.world/privacy",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://ouya.world/tos",
       "select": "body"

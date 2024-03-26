@@ -2,7 +2,8 @@
   "name": "Andrews mcmeel universal",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.andrewsmcmeel.com/privacy-policy/"
+      "fetch": "https://www.andrewsmcmeel.com/privacy-policy/",
+      "select": null
     }
   }
 }

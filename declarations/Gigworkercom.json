@@ -2,7 +2,8 @@
   "name": "Gigworkercom",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://gigworker.com/terms-and-conditions/"
+      "fetch": "https://gigworker.com/terms-and-conditions/",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://gigworker.com/privacy-policy/",

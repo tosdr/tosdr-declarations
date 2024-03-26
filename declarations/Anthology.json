@@ -2,7 +2,8 @@
   "name": "Anthology",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.anthology.com/privacy-policy"
+      "fetch": "https://www.anthology.com/privacy-policy",
+      "select": null
     }
   }
 }

@@ -2,7 +2,7 @@
   "name": "Nutristore",
   "documents": {
     "General Conditions of Sale": {
-      "fetch": "https://nutristorefoods.com/pages/delivery-returns-policy",
+      "fetch": "https://nutristorefoods.com/pages/satisfaction-guarantee",
       "select": "body"
     },
     "Terms of Service": {

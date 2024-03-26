@@ -2,7 +2,8 @@
   "name": "Beacon crm",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.beaconcrm.org/privacy"
+      "fetch": "https://www.beaconcrm.org/privacy",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://www.beaconcrm.org/website-terms-of-use",

@@ -2,10 +2,12 @@
   "name": "Manitude",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.manitu.de/datenschutz"
+      "fetch": "https://www.manitu.de/datenschutz",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.manitu.de/impressum/agb/"
+      "fetch": "https://www.manitu.de/impressum/agb/",
+      "select": null
     }
   }
 }

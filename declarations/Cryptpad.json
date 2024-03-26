@@ -6,7 +6,8 @@
       "select": "html > body > div:first-of-type > div > div:nth-of-type(2)"
     },
     "Privacy Policy": {
-      "fetch": "https://cryptpad.fr/privacy.html"
+      "fetch": "https://cryptpad.fr/privacy.html",
+      "select": null
     }
   }
 }

@@ -4,6 +4,10 @@
     "Terms of Service": {
       "fetch": "https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/terms-of-use/",
       "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/data-processing-agreement-cookie-information/ ",
+      "select": "body"
     }
   }
 }

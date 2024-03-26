@@ -2,10 +2,12 @@
   "name": "Channel master",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.channelmaster.com/pages/terms"
+      "fetch": "https://www.channelmaster.com/pages/terms",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://www.channelmaster.com/pages/terms-privacy"
+      "fetch": "https://www.channelmaster.com/pages/terms-privacy",
+      "select": null
     }
   }
 }

@@ -1,6 +1,10 @@
 {
   "name": "Nano",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://nano.org/en/privacy",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://nano.org/en/terms",
       "select": "body"

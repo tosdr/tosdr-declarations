@@ -1,6 +1,10 @@
 {
   "name": "Chatgpt online",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://gptonline.ai/privacy-policy/",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://gptonline.ai/terms-of-use/",
       "select": "body"

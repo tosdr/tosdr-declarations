@@ -1,6 +1,10 @@
 {
   "name": "Runbox",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://runbox.com/about/privacy-policy/",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://runbox.com/about/terms-service/",
       "select": "body"

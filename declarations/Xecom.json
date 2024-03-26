@@ -2,13 +2,16 @@
   "name": "Xecom",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.xe.com/privacy.php"
+      "fetch": "https://www.xe.com/privacy.php",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.xe.com/legal/"
+      "fetch": "https://www.xe.com/legal/",
+      "select": null
     },
     "Trackers Policy": {
-      "fetch": "https://www.xe.com/cookiepolicy.php"
+      "fetch": "https://www.xe.com/cookiepolicy.php",
+      "select": null
     }
   }
 }

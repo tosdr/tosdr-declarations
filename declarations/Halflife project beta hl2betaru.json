@@ -2,7 +2,8 @@
   "name": "Halflife project beta hl2betaru",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://hl2-beta.ru/index.php?action=agreement"
+      "fetch": "https://hl2-beta.ru/index.php?action=agreement",
+      "select": null
     }
   }
 }

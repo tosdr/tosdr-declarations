@@ -4,6 +4,10 @@
     "Terms of Service": {
       "fetch": "https://www.lionsgate.com/legal/terms-of-use",
       "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.lionsgate.com/legal/privacy-policy",
+      "select": "body"
     }
   }
 }

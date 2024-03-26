@@ -6,7 +6,8 @@
       "select": "html > body > main > div:nth-of-type(2)"
     },
     "Privacy Policy": {
-      "fetch": "https://uodo.gov.pl/en/1/975"
+      "fetch": "https://uodo.gov.pl/en/1/975",
+      "select": null
     },
     "Trackers Policy": {
       "fetch": "https://www.gov.pl/web/gov/polityka-dotyczaca-cookies",

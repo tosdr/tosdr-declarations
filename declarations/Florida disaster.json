@@ -2,7 +2,8 @@
   "name": "Florida disaster",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.floridadisaster.org/privacy.htm/"
+      "fetch": "https://www.floridadisaster.org/privacy.htm/",
+      "select": null
     }
   }
 }

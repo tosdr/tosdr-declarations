@@ -5,8 +5,13 @@
       "fetch": "https://www.youporn.com/information/#terms",
       "select": "body"
     },
+    "Privacy Policy": {
+      "fetch": "https://www.youporn.com/information/#privacy",
+      "select": "body"
+    },
     "Copyright Claims Policy": {
-      "fetch": "https://www.youporn.com/information/#dmca"
+      "fetch": "https://www.youporn.com/information/#dmca",
+      "select": null
     }
   }
 }

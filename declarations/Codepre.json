@@ -2,7 +2,8 @@
   "name": "Codepre",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://codepre.com/en/privacy-policy"
+      "fetch": "https://codepre.com/en/privacy-policy",
+      "select": null
     }
   }
 }

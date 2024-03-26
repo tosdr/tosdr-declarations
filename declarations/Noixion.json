@@ -2,10 +2,12 @@
   "name": "Noixion",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://noixion.tv/about/terms"
+      "fetch": "https://noixion.tv/about/terms",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://noixion.tv/about/privacy"
+      "fetch": "https://noixion.tv/about/privacy",
+      "select": null
     }
   }
 }

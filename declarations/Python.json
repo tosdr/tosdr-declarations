@@ -2,7 +2,8 @@
   "name": "Python",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.python.org/privacy/"
+      "fetch": "https://www.python.org/privacy/",
+      "select": null
     }
   }
 }

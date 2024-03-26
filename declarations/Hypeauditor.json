@@ -2,10 +2,12 @@
   "name": "Hypeauditor",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://hypeauditor.com/privacy"
+      "fetch": "https://hypeauditor.com/privacy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://hypeauditor.com/terms"
+      "fetch": "https://hypeauditor.com/terms",
+      "select": null
     }
   }
 }

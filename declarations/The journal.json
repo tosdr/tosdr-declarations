@@ -4,6 +4,10 @@
     "Terms of Service": {
       "fetch": "https://www.thejournal.ie/terms/",
       "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.thejournal.ie/cookies-privacy-policy/",
+      "select": "body"
     }
   }
 }

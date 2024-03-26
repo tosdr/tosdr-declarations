@@ -4,6 +4,10 @@
     "Terms of Service": {
       "fetch": "https://audm.com/terms-of-service",
       "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://audm.com/privacy-policy ",
+      "select": "body"
     }
   }
 }

@@ -8,6 +8,10 @@
     "Terms of Service": {
       "fetch": "https://support.pocketcasts.com/article/terms-of-use/",
       "select": "html > body > div:nth-of-type(2) > section > div > article > div"
+    },
+    "Other": {
+      "fetch": "https://consumerscompanion.com/",
+      "select": "body"
     }
   }
 }

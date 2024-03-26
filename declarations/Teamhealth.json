@@ -4,6 +4,10 @@
     "Privacy Policy": {
       "fetch": "https://www.teamhealth.com/our-company/human-resources/privacy-policy/?r=1",
       "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.teamhealth.com/our-company/human-resources/terms-and-conditions/?r=1",
+      "select": "body"
     }
   }
 }

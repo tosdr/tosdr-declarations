@@ -8,6 +8,10 @@
     "Miscellaneous Agreement": {
       "fetch": "https://porkbun.com/legal/agreement/buyers_auction_agreement",
       "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://porkbun.com/legal/agreement/privacy_policy",
+      "select": "body"
     }
   }
 }

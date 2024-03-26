@@ -2,7 +2,8 @@
   "name": "Motherboardspares",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://motherboardspares.com/en/privacy-and-cookie-notice.html"
+      "fetch": "https://motherboardspares.com/en/privacy-and-cookie-notice.html",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://motherboardspares.com/en/terms.html",

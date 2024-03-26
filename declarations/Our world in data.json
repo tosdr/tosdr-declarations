@@ -2,7 +2,8 @@
   "name": "Our world in data",
   "documents": {
     "Legal Information": {
-      "fetch": "https://ourworldindata.org/about#legal"
+      "fetch": "https://ourworldindata.org/about#legal",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://ourworldindata.org/privacy-policy",

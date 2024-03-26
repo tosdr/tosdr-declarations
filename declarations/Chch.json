@@ -2,7 +2,8 @@
   "name": "Chch",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.ch.ch/en/legal/"
+      "fetch": "https://www.ch.ch/en/legal/",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://www.ch.ch/en/terms-and-conditions/",

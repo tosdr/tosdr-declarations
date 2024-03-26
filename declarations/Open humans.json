@@ -2,7 +2,8 @@
   "name": "Open humans",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.openhumans.org/community-guidelines/#public-data"
+      "fetch": "https://www.openhumans.org/community-guidelines/#public-data",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://www.openhumans.org/terms/",

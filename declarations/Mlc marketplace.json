@@ -2,7 +2,8 @@
   "name": "Mlc marketplace",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://mls.om/pages/terms-conditions"
+      "fetch": "https://mls.om/pages/terms-conditions",
+      "select": null
     }
   }
 }

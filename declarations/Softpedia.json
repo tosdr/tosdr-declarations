@@ -6,10 +6,12 @@
       "select": "body"
     },
     "Trackers Policy": {
-      "fetch": "https://www.softpedia.com/user/cookies.shtml"
+      "fetch": "https://www.softpedia.com/user/cookies.shtml",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.softpedia.com/user/terms.shtml"
+      "fetch": "https://www.softpedia.com/user/terms.shtml",
+      "select": null
     }
   }
 }

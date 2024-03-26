@@ -1,6 +1,10 @@
 {
   "name": "Oneprovidercom",
   "documents": {
+    "Acceptable Use Policy": {
+      "fetch": "https://oneprovider.com/about-us/acceptable-usage-policy",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://oneprovider.com/about-us/terms-of-service",
       "select": "body"

@@ -1,6 +1,10 @@
 {
   "name": "Carsondellosa",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.carsondellosa.com/terms-and-conditions/",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://www.carsondellosa.com/privacy-policy/",
       "select": "body"

@@ -2,13 +2,16 @@
   "name": "Bullionbypostcouk",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.bullionbypost.co.uk/info/privacy/"
+      "fetch": "https://www.bullionbypost.co.uk/info/privacy/",
+      "select": null
     },
     "Acceptable Use Policy": {
-      "fetch": "https://www.bullionbypost.co.uk/info/acceptable-use/"
+      "fetch": "https://www.bullionbypost.co.uk/info/acceptable-use/",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.bullionbypost.co.uk/info/terms-and-conditions/"
+      "fetch": "https://www.bullionbypost.co.uk/info/terms-and-conditions/",
+      "select": null
     }
   }
 }

@@ -1,12 +1,12 @@
 {
   "name": "Ashley home and furniture",
   "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.ashleyfurniture.com/privacy-policy",
-      "select": "body"
-    },
     "Terms of Service": {
       "fetch": "https://www.ashleyfurniture.com/terms-and-conditions/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.ashleyfurniture.com/privacy-policy",
       "select": "body"
     }
   }

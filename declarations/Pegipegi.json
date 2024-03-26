@@ -1,6 +1,10 @@
 {
   "name": "Pegipegi",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.pegipegi.com/privacy-policy ",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://www.pegipegi.com/terms-and-conditions",
       "select": "body"

@@ -2,7 +2,8 @@
   "name": "Whizz education",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://whizz.com/privacy-policy/"
+      "fetch": "https://whizz.com/privacy-policy/",
+      "select": null
     },
     "Legal Information": {
       "fetch": "https://whizz.com/legal/",

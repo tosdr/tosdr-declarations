@@ -2,7 +2,8 @@
   "name": "Quizlet",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://quizlet.com/privacy"
+      "fetch": "https://quizlet.com/privacy",
+      "select": null
     },
     "Copyright Claims Policy": {
       "fetch": "https://quizlet.com/dmca",

@@ -5,6 +5,10 @@
       "fetch": "https://www.prosper.com/plp/legal/terms-of-use-data/",
       "select": "body"
     },
+    "Other": {
+      "fetch": "https://www.prosper.com/plp/investor-credit-report-authorization/",
+      "select": "body"
+    },
     "Developer Terms": {
       "fetch": "https://www.prosper.com/plp/legal/terms-of-use-api/",
       "select": "body"

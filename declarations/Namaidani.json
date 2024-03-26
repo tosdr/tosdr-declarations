@@ -2,10 +2,12 @@
   "name": "Namaidani",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://url.namaidani.com/pages/terms"
+      "fetch": "https://url.namaidani.com/pages/terms",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://url.namaidani.com/pages/privacy"
+      "fetch": "https://url.namaidani.com/pages/privacy",
+      "select": null
     }
   }
 }

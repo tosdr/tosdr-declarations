@@ -1,6 +1,10 @@
 {
   "name": "Therapydave",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://therapydave.com/privacy/",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://therapydave.com/terms/",
       "select": "body"

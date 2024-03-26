@@ -2,10 +2,12 @@
   "name": "Chief delphi",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.chiefdelphi.com/privacy"
+      "fetch": "https://www.chiefdelphi.com/privacy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.chiefdelphi.com/tos"
+      "fetch": "https://www.chiefdelphi.com/tos",
+      "select": null
     }
   }
 }

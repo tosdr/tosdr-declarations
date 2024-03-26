@@ -2,7 +2,8 @@
   "name": "Home safety services",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.homesafety.net/terms-of-use/"
+      "fetch": "https://www.homesafety.net/terms-of-use/",
+      "select": null
     }
   }
 }

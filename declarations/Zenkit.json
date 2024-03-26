@@ -6,7 +6,8 @@
       "select": "html > body > div:nth-of-type(2) > div:first-of-type > div > main > article"
     },
     "Privacy Policy": {
-      "fetch": "https://zenkit.com/en/web-privacy/"
+      "fetch": "https://zenkit.com/en/web-privacy/",
+      "select": null
     }
   }
 }

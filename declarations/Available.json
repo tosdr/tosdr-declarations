@@ -2,7 +2,8 @@
   "name": "Available",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.aveneusa.com/customer-support/terms-conditions/"
+      "fetch": "https://www.aveneusa.com/customer-support/terms-conditions/",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://www.aveneusa.com/customer-support/avene-privacy-policy/",

@@ -8,6 +8,10 @@
     "Trackers Policy": {
       "fetch": "https://aciuf.net/cookies-policy/",
       "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://aciuf.net/privacy-policy/",
+      "select": "body"
     }
   }
 }

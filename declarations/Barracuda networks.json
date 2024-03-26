@@ -2,7 +2,8 @@
   "name": "Barracuda networks",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.barracuda.com/company/legal/trust-center/data-privacy/privacy-policy"
+      "fetch": "https://www.barracuda.com/company/legal/trust-center/data-privacy/privacy-policy",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://www.barracuda.com/company/legal/prd_trm",

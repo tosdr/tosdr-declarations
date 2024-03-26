@@ -2,10 +2,12 @@
   "name": "Ixl",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.ixl.com/privacypolicy/serviceprivacypolicy"
+      "fetch": "https://www.ixl.com/privacypolicy/serviceprivacypolicy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.ixl.com/termsofservice"
+      "fetch": "https://www.ixl.com/termsofservice",
+      "select": null
     }
   }
 }

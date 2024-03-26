@@ -1,6 +1,10 @@
 {
   "name": "Wishlist",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.wishlist.com/termsofuse",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://www.wishlist.com/privacyfull",
       "select": " > div"

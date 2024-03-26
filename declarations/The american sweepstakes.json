@@ -1,6 +1,10 @@
 {
   "name": "The american sweepstakes",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://theamericansweepstakes.com/terms-and-conditions.html",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://theamericansweepstakes.com/privacy-policy.html",
       "select": "body"

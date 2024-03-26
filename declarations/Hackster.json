@@ -6,10 +6,12 @@
       "select": " > div > div > div:nth-of-type(2)"
     },
     "Privacy Policy": {
-      "fetch": "https://www.hackster.io/privacy"
+      "fetch": "https://www.hackster.io/privacy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.hackster.io/terms"
+      "fetch": "https://www.hackster.io/terms",
+      "select": null
     }
   }
 }

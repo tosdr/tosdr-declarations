@@ -2,10 +2,12 @@
   "name": "Before its news",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://beforeitsnews.com/v3/privacy/"
+      "fetch": "https://beforeitsnews.com/v3/privacy/",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://beforeitsnews.com/v3/terms/"
+      "fetch": "https://beforeitsnews.com/v3/terms/",
+      "select": null
     }
   }
 }

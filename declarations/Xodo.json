@@ -6,7 +6,8 @@
       "select": "html > body > section > div > div"
     },
     "Terms of Service": {
-      "fetch": "https://www.xodo.com/terms-of-use.html"
+      "fetch": "https://www.xodo.com/terms-of-use.html",
+      "select": null
     }
   }
 }

@@ -2,7 +2,8 @@
   "name": "Proximus",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.proximus.be/fr/id_cr_warnland/particuliers/r-orphans/informations-legales.html"
+      "fetch": "https://www.proximus.be/fr/id_cr_warnland/particuliers/r-orphans/informations-legales.html",
+      "select": null
     }
   }
 }

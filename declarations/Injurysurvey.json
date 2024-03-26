@@ -1,6 +1,10 @@
 {
   "name": "Injurysurvey",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://injurysurvey.com/terms/",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://injurysurvey.com/privacy/",
       "select": "body"

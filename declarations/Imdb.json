@@ -2,7 +2,8 @@
   "name": "Imdb",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.imdb.com/conditions"
+      "fetch": "https://www.imdb.com/conditions",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "http://www.imdb.com/privacy",

@@ -10,7 +10,8 @@
       "select": "html > body > div"
     },
     "Privacy Policy": {
-      "fetch": "https://fc2.com/en/privacy.html"
+      "fetch": "https://fc2.com/en/privacy.html",
+      "select": null
     }
   }
 }

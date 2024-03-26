@@ -5,6 +5,10 @@
       "fetch": "https://www.snopes.com/terms-of-use/",
       "select": "body"
     },
+    "Trackers Policy": {
+      "fetch": "https://www.snopes.com/cookie-policy/",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://www.snopes.com/privacy-policy/",
       "select": " > div"

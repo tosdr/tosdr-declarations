@@ -2,7 +2,8 @@
   "name": "Sensory toy warehouse",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.sensorytoywarehouse.com/terms-and-conditions/"
+      "fetch": "https://www.sensorytoywarehouse.com/terms-and-conditions/",
+      "select": null
     }
   }
 }

@@ -2,7 +2,8 @@
   "name": "Simplenursingcom",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://simplenursing.com/privacy-policy"
+      "fetch": "https://simplenursing.com/privacy-policy",
+      "select": null
     }
   }
 }

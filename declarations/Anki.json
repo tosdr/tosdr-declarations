@@ -2,8 +2,12 @@
   "name": "Anki",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://support.anki.com/hc/en-us/articles/236021007-COZMO-Cozmo-Privacy-Basics",
-      "select": "html > body > div:nth-of-type(3) > main > div:nth-of-type(2) > div:nth-of-type(2) > article"
+      "fetch": "https://www.anki.com/en-us/company/privacy",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.anki.com/en-us/company/cookie-policy",
+      "select": "body"
     }
   }
 }

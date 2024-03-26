@@ -2,10 +2,12 @@
   "name": "Adaptavist",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.adaptavist.com/privacy-policy"
+      "fetch": "https://www.adaptavist.com/privacy-policy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.adaptavist.com/terms-and-conditions"
+      "fetch": "https://www.adaptavist.com/terms-and-conditions",
+      "select": null
     }
   }
 }

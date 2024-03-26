@@ -4,6 +4,14 @@
     "Legal Information": {
       "fetch": "https://www.dnsfilter.com/privacy-policy",
       "select": "body"
+    },
+    "Corporate Social Responsibility": {
+      "fetch": "https://www.dnsfilter.com/whistleblower-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.dnsfilter.com/terms-of-service",
+      "select": "body"
     }
   }
 }

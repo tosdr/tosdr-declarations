@@ -1,6 +1,10 @@
 {
   "name": "General mills",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.generalmills.com/en/Company/privacy-policies/privacy-policy-cookie-US-English",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://www.generalmills.com/en/Company/legal-terms",
       "select": "body"

@@ -6,10 +6,12 @@
       "select": "div.content-block"
     },
     "Privacy Policy": {
-      "fetch": "https://www.meredith.com/nmg/privacy"
+      "fetch": "https://www.meredith.com/nmg/privacy",
+      "select": null
     },
     "Trackers Policy": {
-      "fetch": "https://www.meredith.com/adchoices"
+      "fetch": "https://www.meredith.com/adchoices",
+      "select": null
     }
   }
 }

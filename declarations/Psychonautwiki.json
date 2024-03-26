@@ -2,7 +2,8 @@
   "name": "Psychonautwiki",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://m.psychonautwiki.org/w/index.php?title=Privacy_policy&_="
+      "fetch": "https://m.psychonautwiki.org/w/index.php?title=Privacy_policy&_=",
+      "select": null
     }
   }
 }

@@ -2,7 +2,8 @@
   "name": "Electronic frontier foundation",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.eff.org/policy"
+      "fetch": "https://www.eff.org/policy",
+      "select": null
     }
   }
 }

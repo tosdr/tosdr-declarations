@@ -8,6 +8,10 @@
     "Terms of Service": {
       "fetch": "https://siteimprove.com/en/legal/terms-of-use/",
       "select": "html > body > div > main > div:nth-of-type(2) > div > div > div > div > div"
+    },
+    "Legal Information": {
+      "fetch": "https://siteimprove.com/en/privacy/privacy-policy/",
+      "select": "body"
     }
   }
 }

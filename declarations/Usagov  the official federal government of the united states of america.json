@@ -2,7 +2,8 @@
   "name": "Usagov  the official federal government of the united states of america",
   "documents": {
     "Affiliate Disclosure": {
-      "fetch": "https://www.usa.gov/linking-policy"
+      "fetch": "https://www.usa.gov/linking-policy",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://www.usa.gov/website-policies-and-notices",

@@ -1,6 +1,10 @@
 {
   "name": "Wikigg",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://wiki.gg/privacypolicy/",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://wiki.gg/termsofservice/",
       "select": "body"

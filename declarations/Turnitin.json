@@ -1,11 +1,13 @@
 {
   "name": "Turnitin",
   "documents": {
-    "Terms of Service": {
-      "fetch": "https://www.turnitin.com/terms-of-use-website"
-    },
     "Privacy Policy": {
-      "fetch": "https://www.turnitin.com/privacy-policy-website"
+      "fetch": "https://www.turnitin.com/privacy-policy-website",
+      "select": null
+    },
+    "Terms of Service": {
+      "fetch": "https://www.turnitin.com/terms-of-use-website",
+      "select": null
     }
   }
 }

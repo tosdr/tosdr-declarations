@@ -2,7 +2,8 @@
   "name": "Keepassxc",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://keepassxc.org/privacy/"
+      "fetch": "https://keepassxc.org/privacy/",
+      "select": null
     }
   }
 }

@@ -2,7 +2,8 @@
   "name": "Librarything",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.librarything.com/privacy"
+      "fetch": "https://www.librarything.com/privacy",
+      "select": null
     }
   }
 }

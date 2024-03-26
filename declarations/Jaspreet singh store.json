@@ -2,7 +2,8 @@
   "name": "Jaspreet singh store",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://jaspreetsingh.store/privacy-policy"
+      "fetch": "https://jaspreetsingh.store/privacy-policy",
+      "select": null
     },
     "Copyright Claims Policy": {
       "fetch": "https://jaspreetsingh.store/dmca-policy",

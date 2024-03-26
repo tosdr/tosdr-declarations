@@ -2,7 +2,8 @@
   "name": "Oceanhero",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://about.oceanhero.today/privacy-policy"
+      "fetch": "https://about.oceanhero.today/privacy-policy",
+      "select": null
     },
     "Trackers Policy": {
       "fetch": "https://about.oceanhero.today/cookie-policy",

@@ -2,7 +2,8 @@
   "name": "Uss liberty veterans blog",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.usslibertyveterans.blog/wpautoterms/privacy-policy-2/"
+      "fetch": "https://www.usslibertyveterans.blog/wpautoterms/privacy-policy-2/",
+      "select": null
     }
   }
 }

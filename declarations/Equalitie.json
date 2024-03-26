@@ -2,7 +2,8 @@
   "name": "Equalitie",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://equalit.ie/privacy-policy"
+      "fetch": "https://equalit.ie/privacy-policy",
+      "select": null
     }
   }
 }

@@ -2,7 +2,8 @@
   "name": "Superrepo",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://superrepo.org/privacy-policy/"
+      "fetch": "https://superrepo.org/privacy-policy/",
+      "select": null
     }
   }
 }

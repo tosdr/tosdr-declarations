@@ -1,6 +1,10 @@
 {
   "name": "Motorola",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.motorola.com/us/legal/product-privacy",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://www.motorola.com/us/legal/terms-of-use",
       "select": "body"

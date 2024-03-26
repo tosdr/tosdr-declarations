@@ -2,7 +2,8 @@
   "name": "9gag",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://about.9gag.com/tos"
+      "fetch": "https://about.9gag.com/tos",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://about.9gag.com/privacy",

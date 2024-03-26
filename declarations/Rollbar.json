@@ -2,7 +2,8 @@
   "name": "Rollbar",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://docs.rollbar.com/docs/terms-of-service"
+      "fetch": "https://docs.rollbar.com/docs/terms-of-service",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://docs.rollbar.com/docs/privacy-policy",

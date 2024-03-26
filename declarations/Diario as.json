@@ -2,7 +2,8 @@
   "name": "Diario as",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://as.com/pdf/Condiciones_Generales_Suscripciones_DIARIO_AS.pdf"
+      "fetch": "https://as.com/pdf/Condiciones_Generales_Suscripciones_DIARIO_AS.pdf",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://as.com/diarioas/politica_privacidad.html",

@@ -2,7 +2,8 @@
   "name": "Evident id",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.evidentid.com/terms-of-use/"
+      "fetch": "https://www.evidentid.com/terms-of-use/",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://www.evidentid.com/privacy-policy/",

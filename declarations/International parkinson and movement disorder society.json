@@ -2,7 +2,12 @@
   "name": "International parkinson and movement disorder society",
   "documents": {
     "Legal Information": {
-      "fetch": "https://www.movementdisorders.org/MDS/About/MDS-Policies/Privacy-Notice.htm"
+      "fetch": "https://www.movementdisorders.org/MDS/About/MDS-Policies/Privacy-Notice.htm",
+      "select": null
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.movementdisorders.org/MDS/Cookie-Policy.htm ",
+      "select": "body"
     }
   }
 }

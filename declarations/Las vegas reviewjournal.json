@@ -2,7 +2,12 @@
   "name": "Las vegas reviewjournal",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.reviewjournal.com/terms-of-service/"
+      "fetch": "https://www.reviewjournal.com/terms-of-service/",
+      "select": null
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.reviewjournal.com/privacy/",
+      "select": "body"
     }
   }
 }

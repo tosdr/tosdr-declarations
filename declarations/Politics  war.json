@@ -2,8 +2,8 @@
   "name": "Politics  war",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://politicsandwar.com/rules/",
-      "select": "html > body > div > div > div"
+      "fetch": "https://politicsandwar.com/terms/",
+      "select": "body"
     }
   }
 }

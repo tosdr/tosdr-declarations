@@ -1,6 +1,10 @@
 {
   "name": "Herald sun",
   "documents": {
+    "Trackers Policy": {
+      "fetch": "https://preferences.news.com.au/cookies",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://www.heraldsun.com.au/more-information/terms-and-conditions",
       "select": "body"

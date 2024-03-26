@@ -2,7 +2,8 @@
   "name": "De programmatica ipsum",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://deprogrammaticaipsum.com/privacy-policy/"
+      "fetch": "https://deprogrammaticaipsum.com/privacy-policy/",
+      "select": null
     }
   }
 }

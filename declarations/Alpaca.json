@@ -2,7 +2,8 @@
   "name": "Alpaca",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://s3.amazonaws.com/files.alpaca.markets/disclosures/library/TermsAndConditions.pdf"
+      "fetch": "https://s3.amazonaws.com/files.alpaca.markets/disclosures/library/TermsAndConditions.pdf",
+      "select": null
     },
     "Trackers Policy": {
       "fetch": "https://files.alpaca.markets/disclosures/CookiePolicy.pdf",

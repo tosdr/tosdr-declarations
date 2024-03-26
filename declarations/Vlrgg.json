@@ -2,7 +2,8 @@
   "name": "Vlrgg",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.vlr.gg/privacy"
+      "fetch": "https://www.vlr.gg/privacy",
+      "select": null
     }
   }
 }

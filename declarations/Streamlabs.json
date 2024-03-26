@@ -1,6 +1,10 @@
 {
   "name": "Streamlabs",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://streamlabs.com/terms",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://streamlabs.com/privacy",
       "select": "body"

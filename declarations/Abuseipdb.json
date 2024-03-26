@@ -2,7 +2,8 @@
   "name": "Abuseipdb",
   "documents": {
     "Legal Information": {
-      "fetch": "https://www.abuseipdb.com/legal.html"
+      "fetch": "https://www.abuseipdb.com/legal.html",
+      "select": null
     }
   }
 }

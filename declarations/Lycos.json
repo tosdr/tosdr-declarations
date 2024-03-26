@@ -1,6 +1,10 @@
 {
   "name": "Lycos",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "http://info.lycos.com/resources/privacy-policy/",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "http://info.lycos.com/resources/terms-of-service/",
       "select": "body"

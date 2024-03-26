@@ -1,6 +1,10 @@
 {
   "name": "Gumroad",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://gumroad.com/privacy",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://gumroad.com/terms",
       "select": "body"

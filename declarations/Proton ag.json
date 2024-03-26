@@ -10,14 +10,16 @@
       "select": " > div:nth-of-type(2) > div > main > section > div"
     },
     "Corporate Social Responsibility": {
-      "fetch": "https://protonmail.com/blog/transparency-report/"
+      "fetch": "https://protonmail.com/blog/transparency-report/",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://protonmail.com/privacy-policy",
       "select": " > div:nth-of-type(2) > div > main > section > div"
     },
     "Other": {
-      "fetch": "https://protonmail.com/blog/protonmail-open-source/"
+      "fetch": "https://protonmail.com/blog/protonmail-open-source/",
+      "select": null
     }
   }
 }

@@ -2,7 +2,8 @@
   "name": "Wingstop",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.wingstop.com/terms-of-use"
+      "fetch": "https://www.wingstop.com/terms-of-use",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://www.wingstop.com/privacy",

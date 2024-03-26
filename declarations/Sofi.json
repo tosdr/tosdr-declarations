@@ -2,7 +2,8 @@
   "name": "Sofi",
   "documents": {
     "Other": {
-      "fetch": "https://www.sofi.com/login/policy/esign"
+      "fetch": "https://www.sofi.com/login/policy/esign",
+      "select": null
     },
     "Law Enforcement Guidelines": {
       "fetch": "https://www.sofi.com/login/policy/arbitration",

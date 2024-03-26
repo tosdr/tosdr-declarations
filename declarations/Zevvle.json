@@ -2,10 +2,12 @@
   "name": "Zevvle",
   "documents": {
     "Policy": {
-      "fetch": "https://zevvle.com/biscuits"
+      "fetch": "https://zevvle.com/biscuits",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://zevvle.com/privacy/"
+      "fetch": "https://zevvle.com/privacy/",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://zevvle.com/terms",

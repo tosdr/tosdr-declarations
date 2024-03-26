@@ -2,10 +2,12 @@
   "name": "Mdpi",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.mdpi.com/about/terms-and-conditions"
+      "fetch": "https://www.mdpi.com/about/terms-and-conditions",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://www.mdpi.com/about/privacy"
+      "fetch": "https://www.mdpi.com/about/privacy",
+      "select": null
     }
   }
 }

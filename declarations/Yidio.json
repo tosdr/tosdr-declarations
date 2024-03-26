@@ -2,10 +2,12 @@
   "name": "Yidio",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.yidio.com/tos"
+      "fetch": "https://www.yidio.com/tos",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://www.yidio.com/privacy"
+      "fetch": "https://www.yidio.com/privacy",
+      "select": null
     }
   }
 }

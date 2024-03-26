@@ -1,6 +1,10 @@
 {
   "name": "Dunzo",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.dunzo.com/privacy",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://www.dunzo.com/terms",
       "select": "body"

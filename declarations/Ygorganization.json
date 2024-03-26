@@ -2,7 +2,8 @@
   "name": "Ygorganization",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://ygorganization.com/tos-pp/"
+      "fetch": "https://ygorganization.com/tos-pp/",
+      "select": null
     }
   }
 }

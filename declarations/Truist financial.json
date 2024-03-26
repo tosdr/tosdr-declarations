@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://www.truist.com/privacy"
+      "fetch": "https://www.truist.com/privacy",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://www.truist.com/terms-and-conditions",

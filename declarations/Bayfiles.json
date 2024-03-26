@@ -2,7 +2,8 @@
   "name": "Bayfiles",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://bayfiles.com/terms"
+      "fetch": "https://bayfiles.com/terms",
+      "select": null
     }
   }
 }

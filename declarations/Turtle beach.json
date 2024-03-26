@@ -2,7 +2,8 @@
   "name": "Turtle beach",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.turtlebeach.com/pages/terms-conditions"
+      "fetch": "https://www.turtlebeach.com/pages/terms-conditions",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://www.turtlebeach.com/pages/privacy",

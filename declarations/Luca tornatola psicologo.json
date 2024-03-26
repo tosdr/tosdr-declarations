@@ -2,7 +2,8 @@
   "name": "Luca tornatola psicologo",
   "documents": {
     "Trackers Policy": {
-      "fetch": "https://www.lucatornatola.it/psicologo/cookie-policy/"
+      "fetch": "https://www.lucatornatola.it/psicologo/cookie-policy/",
+      "select": null
     }
   }
 }

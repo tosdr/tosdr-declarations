@@ -2,10 +2,12 @@
   "name": "Oxford university press",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://global.oup.com/privacy_info?cc=mt"
+      "fetch": "https://global.oup.com/privacy_info?cc=mt",
+      "select": null
     },
     "Trackers Policy": {
-      "fetch": "https://global.oup.com/cookiepolicy/?cc=mt"
+      "fetch": "https://global.oup.com/cookiepolicy/?cc=mt",
+      "select": null
     },
     "Legal Information": {
       "fetch": "https://global.oup.com/legal?cc=mt",

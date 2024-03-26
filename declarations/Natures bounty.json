@@ -1,6 +1,10 @@
 {
   "name": "Natures bounty",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.naturesbounty.com/privacy-policy",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://www.naturesbounty.com/terms-of-use/",
       "select": "body"

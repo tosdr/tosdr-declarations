@@ -2,7 +2,8 @@
   "name": "Alcom",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.al.com/user-agreement/"
+      "fetch": "https://www.al.com/user-agreement/",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://www.al.com/privacy-policy/",

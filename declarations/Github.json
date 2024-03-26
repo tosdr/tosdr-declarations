@@ -6,8 +6,8 @@
       "select": "html > body > main"
     },
     "Privacy Policy": {
-      "fetch": "https://help.github.com/articles/github-privacy-statement/",
-      "select": "html > body > main"
+      "fetch": "https://help.github.com/articles/github-security/",
+      "select": "body"
     }
   }
 }

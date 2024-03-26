@@ -6,7 +6,8 @@
       "select": "article#tos"
     },
     "Privacy Policy": {
-      "fetch": "https://www.khanacademy.org/about/privacy-policy"
+      "fetch": "https://www.khanacademy.org/about/privacy-policy",
+      "select": null
     }
   }
 }

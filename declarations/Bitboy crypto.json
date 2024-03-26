@@ -2,7 +2,8 @@
   "name": "Bitboy crypto",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://bitboycrypto.com/privacy-policy/"
+      "fetch": "https://bitboycrypto.com/privacy-policy/",
+      "select": null
     }
   }
 }

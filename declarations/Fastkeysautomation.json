@@ -2,7 +2,8 @@
   "name": "Fastkeysautomation",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://fastkeysautomation.com/documentation5/PrivacyPolicy.html"
+      "fetch": "https://fastkeysautomation.com/documentation5/PrivacyPolicy.html",
+      "select": null
     }
   }
 }

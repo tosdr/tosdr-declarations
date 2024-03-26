@@ -1,6 +1,10 @@
 {
   "name": "Receiptjar",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://receiptjar.com/privacy-policy",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://receiptjar.com/terms-conditions",
       "select": "body"

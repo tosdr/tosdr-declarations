@@ -2,10 +2,12 @@
   "name": "1mg",
   "documents": {
     "Copyright Claims Policy": {
-      "fetch": "https://www.1mg.com/ip-policy"
+      "fetch": "https://www.1mg.com/ip-policy",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://www.1mg.com/PrivacyPolicy"
+      "fetch": "https://www.1mg.com/PrivacyPolicy",
+      "select": null
     },
     "General Conditions of Sale": {
       "fetch": "https://www.1mg.com/return-policy",

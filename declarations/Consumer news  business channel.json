@@ -6,7 +6,8 @@
       "select": " > div"
     },
     "Privacy Policy": {
-      "fetch": "https://www.nbcuniversal.com/privacy/notrtoo"
+      "fetch": "https://www.nbcuniversal.com/privacy/notrtoo",
+      "select": null
     },
     "Trackers Policy": {
       "fetch": "https://www.nbcuniversal.com/privacy/cookies",

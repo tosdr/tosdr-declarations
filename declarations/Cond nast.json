@@ -2,10 +2,12 @@
   "name": "Cond nast",
   "documents": {
     "Trackers Policy": {
-      "fetch": "https://www.condenast.com/privacy-policy#privacypolicy"
+      "fetch": "https://www.condenast.com/privacy-policy#privacypolicy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.condenast.com/user-agreement/"
+      "fetch": "https://www.condenast.com/user-agreement/",
+      "select": null
     }
   }
 }

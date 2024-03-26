@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "http://corporate.exxonmobil.com/en/global-legal-pages/privacy-policy"
+      "fetch": "http://corporate.exxonmobil.com/en/global-legal-pages/privacy-policy",
+      "select": null
     }
   }
 }

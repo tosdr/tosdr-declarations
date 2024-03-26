@@ -1,6 +1,10 @@
 {
   "name": "Builtwith",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://builtwith.com/privacy",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://builtwith.com/terms",
       "select": "body"

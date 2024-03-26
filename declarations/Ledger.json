@@ -2,7 +2,8 @@
   "name": "Ledger",
   "documents": {
     "Trackers Policy": {
-      "fetch": "https://shop.ledger.com/pages/cookie-policy"
+      "fetch": "https://shop.ledger.com/pages/cookie-policy",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://shop.ledger.com/pages/ledger-live-terms-of-use",

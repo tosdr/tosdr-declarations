@@ -2,7 +2,8 @@
   "name": "Kukirukiru",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://kukiruki.ru/include/licenses_detail.php"
+      "fetch": "https://kukiruki.ru/include/licenses_detail.php",
+      "select": null
     }
   }
 }

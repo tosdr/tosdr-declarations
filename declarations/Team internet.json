@@ -6,7 +6,8 @@
       "select": "html > body > main"
     },
     "General Conditions of Sale": {
-      "fetch": "https://www.parkingcrew.com/agb.php"
+      "fetch": "https://www.parkingcrew.com/agb.php",
+      "select": null
     }
   }
 }

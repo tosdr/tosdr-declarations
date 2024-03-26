@@ -1,6 +1,10 @@
 {
   "name": "Openwifispots",
   "documents": {
+    "Legal Information": {
+      "fetch": "http://openwifispots.com/Privacy.aspx",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "http://openwifispots.com/Terms.aspx",
       "select": "body"

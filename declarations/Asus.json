@@ -2,7 +2,8 @@
   "name": "Asus",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Official-Site/"
+      "fetch": "https://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Official-Site/",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/",

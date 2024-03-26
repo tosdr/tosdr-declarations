@@ -1,6 +1,10 @@
 {
   "name": "Captchabotxyz",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://captchabot.xyz/terms",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://captchabot.xyz/privacy",
       "select": "body"

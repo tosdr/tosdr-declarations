@@ -2,7 +2,8 @@
   "name": "Esl brains",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://eslbrains.com/terms-and-conditions/"
+      "fetch": "https://eslbrains.com/terms-and-conditions/",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://eslbrains.com/privacy-policy/",

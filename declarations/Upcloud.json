@@ -2,10 +2,12 @@
   "name": "Upcloud",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://upcloud.com/terms-of-service/"
+      "fetch": "https://upcloud.com/terms-of-service/",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://upcloud.com/privacy-policy/"
+      "fetch": "https://upcloud.com/privacy-policy/",
+      "select": null
     }
   }
 }

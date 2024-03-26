@@ -2,7 +2,8 @@
   "name": "Ourgroceries",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.ourgroceries.com/privacy"
+      "fetch": "https://www.ourgroceries.com/privacy",
+      "select": null
     }
   }
 }

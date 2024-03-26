@@ -2,10 +2,12 @@
   "name": "Lakeshore learning",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.lakeshorelearning.com/about/privacy-policy"
+      "fetch": "https://www.lakeshorelearning.com/about/privacy-policy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.lakeshorelearning.com/help/rewards-terms"
+      "fetch": "https://www.lakeshorelearning.com/help/rewards-terms",
+      "select": null
     }
   }
 }

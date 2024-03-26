@@ -1,9 +1,17 @@
 {
   "name": "Blendswap",
   "documents": {
+    "Community Guidelines": {
+      "fetch": "http://www.dev.blendswap.com/page/code-of-conduct",
+      "select": "body"
+    },
     "Terms of Service": {
-      "fetch": "https://www.blendswap.com/page/licenses",
-      "select": "html > body > section > div:nth-of-type(2) > div:nth-of-type(2) > div:first-of-type > div > div"
+      "fetch": "https://www.blendswap.com/terms",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.blendswap.com/privacy",
+      "select": "body"
     }
   }
 }

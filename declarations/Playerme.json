@@ -2,7 +2,8 @@
   "name": "Playerme",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://player.me/p/privacy-policy"
+      "fetch": "https://player.me/p/privacy-policy",
+      "select": null
     }
   }
 }

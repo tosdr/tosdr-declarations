@@ -2,7 +2,8 @@
   "name": "Freemake",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.freemake.com/privacy_policy/"
+      "fetch": "https://www.freemake.com/privacy_policy/",
+      "select": null
     },
     "Legal Information": {
       "fetch": "https://www.freemake.com/dmca/",

@@ -1,6 +1,10 @@
 {
   "name": "Kurt ness support llc",
   "documents": {
+    "Trackers Policy": {
+      "fetch": "https://kurtnesssupport.com/policies/cookie-policy-us",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://kurtnesssupport.com/privacy-policy",
       "select": "body"

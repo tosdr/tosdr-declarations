@@ -2,10 +2,12 @@
   "name": "Dental fear central",
   "documents": {
     "Trackers Policy": {
-      "fetch": "https://www.dentalfearcentral.org/privacy"
+      "fetch": "https://www.dentalfearcentral.org/privacy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.dentalfearcentral.org/disclaimer/"
+      "fetch": "https://www.dentalfearcentral.org/disclaimer/",
+      "select": null
     }
   }
 }

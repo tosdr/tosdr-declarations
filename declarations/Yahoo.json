@@ -6,8 +6,8 @@
       "select": "main#site-main"
     },
     "Privacy Policy": {
-      "fetch": "https://policies.oath.com/us/en/oath/privacy/index.html",
-      "select": "main#site-main"
+      "fetch": "https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/topics/location/index.html",
+      "select": "body"
     }
   }
 }

@@ -6,7 +6,8 @@
       "select": " > div"
     },
     "Legal Information": {
-      "fetch": "https://wiki.archlinux.org/index.php/ArchWiki:General_disclaimer"
+      "fetch": "https://wiki.archlinux.org/index.php/ArchWiki:General_disclaimer",
+      "select": null
     }
   }
 }

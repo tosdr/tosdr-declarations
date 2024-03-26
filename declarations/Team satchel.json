@@ -14,7 +14,8 @@
       "select": "body"
     },
     "Legal Information": {
-      "fetch": "https://www.teamsatchel.com/legals/privacy_notice.html"
+      "fetch": "https://www.teamsatchel.com/legals/privacy_notice.html",
+      "select": null
     }
   }
 }

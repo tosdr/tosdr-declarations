@@ -6,7 +6,8 @@
       "select": "html > body > div:first-of-type > section > main"
     },
     "Terms of Service": {
-      "fetch": "https://patch.com/terms"
+      "fetch": "https://patch.com/terms",
+      "select": null
     }
   }
 }

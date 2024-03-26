@@ -6,7 +6,8 @@
       "select": "div.wrapper"
     },
     "Privacy Policy": {
-      "fetch": "https://websaver.ca/en_ca/privacy-policy/"
+      "fetch": "https://websaver.ca/en_ca/privacy-policy/",
+      "select": null
     }
   }
 }

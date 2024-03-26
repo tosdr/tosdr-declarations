@@ -2,10 +2,12 @@
   "name": "Runtastic",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.runtastic.com/en/terms"
+      "fetch": "https://www.runtastic.com/en/terms",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://www.runtastic.com/en/privacy-policy"
+      "fetch": "https://www.runtastic.com/en/privacy-policy",
+      "select": null
     },
     "Community Guidelines": {
       "fetch": "https://www.runtastic.com/en/community-guidelines",

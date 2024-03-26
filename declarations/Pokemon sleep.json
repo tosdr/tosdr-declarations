@@ -1,6 +1,10 @@
 {
   "name": "Pokemon sleep",
   "documents": {
+    "Legal Information": {
+      "fetch": "https://www.pokemonsleep.net/en/privacy/",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://www.pokemonsleep.net/en/rules/",
       "select": "body"

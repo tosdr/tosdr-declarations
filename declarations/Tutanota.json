@@ -2,8 +2,16 @@
   "name": "Tutanota",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://tutanota.com/fr/privacy",
-      "select": "html > body > section:nth-of-type(3) > div > div"
+      "fetch": "https://tutanota.com/privacy",
+      "select": "body"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://tutanota.com/fr/terms",
+      "select": "body"
+    },
+    "Frequently Asked Questions": {
+      "fetch": "https://tutanota.com/faq",
+      "select": "body"
     }
   }
 }

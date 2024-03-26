@@ -4,6 +4,14 @@
     "Privacy Policy": {
       "fetch": "https://www.appsflyer.com/services-privacy-policy/",
       "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.appsflyer.com/cookie-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.appsflyer.com/terms-of-use",
+      "select": "body"
     }
   }
 }

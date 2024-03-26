@@ -2,7 +2,8 @@
   "name": "My expenses",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.myexpenses.mobi/en/#imprint"
+      "fetch": "https://www.myexpenses.mobi/en/#imprint",
+      "select": null
     }
   }
 }

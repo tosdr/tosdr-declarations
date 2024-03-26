@@ -2,7 +2,8 @@
   "name": "Foxzin",
   "documents": {
     "Privacy Policy": {
-      "fetch": "http://foxzin.com/privacy"
+      "fetch": "http://foxzin.com/privacy",
+      "select": null
     }
   }
 }

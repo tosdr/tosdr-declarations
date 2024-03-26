@@ -6,7 +6,8 @@
       "select": "html > body > div:first-of-type > div:nth-of-type(5) > div > section"
     },
     "Privacy Policy": {
-      "fetch": "https://forvo.com/privacy/"
+      "fetch": "https://forvo.com/privacy/",
+      "select": null
     }
   }
 }

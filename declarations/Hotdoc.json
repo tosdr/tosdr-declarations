@@ -1,6 +1,10 @@
 {
   "name": "Hotdoc",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://practices.hotdoc.com.au/privacy-policy/",
+      "select": "body"
+    },
     "Acceptable Use Policy": {
       "fetch": "https://practices.hotdoc.com.au/fair-use-policy/",
       "select": "body"

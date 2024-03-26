@@ -10,7 +10,8 @@
       "select": " > div:nth-of-type(2)"
     },
     "Privacy Policy": {
-      "fetch": "https://www.lenovo.com/us/en/privacy/"
+      "fetch": "https://www.lenovo.com/us/en/privacy/",
+      "select": null
     }
   }
 }

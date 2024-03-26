@@ -2,7 +2,8 @@
   "name": "Bertelsmann",
   "documents": {
     "Trackers Policy": {
-      "fetch": "https://www.bertelsmann.com/meta/privacy/"
+      "fetch": "https://www.bertelsmann.com/meta/privacy/",
+      "select": null
     }
   }
 }

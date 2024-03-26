@@ -1,12 +1,12 @@
 {
   "name": "Viacomcbs",
   "documents": {
-    "Terms of Service": {
-      "fetch": "https://www.viacomcbs.legal/us/en/cbsi/terms-of-use",
-      "select": "body"
-    },
     "Privacy Policy": {
       "fetch": "https://www.cbsinteractive.com/legal/cbsi/privacy-policy/highlights",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.viacomcbs.legal/us/en/cbsi/terms-of-use",
       "select": "body"
     }
   }

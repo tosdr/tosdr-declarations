@@ -2,7 +2,8 @@
   "name": "Drugstore 99",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.drugstore99.com/pages/"
+      "fetch": "https://www.drugstore99.com/pages/",
+      "select": null
     }
   }
 }

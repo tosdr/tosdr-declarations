@@ -6,8 +6,8 @@
       "select": "section.terms-of-use"
     },
     "Privacy Policy": {
-      "fetch": "https://www.foxnews.com/privacy-policy",
-      "select": "html > body > div > div > div > div > div:nth-of-type(2)"
+      "fetch": "https://www.foxnews.com/donotsell",
+      "select": "body"
     },
     "Closed Captioning Policy": {
       "fetch": "http://www.foxnews.com/closed-captioning-policy.html",

@@ -2,13 +2,16 @@
   "name": "Mathematical playground",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://mathigon.org/policies#privacy"
+      "fetch": "https://mathigon.org/policies#privacy",
+      "select": null
     },
     "Trackers Policy": {
-      "fetch": "https://mathigon.org/policies#cookies"
+      "fetch": "https://mathigon.org/policies#cookies",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://mathigon.org/policies#terms"
+      "fetch": "https://mathigon.org/policies#terms",
+      "select": null
     }
   }
 }

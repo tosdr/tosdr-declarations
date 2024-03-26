@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://www.gianttiger.com/privacy-policy"
+      "fetch": "https://www.gianttiger.com/privacy-policy",
+      "select": null
     }
   }
 }

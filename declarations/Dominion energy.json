@@ -1,6 +1,10 @@
 {
   "name": "Dominion energy",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.dominionenergy.com/privacy",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://www.dominionenergy.com/terms-and-conditions",
       "select": "body"

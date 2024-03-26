@@ -2,7 +2,8 @@
   "name": "Neeva",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://neeva.com/terms"
+      "fetch": "https://neeva.com/terms",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://neeva.com/privacy",

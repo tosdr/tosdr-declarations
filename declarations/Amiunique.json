@@ -2,7 +2,8 @@
   "name": "Amiunique",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://amiunique.org/privacy"
+      "fetch": "https://amiunique.org/privacy",
+      "select": null
     }
   }
 }

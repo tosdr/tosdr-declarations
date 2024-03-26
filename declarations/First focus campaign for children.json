@@ -2,7 +2,8 @@
   "name": "First focus campaign for children",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://campaignforchildren.org/terms/"
+      "fetch": "https://campaignforchildren.org/terms/",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://campaignforchildren.org/privacy",

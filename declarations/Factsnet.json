@@ -4,6 +4,10 @@
     "Terms of Service": {
       "fetch": "https://facts.net/terms",
       "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://facts.net/privacy-policy",
+      "select": "body"
     }
   }
 }

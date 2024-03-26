@@ -16,6 +16,10 @@
     "Terms of Service": {
       "fetch": "https://www.atlassian.com/legal/cloud-terms-of-service",
       "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.atlassian.com/legal/cookies",
+      "select": "body"
     }
   }
 }

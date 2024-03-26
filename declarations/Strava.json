@@ -2,13 +2,16 @@
   "name": "Strava",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.strava.com/legal/terms"
+      "fetch": "https://www.strava.com/legal/terms",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://www.strava.com/legal/privacy"
+      "fetch": "https://www.strava.com/legal/privacy",
+      "select": null
     },
     "Trackers Policy": {
-      "fetch": "https://www.strava.com/legal/cookie_policy"
+      "fetch": "https://www.strava.com/legal/cookie_policy",
+      "select": null
     }
   }
 }

@@ -1,6 +1,10 @@
 {
   "name": "Swearnet",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.swearnet.com/terms",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://www.swearnet.com/privacy",
       "select": "body"

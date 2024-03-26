@@ -1,6 +1,10 @@
 {
   "name": "Aanicca ventures",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://aanicca.affise.com/v2/terms ",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://aanicca.com/privacypolicy",
       "select": "body"

@@ -1,6 +1,10 @@
 {
   "name": "Otc markets group",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.otcmarkets.com/terms-of-service ",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://www.otcmarkets.com/privacy-statement",
       "select": "body"

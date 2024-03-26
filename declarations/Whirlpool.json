@@ -6,7 +6,8 @@
       "select": "html > body > section > section"
     },
     "Legal Information": {
-      "fetch": "https://www.whirlpoolcorp.com/legal-notice/"
+      "fetch": "https://www.whirlpoolcorp.com/legal-notice/",
+      "select": null
     }
   }
 }

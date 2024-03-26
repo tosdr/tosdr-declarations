@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "https://ethereum.org/en/terms-of-use/"
+      "fetch": "https://ethereum.org/en/terms-of-use/",
+      "select": null
     },
     "Trackers Policy": {
       "fetch": "https://ethereum.org/en/cookie-policy/",

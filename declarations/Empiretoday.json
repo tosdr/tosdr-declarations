@@ -2,7 +2,8 @@
   "name": "Empiretoday",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.empiretoday.com/about-empire/privacy-policy"
+      "fetch": "https://www.empiretoday.com/about-empire/privacy-policy",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://www.empiretoday.com/about-empire/terms-of-use",

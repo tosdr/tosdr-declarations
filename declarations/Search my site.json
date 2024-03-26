@@ -4,6 +4,10 @@
     "Privacy Policy": {
       "fetch": "https://searchmysite.net/pages/privacy",
       "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://searchmysite.net/pages/terms",
+      "select": "body"
     }
   }
 }

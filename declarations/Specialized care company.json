@@ -1,6 +1,10 @@
 {
   "name": "Specialized care company",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://specializedcare.com/pages/terms-of-service",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://specializedcare.com/pages/privacy-policy",
       "select": "html > body > main > div > div"

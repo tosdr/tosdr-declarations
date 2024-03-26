@@ -2,10 +2,12 @@
   "name": "Holiday weather",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.holiday-weather.com/privacy-policy/"
+      "fetch": "https://www.holiday-weather.com/privacy-policy/",
+      "select": null
     },
     "Trackers Policy": {
-      "fetch": "https://www.holiday-weather.com/cookie-policy/"
+      "fetch": "https://www.holiday-weather.com/cookie-policy/",
+      "select": null
     }
   }
 }

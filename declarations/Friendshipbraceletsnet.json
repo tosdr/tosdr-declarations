@@ -2,7 +2,8 @@
   "name": "Friendshipbraceletsnet",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://friendship-bracelets.net/termsofuse"
+      "fetch": "https://friendship-bracelets.net/termsofuse",
+      "select": null
     }
   }
 }

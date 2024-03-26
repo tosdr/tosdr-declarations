@@ -2,10 +2,12 @@
   "name": "Filestreamme",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://filestream.me/privacy-policy/"
+      "fetch": "https://filestream.me/privacy-policy/",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://filestream.me/terms-of-service/"
+      "fetch": "https://filestream.me/terms-of-service/",
+      "select": null
     }
   }
 }

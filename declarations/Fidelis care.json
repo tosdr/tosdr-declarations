@@ -2,7 +2,8 @@
   "name": "Fidelis care",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.fideliscare.org/Privacy-Policy"
+      "fetch": "https://www.fideliscare.org/Privacy-Policy",
+      "select": null
     }
   }
 }

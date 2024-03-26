@@ -2,7 +2,8 @@
   "name": "Orfatnetzwerk",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://orf.at/stories/datenschutz"
+      "fetch": "https://orf.at/stories/datenschutz",
+      "select": null
     }
   }
 }

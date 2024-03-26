@@ -2,13 +2,16 @@
   "name": "Firewalls",
   "documents": {
     "General Conditions of Sale": {
-      "fetch": "https://www.firewalls.com/return-policy"
+      "fetch": "https://www.firewalls.com/return-policy",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://www.firewalls.com/security-policy"
+      "fetch": "https://www.firewalls.com/security-policy",
+      "select": null
     },
     "Trackers Policy": {
-      "fetch": "https://www.firewalls.com/privacy-policy-cookie-restriction-mode"
+      "fetch": "https://www.firewalls.com/privacy-policy-cookie-restriction-mode",
+      "select": null
     }
   }
 }

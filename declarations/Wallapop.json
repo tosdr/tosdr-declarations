@@ -6,7 +6,8 @@
       "select": "html > body > div > div:nth-of-type(2) > div > main > article > div"
     },
     "Trackers Policy": {
-      "fetch": "https://about.wallapop.com/en/cookies/"
+      "fetch": "https://about.wallapop.com/en/cookies/",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://about.wallapop.com/en/legal-terms-and-conditions/",

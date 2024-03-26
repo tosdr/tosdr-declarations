@@ -2,7 +2,8 @@
   "name": "Sobe",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.sobe.com/terms-conditions/"
+      "fetch": "https://www.sobe.com/terms-conditions/",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://policy.sobe.com/privacy.htm",

@@ -6,7 +6,7 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://www.ghostery.com/about-ghostery/ghosterys-website-privacy-policy/",
+      "fetch": "https://www.ghostery.com/about-ghostery/ghostery-lite-browser-extension-privacy-policy/",
       "select": "body"
     },
     "Vulnerability Disclosure Policy": {

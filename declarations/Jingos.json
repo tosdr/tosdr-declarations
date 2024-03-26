@@ -2,10 +2,12 @@
   "name": "Jingos",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://forum.jingos.com/tos"
+      "fetch": "https://forum.jingos.com/tos",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://forum.jingos.com/privacy"
+      "fetch": "https://forum.jingos.com/privacy",
+      "select": null
     }
   }
 }

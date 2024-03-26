@@ -1,6 +1,10 @@
 {
   "name": "Smile dining",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://smiledining.com/privacy.html ",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://smiledining.com/term.html",
       "select": "body"

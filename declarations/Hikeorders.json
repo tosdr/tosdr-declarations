@@ -2,13 +2,16 @@
   "name": "Hikeorders",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://hikeorders.com/privacy-policy/"
+      "fetch": "https://hikeorders.com/privacy-policy/",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://hikeorders.com/terms-of-use/"
+      "fetch": "https://hikeorders.com/terms-of-use/",
+      "select": null
     },
     "Trackers Policy": {
-      "fetch": "https://hikeorders.com/cookie-policy/"
+      "fetch": "https://hikeorders.com/cookie-policy/",
+      "select": null
     }
   }
 }

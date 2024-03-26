@@ -4,6 +4,10 @@
     "Frequently Asked Questions": {
       "fetch": "https://zzzchan.xyz/faq.html",
       "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://zzzchan.xyz/rules.html",
+      "select": "body"
     }
   }
 }

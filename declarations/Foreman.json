@@ -2,7 +2,8 @@
   "name": "Foreman",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://theforeman.org/privacy.html"
+      "fetch": "https://theforeman.org/privacy.html",
+      "select": null
     }
   }
 }

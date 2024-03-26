@@ -2,7 +2,8 @@
   "name": "Isrii",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://isrii.org/privacy-policy/"
+      "fetch": "https://isrii.org/privacy-policy/",
+      "select": null
     }
   }
 }

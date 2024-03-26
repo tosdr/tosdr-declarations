@@ -6,7 +6,8 @@
       "select": "html > body > div:nth-of-type(3) > div:first-of-type > div:nth-of-type(2)"
     },
     "Privacy Policy": {
-      "fetch": "https://www.planetminecraft.com/privacy_policy/"
+      "fetch": "https://www.planetminecraft.com/privacy_policy/",
+      "select": null
     }
   }
 }

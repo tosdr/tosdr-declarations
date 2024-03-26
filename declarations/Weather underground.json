@@ -1,6 +1,10 @@
 {
   "name": "Weather underground",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.wunderground.com/company/legal",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://www.wunderground.com/company/privacy-policy",
       "select": "body"

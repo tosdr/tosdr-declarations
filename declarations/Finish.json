@@ -1,8 +1,16 @@
 {
   "name": "Finish",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.finishdishwashing.com/privacy-policy",
+      "select": "body"
+    },
     "Trackers Policy": {
       "fetch": "https://www.finishdishwashing.com/cookie-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.finishdishwashing.com/terms-and-conditions",
       "select": "body"
     },
     "General Conditions of Sale": {

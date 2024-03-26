@@ -2,7 +2,8 @@
   "name": "Broward county public schools",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.browardschools.com/Domain/13935"
+      "fetch": "https://www.browardschools.com/Domain/13935",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://www.browardschools.com/Domain/13932",

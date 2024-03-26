@@ -2,7 +2,8 @@
   "name": "Infowars store",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.infowarsstore.com/terms-and-conditions/"
+      "fetch": "https://www.infowarsstore.com/terms-and-conditions/",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://www.infowarsstore.com/privacy-policy/",

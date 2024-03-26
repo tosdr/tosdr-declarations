@@ -10,7 +10,8 @@
       "select": " > div"
     },
     "Trackers Policy": {
-      "fetch": "https://www.redventures.com/legal/cookie-policy"
+      "fetch": "https://www.redventures.com/legal/cookie-policy",
+      "select": null
     }
   }
 }

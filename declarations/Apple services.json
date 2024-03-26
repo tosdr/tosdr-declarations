@@ -6,7 +6,8 @@
       "select": "main.main"
     },
     "Terms of Service": {
-      "fetch": "https://www.shazam.com/terms"
+      "fetch": "https://www.shazam.com/terms",
+      "select": null
     }
   }
 }

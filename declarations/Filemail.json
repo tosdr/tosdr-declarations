@@ -2,13 +2,16 @@
   "name": "Filemail",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.filemail.com/terms"
+      "fetch": "https://www.filemail.com/terms",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://www.filemail.com/privacy"
+      "fetch": "https://www.filemail.com/privacy",
+      "select": null
     },
     "Trackers Policy": {
-      "fetch": "https://www.filemail.com/cookies"
+      "fetch": "https://www.filemail.com/cookies",
+      "select": null
     }
   }
 }

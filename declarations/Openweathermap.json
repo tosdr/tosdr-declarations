@@ -1,12 +1,12 @@
 {
   "name": "Openweathermap",
   "documents": {
-    "Privacy Policy": {
-      "fetch": "https://agromonitoring.com/privacy-policy",
-      "select": "body"
-    },
     "Terms of Service": {
       "fetch": "https://agromonitoring.com/storage/app/media/Terms/ExtremeElectronics_website_terms_and_conditions_of_use.pdf",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://agromonitoring.com/privacy-policy",
       "select": "body"
     },
     "General Conditions of Sale": {

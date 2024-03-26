@@ -2,7 +2,8 @@
   "name": "Teamster",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://teamster.org/privacy-policy/"
+      "fetch": "https://teamster.org/privacy-policy/",
+      "select": null
     }
   }
 }

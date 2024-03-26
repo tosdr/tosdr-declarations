@@ -1,6 +1,10 @@
 {
   "name": "Priority matrix",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://appfluence.com/privacy/",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://appfluence.com/eula/",
       "select": "body"

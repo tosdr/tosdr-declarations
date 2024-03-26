@@ -2,7 +2,8 @@
   "name": "Arul john",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://aruljohn.com/privacy/"
+      "fetch": "https://aruljohn.com/privacy/",
+      "select": null
     }
   }
 }

@@ -2,7 +2,8 @@
   "name": "Know your phrase",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://knowyourphrase.com/privacy-policy"
+      "fetch": "https://knowyourphrase.com/privacy-policy",
+      "select": null
     }
   }
 }

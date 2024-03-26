@@ -1,6 +1,10 @@
 {
   "name": "Penana",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.penana.com/terms",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://www.penana.com/privacy",
       "select": "body"

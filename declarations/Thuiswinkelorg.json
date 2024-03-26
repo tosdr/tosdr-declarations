@@ -4,6 +4,10 @@
     "Trackers Policy": {
       "fetch": "https://www.thuiswinkel.org/cookie-informatie",
       "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.thuiswinkel.org/privacy-statement",
+      "select": "body"
     }
   }
 }

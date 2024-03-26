@@ -2,7 +2,8 @@
   "name": "California lutheran university",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.callutheran.edu/about/privacy.html"
+      "fetch": "https://www.callutheran.edu/about/privacy.html",
+      "select": null
     }
   }
 }

@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://legal.xapo.com/xapo-privacy-policy/"
+      "fetch": "https://legal.xapo.com/xapo-privacy-policy/",
+      "select": null
     },
     "Trackers Policy": {
       "fetch": "https://legal.xapo.com/cookie-policy/",

@@ -2,10 +2,12 @@
   "name": "Amd  advanced micro devices",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.amd.com/en/corporate/privacy"
+      "fetch": "https://www.amd.com/en/corporate/privacy",
+      "select": null
     },
     "Copyright Claims Policy": {
-      "fetch": "https://www.amd.com/en/corporate/dmca-notice"
+      "fetch": "https://www.amd.com/en/corporate/dmca-notice",
+      "select": null
     },
     "Trackers Policy": {
       "fetch": "https://www.amd.com/en/corporate/cookies",

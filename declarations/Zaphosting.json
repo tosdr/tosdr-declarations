@@ -1,6 +1,10 @@
 {
   "name": "Zaphosting",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://zap-hosting.com/en/privacy-policy/",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://zap-hosting.com/en/terms/",
       "select": "html > body > div:nth-of-type(5)"

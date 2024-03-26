@@ -4,6 +4,10 @@
     "Terms of Service": {
       "fetch": "https://vault-m0h1.pages.dev/terms/",
       "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://vault-m0h1.pages.dev/privacy/",
+      "select": "body"
     }
   }
 }

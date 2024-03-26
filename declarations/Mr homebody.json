@@ -2,7 +2,8 @@
   "name": "Mr homebody",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.mrhomebody.com/privacy/"
+      "fetch": "https://www.mrhomebody.com/privacy/",
+      "select": null
     }
   }
 }

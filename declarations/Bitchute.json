@@ -2,16 +2,20 @@
   "name": "Bitchute",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://support.bitchute.com/policy/terms/"
+      "fetch": "https://support.bitchute.com/policy/terms/",
+      "select": null
     },
     "Community Guidelines": {
-      "fetch": "https://support.bitchute.com/policy/guidelines"
+      "fetch": "https://support.bitchute.com/policy/guidelines",
+      "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://support.bitchute.com/policy/privacy"
+      "fetch": "https://support.bitchute.com/policy/privacy",
+      "select": null
     },
     "Trackers Policy": {
-      "fetch": "https://support.bitchute.com/policy/cookie/"
+      "fetch": "https://support.bitchute.com/policy/cookie/",
+      "select": null
     }
   }
 }

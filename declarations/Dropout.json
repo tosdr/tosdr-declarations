@@ -1,6 +1,10 @@
 {
   "name": "Dropout",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.dropout.tv/tos",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://www.dropout.tv/privacy",
       "select": "body"

@@ -1,6 +1,10 @@
 {
   "name": "Thimatic",
   "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://thimatic.com/pages/refund-policy",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://thimatic.com/pages/terms-conditions",
       "select": "html > body > div:nth-of-type(5) > main > div > section > div > div"

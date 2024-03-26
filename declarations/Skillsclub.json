@@ -6,7 +6,8 @@
       "select": "html > body > div:first-of-type > main > div > section > div:first-of-type"
     },
     "Privacy Policy": {
-      "fetch": "https://skillsclub.com/privacy-policy/"
+      "fetch": "https://skillsclub.com/privacy-policy/",
+      "select": null
     }
   }
 }

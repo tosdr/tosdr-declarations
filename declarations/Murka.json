@@ -2,7 +2,8 @@
   "name": "Murka",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://murka.com/#terms-of-service"
+      "fetch": "https://murka.com/#terms-of-service",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://murka.com/#privacy-policy",

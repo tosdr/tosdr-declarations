@@ -2,13 +2,16 @@
   "name": "Snow software",
   "documents": {
     "Trackers Policy": {
-      "fetch": "https://www.snowsoftware.com/legal/cookie-policy"
+      "fetch": "https://www.snowsoftware.com/legal/cookie-policy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.snowsoftware.com/legal/termsofuse"
+      "fetch": "https://www.snowsoftware.com/legal/termsofuse",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://www.snowsoftware.com/seo/legal-privacy-policy"
+      "fetch": "https://www.snowsoftware.com/seo/legal-privacy-policy",
+      "select": null
     }
   }
 }

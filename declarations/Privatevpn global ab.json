@@ -1,6 +1,10 @@
 {
   "name": "Privatevpn global ab",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://privatevpn.com/privacy-policy/",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://privatevpn.com/terms-of-use/",
       "select": "body"

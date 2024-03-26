@@ -2,10 +2,12 @@
   "name": "Scientific american",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.scientificamerican.com/page/privacy-policy/"
+      "fetch": "https://www.scientificamerican.com/page/privacy-policy/",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.scientificamerican.com/page/terms-of-use/"
+      "fetch": "https://www.scientificamerican.com/page/terms-of-use/",
+      "select": null
     }
   }
 }

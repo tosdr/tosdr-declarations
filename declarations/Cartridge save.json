@@ -2,10 +2,12 @@
   "name": "Cartridge save",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.cartridgesave.co.uk/terms.html"
+      "fetch": "https://www.cartridgesave.co.uk/terms.html",
+      "select": null
     },
     "General Conditions of Sale": {
-      "fetch": "https://www.cartridgesave.co.uk/moneyback.html"
+      "fetch": "https://www.cartridgesave.co.uk/moneyback.html",
+      "select": null
     }
   }
 }

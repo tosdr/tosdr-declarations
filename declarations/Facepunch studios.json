@@ -2,10 +2,12 @@
   "name": "Facepunch studios",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://forum.facepunch.com/privacy"
+      "fetch": "https://forum.facepunch.com/privacy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://forum.facepunch.com/tos"
+      "fetch": "https://facepunch.com/legal#TermsOfService",
+      "select": "body"
     }
   }
 }

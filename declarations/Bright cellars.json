@@ -2,10 +2,12 @@
   "name": "Bright cellars",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.brightcellars.com/terms/"
+      "fetch": "https://www.brightcellars.com/terms/",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://www.brightcellars.com/privacy/"
+      "fetch": "https://www.brightcellars.com/privacy/",
+      "select": null
     }
   }
 }

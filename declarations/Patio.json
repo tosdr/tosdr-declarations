@@ -4,6 +4,10 @@
     "Terms of Service": {
       "fetch": "https://patio.app/terms.html",
       "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://patio.app/privacy.html",
+      "select": "body"
     }
   }
 }

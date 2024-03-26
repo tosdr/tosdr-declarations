@@ -2,7 +2,8 @@
   "name": "Animaker",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.animaker.com/terms-policy"
+      "fetch": "https://www.animaker.com/terms-policy",
+      "select": null
     }
   }
 }

@@ -2,7 +2,8 @@
   "name": "Medicaregov",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.medicare.gov/privacy-policy"
+      "fetch": "https://www.medicare.gov/privacy-policy",
+      "select": null
     }
   }
 }

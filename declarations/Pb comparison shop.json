@@ -2,7 +2,8 @@
   "name": "Pb comparison shop",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://priceblend.com/static.php?id=privacy"
+      "fetch": "https://priceblend.com/static.php?id=privacy",
+      "select": null
     }
   }
 }

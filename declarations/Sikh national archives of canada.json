@@ -2,7 +2,8 @@
   "name": "Sikh national archives of canada",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://sikhnationalarchives.com/page/2/"
+      "fetch": "https://sikhnationalarchives.com/page/2/",
+      "select": null
     }
   }
 }

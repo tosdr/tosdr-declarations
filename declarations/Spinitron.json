@@ -2,7 +2,8 @@
   "name": "Spinitron",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://forum.spinitron.com/privacy"
+      "fetch": "https://forum.spinitron.com/privacy",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://spinitron.com/m/station/public-chat-tos?stationSlug=WPRK",

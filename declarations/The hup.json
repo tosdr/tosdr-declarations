@@ -6,7 +6,8 @@
       "select": "html > body > div:first-of-type > div > div > div > article > div > div > div > div > div"
     },
     "Terms of Service": {
-      "fetch": "https://thehup.org/terms-of-agreement/"
+      "fetch": "https://thehup.org/terms-of-agreement/",
+      "select": null
     }
   }
 }

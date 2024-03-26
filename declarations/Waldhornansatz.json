@@ -2,7 +2,8 @@
   "name": "Waldhornansatz",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://waldhorn-ansatz.de/index.php/de/waldhorn-tipps/22-impressum-datenschutzhinweise"
+      "fetch": "https://waldhorn-ansatz.de/index.php/de/waldhorn-tipps/22-impressum-datenschutzhinweise",
+      "select": null
     }
   }
 }

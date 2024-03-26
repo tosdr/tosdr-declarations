@@ -2,7 +2,8 @@
   "name": "Odysseyware",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.odysseyware.com/terms-of-use"
+      "fetch": "https://www.odysseyware.com/terms-of-use",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://www.edgenuity.com/privacy-policy/",

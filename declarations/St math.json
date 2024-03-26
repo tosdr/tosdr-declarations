@@ -2,7 +2,8 @@
   "name": "St math",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.stmath.com/privacy-policy"
+      "fetch": "https://www.stmath.com/privacy-policy",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://www.stmath.com/terms",

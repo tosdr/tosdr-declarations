@@ -1,6 +1,10 @@
 {
   "name": "Basistech",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.basistech.com/privacy-policy/",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://www.basistech.com/terms-of-use/",
       "select": "body"

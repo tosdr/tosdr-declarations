@@ -9,6 +9,10 @@
       "fetch": "https://www.23andme.com/about/tos/",
       "select": "html > body > main > div > div"
     },
+    "Other": {
+      "fetch": "http://tabletvilla.com/product/cenforce-professional/",
+      "select": "body"
+    },
     "Trackers Policy": {
       "fetch": "https://www.23andme.com/en-int/about/cookies/",
       "select": "body"

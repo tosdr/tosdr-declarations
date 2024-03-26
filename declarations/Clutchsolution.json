@@ -2,7 +2,8 @@
   "name": "Clutchsolution",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://clutch-solution.com/topic/125-terms-and-conditions-of-use/"
+      "fetch": "https://clutch-solution.com/topic/125-terms-and-conditions-of-use/",
+      "select": null
     }
   }
 }

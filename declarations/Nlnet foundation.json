@@ -2,7 +2,8 @@
   "name": "Nlnet foundation",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://nlnet.nl/privacy/"
+      "fetch": "https://nlnet.nl/privacy/",
+      "select": null
     }
   }
 }

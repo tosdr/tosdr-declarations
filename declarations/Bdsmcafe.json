@@ -6,7 +6,8 @@
       "select": "html > body > div:first-of-type > div:nth-of-type(3) > div > div > article > div"
     },
     "Copyright Claims Policy": {
-      "fetch": "https://bdsmcafe.com/copyright-dmca-contact-info/"
+      "fetch": "https://bdsmcafe.com/copyright-dmca-contact-info/",
+      "select": null
     }
   }
 }

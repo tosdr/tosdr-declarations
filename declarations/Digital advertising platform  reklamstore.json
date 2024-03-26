@@ -2,7 +2,12 @@
   "name": "Digital advertising platform  reklamstore",
   "documents": {
     "Trackers Policy": {
-      "fetch": "https://www.reklamstore.com/cookie-policy/"
+      "fetch": "https://www.reklamstore.com/cookie-policy/",
+      "select": null
+    },
+    "Terms of Service": {
+      "fetch": "https://www.reklamstore.com/terms-and-conditions",
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.reklamstore.com/privacy-policy/",

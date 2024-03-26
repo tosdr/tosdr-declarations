@@ -1,6 +1,10 @@
 {
   "name": "Ello",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://ello.co/wtf/policies/terms/",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://ello.co/wtf/policies/data-policy/",
       "select": "html > body > div > div:nth-of-type(2) > section > article"

@@ -4,6 +4,10 @@
     "Terms of Service": {
       "fetch": "https://bitcoins.express/terms-of-use",
       "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://bitcoins.express/privacy-policy",
+      "select": "body"
     }
   }
 }

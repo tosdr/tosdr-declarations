@@ -1,5 +1,9 @@
 {
   "name": "Mynetiz",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://mynetiz.com/privacy-policy",
+      "select": "body"
+    }
   }
 }

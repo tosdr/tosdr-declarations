@@ -2,7 +2,8 @@
   "name": "Stefan vd",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.stefanvd.net/privacy/"
+      "fetch": "https://www.stefanvd.net/privacy/",
+      "select": null
     }
   }
 }

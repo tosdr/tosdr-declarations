@@ -2,7 +2,8 @@
   "name": "Moon climbing",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://moonclimbing.com/terms-and-conditions"
+      "fetch": "https://moonclimbing.com/terms-and-conditions",
+      "select": null
     },
     "Trackers Policy": {
       "fetch": "https://moonclimbing.com/privacy-policy-cookie-restriction-mode",

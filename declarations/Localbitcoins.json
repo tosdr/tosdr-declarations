@@ -2,13 +2,16 @@
   "name": "Localbitcoins",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://localbitcoins.com/terms_of_service/"
+      "fetch": "https://localbitcoins.com/terms_of_service/",
+      "select": null
     },
     "Acceptable Use Policy": {
-      "fetch": "https://localbitcoins.com/acceptable_use_policy/"
+      "fetch": "https://localbitcoins.com/acceptable_use_policy/",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://localbitcoins.com/privacy_policy/"
+      "fetch": "https://localbitcoins.com/privacy_policy/",
+      "select": null
     }
   }
 }

@@ -2,7 +2,8 @@
   "name": "Librespeed",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://librespeed.org/#"
+      "fetch": "https://librespeed.org/#",
+      "select": null
     }
   }
 }

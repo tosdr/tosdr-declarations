@@ -2,7 +2,8 @@
   "name": "Donorbox",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://donorbox.org/privacy"
+      "fetch": "https://donorbox.org/privacy",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://donorbox.org/terms",

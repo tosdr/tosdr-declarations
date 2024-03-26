@@ -10,7 +10,8 @@
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "https://www.just-eat.co.uk/info/terms-and-conditions"
+      "fetch": "https://www.just-eat.co.uk/info/terms-and-conditions",
+      "select": null
     }
   }
 }

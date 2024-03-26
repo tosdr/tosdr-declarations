@@ -2,7 +2,8 @@
   "name": "Wevideo",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.wevideo.com/dpa"
+      "fetch": "https://www.wevideo.com/dpa",
+      "select": null
     },
     "Trackers Policy": {
       "fetch": "https://www.wevideo.com/dpa-list-of-subprocessors",

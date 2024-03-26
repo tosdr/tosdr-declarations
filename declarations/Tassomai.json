@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://www.tassomai.com/privacy"
+      "fetch": "https://www.tassomai.com/privacy",
+      "select": null
     }
   }
 }

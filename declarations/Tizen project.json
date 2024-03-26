@@ -2,10 +2,12 @@
   "name": "Tizen project",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.tizen.org/about/privacy-policy"
+      "fetch": "https://www.tizen.org/about/privacy-policy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.tizen.org/about/terms-service"
+      "fetch": "https://www.tizen.org/about/terms-service",
+      "select": null
     }
   }
 }

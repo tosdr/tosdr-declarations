@@ -6,7 +6,8 @@
       "select": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div > div > div:nth-of-type(2)"
     },
     "Privacy Policy": {
-      "fetch": "https://www.ocado.com/webshop/scontent/securityPolicy"
+      "fetch": "https://www.ocado.com/webshop/scontent/securityPolicy",
+      "select": null
     }
   }
 }

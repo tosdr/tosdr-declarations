@@ -2,10 +2,12 @@
   "name": "Hinterland games",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://hinterlandforums.com/terms/"
+      "fetch": "https://hinterlandforums.com/terms/",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://hinterlandforums.com/privacy/"
+      "fetch": "https://hinterlandforums.com/privacy/",
+      "select": null
     }
   }
 }

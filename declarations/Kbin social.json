@@ -2,10 +2,12 @@
   "name": "Kbin social",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://kbin.social/privacy-policy"
+      "fetch": "https://kbin.social/privacy-policy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://kbin.social/terms"
+      "fetch": "https://kbin.social/terms",
+      "select": null
     }
   }
 }

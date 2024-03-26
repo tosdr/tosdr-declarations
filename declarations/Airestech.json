@@ -2,7 +2,8 @@
   "name": "Airestech",
   "documents": {
     "Trackers Policy": {
-      "fetch": "https://www.airestech.com/privacy-policy"
+      "fetch": "https://www.airestech.com/privacy-policy",
+      "select": null
     }
   }
 }

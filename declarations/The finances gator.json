@@ -2,10 +2,12 @@
   "name": "The finances gator",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://thefinancesgator.com/privacy/"
+      "fetch": "https://thefinancesgator.com/privacy/",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://thefinancesgator.com/tc/"
+      "fetch": "https://thefinancesgator.com/tc/",
+      "select": null
     }
   }
 }

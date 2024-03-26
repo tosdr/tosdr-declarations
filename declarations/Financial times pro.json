@@ -1,6 +1,10 @@
 {
   "name": "Financial times pro",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://financialtimespro.com/terms ",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://financialtimespro.com/privacy",
       "select": "body"

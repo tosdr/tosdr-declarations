@@ -4,6 +4,10 @@
     "Terms of Service": {
       "fetch": "http://bucketsofbanners.com/terms.php",
       "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "http://bucketsofbanners.com/privacypolicy.php",
+      "select": "body"
     }
   }
 }

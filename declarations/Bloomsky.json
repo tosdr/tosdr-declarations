@@ -6,7 +6,8 @@
       "select": "html > body > div:first-of-type > div > div:nth-of-type(2)"
     },
     "Terms of Service": {
-      "fetch": "https://www.bloomsky.com/legal/terms/"
+      "fetch": "https://www.bloomsky.com/legal/terms/",
+      "select": null
     }
   }
 }

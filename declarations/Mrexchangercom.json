@@ -2,10 +2,12 @@
   "name": "Mrexchangercom",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://mrexchanger.com/en/terms.php"
+      "fetch": "https://mrexchanger.com/en/terms.php",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://mrexchanger.com/en/privacy.php"
+      "fetch": "https://mrexchanger.com/en/privacy.php",
+      "select": null
     }
   }
 }

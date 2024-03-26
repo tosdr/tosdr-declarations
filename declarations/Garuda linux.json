@@ -6,7 +6,8 @@
       "select": "html > body > div:nth-of-type(2) > div"
     },
     "Terms of Service": {
-      "fetch": "https://forum.garudalinux.org/tos"
+      "fetch": "https://forum.garudalinux.org/tos",
+      "select": null
     }
   }
 }

@@ -2,7 +2,8 @@
   "name": "National domestic violence hotline",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.thehotline.org/privacy-policy/"
+      "fetch": "https://www.thehotline.org/privacy-policy/",
+      "select": null
     }
   }
 }

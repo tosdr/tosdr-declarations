@@ -2,7 +2,8 @@
   "name": "Bob barker",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.bobbarker.com/privacy"
+      "fetch": "https://www.bobbarker.com/privacy",
+      "select": null
     }
   }
 }

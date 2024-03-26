@@ -2,10 +2,12 @@
   "name": "Cvs",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.cvs.com/help/terms_of_use.jsp"
+      "fetch": "https://www.cvs.com/help/terms_of_use.jsp",
+      "select": null
     },
     "General Conditions of Sale": {
-      "fetch": "https://www.cvs.com/help/help_subtopic_details.jsp?subtopicName=Return+Policy&topicid=300002"
+      "fetch": "https://www.cvs.com/help/help_subtopic_details.jsp?subtopicName=Return+Policy&topicid=300002",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://www.cvs.com/help/privacy_policy.jsp",

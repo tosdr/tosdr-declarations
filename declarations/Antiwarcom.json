@@ -2,10 +2,12 @@
   "name": "Antiwarcom",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.antiwar.com/privacy.php"
+      "fetch": "https://www.antiwar.com/privacy.php",
+      "select": null
     },
     "Community Guidelines": {
-      "fetch": "https://www.antiwar.com/submissions.php"
+      "fetch": "https://www.antiwar.com/submissions.php",
+      "select": null
     },
     "Policy": {
       "fetch": "https://www.antiwar.com/reprint.php",

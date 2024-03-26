@@ -4,6 +4,10 @@
     "Terms of Service": {
       "fetch": "https://eggactyl.cloud/tos",
       "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://eggactyl.cloud/privacy",
+      "select": "body"
     }
   }
 }

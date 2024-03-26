@@ -2,7 +2,8 @@
   "name": "Encyclopaedia metallum",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.metal-archives.com/content/pp"
+      "fetch": "https://www.metal-archives.com/content/pp",
+      "select": null
     }
   }
 }

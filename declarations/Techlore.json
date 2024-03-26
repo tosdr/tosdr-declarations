@@ -2,10 +2,12 @@
   "name": "Techlore",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://discuss.techlore.tech/privacy"
+      "fetch": "https://discuss.techlore.tech/privacy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://discuss.techlore.tech/tos"
+      "fetch": "https://discuss.techlore.tech/tos",
+      "select": null
     }
   }
 }

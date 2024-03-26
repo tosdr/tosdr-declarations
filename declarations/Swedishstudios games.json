@@ -1,6 +1,10 @@
 {
   "name": "Swedishstudios games",
   "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://swedishstudiosgames.com/return-and-refund",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://swedishstudiosgames.com/privacy",
       "select": "body"

@@ -2,10 +2,12 @@
   "name": "Adblock plus",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://adblockplus.org/en/terms"
+      "fetch": "https://adblockplus.org/en/terms",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://adblockplus.org/en/privacy"
+      "fetch": "https://adblockplus.org/en/privacy",
+      "select": null
     }
   }
 }

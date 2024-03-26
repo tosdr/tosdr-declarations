@@ -2,13 +2,16 @@
   "name": "Freelancer",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.freelancer.com/about/privacy"
+      "fetch": "https://www.freelancer.com/about/privacy",
+      "select": null
     },
     "Copyright Claims Policy": {
-      "fetch": "https://www.freelancer.com/dmca"
+      "fetch": "https://www.freelancer.com/dmca",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.freelancer.com/about/terms?w=f&ngsw-bypass="
+      "fetch": "https://www.freelancer.com/about/terms?w=f&ngsw-bypass=",
+      "select": null
     }
   }
 }

@@ -1,6 +1,10 @@
 {
   "name": "Jasonsnidercom",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://jasonsnider.com/privacy",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://jasonsnider.com/terms",
       "select": "body"

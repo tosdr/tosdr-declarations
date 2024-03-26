@@ -2,13 +2,16 @@
   "name": "Chemtable software",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.chemtable.com/terms.htm"
+      "fetch": "https://www.chemtable.com/terms.htm",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://www.chemtable.com/license.htm?doc=privacy"
+      "fetch": "https://www.chemtable.com/license.htm?doc=privacy",
+      "select": null
     },
     "General Conditions of Sale": {
-      "fetch": "https://www.chemtable.com/license.htm?doc=refund"
+      "fetch": "https://www.chemtable.com/license.htm?doc=refund",
+      "select": null
     }
   }
 }

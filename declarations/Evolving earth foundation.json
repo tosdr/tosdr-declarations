@@ -2,7 +2,8 @@
   "name": "Evolving earth foundation",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.evolvingearth.org/terms"
+      "fetch": "https://www.evolvingearth.org/terms",
+      "select": null
     }
   }
 }

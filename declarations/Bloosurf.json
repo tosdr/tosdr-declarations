@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://bloosurf.com/privacy-statement"
+      "fetch": "https://bloosurf.com/privacy-statement",
+      "select": null
     }
   }
 }

@@ -5,6 +5,10 @@
       "fetch": "https://www.holded.com/tac",
       "select": "body"
     },
+    "Privacy Policy": {
+      "fetch": "https://www.holded.com/privacy",
+      "select": "body"
+    },
     "Trackers Policy": {
       "fetch": "https://www.holded.com/cookie-policy",
       "select": "body"

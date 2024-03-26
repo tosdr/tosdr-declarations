@@ -6,7 +6,8 @@
       "select": "html"
     },
     "Privacy Policy": {
-      "fetch": "https://www.listsurfing.com/privacy.html?rid=14359"
+      "fetch": "https://www.listsurfing.com/privacy.html?rid=14359",
+      "select": null
     }
   }
 }

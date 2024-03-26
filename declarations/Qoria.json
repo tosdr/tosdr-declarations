@@ -2,8 +2,12 @@
   "name": "Qoria",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://qoria.com/privacy/privacy-policy",
-      "select": "html > body > div:nth-of-type(2) > div > div > div > div > div:nth-of-type(3)"
+      "fetch": "https://qoria.com/legal/data-processing-addendum",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://qoria.com/legal/end-user-license-agreement",
+      "select": "body"
     }
   }
 }

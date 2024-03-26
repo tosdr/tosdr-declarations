@@ -8,6 +8,10 @@
     "Trackers Policy": {
       "fetch": "https://brandyourself.com/cookie-policy",
       "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://brandyourself.com/privacy-policy",
+      "select": "body"
     }
   }
 }

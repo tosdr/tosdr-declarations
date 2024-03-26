@@ -2,7 +2,8 @@
   "name": "Sectigo",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.sectigo.com/privacy-policy"
+      "fetch": "https://www.sectigo.com/privacy-policy",
+      "select": null
     },
     "Trackers Policy": {
       "fetch": "https://www.sectigo.com/legal/cookie-policy",

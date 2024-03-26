@@ -1,6 +1,10 @@
 {
   "name": "Chexy",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.chexy.co/terms-of-use",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://www.chexy.co/privacy-policy",
       "select": "body"

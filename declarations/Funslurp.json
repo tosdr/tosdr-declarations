@@ -2,7 +2,8 @@
   "name": "Funslurp",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.funslurp.com/privacy-policy"
+      "fetch": "https://www.funslurp.com/privacy-policy",
+      "select": null
     }
   }
 }

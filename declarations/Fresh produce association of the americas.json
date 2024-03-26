@@ -1,6 +1,10 @@
 {
   "name": "Fresh produce association of the americas",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.freshfrommexico.com/privacy-policy",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://www.freshfrommexico.com/terms-of-use/",
       "select": "body"

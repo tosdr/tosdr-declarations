@@ -2,7 +2,8 @@
   "name": "Urbandroid team",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://team.urbandroid.org/privacy/"
+      "fetch": "https://team.urbandroid.org/privacy/",
+      "select": null
     }
   }
 }

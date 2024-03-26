@@ -2,10 +2,12 @@
   "name": "Openreviewnet",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://openreview.net/legal/privacy"
+      "fetch": "https://openreview.net/legal/privacy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://openreview.net/legal/terms"
+      "fetch": "https://openreview.net/legal/terms",
+      "select": null
     }
   }
 }

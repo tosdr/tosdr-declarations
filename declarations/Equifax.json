@@ -2,10 +2,12 @@
   "name": "Equifax",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.equifax.com/privacy/privacy-statement/"
+      "fetch": "https://www.equifax.com/privacy/privacy-statement/",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.equifax.com/terms"
+      "fetch": "https://www.equifax.com/terms",
+      "select": null
     }
   }
 }

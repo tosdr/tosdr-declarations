@@ -1,6 +1,10 @@
 {
   "name": "Kumospace",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.kumospace.com/terms",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://www.kumospace.com/privacy",
       "select": "body"

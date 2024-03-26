@@ -2,7 +2,8 @@
   "name": "Visymo",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.visymo.com/privacy"
+      "fetch": "https://www.visymo.com/privacy",
+      "select": null
     }
   }
 }

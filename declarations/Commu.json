@@ -1,6 +1,10 @@
 {
   "name": "Commu",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://commuapp.fi/en/privacy-policy/",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://commuapp.fi/en/terms-of-use/",
       "select": "body"

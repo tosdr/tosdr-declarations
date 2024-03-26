@@ -2,7 +2,8 @@
   "name": "Vinegar syndrome",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://vinegarsyndrome.com/pages/privacy-policy"
+      "fetch": "https://vinegarsyndrome.com/pages/privacy-policy",
+      "select": null
     }
   }
 }

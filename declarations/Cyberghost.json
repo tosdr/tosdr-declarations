@@ -6,7 +6,8 @@
       "select": "html > body > main > section > main > div:nth-of-type(2) > div"
     },
     "Terms of Service": {
-      "fetch": "https://www.cyberghostvpn.com/en_US/terms"
+      "fetch": "https://www.cyberghostvpn.com/en_US/terms",
+      "select": null
     }
   }
 }

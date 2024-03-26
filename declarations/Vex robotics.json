@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://www.vexrobotics.com/software-privacy-policy"
+      "fetch": "https://www.vexrobotics.com/software-privacy-policy",
+      "select": null
     },
     "Trackers Policy": {
       "fetch": "https://www.iubenda.com/privacy-policy/89449486/cookie-policy",

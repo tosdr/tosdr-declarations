@@ -4,6 +4,10 @@
     "Privacy Policy": {
       "fetch": "https://lavabit.com/privacy.html",
       "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://lavabit.com/terms.html",
+      "select": "body"
     }
   }
 }

@@ -10,7 +10,8 @@
       "select": "html > body > article > div > div > div:nth-of-type(2) > div"
     },
     "Privacy Policy": {
-      "fetch": "https://openai.com/policies/privacy-policy"
+      "fetch": "https://openai.com/policies/privacy-policy",
+      "select": null
     }
   }
 }

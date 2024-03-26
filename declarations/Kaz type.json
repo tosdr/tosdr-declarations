@@ -2,10 +2,12 @@
   "name": "Kaz type",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://kaz-type.com/privacy"
+      "fetch": "https://kaz-type.com/privacy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://kaz-type.com/terms-condition.aspx"
+      "fetch": "https://kaz-type.com/terms-condition.aspx",
+      "select": null
     }
   }
 }

@@ -2,7 +2,8 @@
   "name": "Nordstrom",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.nordstrom.com/browse/customer-service/policy/privacy"
+      "fetch": "https://www.nordstrom.com/browse/customer-service/policy/privacy",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://www.nordstrom.com/browse/customer-service/policy/terms-conditions",

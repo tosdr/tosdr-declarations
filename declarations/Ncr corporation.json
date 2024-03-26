@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Legal Information": {
-      "fetch": "https://www.ncr.com/legal-notice"
+      "fetch": "https://www.ncr.com/legal-notice",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://www.ncr.com/privacy",

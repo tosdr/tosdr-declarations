@@ -2,13 +2,16 @@
   "name": "Questioncove",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://questioncove.com/privacy-policy"
+      "fetch": "https://questioncove.com/privacy-policy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://questioncove.com/rules"
+      "fetch": "https://questioncove.com/rules",
+      "select": null
     },
     "Frequently Asked Questions": {
-      "fetch": "https://questioncove.com/faq"
+      "fetch": "https://questioncove.com/faq",
+      "select": null
     }
   }
 }

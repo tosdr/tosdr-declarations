@@ -2,7 +2,8 @@
   "name": "Sound theater company",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://soundtheatrecompany.org/privacy"
+      "fetch": "https://soundtheatrecompany.org/privacy",
+      "select": null
     }
   }
 }

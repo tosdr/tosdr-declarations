@@ -2,10 +2,12 @@
   "name": "Common sense media",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.commonsense.org/education/terms-of-use"
+      "fetch": "https://www.commonsense.org/education/terms-of-use",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://www.commonsense.org/education/privacy-policy"
+      "fetch": "https://www.commonsense.org/education/privacy-policy",
+      "select": null
     }
   }
 }

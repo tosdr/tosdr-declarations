@@ -1,6 +1,10 @@
 {
   "name": "Wunderkind",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.wunderkind.co/privacy/ ",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://www.wunderkind.co/terms/",
       "select": "body"

@@ -2,10 +2,12 @@
   "name": "Cuddlist",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://cuddlist.com/terms-of-use"
+      "fetch": "https://cuddlist.com/terms-of-use",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://cuddlist.com/privacypolicy"
+      "fetch": "https://cuddlist.com/privacypolicy",
+      "select": null
     }
   }
 }

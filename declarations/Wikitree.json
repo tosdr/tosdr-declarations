@@ -10,7 +10,8 @@
       "select": "html > body"
     },
     "Terms of Service": {
-      "fetch": "https://www.wikitree.com/about/terms.html"
+      "fetch": "https://www.wikitree.com/about/terms.html",
+      "select": null
     }
   }
 }

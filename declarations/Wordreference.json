@@ -6,7 +6,8 @@
       "select": "html > body > div:first-of-type > div:nth-of-type(3) > table > tbody > tr > td > div"
     },
     "Terms of Service": {
-      "fetch": "https://www.wordreference.com/english/TermsOfService.aspx?dict=enes"
+      "fetch": "https://www.wordreference.com/english/TermsOfService.aspx?dict=enes",
+      "select": null
     },
     "Trackers Policy": {
       "fetch": "https://forum.wordreference.com/help/cookies/",

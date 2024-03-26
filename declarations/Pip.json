@@ -1,6 +1,10 @@
 {
   "name": "Pip",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://pipglobal.com/legal?type=pr&lID=001",
+      "select": "body"
+    },
     "Trackers Policy": {
       "fetch": "https://pipglobal.com/legal?type=pr&lID=004",
       "select": "body"

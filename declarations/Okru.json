@@ -2,10 +2,12 @@
   "name": "Okru",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://ok.ru/regulations"
+      "fetch": "https://ok.ru/regulations",
+      "select": null
     },
     "Trackers Policy": {
-      "fetch": "https://ok.ru/cookiepolicy"
+      "fetch": "https://ok.ru/cookiepolicy",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://ok.ru/privacypolicy",

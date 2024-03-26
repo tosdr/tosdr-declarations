@@ -2,7 +2,8 @@
   "name": "Freebsd",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.freebsd.org/privacy/"
+      "fetch": "https://www.freebsd.org/privacy/",
+      "select": null
     }
   }
 }

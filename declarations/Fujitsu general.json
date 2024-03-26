@@ -2,10 +2,12 @@
   "name": "Fujitsu general",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.fujitsugeneral.com/us/terms/index.html"
+      "fetch": "https://www.fujitsugeneral.com/us/terms/index.html",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://www.fujitsugeneral.com/us/privacy/index.html"
+      "fetch": "https://www.fujitsugeneral.com/us/privacy/index.html",
+      "select": null
     }
   }
 }

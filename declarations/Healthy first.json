@@ -1,6 +1,10 @@
 {
   "name": "Healthy first",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://healthy-first.org/privacy/",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://healthy-first.org/tc/",
       "select": "body"

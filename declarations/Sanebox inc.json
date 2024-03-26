@@ -2,7 +2,8 @@
   "name": "Sanebox inc",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.sanebox.com/security"
+      "fetch": "https://www.sanebox.com/security",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://www.sanebox.com/tos",

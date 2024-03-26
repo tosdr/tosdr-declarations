@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://www.virtbiz.com/about/tos/privacy/"
+      "fetch": "https://www.virtbiz.com/about/tos/privacy/",
+      "select": null
     }
   }
 }

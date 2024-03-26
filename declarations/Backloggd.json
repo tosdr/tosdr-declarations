@@ -2,7 +2,8 @@
   "name": "Backloggd",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.backloggd.com/about/privacy/"
+      "fetch": "https://www.backloggd.com/about/privacy/",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://backloggd.com/about/terms-of-service/",

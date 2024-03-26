@@ -2,7 +2,8 @@
   "name": "Cartoon soundboards",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.cartoonsoundboards.com/privacy/"
+      "fetch": "https://www.cartoonsoundboards.com/privacy/",
+      "select": null
     }
   }
 }

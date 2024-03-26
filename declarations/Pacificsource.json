@@ -2,10 +2,12 @@
   "name": "Pacificsource",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://pacificsource.com/privacy-policy"
+      "fetch": "https://pacificsource.com/privacy-policy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://pacificsource.com/terms-of-service"
+      "fetch": "https://pacificsource.com/terms-of-service",
+      "select": null
     }
   }
 }

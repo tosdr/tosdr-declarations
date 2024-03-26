@@ -1,6 +1,10 @@
 {
   "name": "Flawcra",
   "documents": {
+    "Trackers Policy": {
+      "fetch": "https://flawcra.cc/?page=cookies",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://flawcra.cc/?page=impressum",
       "select": "body"

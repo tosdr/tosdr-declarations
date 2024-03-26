@@ -1,6 +1,10 @@
 {
   "name": "Opensap",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://open.sap.com/pages/privacy",
+      "select": "body"
+    },
     "Trackers Policy": {
       "fetch": "https://open.sap.com/pages/cookies",
       "select": "body"

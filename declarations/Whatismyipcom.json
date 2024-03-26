@@ -2,10 +2,12 @@
   "name": "Whatismyipcom",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.whatismyip.com/terms-and-conditions-of-use/"
+      "fetch": "https://www.whatismyip.com/terms-and-conditions-of-use/",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://www.whatismyip.com/privacy-policy/"
+      "fetch": "https://www.whatismyip.com/privacy-policy/",
+      "select": null
     }
   }
 }

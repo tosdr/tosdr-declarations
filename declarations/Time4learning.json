@@ -2,7 +2,8 @@
   "name": "Time4learning",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.time4learning.com/curriculum/privacy.html"
+      "fetch": "https://www.time4learning.com/curriculum/privacy.html",
+      "select": null
     }
   }
 }

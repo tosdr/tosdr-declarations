@@ -2,7 +2,8 @@
   "name": "Pocket dentistry",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://pocketdentistry.com/terms-and-condition/"
+      "fetch": "https://pocketdentistry.com/terms-and-condition/",
+      "select": null
     }
   }
 }

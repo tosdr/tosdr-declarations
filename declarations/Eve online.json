@@ -10,7 +10,8 @@
       "select": "html > body > main > section > div > div:nth-of-type(2) > div > div:first-of-type > div > div > div"
     },
     "Privacy Policy": {
-      "fetch": "https://www.ccpgames.com/privacy-policy/"
+      "fetch": "https://www.ccpgames.com/privacy-policy/",
+      "select": null
     }
   }
 }

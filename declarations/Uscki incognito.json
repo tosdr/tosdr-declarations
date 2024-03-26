@@ -2,10 +2,12 @@
   "name": "Uscki incognito",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.uscki.nl/?pagina=Wicki&subject=Privacy_Policy"
+      "fetch": "https://www.uscki.nl/?pagina=Wicki&subject=Privacy_Policy",
+      "select": null
     },
     "Other": {
-      "fetch": "https://www.uscki.nl/?pagina=Wicki&subject=dataindexatie"
+      "fetch": "https://www.uscki.nl/?pagina=Wicki&subject=dataindexatie",
+      "select": null
     }
   }
 }

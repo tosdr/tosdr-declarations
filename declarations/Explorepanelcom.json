@@ -1,6 +1,10 @@
 {
   "name": "Explorepanelcom",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://explorepanel.com/page.php?p=privacy-policy",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://explorepanel.com/page.php?p=terms-of-use",
       "select": "body"

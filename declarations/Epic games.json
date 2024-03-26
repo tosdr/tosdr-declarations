@@ -1,6 +1,10 @@
 {
   "name": "Epic games",
   "documents": {
+    "Community Guidelines": {
+      "fetch": "https://www.epicgames.com/site/en-US/fan-art-policy",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://www.epicgames.com/site/en-US/privacypolicy",
       "select": "div.cms-page-content.privacypolicy.container"

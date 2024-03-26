@@ -2,10 +2,12 @@
   "name": "Postimage",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://postimages.org/privacy"
+      "fetch": "https://postimages.org/privacy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://postimages.org/terms"
+      "fetch": "https://postimages.org/terms",
+      "select": null
     }
   }
 }

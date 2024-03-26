@@ -2,7 +2,8 @@
   "name": "Therapy shoppe",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.therapyshoppe.com/terms-of-use"
+      "fetch": "https://www.therapyshoppe.com/terms-of-use",
+      "select": null
     }
   }
 }

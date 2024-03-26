@@ -2,10 +2,12 @@
   "name": "Ibm spss",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.spss-asp.com/terms_source_homepage_hpzone_footer/"
+      "fetch": "https://www.spss-asp.com/terms_source_homepage_hpzone_footer/",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://www.spss-asp.com/privacy/"
+      "fetch": "https://www.spss-asp.com/privacy/",
+      "select": null
     }
   }
 }

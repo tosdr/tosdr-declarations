@@ -1,5 +1,9 @@
 {
   "name": "Cryptouniverseio",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://cryptouniverse.io/ru/terms",
+      "select": "body"
+    }
   }
 }

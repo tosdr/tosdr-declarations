@@ -2,7 +2,8 @@
   "name": "Petrocanada",
   "documents": {
     "Legal Information": {
-      "fetch": "https://www.petro-canada.ca/en/legal-privacy"
+      "fetch": "https://www.petro-canada.ca/en/legal-privacy",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://www.petro-canada.ca/en/legal-privacy",

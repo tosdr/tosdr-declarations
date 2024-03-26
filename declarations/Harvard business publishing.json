@@ -2,7 +2,8 @@
   "name": "Harvard business publishing",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://hbr.org/privacy-policy"
+      "fetch": "https://hbr.org/privacy-policy",
+      "select": null
     },
     "Trackers Policy": {
       "fetch": "https://hbr.org/corporate/cookie-policy",

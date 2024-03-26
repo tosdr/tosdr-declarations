@@ -2,10 +2,12 @@
   "name": "Educational testing service ets",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.ets.org/legal/privacy.html"
+      "fetch": "https://www.ets.org/legal/privacy.html",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.ets.org/legal/terms.html"
+      "fetch": "https://www.ets.org/legal/terms.html",
+      "select": null
     }
   }
 }

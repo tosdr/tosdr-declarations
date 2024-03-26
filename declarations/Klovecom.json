@@ -4,6 +4,10 @@
     "Privacy Policy": {
       "fetch": "https://www.klove.com/policies/privacy-policy",
       "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.klove.com/policies/terms-of-use ",
+      "select": "body"
     }
   }
 }

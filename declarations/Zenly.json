@@ -1,6 +1,10 @@
 {
   "name": "Zenly",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://zen.ly/privacy",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://zen.ly/terms",
       "select": "body"

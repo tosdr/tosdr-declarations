@@ -1,8 +1,13 @@
 {
   "name": "Digital millennium copyright act services",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.dmca.com/Privacy.aspx",
+      "select": "body"
+    },
     "Terms of Service": {
-      "fetch": "https://www.dmca.com/TermsOfService?r=msft"
+      "fetch": "https://www.dmca.com/TermsOfService?r=msft",
+      "select": null
     }
   }
 }

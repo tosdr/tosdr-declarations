@@ -2,7 +2,8 @@
   "name": "Teamfortresstv",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://teamfortress.tv/privacy"
+      "fetch": "https://teamfortress.tv/privacy",
+      "select": null
     }
   }
 }

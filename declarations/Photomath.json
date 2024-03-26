@@ -2,10 +2,12 @@
   "name": "Photomath",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://photomath.com/en/privacypolicy"
+      "fetch": "https://photomath.com/en/privacypolicy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://photomath.com/en/termsofuse"
+      "fetch": "https://photomath.com/en/termsofuse",
+      "select": null
     }
   }
 }

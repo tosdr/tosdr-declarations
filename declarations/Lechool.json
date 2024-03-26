@@ -2,10 +2,12 @@
   "name": "Lechool",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://lechool.com/terms"
+      "fetch": "https://lechool.com/terms",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://lechool.com/mag/privacy-policy/"
+      "fetch": "https://lechool.com/mag/privacy-policy/",
+      "select": null
     }
   }
 }

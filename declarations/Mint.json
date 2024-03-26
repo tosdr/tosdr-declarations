@@ -1,6 +1,10 @@
 {
   "name": "Mint",
   "documents": {
+    "Legal Information": {
+      "fetch": "http://about.intuit.com/legal/",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://www.intuit.com/privacy/statement/",
       "select": "html > body > div:first-of-type > div > div:nth-of-type(3) > div > div > div > section:first-of-type"

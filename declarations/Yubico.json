@@ -2,7 +2,8 @@
   "name": "Yubico",
   "documents": {
     "General Conditions of Sale": {
-      "fetch": "https://www.yubico.com/support/terms-conditions/yubico-license-agreement/"
+      "fetch": "https://www.yubico.com/support/terms-conditions/yubico-license-agreement/",
+      "select": null
     },
     "Legal Information": {
       "fetch": "https://www.yubico.com/support/terms-conditions/privacy-notice/",

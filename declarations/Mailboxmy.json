@@ -2,7 +2,8 @@
   "name": "Mailboxmy",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.mailbox.my/legal.html?tab=privacypolicy"
+      "fetch": "https://www.mailbox.my/legal.html?tab=privacypolicy",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://www.mailbox.my/legal.html?tab=termsofuse",

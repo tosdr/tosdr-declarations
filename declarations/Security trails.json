@@ -2,10 +2,12 @@
   "name": "Security trails",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://securitytrails.com/corp/privacy-policy"
+      "fetch": "https://securitytrails.com/corp/privacy-policy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://securitytrails.com/corp/terms-of-service"
+      "fetch": "https://securitytrails.com/corp/terms-of-service",
+      "select": null
     }
   }
 }

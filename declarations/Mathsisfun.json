@@ -2,7 +2,8 @@
   "name": "Mathsisfun",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.mathsisfun.com/Privacy.htm"
+      "fetch": "https://www.mathsisfun.com/Privacy.htm",
+      "select": null
     }
   }
 }

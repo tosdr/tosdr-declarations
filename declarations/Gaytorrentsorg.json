@@ -1,6 +1,10 @@
 {
   "name": "Gaytorrentsorg",
   "documents": {
+    "Legal Information": {
+      "fetch": "https://gay-torrents.org/disclaimer.php",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://gay-torrents.org/privacy.php",
       "select": "body"

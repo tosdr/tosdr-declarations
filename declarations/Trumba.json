@@ -2,7 +2,8 @@
   "name": "Trumba",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.trumba.com/connect/about/terms_of_use.aspx"
+      "fetch": "https://www.trumba.com/connect/about/terms_of_use.aspx",
+      "select": null
     },
     "General Conditions of Sale": {
       "fetch": "https://www.trumba.com/connect/support/billing_faq.aspx",

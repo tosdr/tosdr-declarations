@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://www.onlinegdb.com/privacy"
+      "fetch": "https://www.onlinegdb.com/privacy",
+      "select": null
     }
   }
 }

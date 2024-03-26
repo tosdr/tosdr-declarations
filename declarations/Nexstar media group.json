@@ -2,10 +2,12 @@
   "name": "Nexstar media group",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.nexstar.tv/terms-of-use/"
+      "fetch": "https://www.nexstar.tv/terms-of-use/",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://www.nexstar.tv/privacy-policy/"
+      "fetch": "https://www.nexstar.tv/privacy-policy/",
+      "select": null
     },
     "Trackers Policy": {
       "fetch": "https://www.nexstar.tv/advertisingterms/",

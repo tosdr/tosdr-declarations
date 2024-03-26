@@ -2,10 +2,12 @@
   "name": "Avoidthehack",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://avoidthehack.com/privacy-policy"
+      "fetch": "https://avoidthehack.com/privacy-policy",
+      "select": null
     },
     "Trackers Policy": {
-      "fetch": "https://avoidthehack.com/cookies"
+      "fetch": "https://avoidthehack.com/cookies",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://avoidthehack.com/tos",

@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "https://wienerholocaustlibrary.org/legal/terms-of-use/"
+      "fetch": "https://wienerholocaustlibrary.org/legal/terms-of-use/",
+      "select": null
     }
   }
 }

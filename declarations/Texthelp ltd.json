@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Policy": {
-      "fetch": "https://docs.google.com/document/d/e/2PACX-1vQCSBCA7MNK_t-Rm0-jpUzEqArG9MzZzgtP6pyMLUDi9Pvdg2Xmd5-XeCV0BoXQ1V2jkx4J3v4pMvjw/pub"
+      "fetch": "https://docs.google.com/document/d/e/2PACX-1vQCSBCA7MNK_t-Rm0-jpUzEqArG9MzZzgtP6pyMLUDi9Pvdg2Xmd5-XeCV0BoXQ1V2jkx4J3v4pMvjw/pub",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://docs.google.com/document/d/1l9GWjNkyetuyg-WcHJoi-18K-kfDWNcT3_P8kSuHEVY/pub",

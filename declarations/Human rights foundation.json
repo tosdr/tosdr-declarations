@@ -2,7 +2,8 @@
   "name": "Human rights foundation",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://hrf.org/legal/privacy-policy"
+      "fetch": "https://hrf.org/legal/privacy-policy",
+      "select": null
     }
   }
 }

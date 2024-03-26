@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "https://www.thefreedictionary.com/about.htm"
+      "fetch": "https://www.thefreedictionary.com/about.htm",
+      "select": null
     }
   }
 }

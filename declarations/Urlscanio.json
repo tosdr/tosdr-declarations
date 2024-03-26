@@ -2,10 +2,12 @@
   "name": "Urlscanio",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://urlscan.io/privacy/"
+      "fetch": "https://urlscan.io/privacy/",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://urlscan.io/terms/"
+      "fetch": "https://urlscan.io/terms/",
+      "select": null
     }
   }
 }

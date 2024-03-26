@@ -1,6 +1,10 @@
 {
   "name": "Virgin australia",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.virginaustralia.com/au/en/about-us/legal-policies/privacy/",
+      "select": "body"
+    },
     "Trackers Policy": {
       "fetch": "https://www.virginaustralia.com/au/en/about-us/legal-policies/privacy/cookies-policy/",
       "select": "body"

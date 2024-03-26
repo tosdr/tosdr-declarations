@@ -6,7 +6,8 @@
       "select": "html > body"
     },
     "Terms of Service": {
-      "fetch": "https://www.last.fm/legal/terms"
+      "fetch": "https://www.last.fm/legal/terms",
+      "select": null
     },
     "Trackers Policy": {
       "fetch": "https://privacy.cbs/cookies",

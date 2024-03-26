@@ -2,10 +2,12 @@
   "name": "Jobscan",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.jobscan.co/privacy"
+      "fetch": "https://www.jobscan.co/privacy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.jobscan.co/terms-of-service"
+      "fetch": "https://www.jobscan.co/terms-of-service",
+      "select": null
     }
   }
 }

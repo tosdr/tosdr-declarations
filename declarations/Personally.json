@@ -2,10 +2,12 @@
   "name": "Personally",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.personally.co.uk/privacy-policy/"
+      "fetch": "https://www.personally.co.uk/privacy-policy/",
+      "select": null
     },
     "Trackers Policy": {
-      "fetch": "https://www.personally.co.uk/cookie-policy/"
+      "fetch": "https://www.personally.co.uk/cookie-policy/",
+      "select": null
     }
   }
 }

@@ -2,7 +2,8 @@
   "name": "Adafruit",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.adafruit.com/privacy"
+      "fetch": "https://www.adafruit.com/privacy",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://io.adafruit.com/terms",

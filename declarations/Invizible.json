@@ -2,7 +2,8 @@
   "name": "Invizible",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://invizible.net/en/privacy"
+      "fetch": "https://invizible.net/en/privacy",
+      "select": null
     }
   }
 }

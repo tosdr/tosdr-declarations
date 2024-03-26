@@ -2,10 +2,12 @@
   "name": "Alight creative",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://alightcreative.com/privacy"
+      "fetch": "https://alightcreative.com/privacy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://alightcreative.com/tos/"
+      "fetch": "https://alightcreative.com/tos/",
+      "select": null
     }
   }
 }

@@ -1,6 +1,10 @@
 {
   "name": "Hawkins engineer",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.hawkins.engineer/privacy.txt",
+      "select": "body"
+    },
     "Policy": {
       "fetch": "https://www.hawkins.engineer/logging.txt",
       "select": "body"

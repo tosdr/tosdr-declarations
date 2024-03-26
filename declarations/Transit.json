@@ -2,10 +2,12 @@
   "name": "Transit",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://transitapp.com/terms"
+      "fetch": "https://transitapp.com/terms",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://transitapp.com/privacy"
+      "fetch": "https://transitapp.com/privacy",
+      "select": null
     }
   }
 }

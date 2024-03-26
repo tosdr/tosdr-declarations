@@ -2,7 +2,8 @@
   "name": "Construction forestry maritime mining and energy union",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.cfmmeu.org.au/privacy-policy"
+      "fetch": "https://www.cfmmeu.org.au/privacy-policy",
+      "select": null
     }
   }
 }

@@ -1,6 +1,10 @@
 {
   "name": "Coincards",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://coincards.com/terms-conditions/",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://coincards.com/privacy-policy/",
       "select": "html > body > div:first-of-type > div"

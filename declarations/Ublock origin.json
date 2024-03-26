@@ -2,7 +2,8 @@
   "name": "Ublock origin",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://github.com/gorhill/uBlock/wiki/Privacy-policy"
+      "fetch": "https://github.com/gorhill/uBlock/wiki/Privacy-policy",
+      "select": null
     }
   }
 }

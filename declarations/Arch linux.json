@@ -2,10 +2,12 @@
   "name": "Arch linux",
   "documents": {
     "Copyright Claims Policy": {
-      "fetch": "https://wiki.archlinux.org/index.php/DeveloperWiki:TrademarkPolicy"
+      "fetch": "https://wiki.archlinux.org/index.php/DeveloperWiki:TrademarkPolicy",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy"
+      "fetch": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+      "select": null
     },
     "Community Guidelines": {
       "fetch": "https://gitlab.archlinux.org/archlinux/service-agreements/-/blob/master/code-of-conduct.md",

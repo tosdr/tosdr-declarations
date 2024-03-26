@@ -2,10 +2,12 @@
   "name": "Arkansas democratgazette",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.arkansasonline.com/tools/termsofuse/"
+      "fetch": "https://www.arkansasonline.com/tools/termsofuse/",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://classifieds.arkansasonline.com/marketplace-littlerock/page/privacy.html"
+      "fetch": "https://classifieds.arkansasonline.com/marketplace-littlerock/page/privacy.html",
+      "select": null
     }
   }
 }

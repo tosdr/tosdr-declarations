@@ -2,7 +2,8 @@
   "name": "National today",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://nationaltoday.com/privacy-policy/"
+      "fetch": "https://nationaltoday.com/privacy-policy/",
+      "select": null
     }
   }
 }

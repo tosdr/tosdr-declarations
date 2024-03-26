@@ -2,10 +2,12 @@
   "name": "Aim labb",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://aimlab.gg/tos/"
+      "fetch": "https://aimlab.gg/tos/",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://aimlab.gg/privacypolicy/"
+      "fetch": "https://aimlab.gg/privacypolicy/",
+      "select": null
     }
   }
 }

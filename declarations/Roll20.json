@@ -2,7 +2,8 @@
   "name": "Roll20",
   "documents": {
     "Other": {
-      "fetch": "https://wiki.roll20.net/Terms_of_Service_and_Privacy_Policy#English.2C_not_Legalese"
+      "fetch": "https://wiki.roll20.net/Terms_of_Service_and_Privacy_Policy#English.2C_not_Legalese",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://wiki.roll20.net/Terms_of_Service_and_Privacy_Policy#English.2C_not_Legalese",

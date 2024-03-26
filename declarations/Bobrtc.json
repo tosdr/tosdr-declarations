@@ -2,7 +2,8 @@
   "name": "Bobrtc",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://bobrtc.tel/legal"
+      "fetch": "https://bobrtc.tel/legal",
+      "select": null
     }
   }
 }

@@ -1,6 +1,10 @@
 {
   "name": "Jobseer",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://jobseer.ai/policy/generalprivacypolicy",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://jobseer.ai/policy/termsofuse",
       "select": "body"

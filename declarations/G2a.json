@@ -2,7 +2,8 @@
   "name": "G2a",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.g2a.com/terms-and-conditions"
+      "fetch": "https://www.g2a.com/terms-and-conditions",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://www.g2a.com/privacy-policy",

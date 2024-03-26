@@ -1,6 +1,10 @@
 {
   "name": "Trustarc",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://trustarc.com/privacy-policy/",
+      "select": "body"
+    },
     "Acceptable Use Policy": {
       "fetch": "https://trustarc.com/acceptable-use-policy/",
       "select": "body"

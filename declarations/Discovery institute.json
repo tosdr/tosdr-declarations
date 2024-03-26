@@ -1,6 +1,10 @@
 {
   "name": "Discovery institute",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.discovery.org/terms/",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://www.discovery.org/privacy-policy/",
       "select": "html > body > div:first-of-type > center > center"

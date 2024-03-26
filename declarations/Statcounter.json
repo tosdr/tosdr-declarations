@@ -2,7 +2,8 @@
   "name": "Statcounter",
   "documents": {
     "Legal Information": {
-      "fetch": "https://statcounter.com/about/legal/"
+      "fetch": "https://statcounter.com/about/legal/",
+      "select": null
     }
   }
 }

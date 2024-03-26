@@ -2,7 +2,8 @@
   "name": "Brook eden",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://brookeden.com.au/?view=article&id=18:privacy-policy&catid=2:site"
+      "fetch": "https://brookeden.com.au/?view=article&id=18:privacy-policy&catid=2:site",
+      "select": null
     }
   }
 }

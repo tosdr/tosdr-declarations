@@ -2,10 +2,12 @@
   "name": "Danbooru",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://danbooru.donmai.us/terms_of_service"
+      "fetch": "https://danbooru.donmai.us/terms_of_service",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://danbooru.donmai.us/privacy"
+      "fetch": "https://danbooru.donmai.us/privacy",
+      "select": null
     }
   }
 }

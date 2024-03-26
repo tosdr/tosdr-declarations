@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://boomi.com/privacy/us/"
+      "fetch": "https://boomi.com/privacy/us/",
+      "select": null
     }
   }
 }

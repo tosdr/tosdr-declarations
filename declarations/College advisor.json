@@ -4,6 +4,10 @@
     "Trackers Policy": {
       "fetch": "https://www.collegeadvisor.com/privacy-policy/",
       "select": "html > body > div:nth-of-type(2) > div"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.collegeadvisor.com/terms-and-conditions/",
+      "select": "body"
     }
   }
 }

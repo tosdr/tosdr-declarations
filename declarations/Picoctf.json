@@ -2,10 +2,12 @@
   "name": "Picoctf",
   "documents": {
     "Trackers Policy": {
-      "fetch": "https://picoctf.org/privacy"
+      "fetch": "https://picoctf.org/privacy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://picoctf.org/terms"
+      "fetch": "https://picoctf.org/terms",
+      "select": null
     }
   }
 }

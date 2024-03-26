@@ -2,7 +2,8 @@
   "name": "1secmail",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.1secmail.com/tac/"
+      "fetch": "https://www.1secmail.com/tac/",
+      "select": null
     }
   }
 }

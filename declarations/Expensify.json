@@ -1,6 +1,10 @@
 {
   "name": "Expensify",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://use.expensify.com/privacy",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://use.expensify.com/terms",
       "select": "body"

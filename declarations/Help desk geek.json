@@ -2,7 +2,8 @@
   "name": "Help desk geek",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://helpdeskgeek.com/privacy-policy/"
+      "fetch": "https://helpdeskgeek.com/privacy-policy/",
+      "select": null
     }
   }
 }

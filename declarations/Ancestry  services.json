@@ -1,6 +1,10 @@
 {
   "name": "Ancestry  services",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.ancestry.com/cs/legal/privacystatement",
+      "select": "body"
+    },
     "Trackers Policy": {
       "fetch": "https://www.ancestry.com/cs/legal/AboutCookies",
       "select": "body"
@@ -14,7 +18,8 @@
       "select": "body"
     },
     "General Conditions of Sale": {
-      "fetch": "https://www.ancestry.com/cs/legal/renewal-cancellation-terms"
+      "fetch": "https://www.ancestry.com/cs/legal/renewal-cancellation-terms",
+      "select": null
     }
   }
 }

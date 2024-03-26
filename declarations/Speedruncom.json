@@ -2,7 +2,8 @@
   "name": "Speedruncom",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.speedrun.com/privacypolicy"
+      "fetch": "https://www.speedrun.com/privacypolicy",
+      "select": null
     }
   }
 }

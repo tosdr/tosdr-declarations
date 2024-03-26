@@ -6,7 +6,8 @@
       "select": "html > body > main > article"
     },
     "Terms of Service": {
-      "fetch": "https://www.samsclub.com/termsandconditions"
+      "fetch": "https://www.samsclub.com/termsandconditions",
+      "select": null
     }
   }
 }

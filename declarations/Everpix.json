@@ -2,10 +2,12 @@
   "name": "Everpix",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://everpix.app/policy/"
+      "fetch": "https://everpix.app/policy/",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://everpix.app/eula/"
+      "fetch": "https://everpix.app/eula/",
+      "select": null
     }
   }
 }

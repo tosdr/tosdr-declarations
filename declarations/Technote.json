@@ -10,7 +10,8 @@
       "select": "html > body > div:first-of-type > div:nth-of-type(2) > div > div"
     },
     "Trackers Policy": {
-      "fetch": "https://technote.ai/cookie-policy"
+      "fetch": "https://technote.ai/cookie-policy",
+      "select": null
     }
   }
 }

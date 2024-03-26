@@ -2,7 +2,8 @@
   "name": "Vicidial",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.vicidial.com/?page_id=495"
+      "fetch": "https://www.vicidial.com/?page_id=495",
+      "select": null
     }
   }
 }

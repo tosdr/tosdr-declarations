@@ -6,7 +6,8 @@
       "select": "html > body > div:first-of-type > main > article > div > div"
     },
     "Privacy Policy": {
-      "fetch": "https://www.youneedabudget.com/security/"
+      "fetch": "https://www.youneedabudget.com/security/",
+      "select": null
     }
   }
 }

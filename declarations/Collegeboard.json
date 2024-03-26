@@ -1,6 +1,10 @@
 {
   "name": "Collegeboard",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://privacy.collegeboard.org/site-terms?navId=gf-terms",
+      "select": "body"
+    },
     "Legal Information": {
       "fetch": "https://privacy.collegeboard.org/privacy-statement/california-privacy-rights",
       "select": "body"

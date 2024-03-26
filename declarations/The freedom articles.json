@@ -2,7 +2,8 @@
   "name": "The freedom articles",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://thefreedomarticles.com/privacy-policy/"
+      "fetch": "https://thefreedomarticles.com/privacy-policy/",
+      "select": null
     }
   }
 }

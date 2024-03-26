@@ -2,10 +2,12 @@
   "name": "Everything track  field",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.everythingtrackandfield.com/privacy-policy"
+      "fetch": "https://www.everythingtrackandfield.com/privacy-policy",
+      "select": null
     },
     "General Conditions of Sale": {
-      "fetch": "https://www.everythingtrackandfield.com/returns"
+      "fetch": "https://www.everythingtrackandfield.com/returns",
+      "select": null
     }
   }
 }

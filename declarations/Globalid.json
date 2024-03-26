@@ -1,8 +1,13 @@
 {
   "name": "Globalid",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.global.id/about/privacy-policy/",
+      "select": "body"
+    },
     "Trackers Policy": {
-      "fetch": "https://www.global.id/cookie-policy/"
+      "fetch": "https://www.global.id/cookie-policy/",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://www.global.id/terms-conditions/",

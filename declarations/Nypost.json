@@ -2,10 +2,12 @@
   "name": "Nypost",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://nypost.com/terms/"
+      "fetch": "https://nypost.com/terms/",
+      "select": null
     },
     "Legal Information": {
-      "fetch": "https://nypost.com/privacy/"
+      "fetch": "https://nypost.com/privacy/",
+      "select": null
     }
   }
 }

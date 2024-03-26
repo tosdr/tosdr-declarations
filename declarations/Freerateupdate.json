@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "https://www.freerateupdate.com/terms"
+      "fetch": "https://www.freerateupdate.com/terms",
+      "select": null
     }
   }
 }

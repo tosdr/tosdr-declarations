@@ -4,6 +4,10 @@
     "Terms of Service": {
       "fetch": "https://www.udemy.com/terms/",
       "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.udemy.com/terms/privacy/",
+      "select": "body"
     }
   }
 }

@@ -2,7 +2,8 @@
   "name": "Cdnca",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.cdn.ca/privacy.php"
+      "fetch": "https://www.cdn.ca/privacy.php",
+      "select": null
     }
   }
 }

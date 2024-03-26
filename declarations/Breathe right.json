@@ -6,7 +6,8 @@
       "select": "html > body > div:first-of-type > section > div"
     },
     "Terms of Service": {
-      "fetch": "https://www.breatheright.com/terms-of-use"
+      "fetch": "https://www.breatheright.com/terms-of-use",
+      "select": null
     }
   }
 }

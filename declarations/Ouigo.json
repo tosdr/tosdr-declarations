@@ -6,7 +6,8 @@
       "select": " > div:nth-of-type(3) > div > div"
     },
     "Trackers Policy": {
-      "fetch": "https://www.ouigo.com/charte-confidentialite"
+      "fetch": "https://www.ouigo.com/charte-confidentialite",
+      "select": null
     }
   }
 }

@@ -1,6 +1,10 @@
 {
   "name": "Gapscult",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://gapscult.com/feed/pages/privacy-policy ",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://gapscult.com/feed/pages/terms-of-use",
       "select": "body"

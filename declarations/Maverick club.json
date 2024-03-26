@@ -5,12 +5,12 @@
       "fetch": "https://maverickclothing.com/pages/privacy-policy",
       "select": "body"
     },
-    "General Conditions of Sale": {
-      "fetch": "https://maverickclothing.com/pages/shipping-information",
-      "select": "body"
-    },
     "Terms of Service": {
       "fetch": "https://maverickclothing.com/pages/terms-and-conditions",
+      "select": "body"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://maverickclothing.com/pages/shipping-information",
       "select": "body"
     }
   }

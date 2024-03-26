@@ -10,7 +10,8 @@
       "select": "div#policy-service"
     },
     "Privacy Policy": {
-      "fetch": "https://about.deviantart.com/policy/privacy/"
+      "fetch": "http://about.deviantart.com/policy/privacy/",
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "http://about.deviantart.com/policy/copyright/",

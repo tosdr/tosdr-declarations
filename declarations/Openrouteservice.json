@@ -6,7 +6,8 @@
       "select": "html > body > div:first-of-type > div > div"
     },
     "Privacy Policy": {
-      "fetch": "https://openrouteservice.org/privacy-policy/"
+      "fetch": "https://openrouteservice.org/privacy-policy/",
+      "select": null
     }
   }
 }

@@ -4,6 +4,10 @@
     "Terms of Service": {
       "fetch": "https://www.id.me/terms",
       "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.id.me/privacy",
+      "select": "body"
     }
   }
 }

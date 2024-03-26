@@ -2,7 +2,8 @@
   "name": "Computerhope",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.computerhope.com/legal.htm"
+      "fetch": "https://www.computerhope.com/legal.htm",
+      "select": null
     }
   }
 }

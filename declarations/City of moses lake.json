@@ -2,7 +2,8 @@
   "name": "City of moses lake",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.cityofml.com/990/Disclaimer"
+      "fetch": "https://www.cityofml.com/990/Disclaimer",
+      "select": null
     }
   }
 }

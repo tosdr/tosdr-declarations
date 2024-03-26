@@ -2,7 +2,8 @@
   "name": "Three forks montana",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.threeforksmontana.us/privacy-policy"
+      "fetch": "https://www.threeforksmontana.us/privacy-policy",
+      "select": null
     }
   }
 }

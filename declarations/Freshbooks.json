@@ -2,10 +2,12 @@
   "name": "Freshbooks",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.freshbooks.com/policies/privacy"
+      "fetch": "https://www.freshbooks.com/policies/privacy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.freshbooks.com/policies/terms-of-service"
+      "fetch": "https://www.freshbooks.com/policies/terms-of-service",
+      "select": null
     }
   }
 }

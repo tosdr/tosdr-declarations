@@ -1,6 +1,10 @@
 {
   "name": "Ushousinghelper",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://ushousinghelper.com/terms",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://ushousinghelper.com/privacy",
       "select": "body"

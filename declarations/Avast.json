@@ -10,7 +10,8 @@
       "select": "html > body > div:nth-of-type(4) > div:nth-of-type(2) > div"
     },
     "Privacy Policy": {
-      "fetch": "https://www.avast.com/privacy-policy"
+      "fetch": "https://www.avast.com/privacy-policy",
+      "select": null
     }
   }
 }

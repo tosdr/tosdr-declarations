@@ -2,7 +2,8 @@
   "name": "Zelda universe",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://zeldauniverse.net/privacy/"
+      "fetch": "https://zeldauniverse.net/privacy/",
+      "select": null
     }
   }
 }

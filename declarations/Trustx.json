@@ -2,7 +2,8 @@
   "name": "Trustx",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://trustx.org/privacy-policy"
+      "fetch": "https://trustx.org/privacy-policy",
+      "select": null
     },
     "Other": {
       "fetch": "https://trustx.org/opt-out-choices",

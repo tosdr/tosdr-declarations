@@ -2,10 +2,12 @@
   "name": "Castos",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://castos.com/privacy/"
+      "fetch": "https://castos.com/privacy/",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://castos.com/terms-of-service/"
+      "fetch": "https://castos.com/terms-of-service/",
+      "select": null
     }
   }
 }

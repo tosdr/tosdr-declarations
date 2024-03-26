@@ -1,6 +1,10 @@
 {
   "name": "Opera",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.pwnprivacy.com/?domain=www.downloadoperagx.com",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://legal.opera.com/terms/",
       "select": "html > body > main > section > div"

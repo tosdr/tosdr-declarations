@@ -2,13 +2,16 @@
   "name": "Le parisien",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.leparisien.fr/politique-confidentialite/"
+      "fetch": "https://www.leparisien.fr/politique-confidentialite/",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.leparisien.fr/cgu/"
+      "fetch": "https://www.leparisien.fr/cgu/",
+      "select": null
     },
     "Trackers Policy": {
-      "fetch": "https://www.leparisien.fr/cookies/"
+      "fetch": "https://www.leparisien.fr/cookies/",
+      "select": null
     }
   }
 }

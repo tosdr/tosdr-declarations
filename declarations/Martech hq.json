@@ -2,7 +2,8 @@
   "name": "Martech hq",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://martechhq.com/privacy-policy/"
+      "fetch": "https://martechhq.com/privacy-policy/",
+      "select": null
     }
   }
 }

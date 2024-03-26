@@ -4,6 +4,10 @@
     "Legal Information": {
       "fetch": "https://www.familysearch.org/legal/privacy",
       "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.familysearch.org/legal/terms",
+      "select": "body"
     }
   }
 }

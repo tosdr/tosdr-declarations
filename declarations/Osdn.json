@@ -6,7 +6,8 @@
       "select": "html > body > section > section > div:nth-of-type(5) > div:nth-of-type(2)"
     },
     "Terms of Service": {
-      "fetch": "https://osdn.net/tos.php"
+      "fetch": "https://osdn.net/tos.php",
+      "select": null
     }
   }
 }

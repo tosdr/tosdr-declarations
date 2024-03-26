@@ -2,10 +2,12 @@
   "name": "Good todo",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://goodtodo.com/main/terms/"
+      "fetch": "https://goodtodo.com/main/terms/",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://goodtodo.com/main/privacy/"
+      "fetch": "https://goodtodo.com/main/privacy/",
+      "select": null
     }
   }
 }

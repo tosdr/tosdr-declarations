@@ -1,12 +1,12 @@
 {
   "name": "Mattermost",
   "documents": {
-    "Trackers Policy": {
-      "fetch": "https://mattermost.com/privacy-policy/cookies/",
-      "select": "body"
-    },
     "Privacy Policy": {
       "fetch": "https://docs.mattermost.com/overview/security.html",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://mattermost.com/privacy-policy/cookies/",
       "select": "body"
     },
     "Terms of Service": {

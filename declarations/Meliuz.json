@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://www.meliuz.com.br/termos-e-condicoes#privacy"
+      "fetch": "https://www.meliuz.com.br/termos-e-condicoes#privacy",
+      "select": null
     }
   }
 }

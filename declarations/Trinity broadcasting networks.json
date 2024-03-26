@@ -2,10 +2,12 @@
   "name": "Trinity broadcasting networks",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.tbn.org/terms"
+      "fetch": "https://www.tbn.org/terms",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://www.tbn.org/privacy"
+      "fetch": "https://www.tbn.org/privacy",
+      "select": null
     }
   }
 }

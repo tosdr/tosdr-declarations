@@ -2,7 +2,8 @@
   "name": "Sicpers",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.sicpers.info/privacy-statement/"
+      "fetch": "https://www.sicpers.info/privacy-statement/",
+      "select": null
     }
   }
 }

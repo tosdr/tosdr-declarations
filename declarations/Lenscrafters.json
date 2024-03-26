@@ -2,7 +2,8 @@
   "name": "Lenscrafters",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.lenscrafters.com/lc-us/privacy-policy"
+      "fetch": "https://www.lenscrafters.com/lc-us/privacy-policy",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://www.lenscrafters.com/lc-us/terms-and-conditions",

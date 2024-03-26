@@ -4,6 +4,10 @@
     "Terms of Service": {
       "fetch": "https://www.dogoodpoints.com/terms",
       "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.dogoodpoints.com/privacy",
+      "select": "body"
     }
   }
 }

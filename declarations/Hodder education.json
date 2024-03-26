@@ -2,7 +2,8 @@
   "name": "Hodder education",
   "documents": {
     "Legal Information": {
-      "fetch": "https://www.hoddereducation.com/privacynotice"
+      "fetch": "https://www.hoddereducation.com/privacynotice",
+      "select": null
     },
     "Trackers Policy": {
       "fetch": "https://www.hoddereducation.com/use-of-cookies",

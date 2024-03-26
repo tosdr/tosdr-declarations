@@ -1,6 +1,10 @@
 {
   "name": "Coinmarketcap",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://coinmarketcap.com/privacy/",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://coinmarketcap.com/terms/",
       "select": "body"

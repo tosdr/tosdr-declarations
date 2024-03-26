@@ -1,6 +1,10 @@
 {
   "name": "Fullcontact",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.fullcontact.com/privacy-center-2/",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://www.fullcontact.com/privacy/services-agreement/",
       "select": "body"

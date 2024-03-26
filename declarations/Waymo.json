@@ -2,10 +2,12 @@
   "name": "Waymo",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://waymo.com/terms/"
+      "fetch": "https://waymo.com/terms/",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://waymo.com/privacy/"
+      "fetch": "https://waymo.com/privacy/",
+      "select": null
     }
   }
 }

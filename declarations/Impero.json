@@ -2,10 +2,12 @@
   "name": "Impero",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.imperosoftware.com/privacy/"
+      "fetch": "https://www.imperosoftware.com/privacy/",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.imperosoftware.com/eula/"
+      "fetch": "https://www.imperosoftware.com/eula/",
+      "select": null
     },
     "Acceptable Use Policy": {
       "fetch": "https://www.imperosoftware.com/wp-content/uploads/2022/02/Acceptable_Use_Policy_-_Sept_2021.pdf",

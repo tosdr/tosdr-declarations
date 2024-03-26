@@ -2,10 +2,12 @@
   "name": "Trader on the street",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://traderonthestreet.com/terms-of-service/"
+      "fetch": "https://traderonthestreet.com/terms-of-service/",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://traderonthestreet.com/privacy-policy/"
+      "fetch": "https://traderonthestreet.com/privacy-policy/",
+      "select": null
     }
   }
 }

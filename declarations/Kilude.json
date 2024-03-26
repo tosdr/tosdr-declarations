@@ -2,7 +2,8 @@
   "name": "Kilude",
   "documents": {
     "Privacy Policy": {
-      "fetch": "http://www.kilu.de/tos"
+      "fetch": "http://www.kilu.de/tos",
+      "select": null
     }
   }
 }

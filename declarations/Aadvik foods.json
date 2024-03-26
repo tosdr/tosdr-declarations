@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://aadvikfoods.com/privacy-policy"
+      "fetch": "https://aadvikfoods.com/privacy-policy",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://aadvikfoods.com/terms-and-conditions/",

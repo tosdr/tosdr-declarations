@@ -1,6 +1,10 @@
 {
   "name": "Bose",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.bose.com/en_us/legal/privacy_policy.html",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://www.bose.com/en_us/legal/sms_terms_of_use.html",
       "select": "body"

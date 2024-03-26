@@ -2,10 +2,12 @@
   "name": "Nexus mods",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://help.nexusmods.com/article/20-privacy-policy"
+      "fetch": "https://help.nexusmods.com/article/20-privacy-policy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://help.nexusmods.com/article/18-terms-of-service"
+      "fetch": "https://help.nexusmods.com/article/18-terms-of-service",
+      "select": null
     }
   }
 }

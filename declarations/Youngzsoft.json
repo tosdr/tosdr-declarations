@@ -6,7 +6,8 @@
       "select": "html > body > div:nth-of-type(2) > div"
     },
     "Terms of Service": {
-      "fetch": "https://www.youngzsoft.net/terms.htm"
+      "fetch": "https://www.youngzsoft.net/terms.htm",
+      "select": null
     }
   }
 }

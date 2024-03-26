@@ -6,7 +6,8 @@
       "select": "html > body"
     },
     "Privacy Policy": {
-      "fetch": "https://wigle.net/privacy"
+      "fetch": "https://wigle.net/privacy",
+      "select": null
     }
   }
 }

@@ -2,7 +2,12 @@
   "name": "Daikin",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.daikin.com/terms/index.html"
+      "fetch": "https://www.daikin.com/terms/index.html",
+      "select": null
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.daikin.com/privacy/index.html",
+      "select": "body"
     }
   }
 }

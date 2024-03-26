@@ -2,7 +2,8 @@
   "name": "Tafuta254coke",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://tafuta254.co.ke/privacy-policy/"
+      "fetch": "https://tafuta254.co.ke/privacy-policy/",
+      "select": null
     }
   }
 }

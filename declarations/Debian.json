@@ -2,7 +2,8 @@
   "name": "Debian",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.debian.org/legal/privacy"
+      "fetch": "https://www.debian.org/legal/privacy",
+      "select": null
     }
   }
 }

@@ -2,10 +2,12 @@
   "name": "Codingame",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.codingame.com/legal/privacy-policy"
+      "fetch": "https://www.codingame.com/legal/privacy-policy",
+      "select": null
     },
     "Trackers Policy": {
-      "fetch": "https://www.codingame.com/legal/cookies-policy"
+      "fetch": "https://www.codingame.com/legal/cookies-policy",
+      "select": null
     }
   }
 }

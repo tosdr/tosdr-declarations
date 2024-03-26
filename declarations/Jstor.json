@@ -4,6 +4,10 @@
     "Terms of Service": {
       "fetch": "https://about.jstor.org/terms/",
       "select": "div.content-wrapper"
+    },
+    "Privacy Policy": {
+      "fetch": "http://about.jstor.org/privacy",
+      "select": "body"
     }
   }
 }

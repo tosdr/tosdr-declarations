@@ -10,7 +10,8 @@
       "select": "html > body > section > div"
     },
     "Privacy Policy": {
-      "fetch": "https://www.moneycontrol.com/cdata/privacypolicy.php"
+      "fetch": "https://www.moneycontrol.com/cdata/privacypolicy.php",
+      "select": null
     }
   }
 }

@@ -2,7 +2,8 @@
   "name": "Convertico",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.convertico.com/"
+      "fetch": "https://www.convertico.com/",
+      "select": null
     }
   }
 }

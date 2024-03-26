@@ -2,7 +2,8 @@
   "name": "Glassdoor",
   "documents": {
     "Trackers Policy": {
-      "fetch": "https://hrtechprivacy.com/brands/glassdoor"
+      "fetch": "https://hrtechprivacy.com/brands/glassdoor",
+      "select": null
     }
   }
 }

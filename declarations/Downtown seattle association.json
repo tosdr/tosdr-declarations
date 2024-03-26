@@ -2,7 +2,8 @@
   "name": "Downtown seattle association",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://downtownseattle.org/terms-privacy/"
+      "fetch": "https://downtownseattle.org/terms-privacy/",
+      "select": null
     }
   }
 }

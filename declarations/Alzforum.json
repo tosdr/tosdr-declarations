@@ -2,10 +2,12 @@
   "name": "Alzforum",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.alzforum.org/privacy-policy"
+      "fetch": "https://www.alzforum.org/privacy-policy",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://www.alzforum.org/terms-of-use"
+      "fetch": "https://www.alzforum.org/terms-of-use",
+      "select": null
     }
   }
 }

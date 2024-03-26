@@ -2,7 +2,8 @@
   "name": "Branded surveys",
   "documents": {
     "Legal Information": {
-      "fetch": "https://surveys.gobranded.com/page/branded-surveys-ccpa"
+      "fetch": "https://surveys.gobranded.com/page/branded-surveys-ccpa",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://surveys.gobranded.com/page/branded-surveys-privacy-policy/",

@@ -2,7 +2,8 @@
   "name": "Fafsa",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://studentaid.gov/app/security.action"
+      "fetch": "https://studentaid.gov/app/security.action",
+      "select": null
     },
     "Legal Information": {
       "fetch": "https://studentaid.gov/notices",

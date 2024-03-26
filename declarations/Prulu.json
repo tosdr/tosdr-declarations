@@ -2,10 +2,12 @@
   "name": "Prulu",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://prulu.com/privacy/"
+      "fetch": "https://prulu.com/privacy/",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://prulu.com/terms"
+      "fetch": "https://prulu.com/terms",
+      "select": null
     }
   }
 }

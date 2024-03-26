@@ -6,7 +6,8 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://insta-stories-viewer.com/privacy-policy/"
+      "fetch": "https://insta-stories-viewer.com/privacy-policy/",
+      "select": null
     }
   }
 }

@@ -2,7 +2,8 @@
   "name": "Shadertoy",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.shadertoy.com/terms"
+      "fetch": "https://www.shadertoy.com/terms",
+      "select": null
     }
   }
 }

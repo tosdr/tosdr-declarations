@@ -1,6 +1,10 @@
 {
   "name": "Evoloadio",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://evoload.io/terms.html",
+      "select": "body"
+    },
     "Legal Information": {
       "fetch": "https://evoload.io/dmca.html",
       "select": "body"

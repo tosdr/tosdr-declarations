@@ -2,7 +2,8 @@
   "name": "Cdiscount",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.cdiscount.com/vie-privee-et-cookies.html?forceDesktop=true"
+      "fetch": "https://www.cdiscount.com/vie-privee-et-cookies.html?forceDesktop=true",
+      "select": null
     }
   }
 }

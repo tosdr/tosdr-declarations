@@ -6,7 +6,8 @@
       "select": "html > body > main > div"
     },
     "Terms of Service": {
-      "fetch": "https://vice-web-statics-cdn.vice.com/privacy-policy/en_us/page/terms-of-use.html"
+      "fetch": "https://vice-web-statics-cdn.vice.com/privacy-policy/en_us/page/terms-of-use.html",
+      "select": null
     }
   }
 }

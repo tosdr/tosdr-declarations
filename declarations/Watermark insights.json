@@ -1,8 +1,16 @@
 {
   "name": "Watermark insights",
   "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.watermarkinsights.com/terms/",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://www.watermarkinsights.com/privacy-policy/",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.watermarkinsights.com/cookies/",
       "select": "body"
     }
   }

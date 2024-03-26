@@ -2,7 +2,8 @@
   "name": "Next",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.next.co.uk/privacy"
+      "fetch": "https://www.next.co.uk/privacy",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://www.next.co.uk/terms",

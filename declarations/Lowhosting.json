@@ -1,6 +1,10 @@
 {
   "name": "Lowhosting",
   "documents": {
+    "General Conditions of Sale": {
+      "fetch": "https://lowhosting.com/refpolicy ",
+      "select": "body"
+    },
     "Privacy Policy": {
       "fetch": "https://lowhosting.com/legal",
       "select": "html > body > section"

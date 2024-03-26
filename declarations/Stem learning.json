@@ -2,10 +2,12 @@
   "name": "Stem learning",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.stem.org.uk/privacy-policy"
+      "fetch": "https://www.stem.org.uk/privacy-policy",
+      "select": null
     },
     "Trackers Policy": {
-      "fetch": "https://www.stem.org.uk/cookies"
+      "fetch": "https://www.stem.org.uk/cookies",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://www.stem.org.uk/terms-conditions",

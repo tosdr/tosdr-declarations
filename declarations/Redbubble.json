@@ -6,7 +6,8 @@
       "select": "html > body > main > div:nth-of-type(3) > div > div > article > div:first-of-type > div:first-of-type"
     },
     "Terms of Service": {
-      "fetch": "https://www.redbubble.com/agreement"
+      "fetch": "https://www.redbubble.com/agreement",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://www.redbubble.com/privacy",

@@ -2,7 +2,8 @@
   "name": "Ikeepsafe",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://ikeepsafe.org/privacy-policy/"
+      "fetch": "https://ikeepsafe.org/privacy-policy/",
+      "select": null
     },
     "Terms of Service": {
       "fetch": "https://ikeepsafe.org/terms-of-use/",

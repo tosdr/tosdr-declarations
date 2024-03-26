@@ -2,7 +2,8 @@
   "name": "Schlumberger",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.welcome.slb.com/Public/Privacy.aspx"
+      "fetch": "https://www.welcome.slb.com/Public/Privacy.aspx",
+      "select": null
     }
   }
 }

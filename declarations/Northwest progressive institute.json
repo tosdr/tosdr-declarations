@@ -2,7 +2,8 @@
   "name": "Northwest progressive institute",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.nwprogressive.org/about/privacy-practices/"
+      "fetch": "https://www.nwprogressive.org/about/privacy-practices/",
+      "select": null
     }
   }
 }

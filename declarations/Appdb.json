@@ -1,6 +1,10 @@
 {
   "name": "Appdb",
   "documents": {
+    "Privacy Policy": {
+      "fetch": "https://appdb.to/info/privacy",
+      "select": "body"
+    },
     "Terms of Service": {
       "fetch": "https://appdb.to/info/tos",
       "select": " > section > div"

@@ -6,7 +6,8 @@
       "select": "div.post-content"
     },
     "Merged": {
-      "fetch": "https://www.whatsapp.com"
+      "fetch": "https://www.whatsapp.com",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://playlectric.com/privacy-policy",

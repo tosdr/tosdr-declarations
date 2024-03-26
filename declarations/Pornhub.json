@@ -6,7 +6,8 @@
       "select": "#information_terms"
     },
     "Legal Information": {
-      "fetch": "https://www.pornhub.com/information/dmca"
+      "fetch": "https://www.pornhub.com/information/dmca",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://www.pornhub.com/information/privacy",

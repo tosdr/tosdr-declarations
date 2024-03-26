@@ -2,10 +2,12 @@
   "name": "Beem it",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.beemit.com.au/privacy"
+      "fetch": "https://www.beemit.com.au/privacy",
+      "select": null
     },
     "Vulnerability Disclosure Policy": {
-      "fetch": "https://www.beemit.com.au/terms"
+      "fetch": "https://www.beemit.com.au/terms",
+      "select": null
     }
   }
 }

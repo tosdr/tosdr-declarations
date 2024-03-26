@@ -2,10 +2,12 @@
   "name": "Calyx institute",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://calyxinstitute.org/legal/terms-of-service"
+      "fetch": "https://calyxinstitute.org/legal/terms-of-service",
+      "select": null
     },
     "Privacy Policy": {
-      "fetch": "https://calyxinstitute.org/legal/privacy-policy"
+      "fetch": "https://calyxinstitute.org/legal/privacy-policy",
+      "select": null
     }
   }
 }

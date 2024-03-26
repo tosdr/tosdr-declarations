@@ -10,7 +10,8 @@
       "select": "div.static-page-padded-content.no-reset"
     },
     "Copyright Claims Policy": {
-      "fetch": "https://www.academia.edu/copyright"
+      "fetch": "https://www.academia.edu/copyright",
+      "select": null
     }
   }
 }

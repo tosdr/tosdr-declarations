@@ -2,10 +2,12 @@
   "name": "Romspure",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://romspure.com/privacy-policy/"
+      "fetch": "https://romspure.com/privacy-policy/",
+      "select": null
     },
     "Terms of Service": {
-      "fetch": "https://romspure.com/terms-of-use/"
+      "fetch": "https://romspure.com/terms-of-use/",
+      "select": null
     },
     "Legal Information": {
       "fetch": "https://romspure.com/disclaimer/",

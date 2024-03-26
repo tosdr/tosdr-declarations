@@ -2,7 +2,8 @@
   "name": "Seesaw",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://web.seesaw.me/terms-of-service"
+      "fetch": "https://web.seesaw.me/terms-of-service",
+      "select": null
     },
     "Privacy Policy": {
       "fetch": "https://web.seesaw.me/privacy-policy",
