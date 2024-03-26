@@ -32,6 +32,12 @@
       "updateTemplateId": 0
     }
   },
+  "logger": {
+    "smtp": {
+      "host": "SMTP server hostname",
+      "username": "User for server authentication"
+    }
+  },
   "reporter": {
     "githubIssues": {
       "repositories": {
