@@ -3,3 +3,7 @@ all:
     51.195.149.220:
       ansible_user: debian
       ed25519_fingerprint: AAAAC3NzaC1lZDI1NTE5AAAAIPdUmZiOSEsgrXI9hsW6EsIHdMzLXbQOVdi2OFVfzF8e
+      ota_engine_github_bot_private_key: must be completed
+      ota_engine_github_token: must be completed
+      ota_engine_smtp_password: must be completed
+      ota_federated_api_smtp_password: must be completed
