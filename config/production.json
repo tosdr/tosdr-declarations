@@ -34,8 +34,8 @@
   },
   "logger": {
     "smtp": {
-      "host": "SMTP server hostname",
-      "username": "User for server authentication"
+      "host": "smtp.sendgrid.net",
+      "username": "tosdr-bot"
     }
   },
   "reporter": {
