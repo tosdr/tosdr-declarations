@@ -1,0 +1,17 @@
+{
+  "name": "Accepted",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.accepted.com/privacy-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.accepted.com/aboutus/policy",
+      "select": "body"
+    },
+    "Legal Information": {
+      "fetch": "https://www.accepted.com/aboutus/disclaimer",
+      "select": "body"
+    }
+  }
+}

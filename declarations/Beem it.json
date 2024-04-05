@@ -1,0 +1,13 @@
+{
+  "name": "Beem it",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.beemit.com.au/privacy",
+      "select": "body"
+    },
+    "Vulnerability Disclosure Policy": {
+      "fetch": "https://www.beemit.com.au/terms",
+      "select": "body"
+    }
+  }
+}

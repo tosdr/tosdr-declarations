@@ -1,0 +1,17 @@
+{
+  "name": "Filemail",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.filemail.com/terms",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.filemail.com/privacy",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.filemail.com/cookies",
+      "select": "body"
+    }
+  }
+}

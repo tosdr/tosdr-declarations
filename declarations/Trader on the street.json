@@ -1,0 +1,13 @@
+{
+  "name": "Trader on the street",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://traderonthestreet.com/terms-of-service/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://traderonthestreet.com/privacy-policy/",
+      "select": "body"
+    }
+  }
+}

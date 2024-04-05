@@ -1,0 +1,13 @@
+{
+  "name": "Everything track  field",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.everythingtrackandfield.com/privacy-policy",
+      "select": "body"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://www.everythingtrackandfield.com/returns",
+      "select": "body"
+    }
+  }
+}

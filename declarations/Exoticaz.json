@@ -1,0 +1,17 @@
+{
+  "name": "Exoticaz",
+  "documents": {
+    "Copyright Claims Policy": {
+      "fetch": "https://exoticaz.to/about/dmca",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://exoticaz.to/about/privacy-policy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://exoticaz.to/about/terms",
+      "select": "body"
+    }
+  }
+}

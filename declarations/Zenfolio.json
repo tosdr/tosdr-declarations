@@ -1,0 +1,21 @@
+{
+  "name": "Zenfolio",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://zenfolio.com/cookies",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://zenfolio.com/termsofuse",
+      "select": "body"
+    },
+    "Copyright Claims Policy": {
+      "fetch": "https://zenfolio.com/copyright",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://zenfolio.com/privacypolicy",
+      "select": "body"
+    }
+  }
+}

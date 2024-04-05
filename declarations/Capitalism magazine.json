@@ -1,0 +1,13 @@
+{
+  "name": "Capitalism magazine",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.capitalismmagazine.com/privacy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.capitalismmagazine.com/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

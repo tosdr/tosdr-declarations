@@ -1,0 +1,17 @@
+{
+  "name": "Bullionbypostcouk",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.bullionbypost.co.uk/info/privacy/",
+      "select": "body"
+    },
+    "Acceptable Use Policy": {
+      "fetch": "https://www.bullionbypost.co.uk/info/acceptable-use/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.bullionbypost.co.uk/info/terms-and-conditions/",
+      "select": "body"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Transit",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://transitapp.com/terms",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://transitapp.com/privacy",
+      "select": "body"
+    }
+  }
+}

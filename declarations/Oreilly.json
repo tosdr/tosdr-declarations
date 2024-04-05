@@ -1,0 +1,13 @@
+{
+  "name": "Oreilly",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.oreilly.com/terms/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.oreilly.com/privacy.html",
+      "select": "body"
+    }
+  }
+}

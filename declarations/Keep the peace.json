@@ -1,0 +1,13 @@
+{
+  "name": "Keep the peace",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://playktp.com/legal/#terms",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://playktp.com/legal/#privacy",
+      "select": "body"
+    }
+  }
+}

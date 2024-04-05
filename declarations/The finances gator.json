@@ -1,0 +1,13 @@
+{
+  "name": "The finances gator",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://thefinancesgator.com/privacy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://thefinancesgator.com/tc/",
+      "select": "body"
+    }
+  }
+}

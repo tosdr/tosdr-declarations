@@ -1,0 +1,13 @@
+{
+  "name": "Healthcare  gov",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.healthcare.gov/privacy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.healthcare.gov/terms-and-conditions/",
+      "select": "body"
+    }
+  }
+}

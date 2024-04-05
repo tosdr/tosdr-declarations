@@ -1,0 +1,13 @@
+{
+  "name": "Codesteps",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://codesteps.com/privacy-policy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://codesteps.com/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

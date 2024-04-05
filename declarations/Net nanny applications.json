@@ -1,0 +1,21 @@
+{
+  "name": "Net nanny applications",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.netnanny.com/support/privacy-policy",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.netnanny.com/support/cookie-policy/",
+      "select": "body"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://www.netnanny.com/support/return-policy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.netnanny.com/support/terms-conditions/",
+      "select": "body"
+    }
+  }
+}

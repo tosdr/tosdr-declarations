@@ -1,0 +1,13 @@
+{
+  "name": "Freecycle",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://freecycle.org/pages/tos",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://freecycle.org/pages/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "M support",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://msupport.com.gr/privacy-policy/",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://msupport.com.gr/policy-cookies-ee/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://msupport.com.gr/terms-and-conditions/",
+      "select": "body"
+    }
+  }
+}

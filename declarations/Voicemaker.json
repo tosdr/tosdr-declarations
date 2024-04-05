@@ -1,0 +1,17 @@
+{
+  "name": "Voicemaker",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://voicemaker.in/security",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://voicemaker.in/terms",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://voicemaker.in/cookie-policy",
+      "select": "body"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Channel master",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.channelmaster.com/pages/terms",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.channelmaster.com/pages/terms-privacy",
+      "select": "body"
+    }
+  }
+}

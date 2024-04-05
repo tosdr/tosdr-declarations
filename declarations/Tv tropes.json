@@ -1,0 +1,17 @@
+{
+  "name": "Tv tropes",
+  "documents": {
+    "Other": {
+      "fetch": "https://tvtropes.org/pmwiki/pmwiki.php/Administrivia/TheFicMayBeYoursButTheTropePageIsOurs",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://tvtropes.org/pmwiki/privacypolicy.php",
+      "select": "body"
+    },
+    "Legal Information": {
+      "fetch": "https://tvtropes.org/pmwiki/dmca.php",
+      "select": "body"
+    }
+  }
+}

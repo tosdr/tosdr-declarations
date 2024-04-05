@@ -1,0 +1,17 @@
+{
+  "name": "Aero shade co",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://aeroshadeco.com/disclaimer",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://aeroshadeco.com/terms-of-services",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://aeroshadeco.com/privacy-policy",
+      "select": "body"
+    }
+  }
+}

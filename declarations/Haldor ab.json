@@ -1,0 +1,17 @@
+{
+  "name": "Haldor ab",
+  "documents": {
+    "Trackers Policy": {
+      "fetch": "https://haldoredu.com/cookie-policy/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://haldoredu.com/privacy-policy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://haldoredu.com/terms-of-use/",
+      "select": "body"
+    }
+  }
+}

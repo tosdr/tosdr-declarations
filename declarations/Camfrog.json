@@ -1,0 +1,13 @@
+{
+  "name": "Camfrog",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.camfrog.com/en/terms.phtml",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.camfrog.com/en/privacy.phtml",
+      "select": "body"
+    }
+  }
+}

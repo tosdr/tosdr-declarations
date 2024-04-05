@@ -1,0 +1,21 @@
+{
+  "name": "Bitchute",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://support.bitchute.com/policy/terms/",
+      "select": "body"
+    },
+    "Community Guidelines": {
+      "fetch": "https://support.bitchute.com/policy/guidelines",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://support.bitchute.com/policy/privacy",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://support.bitchute.com/policy/cookie/",
+      "select": "body"
+    }
+  }
+}

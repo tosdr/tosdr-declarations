@@ -1,0 +1,13 @@
+{
+  "name": "Urlscanio",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://urlscan.io/privacy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://urlscan.io/terms/",
+      "select": "body"
+    }
+  }
+}

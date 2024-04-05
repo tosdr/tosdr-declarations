@@ -1,0 +1,17 @@
+{
+  "name": "Booru project",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://booru.org/tos",
+      "select": "body"
+    },
+    "Copyright Claims Policy": {
+      "fetch": "https://booru.org/report",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://booru.org/privacy",
+      "select": "body"
+    }
+  }
+}

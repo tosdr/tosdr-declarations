@@ -1,0 +1,17 @@
+{
+  "name": "Buzzsprout",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.buzzsprout.com/tos",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.buzzsprout.com/privacy",
+      "select": "body"
+    },
+    "Copyright Claims Policy": {
+      "fetch": "https://www.buzzsprout.com/dmca",
+      "select": "body"
+    }
+  }
+}

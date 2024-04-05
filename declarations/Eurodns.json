@@ -1,0 +1,17 @@
+{
+  "name": "Eurodns",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.eurodns.com/privacy-policy",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.eurodns.com/use-of-cookies",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.eurodns.com/terms-and-conditions",
+      "select": "body"
+    }
+  }
+}

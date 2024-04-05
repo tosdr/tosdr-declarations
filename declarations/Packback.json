@@ -1,0 +1,21 @@
+{
+  "name": "Packback",
+  "documents": {
+    "Corporate Social Responsibility": {
+      "fetch": "https://www.packback.co/site/ai-ethics-policy/",
+      "select": "body"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://www.packback.co/site/refunds/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.packback.co/site/terms/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.packback.co/site/privacy/",
+      "select": "body"
+    }
+  }
+}

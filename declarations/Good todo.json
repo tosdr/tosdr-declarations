@@ -1,0 +1,13 @@
+{
+  "name": "Good todo",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://goodtodo.com/main/terms/",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://goodtodo.com/main/privacy/",
+      "select": "body"
+    }
+  }
+}

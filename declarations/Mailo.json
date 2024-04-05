@@ -1,0 +1,17 @@
+{
+  "name": "Mailo",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.mailo.com/mailo/en/terms-of-use.php",
+      "select": "body"
+    },
+    "Other": {
+      "fetch": "https://www.mailo.com/mailo/en/privacy-mailo-charter.php",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.mailo.com/mailo/en/privacy-rules.php",
+      "select": " > div"
+    }
+  }
+}

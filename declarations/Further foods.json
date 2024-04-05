@@ -1,0 +1,13 @@
+{
+  "name": "Further foods",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.furtherfood.com/privacypolicy/",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.furtherfood.com/termsandconditions/",
+      "select": "body"
+    }
+  }
+}

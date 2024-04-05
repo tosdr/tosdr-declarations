@@ -1,0 +1,17 @@
+{
+  "name": "Viewfule",
+  "documents": {
+    "Legal Information": {
+      "fetch": "https://viewfule.com/disclaimer",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://viewfule.com/terms",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://viewfule.com/privacy",
+      "select": "body"
+    }
+  }
+}

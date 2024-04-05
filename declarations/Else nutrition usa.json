@@ -1,0 +1,21 @@
+{
+  "name": "Else nutrition usa",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://elsenutrition.com/policies/terms-of-service",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://elsenutrition.com/pages/cookies-policy",
+      "select": "body"
+    },
+    "General Conditions of Sale": {
+      "fetch": "https://elsenutrition.com/pages/refund-policy",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://elsenutrition.com/pages/privacy-policy",
+      "select": "body"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Ravelry",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.ravelry.com/about/terms",
+      "select": "body"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.ravelry.com/about/adterms",
+      "select": "body"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.ravelry.com/about/privacy",
+      "select": "body"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Diigo",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.diigo.com/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.diigo.com/terms",
+      "select": "body"
+    }
+  }
+}

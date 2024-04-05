@@ -1,0 +1,13 @@
+{
+  "name": "Bashws",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://bash.ws/privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://bash.ws/terms",
+      "select": "body"
+    }
+  }
+}

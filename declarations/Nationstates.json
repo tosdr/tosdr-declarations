@@ -1,0 +1,13 @@
+{
+  "name": "Nationstates",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.nationstates.net/page=privacy",
+      "select": "body"
+    },
+    "Terms of Service": {
+      "fetch": "https://www.nationstates.net/page=legal",
+      "select": "body"
+    }
+  }
+}
