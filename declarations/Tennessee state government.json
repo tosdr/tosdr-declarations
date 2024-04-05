@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.tn.gov/web-policies/privacy-statement.html",
-      "select": null
+      "select": "body"
     }
   }
 }

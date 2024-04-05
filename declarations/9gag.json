@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://about.9gag.com/tos",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://about.9gag.com/privacy",

@@ -3,7 +3,7 @@
   "documents": {
     "Community Guidelines": {
       "fetch": "https://ruqqus.com/help/rules",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://ruqqus.com/help/legal",
@@ -11,11 +11,11 @@
     },
     "Terms of Service": {
       "fetch": "https://ruqqus.com/help/terms",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://ruqqus.com/help/privacy",
-      "select": null
+      "select": "body"
     }
   }
 }

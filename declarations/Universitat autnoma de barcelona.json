@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.uab.cat/web/about-the-uab/itineraries/data-protection/data-protection-policy-1345828638161.html",
-      "select": null
+      "select": "body"
     }
   }
 }

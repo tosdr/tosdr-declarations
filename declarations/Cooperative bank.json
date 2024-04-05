@@ -7,7 +7,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.co-operativebank.co.uk/help-and-support/your-details/privacy-cookie-policies/cookie-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

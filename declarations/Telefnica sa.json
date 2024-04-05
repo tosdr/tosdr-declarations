@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.telefonica.com/es/politica-de-privacidad/",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.telefonica.com/es/cookies/",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.telefonica.com/es/aviso-legal/",
-      "select": null
+      "select": "body"
     }
   }
 }

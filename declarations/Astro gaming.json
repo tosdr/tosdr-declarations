@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.astrogaming.com/en-us/support/terms-and-conditions.html",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.astrogaming.com/en-us/support/privacy-policy.html",

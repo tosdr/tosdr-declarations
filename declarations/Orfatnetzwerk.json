@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://orf.at/stories/datenschutz",
-      "select": null
+      "select": "body"
     }
   }
 }

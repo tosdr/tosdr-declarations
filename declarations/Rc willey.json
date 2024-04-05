@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.rcwilley.com/Privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.rcwilley.com/Terms",
-      "select": null
+      "select": "body"
     }
   }
 }

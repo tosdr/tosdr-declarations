@@ -3,15 +3,15 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.drf.com/about_cookie",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.drf.com/about_privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.drf.com/about_wssa",
-      "select": null
+      "select": "body"
     }
   }
 }

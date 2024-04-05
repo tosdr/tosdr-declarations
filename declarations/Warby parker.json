@@ -11,7 +11,7 @@
     },
     "Legal Information": {
       "fetch": "https://www.warbyparker.com/notice-of-privacy-practices",
-      "select": null
+      "select": "body"
     }
   }
 }

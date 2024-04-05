@@ -7,7 +7,7 @@
     },
     "Law Enforcement Guidelines": {
       "fetch": "https://signal.org/bigbrother/eastern-virginia-grand-jury/",
-      "select": null
+      "select": "body"
     },
     "Other": {
       "fetch": "https://signal.org/docs/",

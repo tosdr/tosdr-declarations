@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://nightowlsp.com/privacy-policy-cookie-restriction-mode",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://nightowlsp.com/terms-and-conditions",
-      "select": null
+      "select": "body"
     }
   }
 }

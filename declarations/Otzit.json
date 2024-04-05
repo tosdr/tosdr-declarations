@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "search.qa.otzaf.org/#/privacy-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://ubuntu.com/legal/data-privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "http://www.ubuntu.com/legal",

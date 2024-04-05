@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.mycoolingstore.com/privacypolicy.html",
-      "select": null
+      "select": "body"
     }
   }
 }

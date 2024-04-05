@@ -7,7 +7,7 @@
     },
     "Copyright Claims Policy": {
       "fetch": "https://bdsmcafe.com/copyright-dmca-contact-info/",
-      "select": null
+      "select": "body"
     }
   }
 }

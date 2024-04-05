@@ -3,19 +3,19 @@
   "documents": {
     "General Conditions of Sale": {
       "fetch": "https://www.familytreedna.com/legal/refund-policy",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.familytreedna.com/legal/cookie-policy",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.familytreedna.com/legal/privacy-statement",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.familytreedna.com/legal/terms-of-service",
-      "select": null
+      "select": "body"
     }
   }
 }

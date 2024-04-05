@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.titosvodka.com/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

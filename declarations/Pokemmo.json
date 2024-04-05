@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://pokemmo.eu/tos/",
-      "select": null
+      "select": "body"
     }
   }
 }

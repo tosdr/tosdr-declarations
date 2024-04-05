@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://as.com/pdf/Condiciones_Generales_Suscripciones_DIARIO_AS.pdf",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://as.com/diarioas/politica_privacidad.html",

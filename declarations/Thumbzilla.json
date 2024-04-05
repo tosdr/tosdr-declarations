@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.thumbzilla.com/information#privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.thumbzilla.com/information#terms",
-      "select": null
+      "select": "body"
     }
   }
 }

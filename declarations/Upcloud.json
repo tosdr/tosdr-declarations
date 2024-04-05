@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://upcloud.com/terms-of-service/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://upcloud.com/privacy-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

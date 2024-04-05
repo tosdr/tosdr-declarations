@@ -7,7 +7,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.global.id/cookie-policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.global.id/terms-conditions/",

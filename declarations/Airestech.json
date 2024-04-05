@@ -3,7 +3,7 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.airestech.com/privacy-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

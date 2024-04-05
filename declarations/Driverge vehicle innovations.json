@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.driverge.com/support/general-disclaimer/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,11 +3,11 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://moodle.com/privacy-notice",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://moodle.com/cookies-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

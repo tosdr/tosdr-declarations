@@ -7,7 +7,7 @@
     },
     "Legal Information": {
       "fetch": "https://www.xero.com/au/legal/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

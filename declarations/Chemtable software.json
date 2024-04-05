@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.chemtable.com/terms.htm",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.chemtable.com/license.htm?doc=privacy",
-      "select": null
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://www.chemtable.com/license.htm?doc=refund",
-      "select": null
+      "select": "body"
     }
   }
 }

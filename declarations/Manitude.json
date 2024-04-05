@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.manitu.de/datenschutz",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.manitu.de/impressum/agb/",
-      "select": null
+      "select": "body"
     }
   }
 }

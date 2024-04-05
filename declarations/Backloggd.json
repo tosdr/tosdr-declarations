@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.backloggd.com/about/privacy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://backloggd.com/about/terms-of-service/",

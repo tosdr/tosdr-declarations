@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://securitytrails.com/corp/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://securitytrails.com/corp/terms-of-service",
-      "select": null
+      "select": "body"
     }
   }
 }

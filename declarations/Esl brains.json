@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://eslbrains.com/terms-and-conditions/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://eslbrains.com/privacy-policy/",

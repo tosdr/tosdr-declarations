@@ -3,7 +3,7 @@
   "documents": {
     "Other": {
       "fetch": "https://www.sofi.com/login/policy/esign",
-      "select": null
+      "select": "body"
     },
     "Law Enforcement Guidelines": {
       "fetch": "https://www.sofi.com/login/policy/arbitration",

@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.shutterflyinc.com/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.shutterflyinc.com/terms-of-use/",
-      "select": null
+      "select": "body"
     }
   }
 }

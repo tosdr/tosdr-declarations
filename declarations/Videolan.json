@@ -3,7 +3,7 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://www.videolan.org/legal.html",
-      "select": null
+      "select": "body"
     }
   }
 }

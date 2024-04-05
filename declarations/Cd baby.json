@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://cdbaby.com/terms.aspx",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://cdbaby.com/privacy.aspx",
-      "select": null
+      "select": "body"
     }
   }
 }

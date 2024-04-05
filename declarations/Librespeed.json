@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://librespeed.org/#",
-      "select": null
+      "select": "body"
     }
   }
 }

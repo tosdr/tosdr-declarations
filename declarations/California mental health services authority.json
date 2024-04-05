@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.calmhsa.org/privacy-statement/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.calmhsa.org/terms/",
-      "select": null
+      "select": "body"
     }
   }
 }

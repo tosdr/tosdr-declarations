@@ -11,7 +11,7 @@
     },
     "Terms of Service": {
       "fetch": "https://markrober.store/policies/terms-of-service",
-      "select": null
+      "select": "body"
     }
   }
 }

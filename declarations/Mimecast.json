@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.mimecast.com/company/mimecast-trust-center/privacy-statement/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.mimecast.com/legal/terms-of-use/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.samsclub.com/termsandconditions",
-      "select": null
+      "select": "body"
     }
   }
 }

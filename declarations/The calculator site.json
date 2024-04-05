@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.thecalculatorsite.com/privacypolicy.php",
-      "select": null
+      "select": "body"
     }
   }
 }

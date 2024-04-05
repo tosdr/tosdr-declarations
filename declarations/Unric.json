@@ -3,7 +3,7 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://unric.org/en/privacy-notice/",
-      "select": null
+      "select": "body"
     }
   }
 }

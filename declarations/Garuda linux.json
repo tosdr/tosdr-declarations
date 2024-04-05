@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://forum.garudalinux.org/tos",
-      "select": null
+      "select": "body"
     }
   }
 }

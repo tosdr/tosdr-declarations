@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://okwow.com/terms/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://okwow.com/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

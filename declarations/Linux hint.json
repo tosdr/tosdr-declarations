@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://linuxhint.com/policies-and-privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

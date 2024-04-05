@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.stefanvd.net/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://salemmedia.com/terms-of-use/",
-      "select": null
+      "select": "body"
     }
   }
 }

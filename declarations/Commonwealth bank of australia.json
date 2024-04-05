@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.commbank.com.au/support/privacy.html?ei=CB-footer_privacy",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.commbank.com.au/important-info/cookies.html?ei=CB-footer_cookies",
-      "select": null
+      "select": "body"
     }
   }
 }

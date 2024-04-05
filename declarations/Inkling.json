@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://store.inkling.com/terms/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://store.inkling.com/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

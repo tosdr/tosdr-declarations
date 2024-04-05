@@ -7,7 +7,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://about.wallapop.com/en/cookies/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://about.wallapop.com/en/legal-terms-and-conditions/",

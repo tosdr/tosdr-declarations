@@ -7,15 +7,15 @@
     },
     "Copyright Claims Policy": {
       "fetch": "https://www.ssrn.com/index.cfm/en/dmca-notice-policy/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.elsevier.com/legal/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.ssrn.com/index.cfm/en/terms-of-use/",
-      "select": null
+      "select": "body"
     }
   }
 }

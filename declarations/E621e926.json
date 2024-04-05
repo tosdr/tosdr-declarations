@@ -7,7 +7,7 @@
     },
     "Review Guidelines": {
       "fetch": "https://e621.net/static/takedown",
-      "select": null
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://e621.net/wiki/show/e621:rules",

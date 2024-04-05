@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.tizen.org/about/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.tizen.org/about/terms-service",
-      "select": null
+      "select": "body"
     }
   }
 }

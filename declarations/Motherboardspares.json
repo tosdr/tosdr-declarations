@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://motherboardspares.com/en/privacy-and-cookie-notice.html",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://motherboardspares.com/en/terms.html",

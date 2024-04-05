@@ -11,7 +11,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.freepikcompany.com/cookie",
-      "select": null
+      "select": "body"
     }
   }
 }

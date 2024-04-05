@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://matomo.org/matomo-cloud-dpa/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://matomo.org/matomo-cloud-terms-of-service/",
-      "select": null
+      "select": "body"
     }
   }
 }

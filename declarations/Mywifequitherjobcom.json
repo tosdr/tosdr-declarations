@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://mywifequitherjob.com/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://mywifequitherjob.com/terms-of-service/",
-      "select": null
+      "select": "body"
     }
   }
 }

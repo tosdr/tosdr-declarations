@@ -11,7 +11,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://openai.com/policies/privacy-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

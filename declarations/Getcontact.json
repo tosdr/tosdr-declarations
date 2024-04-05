@@ -3,15 +3,15 @@
   "documents": {
     "Policy": {
       "fetch": "https://www.getcontact.com/purchases-policy",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.getcontact.com/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.getcontact.com/en/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

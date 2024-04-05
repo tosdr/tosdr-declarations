@@ -15,7 +15,7 @@
     },
     "Terms of Service": {
       "fetch": "https://issuu.com/legal/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

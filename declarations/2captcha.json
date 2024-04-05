@@ -3,7 +3,7 @@
   "documents": {
     "Policy": {
       "fetch": "https://2captcha.com/refund-and-payment-policy",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://2captcha.com/cookie_and_privacy_policy",

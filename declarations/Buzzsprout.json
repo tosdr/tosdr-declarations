@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.buzzsprout.com/tos",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.buzzsprout.com/privacy",
-      "select": null
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://www.buzzsprout.com/dmca",
-      "select": null
+      "select": "body"
     }
   }
 }

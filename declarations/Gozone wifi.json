@@ -11,7 +11,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.gozonewifi.com/terms/use/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.gozonewifi.com/policies/privacy/",

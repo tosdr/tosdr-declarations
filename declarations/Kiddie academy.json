@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://kiddieacademy.com/terms-conditions/",
-      "select": null
+      "select": "body"
     }
   }
 }

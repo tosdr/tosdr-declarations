@@ -3,11 +3,11 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://glimesh.tv/about/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://glimesh.tv/about/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

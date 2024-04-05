@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://fluids.ac.uk/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

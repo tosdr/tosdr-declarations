@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.lafcu.org/privacypolicies/privacy-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

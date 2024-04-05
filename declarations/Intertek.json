@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.intertek.com/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.intertek.com/cookie-policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.intertek.com/Website-Terms-Of-Use/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://speedtest.rtrace.io/#",
-      "select": null
+      "select": "body"
     },
     "Other": {
       "fetch": "https://blog.rtrace.io/impressum",

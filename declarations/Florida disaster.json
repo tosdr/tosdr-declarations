@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.floridadisaster.org/privacy.htm/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://iplogger.ru/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

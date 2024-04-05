@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.healthcare.gov/privacy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.healthcare.gov/terms-and-conditions/",
-      "select": null
+      "select": "body"
     }
   }
 }

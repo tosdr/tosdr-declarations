@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://racknerd.com/service-level-agreement",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.racknerd.com/privacy-policy",

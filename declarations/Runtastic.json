@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.runtastic.com/en/terms",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.runtastic.com/en/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://www.runtastic.com/en/community-guidelines",

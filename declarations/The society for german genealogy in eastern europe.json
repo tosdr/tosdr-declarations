@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.sggee.org/about_us/data_collection_guidelines.html",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.sggee.org/about_us/site_disclaimer.html",
-      "select": null
+      "select": "body"
     }
   }
 }

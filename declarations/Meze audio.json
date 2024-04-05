@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://mezeaudio.com/pages/terms",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://mezeaudio.com/pages/privacy",

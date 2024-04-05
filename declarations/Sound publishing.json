@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.soundpublishing.com/about/privacy-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

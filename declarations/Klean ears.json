@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://article.kleanears.com/terms-conditions",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://article.kleanears.com/privacy-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://fragnebenan.com/pages/terms-of-service",
-      "select": null
+      "select": "body"
     }
   }
 }

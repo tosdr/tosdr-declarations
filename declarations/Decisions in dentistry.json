@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://decisionsindentistry.com/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://decisionsindentistry.com/ce/refund-policy/",

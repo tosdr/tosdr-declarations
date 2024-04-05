@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://share.tube/about/instance#terms",
-      "select": null
+      "select": "body"
     }
   }
 }

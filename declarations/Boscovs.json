@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.boscovs.com/terms-conditions",
-      "select": null
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://help.boscovs.com/en_us/return-policy-HJnF96bK",
@@ -11,7 +11,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.boscovs.com/privacy-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

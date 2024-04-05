@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.mobilityworks.com/privacy-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

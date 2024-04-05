@@ -3,7 +3,7 @@
   "documents": {
     "General Conditions of Sale": {
       "fetch": "https://www.yubico.com/support/terms-conditions/yubico-license-agreement/",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.yubico.com/support/terms-conditions/privacy-notice/",

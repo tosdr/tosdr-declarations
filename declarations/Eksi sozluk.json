@@ -3,15 +3,15 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://eksisozluk.com/entry/65310835",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://eksisozluk.com/entry/66470645",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://eksisozluk.com/entry/19784395",
-      "select": null
+      "select": "body"
     }
   }
 }

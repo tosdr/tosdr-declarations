@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.browardschools.com/Domain/13935",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.browardschools.com/Domain/13932",

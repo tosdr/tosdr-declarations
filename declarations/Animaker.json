@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.animaker.com/terms-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

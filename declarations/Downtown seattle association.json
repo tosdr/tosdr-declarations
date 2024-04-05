@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://downtownseattle.org/terms-privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

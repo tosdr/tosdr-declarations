@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://buddho.org/privacy-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

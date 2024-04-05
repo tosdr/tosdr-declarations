@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://automattic.com/privacy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://wordpress.com/tos/",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://automattic.com/cookies/",

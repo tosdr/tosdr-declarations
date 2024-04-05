@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.upenn.edu/about/privacy-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

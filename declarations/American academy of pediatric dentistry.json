@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.aapd.org/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.aapd.org/terms-of-use/",
-      "select": null
+      "select": "body"
     }
   }
 }

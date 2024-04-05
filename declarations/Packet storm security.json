@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://packetstormsecurity.com/legal/privacy.html",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://packetstormsecurity.com/legal/tos.html",
-      "select": null
+      "select": "body"
     }
   }
 }

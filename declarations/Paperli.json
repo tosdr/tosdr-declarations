@@ -3,15 +3,15 @@
   "documents": {
     "Copyright Claims Policy": {
       "fetch": "https://paper.li/ip.html",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://paper.li/terms.html",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://paper.li/privacy.html",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -11,7 +11,7 @@
     },
     "Terms of Service": {
       "fetch": "https://senso.cloud/terms-service-tos/",
-      "select": null
+      "select": "body"
     }
   }
 }

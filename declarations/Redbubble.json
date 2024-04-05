@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.redbubble.com/agreement",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.redbubble.com/privacy",

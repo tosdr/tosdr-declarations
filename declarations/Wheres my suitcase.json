@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://wheresmysuitcase.com/Home/TermsOfService",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://wheresmysuitcase.com/Home/PrivacyPolicy",
-      "select": null
+      "select": "body"
     }
   }
 }

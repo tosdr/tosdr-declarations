@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.gaiaonline.com/info/legal/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.gaiaonline.com/info/legal/tos",
-      "select": null
+      "select": "body"
     }
   }
 }

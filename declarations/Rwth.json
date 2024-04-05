@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.rwth-aachen.de/cms/root/Footer/Services/~cesv/Datenschutzerklaerung/lidx/1/",
-      "select": null
+      "select": "body"
     }
   }
 }

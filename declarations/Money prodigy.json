@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.moneyprodigy.com/terms/",
-      "select": null
+      "select": "body"
     }
   }
 }

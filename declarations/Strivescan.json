@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.strivescan.com/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

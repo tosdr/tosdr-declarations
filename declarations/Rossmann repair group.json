@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://rossmanngroup.com/terms-and-conditions/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://rossmanngroup.com/privacy-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://grabcad.com/software_terms",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://grabcad.com/privacy_policy",
-      "select": null
+      "select": "body"
     }
   }
 }

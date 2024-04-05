@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.arte.tv/sites/corporate/en/general-conditions-of-use/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.arte.tv/sites/corporate/en/arte-and-your-personal-data/",
-      "select": null
+      "select": "body"
     }
   }
 }

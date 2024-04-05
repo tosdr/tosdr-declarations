@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.sanity.io/legal/privacy",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.sanity.io/security",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.sanity.io/legal/tos",
-      "select": null
+      "select": "body"
     }
   }
 }

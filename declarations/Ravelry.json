@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.ravelry.com/about/terms",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.ravelry.com/about/adterms",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.ravelry.com/about/privacy",
-      "select": null
+      "select": "body"
     }
   }
 }

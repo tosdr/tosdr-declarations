@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.ch.ch/en/legal/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.ch.ch/en/terms-and-conditions/",

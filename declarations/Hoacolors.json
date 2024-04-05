@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://hoa-colors.com/privacy_policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://hoa-colors.com/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

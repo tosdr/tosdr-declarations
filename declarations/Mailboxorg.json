@@ -7,7 +7,7 @@
     },
     "General Conditions of Sale": {
       "fetch": "https://mailbox.org/en/t-cs-cancellation-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

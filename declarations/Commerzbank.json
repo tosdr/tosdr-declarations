@@ -11,7 +11,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.commerzbank.de/portal/de/footer1/recht/rechtliche_hinweise.html",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.audacityteam.org/terms-of-service/",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.audacityteam.org/about/desktop-privacy-notice/",
-      "select": null
+      "select": "body"
     }
   }
 }

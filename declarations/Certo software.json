@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.certosoftware.com/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.certosoftware.com/terms-of-service/",
-      "select": null
+      "select": "body"
     }
   }
 }

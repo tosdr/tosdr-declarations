@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://visitsaudi.com/en/keep-in-touch-with-us/privacy-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

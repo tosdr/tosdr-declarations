@@ -3,7 +3,7 @@
   "documents": {
     "Acceptable Use Policy": {
       "fetch": "https://www.heroku.com/policy/aup",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.salesforce.com/company/privacy/",

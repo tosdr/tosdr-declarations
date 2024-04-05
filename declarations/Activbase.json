@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://activbase.net/DN/TermsAndConditions",
-      "select": null
+      "select": "body"
     }
   }
 }

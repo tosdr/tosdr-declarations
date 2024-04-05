@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.intel.com/content/www/us/en/privacy/intel-privacy-notice.html",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.intel.com/content/www/us/en/privacy/intel-cookie-notice.html",

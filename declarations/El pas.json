@@ -11,7 +11,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://elpais.com/politica-de-cookies/",
-      "select": null
+      "select": "body"
     }
   }
 }

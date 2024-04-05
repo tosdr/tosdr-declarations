@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.bitpanda.com/en/legal#privacy-payments",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.bitpanda.com/en/legal#terms",
-      "select": null
+      "select": "body"
     },
     "Vulnerability Disclosure Policy": {
       "fetch": "https://www.bitpanda.com/en/legal/bugbounty",
@@ -15,7 +15,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.bitpanda.com/en/legal#cookies",
-      "select": null
+      "select": "body"
     }
   }
 }

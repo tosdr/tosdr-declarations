@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.criteo.com/privacy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.criteo.com/wp-content/uploads/2022/03/Criteo-Terms_Display_02.21.22_EN.pdf",

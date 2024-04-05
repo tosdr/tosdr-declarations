@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://nypost.com/terms/",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://nypost.com/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

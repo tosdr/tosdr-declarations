@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://magicalbutter.com/policies/terms-of-service",
-      "select": null
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://magicalbutter.com/policies/refund-policy",

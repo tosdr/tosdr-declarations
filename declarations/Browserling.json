@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.browserling.com/terms-of-service",
-      "select": null
+      "select": "body"
     }
   }
 }

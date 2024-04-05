@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://fmbc.us/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://fmbc.us/terms-conditions/",
-      "select": null
+      "select": "body"
     }
   }
 }

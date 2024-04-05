@@ -11,7 +11,7 @@
     },
     "Terms of Service": {
       "fetch": "https://tryst.link/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

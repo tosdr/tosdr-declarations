@@ -7,11 +7,11 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.hackster.io/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.hackster.io/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

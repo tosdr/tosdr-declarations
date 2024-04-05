@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.unz.com/page/terms-of-service/",
-      "select": null
+      "select": "body"
     }
   }
 }

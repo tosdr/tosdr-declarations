@@ -7,11 +7,11 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.tempurpedic.com/customer-service/privacy-policy-general/",
-      "select": null
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://www.tempurpedic.com/customer-service/return-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.amyporterfield.com/terms-and-conditions/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://papermc.io/forums/tos",
-      "select": null
+      "select": "body"
     }
   }
 }

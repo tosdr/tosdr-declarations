@@ -3,7 +3,7 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://www.movementdisorders.org/MDS/About/MDS-Policies/Privacy-Notice.htm",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.movementdisorders.org/MDS/Cookie-Policy.htm ",

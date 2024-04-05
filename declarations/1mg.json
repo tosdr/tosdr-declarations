@@ -3,11 +3,11 @@
   "documents": {
     "Copyright Claims Policy": {
       "fetch": "https://www.1mg.com/ip-policy",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.1mg.com/PrivacyPolicy",
-      "select": null
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://www.1mg.com/return-policy",

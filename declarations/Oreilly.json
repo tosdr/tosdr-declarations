@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.oreilly.com/terms/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.oreilly.com/privacy.html",
-      "select": null
+      "select": "body"
     }
   }
 }

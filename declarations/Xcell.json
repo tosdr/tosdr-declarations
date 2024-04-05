@@ -11,7 +11,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.xcellme.com/terms-and-conditions/",
-      "select": null
+      "select": "body"
     }
   }
 }

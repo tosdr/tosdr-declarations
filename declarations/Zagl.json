@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://za.gl/pages/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://za.gl/pages/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -11,7 +11,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://technote.ai/cookie-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

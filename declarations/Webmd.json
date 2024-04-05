@@ -7,7 +7,7 @@
     },
     "Quality Guidelines": {
       "fetch": "https://www.webmd.com/about-webmd-policies/webmd-corrections-policies",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.webmd.com/about-webmd-policies/about-editorial-policy",
@@ -15,7 +15,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.webmd.com/about-webmd-policies/cookie-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

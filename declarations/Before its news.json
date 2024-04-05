@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://beforeitsnews.com/v3/privacy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://beforeitsnews.com/v3/terms/",
-      "select": null
+      "select": "body"
     }
   }
 }

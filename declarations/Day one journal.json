@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://dayoneapp.com/terms-of-use/",
-      "select": null
+      "select": "body"
     }
   }
 }

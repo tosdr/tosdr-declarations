@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://vice-web-statics-cdn.vice.com/privacy-policy/en_us/page/terms-of-use.html",
-      "select": null
+      "select": "body"
     }
   }
 }

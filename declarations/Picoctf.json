@@ -3,11 +3,11 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://picoctf.org/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://picoctf.org/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

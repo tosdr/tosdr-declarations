@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://global.oup.com/privacy_info?cc=mt",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://global.oup.com/cookiepolicy/?cc=mt",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://global.oup.com/legal?cc=mt",

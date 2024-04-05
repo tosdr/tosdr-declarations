@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.yodatavpn.com/terms-and-conditions",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.yodatavpn.com/privacy-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.airarabia.com/en/air-rewards-terms-conditions",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.airarabia.com/en/cookie-policy",

@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "Terms Of Service",
-      "select": null
+      "select": "body"
     }
   }
 }

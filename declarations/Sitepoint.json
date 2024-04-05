@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.sitepoint.com/legals",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.sitepoint.com/privacy-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

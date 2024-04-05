@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://authorea.com/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

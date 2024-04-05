@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.wordreference.com/english/TermsOfService.aspx?dict=enes",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://forum.wordreference.com/help/cookies/",

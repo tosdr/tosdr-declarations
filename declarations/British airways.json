@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.britishairways.com/en-ca/information/legal/website-security",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.britishairways.com/en-ca/information/legal/website-terms-conditions",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.britishairways.com/en-ca/information/legal/cookies",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.rev.com/about/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

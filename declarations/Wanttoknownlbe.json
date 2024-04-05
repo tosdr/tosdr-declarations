@@ -11,7 +11,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.wanttoknow.nl/cookies-op-wanttoknow/",
-      "select": null
+      "select": "body"
     }
   }
 }

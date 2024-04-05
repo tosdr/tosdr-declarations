@@ -11,7 +11,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.redventures.com/legal/cookie-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

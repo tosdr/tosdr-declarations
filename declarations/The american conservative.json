@@ -7,7 +7,7 @@
     },
     "Community Guidelines": {
       "fetch": "https://www.theamericanconservative.com/comments-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

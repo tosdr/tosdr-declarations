@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://cleancutbath.com/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://cleancutbath.com/terms-of-use/",
-      "select": null
+      "select": "body"
     }
   }
 }

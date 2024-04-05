@@ -7,7 +7,7 @@
     },
     "Legal Information": {
       "fetch": "https://techpp.com/about/disclaimer/",
-      "select": null
+      "select": "body"
     }
   }
 }

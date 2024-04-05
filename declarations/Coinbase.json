@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.coinbase.com/legal/user_agreement",
-      "select": null
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://www.coinbase.com/legal/trading_rules",

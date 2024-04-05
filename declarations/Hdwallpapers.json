@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.hdwallpapers.in/privacy.html",
-      "select": null
+      "select": "body"
     }
   }
 }

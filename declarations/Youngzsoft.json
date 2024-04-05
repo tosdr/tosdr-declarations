@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.youngzsoft.net/terms.htm",
-      "select": null
+      "select": "body"
     }
   }
 }

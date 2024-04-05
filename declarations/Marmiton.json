@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.marmiton.org/sp/aide/politque-de-protection-des-donnees-personnelles.html",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.marmiton.org/sp/aide/conditions-generales-utilisation.html",

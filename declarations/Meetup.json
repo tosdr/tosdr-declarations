@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.meetup.com/privacy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.meetup.com/terms/",
@@ -11,7 +11,7 @@
     },
     "Copyright Claims Policy": {
       "fetch": "https://help.meetup.com/hc/en-us/articles/360001674451-Intellectual-Property-Dispute-Policies",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.meetup.com/cookie_policy/",

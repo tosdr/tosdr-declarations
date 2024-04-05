@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://about.urbandictionary.com/tos",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://about.urbandictionary.com/privacy",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://aimlab.gg/tos/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://aimlab.gg/privacypolicy/",
-      "select": null
+      "select": "body"
     }
   }
 }

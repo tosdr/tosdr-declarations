@@ -7,11 +7,11 @@
     },
     "Privacy Policy": {
       "fetch": "https://network.uktv.co.uk/article/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://network.uktv.co.uk/article/cookie-notice/",
-      "select": null
+      "select": "body"
     }
   }
 }

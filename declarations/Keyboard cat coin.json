@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://keyboardcatcoin.com/privacy",
-      "select": null
+      "select": "body"
     }
   }
 }

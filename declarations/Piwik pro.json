@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://piwik.pro/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://piwik.pro/cloud-sla/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.breatheright.com/terms-of-use",
-      "select": null
+      "select": "body"
     }
   }
 }

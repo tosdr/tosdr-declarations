@@ -7,11 +7,11 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.offensive-security.com/legal-docs/#privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.offensive-security.com/legal-docs/",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.offensive-security.com/cookie-policy/",

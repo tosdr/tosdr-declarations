@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://chequered.ink/privacy-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

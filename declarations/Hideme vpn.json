@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://hide.me/en/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://hide.me/en/legal",
-      "select": null
+      "select": "body"
     }
   }
 }

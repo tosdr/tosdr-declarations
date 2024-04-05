@@ -7,7 +7,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://smokesupplies.nl/important-docs/",
-      "select": null
+      "select": "body"
     }
   }
 }

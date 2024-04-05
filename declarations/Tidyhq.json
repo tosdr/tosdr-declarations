@@ -3,7 +3,7 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.tidyhq.com/cookie-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.tidyhq.com/terms-of-service",
@@ -11,7 +11,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.tidyhq.com/privacy",
-      "select": null
+      "select": "body"
     }
   }
 }

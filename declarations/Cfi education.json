@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://corporatefinanceinstitute.com/about-cfi/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://corporatefinanceinstitute.com/about-cfi/copyright-trademark-notice/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://corporatefinanceinstitute.com/about-cfi/website-terms-of-use/",
-      "select": null
+      "select": "body"
     }
   }
 }

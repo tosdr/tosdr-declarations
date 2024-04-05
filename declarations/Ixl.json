@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.ixl.com/privacypolicy/serviceprivacypolicy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.ixl.com/termsofservice",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,11 +3,11 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.one.com/en/info/cookie-policy",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.one.com/static/info-privacy-notice.do",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.one.com/en/terms-and-conditions-usd",

@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.tellwut.com/terms-and-conditions",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.tellwut.com/privacy_policy",
-      "select": null
+      "select": "body"
     }
   }
 }

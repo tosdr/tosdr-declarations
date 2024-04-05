@@ -3,7 +3,7 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://edition.cnn.com/privacy0?no-st=9999999999",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://edition.cnn.com/terms",

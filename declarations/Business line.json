@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.thehindubusinessline.com/privacypolicy/",
-      "select": null
+      "select": "body"
     }
   }
 }

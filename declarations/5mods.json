@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.gta5-mods.com/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.gta5-mods.com/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

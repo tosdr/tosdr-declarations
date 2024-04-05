@@ -11,7 +11,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.bosu.com/policies/terms-of-service",
-      "select": null
+      "select": "body"
     }
   }
 }

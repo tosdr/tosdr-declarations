@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://nmsu.edu/privacy/index.html",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://artofproblemsolving.com/company/tos",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://artofproblemsolving.com/company/privacy",
-      "select": null
+      "select": "body"
     }
   }
 }

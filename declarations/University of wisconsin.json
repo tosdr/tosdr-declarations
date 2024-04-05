@@ -3,7 +3,7 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://www.wisc.edu/privacy-notice/",
-      "select": null
+      "select": "body"
     }
   }
 }

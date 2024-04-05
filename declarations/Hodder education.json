@@ -3,7 +3,7 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://www.hoddereducation.com/privacynotice",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.hoddereducation.com/use-of-cookies",

@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://qwikad.com/0?view=page&pagename=privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://qwikad.com/0?view=page&pagename=terms",
-      "select": null
+      "select": "body"
     }
   }
 }

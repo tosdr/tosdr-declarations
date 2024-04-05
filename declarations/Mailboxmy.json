@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.mailbox.my/legal.html?tab=privacypolicy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.mailbox.my/legal.html?tab=termsofuse",

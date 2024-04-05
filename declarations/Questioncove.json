@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://questioncove.com/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://questioncove.com/rules",
-      "select": null
+      "select": "body"
     },
     "Frequently Asked Questions": {
       "fetch": "https://questioncove.com/faq",
-      "select": null
+      "select": "body"
     }
   }
 }

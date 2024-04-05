@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://stibarc.com/privacy.html",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://stibarc.com/tos.html",
-      "select": null
+      "select": "body"
     }
   }
 }

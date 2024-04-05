@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://osdn.net/tos.php",
-      "select": null
+      "select": "body"
     }
   }
 }

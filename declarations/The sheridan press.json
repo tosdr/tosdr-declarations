@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.thesheridanpress.com/site/terms.html",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.thesheridanpress.com/site/privacy.html",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.nationstates.net/page=privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.nationstates.net/page=legal",
-      "select": null
+      "select": "body"
     }
   }
 }

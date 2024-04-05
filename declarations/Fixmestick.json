@@ -11,7 +11,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.fixmestick.com/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

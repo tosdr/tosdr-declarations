@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://thishosting.rocks/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://thishosting.rocks/tos/",
-      "select": null
+      "select": "body"
     }
   }
 }

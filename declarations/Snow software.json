@@ -3,15 +3,15 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.snowsoftware.com/legal/cookie-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.snowsoftware.com/legal/termsofuse",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.snowsoftware.com/seo/legal-privacy-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

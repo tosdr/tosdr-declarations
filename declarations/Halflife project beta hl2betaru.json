@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://hl2-beta.ru/index.php?action=agreement",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.moncontroletechnique.fr/conditions-generales-dutilisation",
-      "select": null
+      "select": "body"
     }
   }
 }

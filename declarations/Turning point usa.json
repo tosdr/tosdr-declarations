@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.tpusa.com/privacypolicy",
-      "select": null
+      "select": "body"
     }
   }
 }

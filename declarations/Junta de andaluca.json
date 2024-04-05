@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.juntadeandalucia.es/protecciondedatos.html",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.juntadeandalucia.es/informacion/legal.html",

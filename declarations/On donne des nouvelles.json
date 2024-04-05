@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.ondonnedesnouvelles.com/rgpd.html?t=1559589103#introduction",
-      "select": null
+      "select": "body"
     },
     "Other": {
       "fetch": "https://www.ondonnedesnouvelles.com/rgpd.html?t=1559589103#privacyPolicy",
-      "select": null
+      "select": "body"
     }
   }
 }

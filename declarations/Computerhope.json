@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.computerhope.com/legal.htm",
-      "select": null
+      "select": "body"
     }
   }
 }

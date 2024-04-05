@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://fógraí.ie/terms-of-sale",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://xn--fgra-ypa6a.ie/cookie-policy",

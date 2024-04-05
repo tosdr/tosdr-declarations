@@ -11,7 +11,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.pewresearch.org/about/cookie-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

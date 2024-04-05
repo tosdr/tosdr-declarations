@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.chiefdelphi.com/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.chiefdelphi.com/tos",
-      "select": null
+      "select": "body"
     }
   }
 }

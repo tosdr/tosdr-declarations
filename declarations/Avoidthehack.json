@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://avoidthehack.com/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://avoidthehack.com/cookies",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://avoidthehack.com/tos",

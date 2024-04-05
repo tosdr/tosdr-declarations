@@ -11,7 +11,7 @@
     },
     "Corporate Social Responsibility": {
       "fetch": "https://blog.mozilla.org/inclusion/mozilla-workplace-transition-policy-guidelines/?utm_medium=email&utm_source=email&utm_campaign=2019moznews-en&utm_content=042919",
-      "select": null
+      "select": "body"
     }
   }
 }

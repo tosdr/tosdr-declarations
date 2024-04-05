@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://briarproject.org/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Other": {
       "fetch": "https://briarproject.org/governance/",
-      "select": null
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://briarproject.org/copyright/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,23 +3,23 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.greenhouse.com/data-processing-addendum",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.greenhouse.com/cookie-notice",
-      "select": null
+      "select": "body"
     },
     "Other": {
       "fetch": "https://www.greenhouse.com/professional-services-addendum",
-      "select": null
+      "select": "body"
     },
     "Data Processor Agreement": {
       "fetch": "https://www.greenhouse.com/subprocessors-in-use",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.greenhouse.com/service-level-agreement",
-      "select": null
+      "select": "body"
     }
   }
 }

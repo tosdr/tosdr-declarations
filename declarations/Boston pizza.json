@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://bostonpizza.com/en/privacy-policy.html",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://bostonpizza.com/en/legal-disclaimer.html",
-      "select": null
+      "select": "body"
     }
   }
 }

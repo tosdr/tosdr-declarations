@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://improvingliteracy.org/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://improvingliteracy.org/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

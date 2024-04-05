@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://healthydebate.ca/privacy-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

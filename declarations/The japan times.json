@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.japantimes.co.jp/about-us/privacy/",
-      "select": null
+      "select": "body"
     },
     "Affiliate Disclosure": {
       "fetch": "https://www.japantimes.co.jp/about-us/link-policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://members.japantimes.co.jp/tos/digital-e/",
-      "select": null
+      "select": "body"
     }
   }
 }

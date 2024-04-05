@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://dudepins.com/wpautoterms/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://dudepins.com/wpautoterms/terms-and-conditions/",
-      "select": null
+      "select": "body"
     }
   }
 }

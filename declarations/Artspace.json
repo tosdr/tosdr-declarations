@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.artspace.com/privacy_policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.artspace.com/legal",
-      "select": null
+      "select": "body"
     }
   }
 }
