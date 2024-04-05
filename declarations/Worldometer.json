@@ -6,7 +6,7 @@
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "//body",
+      "fetch": "https://www.worldometers.info/disclaimer/",
       "select": "body"
     }
   }

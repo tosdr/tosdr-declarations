@@ -2,7 +2,7 @@
   "name": "Le vpn",
   "documents": {
     "Privacy Policy": {
-      "fetch": "//body",
+      "fetch": "https://le-vpn.com/clients/knowledgebase.php?action=displayarticle&id=82&language=english",
       "select": "html > body > div:first-of-type > div:nth-of-type(3) > main > div > div > div > div:nth-of-type(2)"
     }
   }
