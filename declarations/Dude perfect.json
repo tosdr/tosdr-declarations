@@ -7,7 +7,7 @@
     },
     "General Conditions of Sale": {
       "fetch": "https://dudeperfect.store/pages/free-returns",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://dudeperfect.store/policies/terms-of-service",

@@ -3,15 +3,15 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://www.yellowpages.com/about/legal",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.yellowpages.com/about/legal/terms-conditions-yahoo-yp",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.yellowpages.com/about/legal/terms-conditions?re=yp",
-      "select": null
+      "select": "body"
     }
   }
 }

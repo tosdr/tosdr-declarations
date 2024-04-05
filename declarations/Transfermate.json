@@ -3,19 +3,19 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://transfermate.io/en/cookies_info.asp",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://transfermate.io/en/us_terms",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://transfermate.io/en/privacy_statement.html",
-      "select": null
+      "select": "body"
     },
     "Corporate Social Responsibility": {
       "fetch": "https://transfermate.io/en/anti_money_laundering_policy.html",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://online.kitco.com/legal/terms-and-conditions/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://online.kitco.com/legal/privacy-policy/",

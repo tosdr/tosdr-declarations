@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://home.treasury.gov/subfooter/privacy-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

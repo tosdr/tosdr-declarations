@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.equifax.com/privacy/privacy-statement/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.equifax.com/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://de.iherb.com/info/terms-of-use",
-      "select": null
+      "select": "body"
     }
   }
 }

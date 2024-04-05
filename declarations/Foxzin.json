@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "http://foxzin.com/privacy",
-      "select": null
+      "select": "body"
     }
   }
 }

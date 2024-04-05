@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.lipower.org/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

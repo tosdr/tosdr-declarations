@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.pcisecuritystandards.org/privacy",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://isthereanydeal.com/legal/privacy/",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://isthereanydeal.com/legal/cookies/",
-      "select": null
+      "select": "body"
     }
   }
 }

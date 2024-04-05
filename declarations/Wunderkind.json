@@ -2,7 +2,7 @@
   "name": "Wunderkind",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.wunderkind.co/privacy/ ",
+      "fetch": "https://www.wunderkind.co/privacy/",
       "select": "body"
     },
     "Terms of Service": {

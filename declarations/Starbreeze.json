@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.starbreeze.com/privacy-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.creditkarma.com/about/privacy-ca-20200101",
-      "select": null
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://www.creditkarma.com/about/rules",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.creditkarma.com/about/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

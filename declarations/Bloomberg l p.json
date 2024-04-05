@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.bloomberg.com/notices/tos/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.bloomberg.com/notices/privacy/",

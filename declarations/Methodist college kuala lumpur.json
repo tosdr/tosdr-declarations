@@ -11,7 +11,7 @@
     },
     "Terms of Service": {
       "fetch": "https://mckl.edu.my/website-terms-and-conditions/",
-      "select": null
+      "select": "body"
     }
   }
 }

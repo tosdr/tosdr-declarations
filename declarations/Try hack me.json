@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.tryhackme.com/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

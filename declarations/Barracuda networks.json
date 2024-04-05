@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.barracuda.com/company/legal/trust-center/data-privacy/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.barracuda.com/company/legal/prd_trm",

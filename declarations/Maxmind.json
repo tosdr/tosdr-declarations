@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.maxmind.com/en/end-user-license-agreement",
-      "select": null
+      "select": "body"
     }
   }
 }

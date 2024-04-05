@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www2.ed.gov/notices/privacy/index.html?src=ft",
-      "select": null
+      "select": "body"
     }
   }
 }

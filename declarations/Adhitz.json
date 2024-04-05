@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.adhitz.com/en/User_Agreement",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.adhitz.com/en/Privacy_Policy",
-      "select": null
+      "select": "body"
     }
   }
 }

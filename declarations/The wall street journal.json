@@ -7,11 +7,11 @@
     },
     "Legal Information": {
       "fetch": "https://www.dowjones.com/notice-ca-residents/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.wsj.com/policy/additional-terms-conditions",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.wsj.com/policy/data-policy",
@@ -19,7 +19,7 @@
     },
     "Copyright Claims Policy": {
       "fetch": "https://www.wsj.com/policy/copyright-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://kahoot.com/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://kahoot.com/terms-and-conditions/",
-      "select": null
+      "select": "body"
     }
   }
 }

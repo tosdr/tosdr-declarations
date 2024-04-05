@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://nlnet.nl/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

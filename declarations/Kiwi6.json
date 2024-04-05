@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://kiwi6.com/pages/tos",
-      "select": null
+      "select": "body"
     },
     "Acceptable Use Policy": {
       "fetch": "https://kiwi6.com/pages/aup",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://burningman.org/year-round-terms-and-conditions/",
-      "select": null
+      "select": "body"
     },
     "Developer Terms": {
       "fetch": "https://innovate.burningman.org/terms-of-service-for-burning-man-apis-and-datasets/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://burningman.org/privacy-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

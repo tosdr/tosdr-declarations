@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.bullionbypost.co.uk/info/privacy/",
-      "select": null
+      "select": "body"
     },
     "Acceptable Use Policy": {
       "fetch": "https://www.bullionbypost.co.uk/info/acceptable-use/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.bullionbypost.co.uk/info/terms-and-conditions/",
-      "select": null
+      "select": "body"
     }
   }
 }

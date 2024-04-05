@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://netzpolitik.org/datenschutz/",
-      "select": null
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://netzpolitik.org/kommentare/",
-      "select": null
+      "select": "body"
     }
   }
 }

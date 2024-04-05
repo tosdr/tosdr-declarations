@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.cyberghostvpn.com/en_US/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

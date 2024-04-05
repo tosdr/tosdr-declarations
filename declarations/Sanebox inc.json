@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.sanebox.com/security",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.sanebox.com/tos",

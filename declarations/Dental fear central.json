@@ -3,11 +3,11 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.dentalfearcentral.org/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.dentalfearcentral.org/disclaimer/",
-      "select": null
+      "select": "body"
     }
   }
 }

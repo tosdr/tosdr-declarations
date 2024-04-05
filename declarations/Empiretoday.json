@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.empiretoday.com/about-empire/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.empiretoday.com/about-empire/terms-of-use",

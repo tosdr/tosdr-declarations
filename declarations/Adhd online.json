@@ -7,7 +7,7 @@
     },
     "Legal Information": {
       "fetch": "https://adhdonline.com/notice-of-privacy-practices/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://adhdonline.com/privacy-policy/",

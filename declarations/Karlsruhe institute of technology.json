@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://secuso.aifb.kit.edu/english/1456.php",
-      "select": null
+      "select": "body"
     }
   }
 }

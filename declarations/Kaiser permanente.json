@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://healthy.kaiserpermanente.org/termsconditions",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://healthy.kaiserpermanente.org/privacy",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://healthy.kaiserpermanente.org/georgia/privacy-practices",

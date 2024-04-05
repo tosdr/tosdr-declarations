@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.appstate.edu/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

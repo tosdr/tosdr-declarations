@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.s-config.com/faq/",
-      "select": null
+      "select": "body"
     }
   }
 }

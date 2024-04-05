@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://linuxbuz.com/terms-and-conditions",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://linuxbuz.com/privacy-policy",

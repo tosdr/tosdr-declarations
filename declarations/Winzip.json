@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.winzip.com/win/en/privacy.html",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.winzip.com/win/en/tou.html",
@@ -11,7 +11,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.winzip.com/win/en/cookies.html",
-      "select": null
+      "select": "body"
     }
   }
 }

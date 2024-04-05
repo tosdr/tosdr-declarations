@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://asana.com/terms",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://asana.com/terms#privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://asana.com/terms#cookies-notice",
-      "select": null
+      "select": "body"
     }
   }
 }

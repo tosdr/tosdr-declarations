@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://weatherwidget.io/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://weatherwidget.io/terms/",
-      "select": null
+      "select": "body"
     }
   }
 }

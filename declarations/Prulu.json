@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://prulu.com/privacy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://prulu.com/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

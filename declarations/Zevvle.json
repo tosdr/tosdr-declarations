@@ -3,11 +3,11 @@
   "documents": {
     "Policy": {
       "fetch": "https://zevvle.com/biscuits",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://zevvle.com/privacy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://zevvle.com/terms",

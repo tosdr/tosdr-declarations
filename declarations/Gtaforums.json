@@ -2,7 +2,7 @@
   "name": "Gtaforums",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://gtaforums.com/terms/ ",
+      "fetch": "https://gtaforums.com/terms/",
       "select": "body"
     },
     "Privacy Policy": {

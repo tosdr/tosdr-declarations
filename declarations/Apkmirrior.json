@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.apkmirror.com/apkmirror-com-privacy-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.peoplestrust.com/en/legal/privacy-security/privacy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.peoplestrust.com/en/legal/website-use/",

@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.microcenter.com/site/customer-support/privacy_policy.aspx",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.microcenter.com/site/customer-support/terms-conditions-sale.aspx",
-      "select": null
+      "select": "body"
     }
   }
 }

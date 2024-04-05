@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://bibleask.org/terms-of-use/",
-      "select": null
+      "select": "body"
     }
   }
 }

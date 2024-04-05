@@ -2,7 +2,7 @@
   "name": "Brownforman",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://legal.brown-forman.com/privacy-policy/english ",
+      "fetch": "https://legal.brown-forman.com/privacy-policy/english",
       "select": "body"
     },
     "Trackers Policy": {

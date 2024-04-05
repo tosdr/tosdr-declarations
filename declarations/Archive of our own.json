@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://archiveofourown.org/tos",
-      "select": null
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://archiveofourown.org/dmca",

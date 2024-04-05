@@ -11,7 +11,7 @@
     },
     "Legal Information": {
       "fetch": "https://www.getrentback.org/copyright%20notice.html",
-      "select": null
+      "select": "body"
     }
   }
 }

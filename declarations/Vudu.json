@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.vudu.com/content/termsofservice.html",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.vudu.com/content/privacypolicy.html",
-      "select": null
+      "select": "body"
     }
   }
 }

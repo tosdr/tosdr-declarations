@@ -15,7 +15,7 @@
     },
     "Policy": {
       "fetch": "https://support.audiogon.com/hc/en-us/articles/360017799751-Flagging-Policy",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -7,11 +7,11 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.alcatelmobile.com/cookie-policy",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.alcatelmobile.com/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

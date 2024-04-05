@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://family-album.com/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

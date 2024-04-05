@@ -3,15 +3,15 @@
   "documents": {
     "Legal Information": {
       "fetch": "http://www.lifecarehll.com/page/render/reference/Disclaimer_88056",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "http://www.lifecarehll.com/page/render/reference/Privacy_Policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "http://www.lifecarehll.com/page/render/reference/Terms_Of_Use",
-      "select": null
+      "select": "body"
     }
   }
 }

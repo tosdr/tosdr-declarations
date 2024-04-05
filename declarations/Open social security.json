@@ -2,7 +2,7 @@
   "name": "Open social security",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://opensocialsecurity.com/legal ",
+      "fetch": "https://opensocialsecurity.com/legal",
       "select": "body"
     }
   }

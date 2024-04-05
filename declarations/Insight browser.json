@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://insightbrowser.com/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://insightbrowser.com/terms",

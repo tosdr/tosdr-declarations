@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://mybrightwheel.com/terms/",
-      "select": null
+      "select": "body"
     }
   }
 }

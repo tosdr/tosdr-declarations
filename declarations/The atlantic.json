@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.theatlantic.com/terms-and-conditions/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.theatlantic.com/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Vulnerability Disclosure Policy": {
       "fetch": "https://www.theatlantic.com/responsible-disclosure-policy/",

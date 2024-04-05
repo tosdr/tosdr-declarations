@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.visible.com/legal/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

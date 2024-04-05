@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.cox.com/aboutus/policies/customer-service-agreement.html",
-      "select": null
+      "select": "body"
     }
   }
 }

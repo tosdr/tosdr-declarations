@@ -2,7 +2,7 @@
   "name": "Steganos software gmbh",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.steganos.com/en/privacy-policy ",
+      "fetch": "https://www.steganos.com/en/privacy-policy",
       "select": "body"
     },
     "Terms of Service": {

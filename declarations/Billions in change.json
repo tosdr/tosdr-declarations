@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://billionsinchange.com/terms/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://billionsinchange.com/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

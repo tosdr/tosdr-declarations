@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://wiki.osmfoundation.org/wiki/Terms_of_Use",
-      "select": null
+      "select": "body"
     }
   }
 }

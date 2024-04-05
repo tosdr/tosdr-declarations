@@ -2,11 +2,11 @@
   "name": "5play",
   "documents": {
     "Copyright Claims Policy": {
-      "fetch": "https://5play.org/en/disclaimer.html ",
+      "fetch": "https://5play.org/en/disclaimer.html",
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "https://5play.org/en/copyright.html ",
+      "fetch": "https://5play.org/en/copyright.html",
       "select": "body"
     },
     "Privacy Policy": {

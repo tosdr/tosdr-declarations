@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.bhsubookstore.com/site_terms_of_use.asp?",
-      "select": null
+      "select": "body"
     }
   }
 }

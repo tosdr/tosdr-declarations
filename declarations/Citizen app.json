@@ -7,7 +7,7 @@
     },
     "Law Enforcement Guidelines": {
       "fetch": "https://citizen.com/privacy/lawenforcement",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://hbr.org/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://hbr.org/corporate/cookie-policy",

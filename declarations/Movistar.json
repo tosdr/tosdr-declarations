@@ -11,7 +11,7 @@
     },
     "Corporate Social Responsibility": {
       "fetch": "https://www.movistar.es/particulares/centro-de-seguridad",
-      "select": null
+      "select": "body"
     }
   }
 }

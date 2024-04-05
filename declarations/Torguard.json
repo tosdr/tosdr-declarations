@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://torguard.net/privacy.php",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://torguard.net/terms.php",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://torguard.net/export.php",
@@ -15,7 +15,7 @@
     },
     "Copyright Claims Policy": {
       "fetch": "https://torguard.net/dmca.php",
-      "select": null
+      "select": "body"
     }
   }
 }

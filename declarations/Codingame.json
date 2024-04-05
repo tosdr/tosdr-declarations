@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.codingame.com/legal/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.codingame.com/legal/cookies-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

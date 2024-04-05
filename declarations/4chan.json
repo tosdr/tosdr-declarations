@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://4chan.org/rules",
-      "select": null
+      "select": "body"
     }
   }
 }

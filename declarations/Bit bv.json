@@ -3,35 +3,35 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.bit.nl/nl/over-bit/wetten-en-regels/avg",
-      "select": null
+      "select": "body"
     },
     "Service Level Agreement": {
       "fetch": "https://www.bit.nl/nl/over-bit/voorwaarden-en-policies/sla-addendum-colocatie-bit-2",
-      "select": null
+      "select": "body"
     },
     "Acceptable Use Policy": {
       "fetch": "https://www.bit.nl/nl/over-bit/voorwaarden-en-policies/acceptable-use-policy",
-      "select": null
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://www.bit.nl/nl/over-bit/voorwaarden-en-policies/algemene-verkoop-en-leveringsvoorwaarden",
-      "select": null
+      "select": "body"
     },
     "Vulnerability Disclosure Policy": {
       "fetch": "https://www.bit.nl/nl/over-bit/voorwaarden-en-policies/responsible-disclosure",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.bit.nl/nl/over-bit/voorwaarden-en-policies/abuse-policy",
-      "select": null
+      "select": "body"
     },
     "Other": {
       "fetch": "https://www.bit.nl/nl/over-bit/wetten-en-regels",
-      "select": null
+      "select": "body"
     },
     "Corporate Social Responsibility": {
       "fetch": "https://www.bit.nl/nl/over-bit/voorwaarden-en-policies/transparantierapport",
-      "select": null
+      "select": "body"
     }
   }
 }

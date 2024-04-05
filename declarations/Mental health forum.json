@@ -6,7 +6,7 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://www.mentalhealthforum.net/privacy/ ",
+      "fetch": "https://www.mentalhealthforum.net/privacy/",
       "select": "body"
     }
   }

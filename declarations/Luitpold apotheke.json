@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.medikamente-per-klick.de/renderFContent?attachmentId=313",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.medikamente-per-klick.de/renderFContent?attachmentId=317",
-      "select": null
+      "select": "body"
     }
   }
 }

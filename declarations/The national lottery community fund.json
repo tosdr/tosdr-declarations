@@ -2,7 +2,7 @@
   "name": "The national lottery community fund",
   "documents": {
     "Trackers Policy": {
-      "fetch": "https://www.tnlcommunityfund.org.uk/about/customer-service/cookies ",
+      "fetch": "https://www.tnlcommunityfund.org.uk/about/customer-service/cookies",
       "select": "body"
     },
     "Legal Information": {

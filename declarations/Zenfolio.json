@@ -3,19 +3,19 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://zenfolio.com/cookies",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://zenfolio.com/termsofuse",
-      "select": null
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://zenfolio.com/copyright",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://zenfolio.com/privacypolicy",
-      "select": null
+      "select": "body"
     }
   }
 }

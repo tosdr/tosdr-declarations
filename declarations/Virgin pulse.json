@@ -11,7 +11,7 @@
     },
     "Legal Information": {
       "fetch": "https://www.virginpulse.com/privacy-notice/",
-      "select": null
+      "select": "body"
     }
   }
 }

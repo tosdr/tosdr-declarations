@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.amd.com/en/corporate/privacy",
-      "select": null
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://www.amd.com/en/corporate/dmca-notice",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.amd.com/en/corporate/cookies",

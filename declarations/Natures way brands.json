@@ -2,7 +2,7 @@
   "name": "Natures way brands",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://naturesway.com/pages/legal ",
+      "fetch": "https://naturesway.com/pages/legal",
       "select": "body"
     },
     "Terms of Service": {

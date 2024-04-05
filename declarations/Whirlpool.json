@@ -7,7 +7,7 @@
     },
     "Legal Information": {
       "fetch": "https://www.whirlpoolcorp.com/legal-notice/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://summertimesaga.com/privacy",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://mathigon.org/policies#privacy",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://mathigon.org/policies#cookies",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://mathigon.org/policies#terms",
-      "select": null
+      "select": "body"
     }
   }
 }

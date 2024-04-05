@@ -2,7 +2,7 @@
   "name": "Ipinfoio",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://ipinfo.io/privacy-policy ",
+      "fetch": "https://ipinfo.io/privacy-policy",
       "select": "body"
     },
     "Terms of Service": {

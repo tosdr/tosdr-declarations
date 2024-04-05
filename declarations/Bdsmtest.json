@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://bdsmtest.org/privacy",
-      "select": null
+      "select": "body"
     }
   }
 }

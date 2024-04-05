@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://bloosurf.com/privacy-statement",
-      "select": null
+      "select": "body"
     }
   }
 }

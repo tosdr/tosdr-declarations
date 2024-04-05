@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://extremereach.com/privacy-policies/",
-      "select": null
+      "select": "body"
     }
   }
 }

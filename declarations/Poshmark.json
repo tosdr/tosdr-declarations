@@ -7,7 +7,7 @@
     },
     "Copyright Claims Policy": {
       "fetch": "https://poshmark.com/copyright",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://poshmark.com/terms",

@@ -3,7 +3,7 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://encyclopediadramatica.wiki/index.php/Encyclopedia_Dramatica:General_Disclaimer",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://encyclopediadramatica.wiki/index.php/Encyclopedia_Dramatica:Privacy_policy",
@@ -11,7 +11,7 @@
     },
     "Terms of Service": {
       "fetch": "https://encyclopediadramatica.wiki/index.php/Encyclopedia_Dramatica:Basic_Rules",
-      "select": null
+      "select": "body"
     }
   }
 }

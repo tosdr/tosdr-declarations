@@ -15,7 +15,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.travel.mondosol.com/en/585451/terms1",
-      "select": null
+      "select": "body"
     }
   }
 }

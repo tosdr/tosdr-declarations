@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://spamlogger.com/t/privacy-policy/6",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://spamlogger.com/t/terms-of-service/4",
-      "select": null
+      "select": "body"
     }
   }
 }

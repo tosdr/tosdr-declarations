@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://airvpn.org/tos/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://airvpn.org/privacy/",

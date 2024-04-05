@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.bloomsky.com/legal/terms/",
-      "select": null
+      "select": "body"
     }
   }
 }

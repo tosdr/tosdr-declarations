@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.comptia.org/testing/testing-policies-procedures/test-policies/comptia-candidate-agreement",
-      "select": null
+      "select": "body"
     }
   }
 }

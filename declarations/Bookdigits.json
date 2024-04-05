@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://bookdigits.com/privacy",
-      "select": null
+      "select": "body"
     }
   }
 }

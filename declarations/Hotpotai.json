@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://hotpot.ai/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://hotpot.ai/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

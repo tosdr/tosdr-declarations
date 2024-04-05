@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.sendent.nl/privacy-policy/?lang=en",
-      "select": null
+      "select": "body"
     }
   }
 }

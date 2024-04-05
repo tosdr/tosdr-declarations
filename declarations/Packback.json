@@ -3,19 +3,19 @@
   "documents": {
     "Corporate Social Responsibility": {
       "fetch": "https://www.packback.co/site/ai-ethics-policy/",
-      "select": null
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://www.packback.co/site/refunds/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.packback.co/site/terms/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.packback.co/site/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

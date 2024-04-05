@@ -7,7 +7,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.iris.co.uk/cookies/",
-      "select": null
+      "select": "body"
     }
   }
 }

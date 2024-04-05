@@ -2,7 +2,7 @@
   "name": "1und1",
   "documents": {
     "Terms of Service": {
-      "fetch": "var.uicdn.net/pdfs/1und1-Allgemeine-Geschaeftsbedingungen.pdf",
+      "fetch": "https://content.1und1.de/zek/Allgemeine%20Einkaufsbedingungen.pdf",
       "select": "body"
     }
   }

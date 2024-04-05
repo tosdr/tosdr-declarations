@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.mbta.com/policies/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.mbta.com/policies/terms-use",

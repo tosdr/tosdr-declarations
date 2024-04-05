@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://libera.chat/privacy",
-      "select": null
+      "select": "body"
     }
   }
 }

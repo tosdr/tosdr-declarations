@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.scouting.org/legal/donor-privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.scouting.org/legal/terms-and-conditions/",
-      "select": null
+      "select": "body"
     }
   }
 }

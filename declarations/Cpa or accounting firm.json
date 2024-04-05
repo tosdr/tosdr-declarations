@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "http://www.cpas.net/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "http://www.cpas.net/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

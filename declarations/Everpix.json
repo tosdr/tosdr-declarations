@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://everpix.app/policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://everpix.app/eula/",
-      "select": null
+      "select": "body"
     }
   }
 }

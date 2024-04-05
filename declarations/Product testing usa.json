@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://producttestingusa.com/p/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://producttestingusa.com/p/terms-conditions",
-      "select": null
+      "select": "body"
     }
   }
 }

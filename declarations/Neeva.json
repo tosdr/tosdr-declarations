@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://neeva.com/terms",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://neeva.com/privacy",

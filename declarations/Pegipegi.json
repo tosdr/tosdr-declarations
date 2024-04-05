@@ -2,7 +2,7 @@
   "name": "Pegipegi",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.pegipegi.com/privacy-policy ",
+      "fetch": "https://www.pegipegi.com/privacy-policy",
       "select": "body"
     },
     "Terms of Service": {

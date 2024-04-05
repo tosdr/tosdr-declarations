@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://alightcreative.com/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://alightcreative.com/tos/",
-      "select": null
+      "select": "body"
     }
   }
 }

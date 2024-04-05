@@ -11,7 +11,7 @@
     },
     "Corporate Social Responsibility": {
       "fetch": "https://protonmail.com/blog/transparency-report/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://protonmail.com/privacy-policy",
@@ -19,7 +19,7 @@
     },
     "Other": {
       "fetch": "https://protonmail.com/blog/protonmail-open-source/",
-      "select": null
+      "select": "body"
     }
   }
 }

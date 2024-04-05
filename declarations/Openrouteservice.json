@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://openrouteservice.org/privacy-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

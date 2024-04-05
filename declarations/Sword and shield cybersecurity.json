@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://swordshieldcyber.com/privacy-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

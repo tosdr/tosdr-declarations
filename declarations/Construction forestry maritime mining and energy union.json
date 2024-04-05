@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.cfmmeu.org.au/privacy-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

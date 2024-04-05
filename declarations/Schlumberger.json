@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.welcome.slb.com/Public/Privacy.aspx",
-      "select": null
+      "select": "body"
     }
   }
 }

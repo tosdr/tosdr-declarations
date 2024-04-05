@@ -2,7 +2,7 @@
   "name": "The real news network",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://therealnews.com/privacy-policy ",
+      "fetch": "https://therealnews.com/privacy-policy",
       "select": "body"
     },
     "Terms of Service": {

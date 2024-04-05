@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.tva.com/information/tva-privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Vulnerability Disclosure Policy": {
       "fetch": "https://www.tva.com/vulnerability-disclosure-policy",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.tva.com/legal-notices",
-      "select": null
+      "select": "body"
     }
   }
 }

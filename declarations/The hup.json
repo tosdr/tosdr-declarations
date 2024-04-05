@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://thehup.org/terms-of-agreement/",
-      "select": null
+      "select": "body"
     }
   }
 }

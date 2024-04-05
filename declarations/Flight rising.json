@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://flightrising.com/main.php?p=wiki&article=81",
-      "select": null
+      "select": "body"
     }
   }
 }

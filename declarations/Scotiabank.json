@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.scotiabank.com/ca/en/about/contact-us/legal.html",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.scotiabank.com/ca/en/about/contact-us/security/online-security/online-security-guarantee.html",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.scotiabank.com/ca/en/about/contact-us/privacy/privacy-cookies.html",
-      "select": null
+      "select": "body"
     }
   }
 }

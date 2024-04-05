@@ -3,15 +3,15 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://aeroshadeco.com/disclaimer",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://aeroshadeco.com/terms-of-services",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://aeroshadeco.com/privacy-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

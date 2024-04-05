@@ -2,7 +2,7 @@
   "name": "Sunrise medical",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.sunrisemedical.com/policies/19766 ",
+      "fetch": "https://www.sunrisemedical.com/policies/19766",
       "select": "body"
     }
   }

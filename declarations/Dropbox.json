@@ -11,7 +11,7 @@
     },
     "Acceptable Use Policy": {
       "fetch": "https://www.dropbox.com/acceptable_use",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.dropbox.com/terms",

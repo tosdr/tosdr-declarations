@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.navyfederal.org/policy/privacy.html",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.navyfederal.org/content/dam/nfculibs/pdfs/membership/nfcu_652a_nfo.pdf",

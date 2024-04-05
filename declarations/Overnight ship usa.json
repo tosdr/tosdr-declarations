@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://overnightshipus2us.com/privacy_overnight_en.html",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://overnightshipus2us.com/terms_and_conditions_en.html",

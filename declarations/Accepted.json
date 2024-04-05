@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.accepted.com/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.accepted.com/aboutus/policy",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.accepted.com/aboutus/disclaimer",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -15,7 +15,7 @@
     },
     "Terms of Service": {
       "fetch": "https://passport.baidu.com/static/passpc-account/html/protocal.html",
-      "select": null
+      "select": "body"
     }
   }
 }

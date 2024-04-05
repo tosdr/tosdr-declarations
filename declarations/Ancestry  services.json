@@ -19,7 +19,7 @@
     },
     "General Conditions of Sale": {
       "fetch": "https://www.ancestry.com/cs/legal/renewal-cancellation-terms",
-      "select": null
+      "select": "body"
     }
   }
 }

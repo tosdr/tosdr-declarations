@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://kbhgames.com/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://kbhgames.com/terms-of-use",
-      "select": null
+      "select": "body"
     }
   }
 }

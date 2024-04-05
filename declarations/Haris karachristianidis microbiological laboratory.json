@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.mikroviologos.gr/politiki-aporritou",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://abrazomedicalgroup.com/patient-resources/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://abrazomedicalgroup.com/patient-resources/terms-of-use/",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://abrazomedicalgroup.com/notice-of-privacy-practices/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -2,7 +2,7 @@
   "name": "800notescom",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://800notes.com/nb/privacyPolicy ",
+      "fetch": "https://800notes.com/nb/privacyPolicy",
       "select": "body"
     },
     "Terms of Service": {

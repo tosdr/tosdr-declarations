@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.ourgroceries.com/privacy",
-      "select": null
+      "select": "body"
     }
   }
 }

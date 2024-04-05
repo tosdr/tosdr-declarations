@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.myexpenses.mobi/en/#imprint",
-      "select": null
+      "select": "body"
     }
   }
 }

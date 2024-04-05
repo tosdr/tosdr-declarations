@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.antiwar.com/privacy.php",
-      "select": null
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://www.antiwar.com/submissions.php",
-      "select": null
+      "select": "body"
     },
     "Policy": {
       "fetch": "https://www.antiwar.com/reprint.php",

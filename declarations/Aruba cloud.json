@@ -3,7 +3,7 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.aruba.it/documents/tc-files/en/02_informativa_aruba_spa_cookie_en.pdf",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.arubacloud.com/company/general-conditions.aspx",

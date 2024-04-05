@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://craftbot.com/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://craftbot.com/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://eligibilityassistance.org/tc/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://eligibilityassistance.org/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

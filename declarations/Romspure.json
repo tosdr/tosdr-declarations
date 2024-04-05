@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://romspure.com/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://romspure.com/terms-of-use/",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://romspure.com/disclaimer/",

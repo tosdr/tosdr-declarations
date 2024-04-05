@@ -3,19 +3,19 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://edu.digitaltheatreplus.com/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://edu.digitaltheatreplus.com/cookies",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://edu.digitaltheatreplus.com/copyright",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://edu.digitaltheatreplus.com/terms/uk",
-      "select": null
+      "select": "body"
     }
   }
 }

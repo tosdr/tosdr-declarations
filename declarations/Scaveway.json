@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://scaveway.com/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://scaveway.com/terms-and-conditions/",
-      "select": null
+      "select": "body"
     }
   }
 }

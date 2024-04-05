@@ -6,7 +6,7 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://www.kajeet.com/privacy-policy-2 ",
+      "fetch": "https://www.kajeet.com/privacy-policy-2",
       "select": "body"
     }
   }

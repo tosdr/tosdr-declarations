@@ -2,11 +2,11 @@
   "name": "Littlebabyboonursery",
   "documents": {
     "General Conditions of Sale": {
-      "fetch": "https://www.littlebabyboonursery.com/shipping ",
+      "fetch": "https://www.littlebabyboonursery.com/shipping",
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://www.littlebabyboonursery.com/privacy ",
+      "fetch": "https://www.littlebabyboonursery.com/privacy",
       "select": "body"
     },
     "Terms of Service": {

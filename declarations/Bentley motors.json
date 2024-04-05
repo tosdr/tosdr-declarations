@@ -6,7 +6,7 @@
       "select": "body"
     },
     "Trackers Policy": {
-      "fetch": "https://www.bentleymotors.com/en/pages/cookie-policy.html ",
+      "fetch": "https://www.bentleymotors.com/en/pages/cookie-policy.html",
       "select": "body"
     },
     "Privacy Policy": {

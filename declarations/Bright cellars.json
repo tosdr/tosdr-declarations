@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.brightcellars.com/terms/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.brightcellars.com/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

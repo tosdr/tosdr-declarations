@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://support.bitchute.com/policy/terms/",
-      "select": null
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://support.bitchute.com/policy/guidelines",
@@ -11,11 +11,11 @@
     },
     "Privacy Policy": {
       "fetch": "https://support.bitchute.com/policy/privacy",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://support.bitchute.com/policy/cookie/",
-      "select": null
+      "select": "body"
     }
   }
 }

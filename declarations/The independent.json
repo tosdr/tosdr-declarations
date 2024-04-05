@@ -3,11 +3,11 @@
   "documents": {
     "Community Guidelines": {
       "fetch": "https://www.independent.co.uk/service/code-of-conduct-a6184241.html",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.independent.co.uk/service/cookie-policy-a6184186.html",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.independent.co.uk/service/privacy-policy-a6184181.html",
@@ -15,7 +15,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.independent.co.uk/service/user-policies-a6184151.html",
-      "select": null
+      "select": "body"
     }
   }
 }

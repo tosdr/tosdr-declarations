@@ -2,7 +2,7 @@
   "name": "Bcgame",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://bcgame.sk/help/terms-service? ",
+      "fetch": "https://bcgame.sk/help/terms-service?",
       "select": "body"
     },
     "Privacy Policy": {

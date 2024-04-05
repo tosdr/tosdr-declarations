@@ -2,11 +2,11 @@
   "name": "Resetera",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.resetera.com/help/terms/ ",
+      "fetch": "https://www.resetera.com/help/terms/",
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://www.resetera.com/help/privacy-policy/ ",
+      "fetch": "https://www.resetera.com/help/privacy-policy/",
       "select": "body"
     },
     "Trackers Policy": {

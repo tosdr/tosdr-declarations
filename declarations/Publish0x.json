@@ -2,11 +2,11 @@
   "name": "Publish0x",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.publish0x.com/page/terms ",
+      "fetch": "https://www.publish0x.com/page/terms",
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://www.publish0x.com/page/privacy ",
+      "fetch": "https://www.publish0x.com/page/privacy",
       "select": "body"
     }
   }

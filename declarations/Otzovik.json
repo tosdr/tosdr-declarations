@@ -11,7 +11,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://otzovik.com/policy.php",
-      "select": null
+      "select": "body"
     }
   }
 }

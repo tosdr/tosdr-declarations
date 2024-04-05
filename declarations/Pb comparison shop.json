@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://priceblend.com/static.php?id=privacy",
-      "select": null
+      "select": "body"
     }
   }
 }

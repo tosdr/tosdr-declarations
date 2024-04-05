@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://weshareabundance.com/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://weshareabundance.com/terms-conditions",
-      "select": null
+      "select": "body"
     }
   }
 }

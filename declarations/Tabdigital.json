@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://cloud.tab.digital/terms",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://cloud.tab.digital/dpa",
-      "select": null
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://cloud.tab.digital/refundpolicy",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,15 +3,15 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://www.voxmedia.com/legal/privacy-notice",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.voxmedia.com/legal/terms-of-use",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.voxmedia.com/legal/cookie-policy",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.voxmedia.com/pages/security",

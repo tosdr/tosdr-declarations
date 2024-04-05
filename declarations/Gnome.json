@@ -3,11 +3,11 @@
   "documents": {
     "Community Guidelines": {
       "fetch": "https://wiki.gnome.org/Foundation/CodeOfConduct",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.gnome.org/privacy-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

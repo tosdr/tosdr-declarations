@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.keysight.com/nl/en/contact/terms-of-use.html",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.keysight.com/nl/en/contact/privacy.html",
-      "select": null
+      "select": "body"
     }
   }
 }

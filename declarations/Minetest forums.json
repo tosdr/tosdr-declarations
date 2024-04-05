@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://forum.minetest.net/ucp.php?mode=privacy",
-      "select": null
+      "select": "body"
     }
   }
 }

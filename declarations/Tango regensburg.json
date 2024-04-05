@@ -3,7 +3,7 @@
   "documents": {
     "Other": {
       "fetch": "https://tango-regensburg.de/impressum.php",
-      "select": null
+      "select": "body"
     }
   }
 }

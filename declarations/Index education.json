@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.index-education.com/fr/mentions-legales.php",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.index-education.com/fr/utilisation-cookies.php",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.index-education.com/fr/politique-confidentialite.php",
-      "select": null
+      "select": "body"
     }
   }
 }

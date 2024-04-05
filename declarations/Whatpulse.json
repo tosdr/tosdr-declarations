@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://whatpulse.org/pages/tos/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://whatpulse.org/pages/privacy/",

@@ -7,7 +7,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.adaptivemall.com/privacy-policy-cookie-restriction-mode",
-      "select": null
+      "select": "body"
     }
   }
 }

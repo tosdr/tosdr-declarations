@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://patch.com/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

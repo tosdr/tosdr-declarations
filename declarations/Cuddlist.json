@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://cuddlist.com/terms-of-use",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://cuddlist.com/privacypolicy",
-      "select": null
+      "select": "body"
     }
   }
 }

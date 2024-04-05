@@ -7,7 +7,7 @@
     },
     "Legal Information": {
       "fetch": "https://privacy.nestleusa.com/",
-      "select": null
+      "select": "body"
     }
   }
 }

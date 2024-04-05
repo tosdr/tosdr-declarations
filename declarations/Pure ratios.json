@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://pureratioswellness.com/pages/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://pureratioswellness.com/pages/terms-of-service",
-      "select": null
+      "select": "body"
     }
   }
 }

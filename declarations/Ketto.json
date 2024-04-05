@@ -11,11 +11,11 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.ketto.org/support/use-of-cookies.php",
-      "select": null
+      "select": "body"
     },
     "Policy": {
       "fetch": "https://customerhappiness.ketto.org/portal/en/kb/articles/aml-policy-6-8-2021",
-      "select": null
+      "select": "body"
     }
   }
 }

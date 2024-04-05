@@ -3,19 +3,19 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://actionnetwork.org/privacy",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://actionnetwork.org/cookies/",
-      "select": null
+      "select": "body"
     },
     "Acceptable Use Policy": {
       "fetch": "https://actionnetwork.org/acceptable/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://actionnetwork.org/terms/",
-      "select": null
+      "select": "body"
     }
   }
 }

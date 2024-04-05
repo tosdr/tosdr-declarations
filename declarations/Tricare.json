@@ -3,7 +3,7 @@
   "documents": {
     "Merged": {
       "fetch": "https://samuelsamuelbusinessofinformation.enterprise",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.tricare.mil/Privacy",
@@ -11,7 +11,7 @@
     },
     "Other": {
       "fetch": "http://www.samuelsamuelbusinessofinformation.enterprises",
-      "select": null
+      "select": "body"
     }
   }
 }

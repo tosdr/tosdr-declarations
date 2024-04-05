@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.ftc.gov/site-information/privacy-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

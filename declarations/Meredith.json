@@ -7,11 +7,11 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.meredith.com/nmg/privacy",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.meredith.com/adchoices",
-      "select": null
+      "select": "body"
     }
   }
 }

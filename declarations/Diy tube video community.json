@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.diytube.info/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.diytube.info/terms-of-service/",
-      "select": null
+      "select": "body"
     },
     "About": {
       "fetch": "https://www.diytube.info/about/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,15 +3,15 @@
   "documents": {
     "Copyright Claims Policy": {
       "fetch": "https://www.lyrarc.com/copyright/show",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.lyrarc.com/terms/show",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.lyrarc.com/privacy/show",
-      "select": null
+      "select": "body"
     }
   }
 }

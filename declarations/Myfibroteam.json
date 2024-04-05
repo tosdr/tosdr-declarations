@@ -2,11 +2,11 @@
   "name": "Myfibroteam",
   "documents": {
     "Trackers Policy": {
-      "fetch": "https://www.myfibroteam.com/about/cookies_policy ",
+      "fetch": "https://www.myfibroteam.com/about/cookies_policy",
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "https://www.myfibroteam.com/about/tos ",
+      "fetch": "https://www.myfibroteam.com/about/tos",
       "select": "body"
     },
     "Privacy Policy": {

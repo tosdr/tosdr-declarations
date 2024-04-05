@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.lingerielowdown.com/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.lingerielowdown.com/terms-and-conditions/",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.lingerielowdown.com/cookies/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -2,7 +2,7 @@
   "name": "Fibromyalgia care society of america",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.fibro.org/telehealthtermsofuse ",
+      "fetch": "https://www.fibro.org/telehealthtermsofuse",
       "select": "body"
     },
     "Privacy Policy": {

@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.mayoclinic.org/about-this-site/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.mayoclinic.org/about-this-site/terms-conditions-use-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

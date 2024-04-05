@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://apkcombo.com/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://apkcombo.com/terms",
-      "select": null
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://apkcombo.com/dmca",
-      "select": null
+      "select": "body"
     }
   }
 }

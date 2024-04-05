@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://ncd.gov/privacy",
-      "select": null
+      "select": "body"
     }
   }
 }

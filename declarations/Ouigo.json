@@ -7,7 +7,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.ouigo.com/charte-confidentialite",
-      "select": null
+      "select": "body"
     }
   }
 }

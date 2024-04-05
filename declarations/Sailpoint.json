@@ -2,7 +2,7 @@
   "name": "Sailpoint",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://docs.sailpoint.com/wp-content/uploads/Software-as-a-Service-Agreement-EMEA-On-line-Version-20210212.pdf ",
+      "fetch": "https://docs.sailpoint.com/wp-content/uploads/Software-as-a-Service-Agreement-EMEA-On-line-Version-20210212.pdf",
       "select": "body"
     },
     "Trackers Policy": {

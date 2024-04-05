@@ -2,11 +2,11 @@
   "name": "Barefoot books",
   "documents": {
     "General Conditions of Sale": {
-      "fetch": "https://www.barefootbooks.com/shipping-returns ",
+      "fetch": "https://www.barefootbooks.com/shipping-returns",
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "https://www.barefootbooks.com/terms-conditions ",
+      "fetch": "https://www.barefootbooks.com/terms-conditions",
       "select": "body"
     },
     "Privacy Policy": {

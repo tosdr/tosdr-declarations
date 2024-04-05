@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://ww.docsgetdegrees.com/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

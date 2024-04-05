@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.last.fm/legal/terms",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://privacy.cbs/cookies",

@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://corbettmaths.com/2018/05/17/terms-and-conditions/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://corbettmaths.com/2018/05/17/privacy-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

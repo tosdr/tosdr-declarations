@@ -11,7 +11,7 @@
     },
     "Terms of Service": {
       "fetch": "https://noshirtnoservice.com/pages/term-of-use",
-      "select": null
+      "select": "body"
     }
   }
 }

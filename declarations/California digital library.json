@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://cdlib.org/about/policies-and-guidelines/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://cdlib.org/about/policies-and-guidelines/terms-conditions/",
-      "select": null
+      "select": "body"
     }
   }
 }

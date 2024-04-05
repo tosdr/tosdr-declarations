@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.turnitin.com/privacy-policy-website",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.turnitin.com/terms-of-use-website",
-      "select": null
+      "select": "body"
     }
   }
 }

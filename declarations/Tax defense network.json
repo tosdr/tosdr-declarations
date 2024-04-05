@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.taxdefensenetwork.com/privacy/",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.taxdefensenetwork.com/cookies",
-      "select": null
+      "select": "body"
     }
   }
 }

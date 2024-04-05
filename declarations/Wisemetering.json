@@ -7,11 +7,11 @@
     },
     "Terms of Service": {
       "fetch": "https://www.wisemetering.com/en/terms-and-conditions/",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.wisemetering.com/en/cookies-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

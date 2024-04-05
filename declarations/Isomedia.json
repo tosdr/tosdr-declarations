@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.isomedia.com/privacy-policy.shtml",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.isomedia.com/terms-and-conditions.shtml",
-      "select": null
+      "select": "body"
     }
   }
 }

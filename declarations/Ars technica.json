@@ -7,7 +7,7 @@
     },
     "Affiliate Disclosure": {
       "fetch": "https://arstechnica.com/affiliate-link-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

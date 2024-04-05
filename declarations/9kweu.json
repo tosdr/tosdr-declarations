@@ -3,11 +3,11 @@
   "documents": {
     "General Conditions of Sale": {
       "fetch": "https://www.9kw.eu/web/agb.html",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.9kw.eu/web/datenschutz.html",
-      "select": null
+      "select": "body"
     }
   }
 }

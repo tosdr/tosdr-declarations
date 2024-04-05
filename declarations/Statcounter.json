@@ -3,7 +3,7 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://statcounter.com/about/legal/",
-      "select": null
+      "select": "body"
     }
   }
 }

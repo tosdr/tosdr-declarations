@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.mineplex.com/data-notice/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.mineplex.com/terms/",

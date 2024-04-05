@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.worldremit.com/en/about-us/terms-and-conditions",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.worldremit.com/en/about-us/privacy-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

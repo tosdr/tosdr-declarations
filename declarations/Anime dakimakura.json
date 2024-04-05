@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.animedakimakura.com/conditions.html",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.animedakimakura.com/privacy.html",
-      "select": null
+      "select": "body"
     }
   }
 }

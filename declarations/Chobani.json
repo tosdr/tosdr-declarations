@@ -2,7 +2,7 @@
   "name": "Chobani",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.chobani.com/website-terms ",
+      "fetch": "https://www.chobani.com/website-terms",
       "select": "body"
     },
     "Privacy Policy": {

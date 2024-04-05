@@ -6,7 +6,7 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://www.trafficfactory.com/privacy-policy/index.html ",
+      "fetch": "https://www.trafficfactory.com/privacy-policy/index.html",
       "select": "body"
     }
   }

@@ -6,11 +6,11 @@
       "select": "body"
     },
     "Trackers Policy": {
-      "fetch": "https://www.choiceforum.org/cookie-policy/ ",
+      "fetch": "https://www.choiceforum.org/cookie-policy/",
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "https://www.choiceforum.org/terms-and-conditions/ ",
+      "fetch": "https://www.choiceforum.org/terms-and-conditions/",
       "select": "body"
     }
   }

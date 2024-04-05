@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.oxifresh.com/terms-of-use",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.oxifresh.com/privacy-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

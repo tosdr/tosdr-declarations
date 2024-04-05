@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://forvo.com/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.nordstrom.com/browse/customer-service/policy/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.nordstrom.com/browse/customer-service/policy/terms-conditions",

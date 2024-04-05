@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.hypnosisdownloads.com/help-center/privacy",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.iubenda.com/privacy-policy/757400/cookie-policy?an=no&s_ck=false&newmarkup=yes&ifr=true&height=470",

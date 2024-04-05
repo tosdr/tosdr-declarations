@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.valueline.com/privacy.aspx",
-      "select": null
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://www.valueline.com/copyright-trademark",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.valueline.com/terms-conditions",
-      "select": null
+      "select": "body"
     }
   }
 }

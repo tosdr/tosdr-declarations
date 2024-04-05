@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://mediabiasfactcheck.com/terms-and-conditions/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://ourworldindata.org/about#legal",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://ourworldindata.org/privacy-policy",

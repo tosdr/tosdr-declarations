@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://colloq.io/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

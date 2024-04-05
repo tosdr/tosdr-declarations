@@ -3,15 +3,15 @@
   "documents": {
     "Copyright Claims Policy": {
       "fetch": "https://exoticaz.to/about/dmca",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://exoticaz.to/about/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://exoticaz.to/about/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

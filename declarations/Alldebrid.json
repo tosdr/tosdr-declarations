@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://alldebrid.com/privacy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://alldebrid.com/tos/",
-      "select": null
+      "select": "body"
     }
   }
 }

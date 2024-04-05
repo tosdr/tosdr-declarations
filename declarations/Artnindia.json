@@ -3,7 +3,7 @@
   "documents": {
     "General Conditions of Sale": {
       "fetch": "https://artnindia.com/policies/refund-policy",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://artnindia.com/policies/privacy-policy",
@@ -11,7 +11,7 @@
     },
     "Terms of Service": {
       "fetch": "https://artnindia.com/policies/terms-of-service",
-      "select": null
+      "select": "body"
     }
   }
 }

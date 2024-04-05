@@ -2,7 +2,7 @@
   "name": "Rewardzone",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://contact.rzucscenter.com/policies/terms ",
+      "fetch": "https://contact.rzucscenter.com/policies/terms",
       "select": "body"
     },
     "Privacy Policy": {

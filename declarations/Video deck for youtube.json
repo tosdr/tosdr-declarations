@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.videodeck.net/terms",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.videodeck.net/privacy",

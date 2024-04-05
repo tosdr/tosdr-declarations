@@ -11,7 +11,7 @@
     },
     "Safety Guidelines": {
       "fetch": "https://support.ring.com/hc/en-us/articles/360039693891-Enhancing-Security-with-Two-Step-Verification",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://ring.com/privacy-notice",

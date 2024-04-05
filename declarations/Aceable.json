@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.aceable.com/tandc",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.aceable.com/privacy-policy/",

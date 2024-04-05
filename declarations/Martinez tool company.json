@@ -6,7 +6,7 @@
       "select": "body"
     },
     "General Conditions of Sale": {
-      "fetch": "https://martineztools.com/return-policy/ ",
+      "fetch": "https://martineztools.com/return-policy/",
       "select": "body"
     },
     "Privacy Policy": {

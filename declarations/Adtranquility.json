@@ -2,7 +2,7 @@
   "name": "Adtranquility",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.iubenda.com/privacy-policy/76187372 ",
+      "fetch": "https://www.iubenda.com/privacy-policy/76187372",
       "select": "body"
     },
     "Terms of Service": {

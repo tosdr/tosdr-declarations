@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.furtherfood.com/privacypolicy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.furtherfood.com/termsandconditions/",
-      "select": null
+      "select": "body"
     }
   }
 }

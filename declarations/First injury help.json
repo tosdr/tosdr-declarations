@@ -2,7 +2,7 @@
   "name": "First injury help",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.firstinjuryhelp.com/includes/privacy-policy.php ",
+      "fetch": "https://www.firstinjuryhelp.com/includes/privacy-policy.php",
       "select": "body"
     },
     "Terms of Service": {

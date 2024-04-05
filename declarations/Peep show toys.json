@@ -7,11 +7,11 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.peepshowtoys.com/policies/privacy-policy",
-      "select": null
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://www.peepshowtoys.com/policies/refund-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

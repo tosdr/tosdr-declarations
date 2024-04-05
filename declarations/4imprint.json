@@ -6,11 +6,11 @@
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "https://investors.4imprint.com/terms-of-use/ ",
+      "fetch": "https://investors.4imprint.com/terms-of-use/",
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://www.4imprint.com/info/privacy ",
+      "fetch": "https://www.4imprint.com/info/privacy",
       "select": "body"
     },
     "Corporate Social Responsibility": {

@@ -7,7 +7,7 @@
     },
     "General Conditions of Sale": {
       "fetch": "https://www.maplin.co.uk/policies/refund-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.maplin.co.uk/policies/terms-of-service",

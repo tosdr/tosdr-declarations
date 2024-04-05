@@ -6,11 +6,11 @@
       "select": "body"
     },
     "Legal Information": {
-      "fetch": "https://colonialpenn.com/insurance-privacy-notice ",
+      "fetch": "https://colonialpenn.com/insurance-privacy-notice",
       "select": "body"
     },
     "Other": {
-      "fetch": "https://colonialpenn.com/privacy-bclic ",
+      "fetch": "https://colonialpenn.com/privacy-bclic",
       "select": "body"
     },
     "Terms of Service": {

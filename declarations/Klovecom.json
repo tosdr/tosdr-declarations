@@ -6,7 +6,7 @@
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "https://www.klove.com/policies/terms-of-use ",
+      "fetch": "https://www.klove.com/policies/terms-of-use",
       "select": "body"
     }
   }

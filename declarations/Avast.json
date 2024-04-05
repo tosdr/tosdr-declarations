@@ -11,7 +11,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.avast.com/privacy-policy",
-      "select": null
+      "select": "body"
     }
   }
 }

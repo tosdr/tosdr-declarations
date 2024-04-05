@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://fastkeysautomation.com/documentation5/PrivacyPolicy.html",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.dmca.com/TermsOfService?r=msft",
-      "select": null
+      "select": "body"
     }
   }
 }

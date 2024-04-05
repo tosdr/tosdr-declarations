@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.acronis.com/en-us/company/privacy.html",
-      "select": null
+      "select": "body"
     }
   }
 }

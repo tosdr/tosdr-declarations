@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://factsmgt.com/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://factsmgt.com/terms-of-use",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://factsmgt.com/terms-of-use",
@@ -15,7 +15,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://factsmgt.com/privacy-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

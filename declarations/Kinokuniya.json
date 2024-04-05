@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://malaysia.kinokuniya.com/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://malaysia.kinokuniya.com/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

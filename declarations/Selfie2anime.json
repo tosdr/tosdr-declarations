@@ -6,7 +6,7 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://selfie2anime.com/privacy/ ",
+      "fetch": "https://selfie2anime.com/privacy/",
       "select": "body"
     }
   }

@@ -7,15 +7,15 @@
     },
     "Terms of Service": {
       "fetch": "https://wickr.com/terms/",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://wickr.com/privacy/",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://wickr.com/privacy/",
-      "select": null
+      "select": "body"
     }
   }
 }

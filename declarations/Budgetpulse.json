@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.budgetpulse.com/pages/privacy_policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://budgetpulse.com/pages/terms_of_use",
-      "select": null
+      "select": "body"
     }
   }
 }

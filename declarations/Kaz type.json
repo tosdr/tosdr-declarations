@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://kaz-type.com/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://kaz-type.com/terms-condition.aspx",
-      "select": null
+      "select": "body"
     }
   }
 }

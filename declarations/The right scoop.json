@@ -3,7 +3,7 @@
   "documents": {
     "Community Guidelines": {
       "fetch": "https://therightscoop.com/the-right-scoop-commenting-rules/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://therightscoop.com/privacy-policy/",

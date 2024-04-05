@@ -7,11 +7,11 @@
     },
     "Policy": {
       "fetch": "https://www.t-mobile.com/responsibility/consumer-info/policies/internet-service",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.t-mobile.com/responsibility/legal/terms-and-conditions",
-      "select": null
+      "select": "body"
     }
   }
 }

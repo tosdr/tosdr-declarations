@@ -6,7 +6,7 @@
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "https://whatsinside.it/terms ",
+      "fetch": "https://whatsinside.it/terms",
       "select": "body"
     }
   }

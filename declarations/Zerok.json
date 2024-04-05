@@ -7,7 +7,7 @@
     },
     "Community Guidelines": {
       "fetch": "https://zero-k.info/mediawiki/index.php?title=Zero-K:Code_of_Conduct",
-      "select": null
+      "select": "body"
     }
   }
 }

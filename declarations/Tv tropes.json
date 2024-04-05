@@ -3,15 +3,15 @@
   "documents": {
     "Other": {
       "fetch": "https://tvtropes.org/pmwiki/pmwiki.php/Administrivia/TheFicMayBeYoursButTheTropePageIsOurs",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://tvtropes.org/pmwiki/privacypolicy.php",
-      "select": null
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://tvtropes.org/pmwiki/dmca.php",
-      "select": null
+      "select": "body"
     }
   }
 }

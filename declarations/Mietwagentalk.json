@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.mietwagen-talk.de/sc-terms-of-use/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://restofworld.org/about/privacy-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

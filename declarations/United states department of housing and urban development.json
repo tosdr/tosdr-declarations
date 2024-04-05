@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.hud.gov/privacy_policy",
-      "select": null
+      "select": "body"
     }
   }
 }

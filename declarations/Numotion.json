@@ -2,11 +2,11 @@
   "name": "Numotion",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.numotion.com/privacy/privacy-policy ",
+      "fetch": "https://www.numotion.com/privacy/privacy-policy",
       "select": "body"
     },
     "Legal Information": {
-      "fetch": "https://www.numotion.com/privacy/notice-of-privacy-practices-(english) ",
+      "fetch": "https://www.numotion.com/privacy/notice-of-privacy-practices-(english)",
       "select": "body"
     },
     "Terms of Service": {

@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://nationaltoday.com/privacy-policy/",
-      "select": null
+      "select": "body"
     }
   }
 }

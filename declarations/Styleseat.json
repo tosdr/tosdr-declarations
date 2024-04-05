@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.styleseat.com/tos-for-clients?utmParams=%5Bobject+Object%5D",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.styleseat.com/privacy?utmParams=%5Bobject+Object%5D",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,15 +3,15 @@
   "documents": {
     "Copyright Claims Policy": {
       "fetch": "https://pumpkinfm.com/dmca-policy/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://pumpkinfm.com/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://pumpkinfm.com/terms-of-use/",
-      "select": null
+      "select": "body"
     }
   }
 }

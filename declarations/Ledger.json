@@ -3,7 +3,7 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://shop.ledger.com/pages/cookie-policy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://shop.ledger.com/pages/ledger-live-terms-of-use",

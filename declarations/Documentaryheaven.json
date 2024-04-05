@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://documentaryheaven.com/terms-of-use/",
-      "select": null
+      "select": "body"
     }
   }
 }

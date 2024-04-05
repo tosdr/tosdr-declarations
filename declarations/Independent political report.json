@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://independentpoliticalreport.com/about/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://independentpoliticalreport.com/community-guidelines/",
@@ -11,7 +11,7 @@
     },
     "Copyright Claims Policy": {
       "fetch": "https://independentpoliticalreport.com/dmca/",
-      "select": null
+      "select": "body"
     }
   }
 }

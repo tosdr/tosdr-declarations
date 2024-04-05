@@ -7,11 +7,11 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.softpedia.com/user/cookies.shtml",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.softpedia.com/user/terms.shtml",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Affiliate Disclosure": {
       "fetch": "https://www.usa.gov/linking-policy",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.usa.gov/website-policies-and-notices",

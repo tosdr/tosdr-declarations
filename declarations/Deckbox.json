@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://deckbox.org/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://deckbox.org/legal",
-      "select": null
+      "select": "body"
     }
   }
 }

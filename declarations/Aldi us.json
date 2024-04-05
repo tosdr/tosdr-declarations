@@ -7,7 +7,7 @@
     },
     "Legal Information": {
       "fetch": "https://www.aldi.us/en/online-privacy-notice/",
-      "select": null
+      "select": "body"
     }
   }
 }

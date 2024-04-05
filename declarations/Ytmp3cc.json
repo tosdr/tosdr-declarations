@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://ytmp3.cc/terms-of-use/",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://ytmp3.cc/privacy-policy/",
-      "select": null
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://ytmp3.cc/copyright-claims/",
-      "select": null
+      "select": "body"
     }
   }
 }

@@ -3,19 +3,19 @@
   "documents": {
     "Other": {
       "fetch": "https://sweet.sh/about#comparison",
-      "select": null
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://sweet.sh/about#privacy-policy",
-      "select": null
+      "select": "body"
     },
     "About": {
       "fetch": "https://sweet.sh/about#about-sweet",
-      "select": null
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://sweet.sh/about#code-of-conduct",
-      "select": null
+      "select": "body"
     }
   }
 }

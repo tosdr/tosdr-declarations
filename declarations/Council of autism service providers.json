@@ -3,7 +3,7 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://www.casproviders.org/legal",
-      "select": null
+      "select": "body"
     }
   }
 }

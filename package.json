@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@opentermsarchive/engine": "~0.34.0",
-    "@opentermsarchive/terms-types": "github:tosdr/terms-types#main",
+    "@opentermsarchive/terms-types": "tosdr/terms-types#main",
     "xpath-to-css": "^1.1.0"
   }
 }

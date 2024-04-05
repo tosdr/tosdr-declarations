@@ -15,7 +15,7 @@
     },
     "Other": {
       "fetch": "https://www.facebook.com/help/186325668085084",
-      "select": null
+      "select": "body"
     }
   }
 }

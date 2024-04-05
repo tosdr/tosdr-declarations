@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.xodo.com/terms-of-use.html",
-      "select": null
+      "select": "body"
     }
   }
 }

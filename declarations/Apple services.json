@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.shazam.com/terms",
-      "select": null
+      "select": "body"
     }
   }
 }

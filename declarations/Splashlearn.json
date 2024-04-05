@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.splashlearn.com/privacy",
-      "select": null
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.splashlearn.com/terms-of-use",
-      "select": null
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.splashlearn.com/cookies_info_setting",
