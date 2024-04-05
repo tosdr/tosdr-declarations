@@ -6,7 +6,7 @@
       "select": "body"
     },
     "General Conditions of Sale": {
-      "fetch": "https://vpswala.org/refund-policy.html ",
+      "fetch": "https://vpswala.org/refund-policy.html",
       "select": "body"
     },
     "Terms of Service": {

@@ -6,7 +6,7 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://abdlfactory.com/privacy ",
+      "fetch": "https://abdlfactory.com/privacy",
       "select": "body"
     }
   }

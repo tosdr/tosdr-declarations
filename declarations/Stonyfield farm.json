@@ -6,7 +6,7 @@
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "https://www.stonyfield.com/terms-use/ ",
+      "fetch": "https://www.stonyfield.com/terms-use/",
       "select": "body"
     }
   }

@@ -2,7 +2,7 @@
   "name": "Scripps news",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://scrippsnews.com/privacy/ ",
+      "fetch": "https://scrippsnews.com/privacy/",
       "select": "body"
     },
     "Terms of Service": {

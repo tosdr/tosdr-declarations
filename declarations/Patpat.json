@@ -14,7 +14,7 @@
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "https://eur.patpat.com/terms ",
+      "fetch": "https://eur.patpat.com/terms",
       "select": "body"
     }
   }

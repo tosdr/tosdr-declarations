@@ -2,7 +2,7 @@
   "name": "Omax health",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://omaxhealth.com/pages/terms ",
+      "fetch": "https://omaxhealth.com/pages/terms",
       "select": "body"
     },
     "Privacy Policy": {

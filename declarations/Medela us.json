@@ -2,7 +2,7 @@
   "name": "Medela us",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.medela.us/medela-us/breastfeeding/medela-us-policies ",
+      "fetch": "https://www.medela.us/medela-us/breastfeeding/medela-us-policies",
       "select": "body"
     },
     "Trackers Policy": {

@@ -2,7 +2,7 @@
   "name": "Black wolf inc",
   "documents": {
     "Policy": {
-      "fetch": "https://blackwolfnation.com/pages/trial-offer-policy ",
+      "fetch": "https://blackwolfnation.com/pages/trial-offer-policy",
       "select": "body"
     },
     "Terms of Service": {

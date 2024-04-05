@@ -6,7 +6,7 @@
       "select": "body"
     },
     "Other": {
-      "fetch": "https://2.pmam.com/MobilePWA/vedpuranprasar.html ",
+      "fetch": "https://2.pmam.com/MobilePWA/vedpuranprasar.html",
       "select": "body"
     }
   }

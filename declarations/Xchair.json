@@ -2,7 +2,7 @@
   "name": "Xchair",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.xchair.com/pages/terms-of-use ",
+      "fetch": "https://www.xchair.com/pages/terms-of-use",
       "select": "body"
     },
     "Privacy Policy": {

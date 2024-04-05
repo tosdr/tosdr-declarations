@@ -2,7 +2,7 @@
   "name": "Virginia mason franciscan health",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.vmfh.org/terms-of-service ",
+      "fetch": "https://www.vmfh.org/terms-of-service",
       "select": "body"
     },
     "Legal Information": {

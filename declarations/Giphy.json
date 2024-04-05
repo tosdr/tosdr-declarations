@@ -2,19 +2,19 @@
   "name": "Giphy",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://support.giphy.com/hc/en-us/articles/360027858552-Giphy-SDK-License-Agreement ",
+      "fetch": "https://support.giphy.com/hc/en-us/articles/360027858552-Giphy-SDK-License-Agreement",
       "select": "body"
     },
     "Other": {
-      "fetch": "https://support.giphy.com/hc/en-us/articles/360041815552-GIPHY-World-Open-Source-Acknowledgements ",
+      "fetch": "https://support.giphy.com/hc/en-us/articles/360041815552-GIPHY-World-Open-Source-Acknowledgements",
       "select": "body"
     },
     "Copyright Claims Policy": {
-      "fetch": "https://support.giphy.com/hc/en-us/articles/360020287091-GIPHY-DMCA-Copyright-Policy ",
+      "fetch": "https://support.giphy.com/hc/en-us/articles/360020287091-GIPHY-DMCA-Copyright-Policy",
       "select": "body"
     },
     "Developer Terms": {
-      "fetch": "https://support.giphy.com/hc/en-us/articles/360028134111-GIPHY-API-Terms-of-Service- ",
+      "fetch": "https://support.giphy.com/hc/en-us/articles/360028134111-GIPHY-API-Terms-of-Service-",
       "select": "body"
     },
     "Vulnerability Disclosure Policy": {

@@ -2,7 +2,7 @@
   "name": "United site services",
   "documents": {
     "Trackers Policy": {
-      "fetch": "https://www.unitedsiteservices.com/cookie-policy/?lng=en ",
+      "fetch": "https://www.unitedsiteservices.com/cookie-policy/?lng=en",
       "select": "body"
     },
     "Privacy Policy": {

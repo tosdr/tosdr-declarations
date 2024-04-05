@@ -6,7 +6,7 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://www.serovital.com/pages/privacy-policy ",
+      "fetch": "https://www.serovital.com/pages/privacy-policy",
       "select": "body"
     },
     "Terms of Service": {

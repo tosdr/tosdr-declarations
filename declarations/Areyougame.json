@@ -6,11 +6,11 @@
       "select": "body"
     },
     "General Conditions of Sale": {
-      "fetch": "https://areyougame.com/pages/return-policy ",
+      "fetch": "https://areyougame.com/pages/return-policy",
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://areyougame.com/pages/privacy-policy ",
+      "fetch": "https://areyougame.com/pages/privacy-policy",
       "select": "body"
     }
   }

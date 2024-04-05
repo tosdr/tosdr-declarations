@@ -2,7 +2,7 @@
   "name": "Transdev",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://transdevna.com/terms/ ",
+      "fetch": "https://transdevna.com/terms/",
       "select": "body"
     },
     "Privacy Policy": {

@@ -2,7 +2,7 @@
   "name": "Apex water filters",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://apexwaterfilters.com/terms-conditions/ ",
+      "fetch": "https://apexwaterfilters.com/terms-conditions/",
       "select": "body"
     },
     "General Conditions of Sale": {

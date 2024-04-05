@@ -2,11 +2,11 @@
   "name": "Vuse",
   "documents": {
     "Legal Information": {
-      "fetch": "https://www.vuse.com/privacy-notice ",
+      "fetch": "https://www.vuse.com/privacy-notice",
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://rai.neolane.net/webApp/textmessagingpolicy ",
+      "fetch": "https://rai.neolane.net/webApp/textmessagingpolicy",
       "select": "body"
     },
     "Trackers Policy": {
@@ -14,7 +14,7 @@
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "https://vusevapor.com/terms-of-sale ",
+      "fetch": "https://vusevapor.com/terms-of-sale",
       "select": "body"
     }
   }

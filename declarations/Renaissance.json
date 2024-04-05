@@ -2,7 +2,7 @@
   "name": "Renaissance",
   "documents": {
     "Copyright Claims Policy": {
-      "fetch": "https://www.renaissance.com/copyright-policy/ ",
+      "fetch": "https://www.renaissance.com/copyright-policy/",
       "select": "body"
     },
     "Terms of Service": {

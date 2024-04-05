@@ -2,7 +2,7 @@
   "name": "Gamersnexus",
   "documents": {
     "General Conditions of Sale": {
-      "fetch": "https://store.gamersnexus.net/store-info ",
+      "fetch": "https://store.gamersnexus.net/store-info",
       "select": "body"
     },
     "Privacy Policy": {

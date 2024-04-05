@@ -2,7 +2,7 @@
   "name": "Worthpoint",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.worthpoint.com/page/terms-use ",
+      "fetch": "https://www.worthpoint.com/page/terms-use",
       "select": "body"
     },
     "Privacy Policy": {

@@ -2,7 +2,7 @@
   "name": "Amgen",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://wwwext.amgen.com/privacy-statement ",
+      "fetch": "https://wwwext.amgen.com/privacy-statement",
       "select": "body"
     },
     "Terms of Service": {

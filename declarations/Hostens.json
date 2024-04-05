@@ -6,7 +6,7 @@
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "https://www.hostens.com/legal/terms-of-service/ ",
+      "fetch": "https://www.hostens.com/legal/terms-of-service/",
       "select": "body"
     },
     "Privacy Policy": {

@@ -10,7 +10,7 @@
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://streamelements.com/privacy ",
+      "fetch": "https://streamelements.com/privacy",
       "select": "body"
     },
     "Terms of Service": {

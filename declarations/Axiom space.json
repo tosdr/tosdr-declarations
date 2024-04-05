@@ -6,7 +6,7 @@
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "https://www.axiomspace.com/terms-and-conditions ",
+      "fetch": "https://www.axiomspace.com/terms-and-conditions",
       "select": "body"
     }
   }

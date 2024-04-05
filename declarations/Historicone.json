@@ -14,7 +14,7 @@
       "select": "html > body > main > div"
     },
     "Terms of Service": {
-      "fetch": "https://historic.one/tou ",
+      "fetch": "https://historic.one/tou",
       "select": "html > body > main > div"
     }
   }

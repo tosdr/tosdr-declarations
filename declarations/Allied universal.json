@@ -2,7 +2,7 @@
   "name": "Allied universal",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.aus.com/privacy-policyhttps://www.aus.com/privacy-policyhttps://www.aus.com/privacy-policy ",
+      "fetch": "https://www.aus.com/privacy-policyhttps://www.aus.com/privacy-policyhttps://www.aus.com/privacy-policy",
       "select": "body"
     },
     "Terms of Service": {

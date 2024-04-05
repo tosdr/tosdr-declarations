@@ -2,11 +2,11 @@
   "name": "Romance scam",
   "documents": {
     "Trackers Policy": {
-      "fetch": "https://romancescam.com/cookie-policy.htm ",
+      "fetch": "https://romancescam.com/cookie-policy.htm",
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://www.romancescam.com/forum/ucp.php?mode=privacy ",
+      "fetch": "https://www.romancescam.com/forum/ucp.php?mode=privacy",
       "select": "body"
     },
     "Terms of Service": {

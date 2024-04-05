@@ -6,7 +6,7 @@
       "select": "body"
     },
     "Trackers Policy": {
-      "fetch": "www.whereby.com/information/tos/cookie-policy/",
+      "fetch": "https://www.whereby.com/information/tos/cookie-policy/",
       "select": "body"
     },
     "Terms of Service": {

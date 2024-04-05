@@ -2,7 +2,7 @@
   "name": "Sirius xm radio inc",
   "documents": {
     "General Conditions of Sale": {
-      "fetch": "https://shop.siriusxm.com/return-policy.html?intcmp=GN_FOOTER_NEW_ReturnPolicy ",
+      "fetch": "https://shop.siriusxm.com/return-policy.html?intcmp=GN_FOOTER_NEW_ReturnPolicy",
       "select": "body"
     },
     "Terms of Service": {

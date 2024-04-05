@@ -2,7 +2,7 @@
   "name": "Applebees",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.applebees.com/en/mobile-program ",
+      "fetch": "https://www.applebees.com/en/mobile-program",
       "select": "body"
     },
     "Terms of Service": {

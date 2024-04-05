@@ -2,7 +2,7 @@
   "name": "Harbor freight tools",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.harborfreight.com/terms-and-conditions ",
+      "fetch": "https://www.harborfreight.com/terms-and-conditions",
       "select": "body"
     },
     "Privacy Policy": {

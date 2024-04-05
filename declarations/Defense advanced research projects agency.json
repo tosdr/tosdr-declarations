@@ -2,7 +2,7 @@
   "name": "Defense advanced research projects agency",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.darpa.mil/policy/usage-policy ",
+      "fetch": "https://www.darpa.mil/policy/usage-policy",
       "select": "body"
     }
   }

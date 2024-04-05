@@ -2,7 +2,7 @@
   "name": "Bridtv",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://cms.brid.tv/pages/view/privacy ",
+      "fetch": "https://cms.brid.tv/pages/view/privacy",
       "select": "body"
     },
     "Terms of Service": {

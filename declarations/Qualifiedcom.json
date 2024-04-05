@@ -2,7 +2,7 @@
   "name": "Qualifiedcom",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.qualified.com/legal/dpa ",
+      "fetch": "https://www.qualified.com/legal/dpa",
       "select": "body"
     },
     "Acceptable Use Policy": {

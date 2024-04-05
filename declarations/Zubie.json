@@ -2,11 +2,11 @@
   "name": "Zubie",
   "documents": {
     "Trackers Policy": {
-      "fetch": "https://zubie.com/cookie-policy/ ",
+      "fetch": "https://zubie.com/cookie-policy/",
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://zubie.com/privacy/ ",
+      "fetch": "https://zubie.com/privacy/",
       "select": "body"
     },
     "Terms of Service": {

@@ -2,7 +2,7 @@
   "name": "Fox 4 news",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.fox4news.com/privacy-policy ",
+      "fetch": "https://www.fox4news.com/privacy-policy",
       "select": "body"
     },
     "Terms of Service": {

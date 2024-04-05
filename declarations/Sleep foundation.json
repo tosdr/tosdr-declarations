@@ -2,7 +2,7 @@
   "name": "Sleep foundation",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.sleepfoundation.org/about-us/terms-of-use ",
+      "fetch": "https://www.sleepfoundation.org/about-us/terms-of-use",
       "select": "body"
     },
     "Privacy Policy": {

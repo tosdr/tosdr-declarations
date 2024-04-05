@@ -2,7 +2,7 @@
   "name": "Wisegeekcom",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.wise-geek.com/what-are-terms-and-conditions.htm ",
+      "fetch": "https://www.wise-geek.com/what-are-terms-and-conditions.htm",
       "select": "body"
     },
     "Privacy Policy": {

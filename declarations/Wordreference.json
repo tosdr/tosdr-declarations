@@ -2,7 +2,7 @@
   "name": "Wordreference",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.wordreference.com/english/Privacy Policy.htm",
+      "fetch": "https://www.wordreference.com/english/Privacy%20Policy.htm",
       "select": "html > body > div:first-of-type > div:nth-of-type(3) > table > tbody > tr > td > div"
     },
     "Terms of Service": {

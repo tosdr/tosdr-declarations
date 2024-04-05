@@ -2,7 +2,7 @@
   "name": "Id watchdog",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.idwatchdog.com/terms ",
+      "fetch": "https://www.idwatchdog.com/terms",
       "select": "body"
     },
     "Privacy Policy": {

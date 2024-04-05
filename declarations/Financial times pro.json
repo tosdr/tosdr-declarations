@@ -2,7 +2,7 @@
   "name": "Financial times pro",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://financialtimespro.com/terms ",
+      "fetch": "https://financialtimespro.com/terms",
       "select": "body"
     },
     "Privacy Policy": {

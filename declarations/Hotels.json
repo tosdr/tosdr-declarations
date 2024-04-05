@@ -10,7 +10,7 @@
       "select": "body"
     },
     "Trackers Policy": {
-      "fetch": "https://www.hotels.com/lp/b/cookie ",
+      "fetch": "https://www.hotels.com/lp/b/cookie",
       "select": "body"
     }
   }

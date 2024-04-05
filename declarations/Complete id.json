@@ -2,7 +2,7 @@
   "name": "Complete id",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.completeid.com/privacy-policy/ ",
+      "fetch": "https://www.completeid.com/privacy-policy/",
       "select": "body"
     },
     "Terms of Service": {

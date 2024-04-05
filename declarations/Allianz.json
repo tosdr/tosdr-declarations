@@ -2,7 +2,7 @@
   "name": "Allianz",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.allianz.com/en/privacy-statement.html ",
+      "fetch": "https://www.allianz.com/en/privacy-statement.html",
       "select": "body"
     },
     "Terms of Service": {

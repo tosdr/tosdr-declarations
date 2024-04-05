@@ -2,7 +2,7 @@
   "name": "Gapscult",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://gapscult.com/feed/pages/privacy-policy ",
+      "fetch": "https://gapscult.com/feed/pages/privacy-policy",
       "select": "body"
     },
     "Terms of Service": {

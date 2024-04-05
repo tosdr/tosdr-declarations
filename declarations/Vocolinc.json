@@ -2,7 +2,7 @@
   "name": "Vocolinc",
   "documents": {
     "General Conditions of Sale": {
-      "fetch": "https://www.vocolinc.com/pages/shipping-policy ",
+      "fetch": "https://www.vocolinc.com/pages/shipping-policy",
       "select": "body"
     },
     "Terms of Service": {

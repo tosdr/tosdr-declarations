@@ -6,11 +6,11 @@
       "select": "body"
     },
     "General Conditions of Sale": {
-      "fetch": "https://www.weareverincontinence.com/our-guarantee-returns-and-promotions-policy/ ",
+      "fetch": "https://www.weareverincontinence.com/our-guarantee-returns-and-promotions-policy/",
       "select": "body"
     },
     "Privacy Policy": {
-      "fetch": "https://www.weareverincontinence.com/privacy-policy/ ",
+      "fetch": "https://www.weareverincontinence.com/privacy-policy/",
       "select": "body"
     }
   }

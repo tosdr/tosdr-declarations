@@ -2,11 +2,11 @@
   "name": "Vidcloud9",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://vidcloud9.org/privacy ",
+      "fetch": "https://vidcloud9.org/privacy",
       "select": "body"
     },
     "Copyright Claims Policy": {
-      "fetch": "https://vidcloud9.org/dmca ",
+      "fetch": "https://vidcloud9.org/dmca",
       "select": "body"
     },
     "Terms of Service": {

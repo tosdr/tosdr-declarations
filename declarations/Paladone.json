@@ -2,7 +2,7 @@
   "name": "Paladone",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://paladone.com/terms-conditions ",
+      "fetch": "https://paladone.com/terms-conditions",
       "select": "body"
     },
     "Trackers Policy": {

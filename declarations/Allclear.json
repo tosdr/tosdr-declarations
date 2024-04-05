@@ -6,7 +6,7 @@
       "select": "html > body > div:first-of-type > section:nth-of-type(2) > section:nth-of-type(2)"
     },
     "Privacy Policy": {
-      "fetch": "https://www.allclearid.com/privacy-policy/identity-protection/ ",
+      "fetch": "https://www.allclearid.com/privacy-policy/identity-protection/",
       "select": "body"
     }
   }

@@ -6,7 +6,7 @@
       "select": "body"
     },
     "Terms of Service": {
-      "fetch": "https://legacybox.com/pages/website-terms-of-use ",
+      "fetch": "https://legacybox.com/pages/website-terms-of-use",
       "select": "body"
     }
   }

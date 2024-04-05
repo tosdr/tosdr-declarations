@@ -2,7 +2,7 @@
   "name": "Black blum uk",
   "documents": {
     "General Conditions of Sale": {
-      "fetch": "https://black-blum.com/pages/delivery-returns ",
+      "fetch": "https://black-blum.com/pages/delivery-returns",
       "select": "body"
     },
     "Privacy Policy": {

@@ -2,7 +2,7 @@
   "name": "Trend enterprises",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.trendenterprises.com/pages/privacy-policy ",
+      "fetch": "https://www.trendenterprises.com/pages/privacy-policy",
       "select": "body"
     },
     "Terms of Service": {

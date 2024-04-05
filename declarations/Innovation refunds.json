@@ -2,7 +2,7 @@
   "name": "Innovation refunds",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://www.innovationrefunds.com/privacy ",
+      "fetch": "https://www.innovationrefunds.com/privacy",
       "select": "body"
     },
     "Terms of Service": {

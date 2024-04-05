@@ -10,15 +10,15 @@
       "select": "body"
     },
     "Other": {
-      "fetch": "https://www.earthlink.net/tcs/automatic-payments-authorization/ ",
+      "fetch": "https://www.earthlink.net/tcs/automatic-payments-authorization/",
       "select": "body"
     },
     "Copyright Claims Policy": {
-      "fetch": "https://www.earthlink.net/tcs/dmca-policy/ ",
+      "fetch": "https://www.earthlink.net/tcs/dmca-policy/",
       "select": "body"
     },
     "Acceptable Use Policy": {
-      "fetch": "https://www.earthlink.net/tcs/acceptable-use-policy/ ",
+      "fetch": "https://www.earthlink.net/tcs/acceptable-use-policy/",
       "select": "body"
     }
   }

@@ -2,7 +2,7 @@
   "name": "Aura technologies",
   "documents": {
     "Privacy Policy": {
-      "fetch": "https://aura.company/privacy-policy/ ",
+      "fetch": "https://aura.company/privacy-policy/",
       "select": "body"
     },
     "Terms of Service": {

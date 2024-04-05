@@ -2,7 +2,7 @@
   "name": "Access wireless",
   "documents": {
     "Policy": {
-      "fetch": "https://www.accesswireless.com/support/unlocking-policy ",
+      "fetch": "https://www.accesswireless.com/support/unlocking-policy",
       "select": "body"
     },
     "Terms of Service": {
@@ -10,7 +10,7 @@
       "select": "body"
     },
     "Acceptable Use Policy": {
-      "fetch": "https://www.accesswireless.com/support/website-terms ",
+      "fetch": "https://www.accesswireless.com/support/website-terms",
       "select": "body"
     },
     "Privacy Policy": {

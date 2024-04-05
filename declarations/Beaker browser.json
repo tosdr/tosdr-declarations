@@ -2,7 +2,7 @@
   "name": "Beaker browser",
   "documents": {
     "Vulnerability Disclosure Policy": {
-      "fetch": "https://beakerbrowser.com/vuln-disclosure/ ",
+      "fetch": "https://beakerbrowser.com/vuln-disclosure/",
       "select": "body"
     },
     "Frequently Asked Questions": {
