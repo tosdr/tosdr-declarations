@@ -36,6 +36,11 @@
     "smtp": {
       "host": "smtp.sendgrid.net",
       "username": "tosdr-bot"
+    },
+    "sendMailOnError": {
+      "to": "madeline.w.oleary@gmail.com",
+      "from": "no-reply@tosdr.org",
+      "sendWarnings": true,
     }
   },
   "reporter": {
