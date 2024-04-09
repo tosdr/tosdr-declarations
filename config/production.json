@@ -38,7 +38,7 @@
       "username": "tosdr-bot"
     },
     "sendMailOnError": {
-      "to": "madeline.w.oleary@gmail.com",
+      "to": "tosdr.alerts@gmail.com",
       "from": "no-reply@tosdr.org",
       "sendWarnings": true,
     }
