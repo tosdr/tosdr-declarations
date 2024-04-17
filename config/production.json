@@ -35,7 +35,7 @@
   "logger": {
     "smtp": {
       "host": "smtp.sendgrid.net",
-      "username": "tosdr-bot"
+      "username": "apikey"
     },
     "sendMailOnError": {
       "to": "tosdr.alerts@gmail.com",
