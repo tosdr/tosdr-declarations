@@ -40,7 +40,7 @@
     "sendMailOnError": {
       "to": "tosdr.alerts@gmail.com",
       "from": "no-reply@tosdr.org",
-      "sendWarnings": true,
+      "sendWarnings": false
     }
   },
   "reporter": {
