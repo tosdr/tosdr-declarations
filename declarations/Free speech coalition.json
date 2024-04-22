@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.freespeechcoalition.com/privacy-policy",
-      "select": "html > body > div:nth-of-type(4) > div:nth-of-type(2) > div > main"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.freespeechcoalition.com/terms-of-use",

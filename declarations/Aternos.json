@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://aternos.gmbh/en/aternos/privacy",
-      "select": "html > body > div > main"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://aternos.gmbh/en/aternos/terms",

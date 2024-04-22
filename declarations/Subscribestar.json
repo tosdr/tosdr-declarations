@@ -7,11 +7,11 @@
     },
     "General Conditions of Sale": {
       "fetch": "https://www.subscribestar.com/refund",
-      "select": "html > body > div:first-of-type > div:first-of-type > div:nth-of-type(2) > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.subscribestar.com/privacy",
-      "select": "html > body > div:first-of-type > div:first-of-type > div:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://www.molocoads.com/en/privacy-policy",
-      "select": "html > body > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://cdn-f.adsmoloco.com/moloco-cdn/privacy.html",
@@ -11,7 +11,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.molocoads.com/advertising-policy",
-      "select": "html > body > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div > div > div"
+      "select": "body"
     }
   }
 }

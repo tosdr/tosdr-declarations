@@ -3,11 +3,11 @@
   "documents": {
     "General Conditions of Sale": {
       "fetch": "https://www.truaudio.com/return-policy/",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.truaudio.com/privacy-policy",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

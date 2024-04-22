@@ -3,11 +3,11 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://www.jacuzzi.com/en-us/privacy-policy.html",
-      "select": "html > body > div:first-of-type > div:first-of-type > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.jacuzzi.com/en-us/terms-of-service.html",
-      "select": "html > body > div:first-of-type > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

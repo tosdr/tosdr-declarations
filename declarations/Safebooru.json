@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://safebooru.org/tos.php",
-      "select": "html > body > div:nth-of-type(5) > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://safebooru.org/pp.php",
-      "select": "html > body > div:nth-of-type(5) > div > div"
+      "select": "body"
     }
   }
 }

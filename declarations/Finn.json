@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://hjelpesenter.finn.no/hc/no/articles/305274",
-      "select": "html > body > main > div > div > div > article > section:first-of-type"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://hjelpesenter.finn.no/hc/no/articles/211876885",
-      "select": "html > body > main > div > div > div > article > section:first-of-type"
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Legal Information": {
       "fetch": "https://www.kimai.org/en/site-notice.html",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(2)"
+      "select": "body"
     }
   }
 }

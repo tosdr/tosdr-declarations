@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://messari.s3.amazonaws.com/privacy.html",
-      "select": "html > body > main > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://messari.s3.amazonaws.com/termsofuse.html",
-      "select": "html > body > div"
+      "select": "body"
     }
   }
 }

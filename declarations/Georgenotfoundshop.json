@@ -7,11 +7,11 @@
     },
     "General Conditions of Sale": {
       "fetch": "https://georgenotfound.shop/policies/shipping-policy",
-      "select": "html > body > section > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://georgenotfound.shop/policies/terms-of-service",
-      "select": "html > body > section > div"
+      "select": "body"
     }
   }
 }

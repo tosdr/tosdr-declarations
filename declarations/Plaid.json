@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://plaid.com/legal/",
-      "select": " > div"
+      "select": "body"
     }
   }
 }

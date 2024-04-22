@@ -11,7 +11,7 @@
     },
     "Copyright Claims Policy": {
       "fetch": "https://pages.lazada.sg/wow/i/sg/LandingPage/IPR",
-      "select": "html > body > div:nth-of-type(3) > div > div"
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://pages.lazada.sg/wow/gcp/route/lazada/sg/upr_1000345_lazada/channel/sg/upr-router/sg?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/sg/tnc/bzEShiEi4d",

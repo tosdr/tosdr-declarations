@@ -7,11 +7,11 @@
     },
     "Terms of Service": {
       "fetch": "https://www.mojeek.com/about/terms.html",
-      "select": " > section > div > div > div > div"
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://www.mojeek.com/about/content/",
-      "select": " > section > div > div > div > div"
+      "select": "body"
     }
   }
 }

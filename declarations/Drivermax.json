@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.drivermax.com/terms_and_conditions.htm",
-      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

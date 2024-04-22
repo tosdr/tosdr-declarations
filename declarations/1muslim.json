@@ -3,11 +3,11 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "http://1muslimapp.com/cookie-policy-en.html",
-      "select": "html > body > div:first-of-type > div > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://1muslimapp.com/privacy-policy-en.html",
-      "select": "html > body > div:first-of-type > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://1muslimapp.com/tos-en.html",

@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://tacotimefranchise.com/privacy/",
-      "select": "html > body > article > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.tacotime.com/about/terms/index.php",

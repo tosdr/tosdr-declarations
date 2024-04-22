@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.scorecardresearch.com/TermsOfService.aspx?newlanguage=1",
-      "select": "html > body > div:first-of-type > form > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > table > tbody > tr > td > div > table > tbody > tr > td > table > tbody > tr > td > table > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > div > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.scorecardresearch.com/privacy.aspx?newlanguage=1",
-      "select": "html > body > div:first-of-type > form > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > table > tbody > tr > td > div > table > tbody > tr > td > table > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr > td > div > div > div"
+      "select": "body"
     }
   }
 }

@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://qodeinteractive.com/privacy-policy/",
-      "select": "html > body > div:nth-of-type(2) > div > div > div > div > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://qodeinteractive.com/terms-of-use/",
-      "select": "html > body > div:nth-of-type(2) > div > div > div > div > div > div > div"
+      "select": "body"
     }
   }
 }

@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://lc-tech.com/user-agreement/",
-      "select": "html > body > div:first-of-type > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://lc-tech.com/privacypolicy/",
-      "select": "html > body > div:first-of-type > div > div"
+      "select": "body"
     }
   }
 }

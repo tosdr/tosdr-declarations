@@ -7,15 +7,15 @@
     },
     "Law Enforcement Guidelines": {
       "fetch": "https://www.sofi.com/login/policy/arbitration",
-      "select": "html > body > div:first-of-type > div:first-of-type > footer > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.sofi.com/terms-of-use/",
-      "select": "html > body > div:nth-of-type(3) > div:nth-of-type(2) > section > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.sofi.com/online-privacy-policy/",
-      "select": "html > body > div:nth-of-type(3) > div:nth-of-type(2) > section > div"
+      "select": "body"
     }
   }
 }

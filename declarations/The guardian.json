@@ -11,7 +11,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.theguardian.com/info/cookies",
-      "select": "html > body > div:nth-of-type(3) > article > div:nth-of-type(2) > div > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://iops360.com/iops360/about-us/privacy-security/",
-      "select": "html > body > div:first-of-type > div > div > div:first-of-type > div > article > div"
+      "select": "body"
     }
   }
 }

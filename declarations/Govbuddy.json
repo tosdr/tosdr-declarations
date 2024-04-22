@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.govbuddy.com/about/privacy/",
-      "select": "html > body > section > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.govbuddy.com/about/tos/",
-      "select": "html > body > section > div"
+      "select": "body"
     }
   }
 }

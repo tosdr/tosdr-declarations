@@ -3,7 +3,7 @@
   "documents": {
     "General Conditions of Sale": {
       "fetch": "https://sunnahosstore-id.com/pages/mailing-and-refund-policy",
-      "select": "html > body > div:nth-of-type(2) > main > div"
+      "select": "body"
     }
   }
 }

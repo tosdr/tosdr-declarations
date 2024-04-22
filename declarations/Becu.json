@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://becu.org/security-and-privacy",
-      "select": "html > body > main > div:first-of-type > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://becu.org/-/media/Files/PDF/BECUTermsandConditions.pdf",

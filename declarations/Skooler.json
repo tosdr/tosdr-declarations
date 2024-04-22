@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://mconnect.skooler.com/privacy",
-      "select": "html > body > div:first-of-type > main > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://mconnect.skooler.com/tou",
-      "select": "html > body > div:first-of-type > main > div > div > div"
+      "select": "body"
     }
   }
 }

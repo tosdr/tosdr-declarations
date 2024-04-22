@@ -7,7 +7,7 @@
     },
     "Legal Information": {
       "fetch": "https://aerogarden.com/ideas-and-inspiration/privacy-notice.html#cookies",
-      "select": "html > body > div:first-of-type > div > div > div:nth-of-type(2)"
+      "select": "body"
     }
   }
 }

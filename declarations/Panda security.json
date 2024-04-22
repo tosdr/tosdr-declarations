@@ -3,11 +3,11 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://www.pandasecurity.com/en/homeusers/media/legal-notice/",
-      "select": "html > body > form > div:first-of-type > div:first-of-type > div:nth-of-type(2) > div > div"
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://www.pandasecurity.com/en/homeusers/media/legal-notice/refund.htm",
-      "select": "html > body > form > div:first-of-type > div:first-of-type > div:nth-of-type(2) > div > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.pandasecurity.com/en/homeusers/media/cookies-policy/",

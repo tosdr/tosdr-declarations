@@ -3,7 +3,7 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://www.digicert.com/digicert-privacy-policy",
-      "select": "html > body > div:first-of-type > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.digicert.com/legal-repository/Master-Services-Agreement.pdf",

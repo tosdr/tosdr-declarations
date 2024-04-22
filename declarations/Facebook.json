@@ -3,7 +3,7 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.facebook.com/policies/cookies/",
-      "select": "html > body > div:first-of-type > div:nth-of-type(3) > div:first-of-type > div > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.facebook.com/about/basics",
@@ -11,7 +11,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.facebook.com/legal/terms",
-      "select": "html > body > div:first-of-type > div:nth-of-type(3) > div:first-of-type > div > div > div:nth-of-type(2)"
+      "select": "body"
     },
     "Other": {
       "fetch": "https://www.facebook.com/help/186325668085084",

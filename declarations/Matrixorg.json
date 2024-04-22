@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://matrix.org/legal/terms-and-conditions",
-      "select": " > div:first-of-type > div > div"
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://matrix.org/legal/code-of-conduct",

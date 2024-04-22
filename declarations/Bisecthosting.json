@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.bisecthosting.com/tos.php",
-      "select": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > pre"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.bisecthosting.com/privacy.php",
-      "select": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > pre > span"
+      "select": "body"
     }
   }
 }

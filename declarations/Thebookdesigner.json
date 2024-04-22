@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.thebookdesigner.com/privacy-policy/",
-      "select": "html > body > div:first-of-type > div > div > div > article > div > div > div > div > div > div:first-of-type"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.thebookdesigner.com/terms/",
-      "select": "html > body > div:first-of-type > div > div > div > article > div > div > div > div > div > div:first-of-type"
+      "select": "body"
     }
   }
 }

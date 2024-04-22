@@ -3,7 +3,7 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://monzo.com/legal/terms-and-conditions",
-      "select": "html > body > div:first-of-type > div:first-of-type > section > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://monzo.com/legal/cookie-notice/",

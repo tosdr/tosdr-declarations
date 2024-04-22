@@ -3,23 +3,23 @@
   "documents": {
     "General Conditions of Sale": {
       "fetch": "https://www.trafficauthority.net/legal/refund.php",
-      "select": " > div > div:first-of-type > div"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.trafficauthority.net/legal/compliance.php",
-      "select": " > div > div:nth-of-type(5)"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.trafficauthority.net/legal/privacy.php",
-      "select": " > div > div:first-of-type > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.trafficauthority.net/legal/terms.php",
-      "select": " > div > div:first-of-type > div"
+      "select": "body"
     },
     "Affiliate Disclosure": {
       "fetch": "https://www.trafficauthority.net/legal/affiliate.php",
-      "select": "html > body > div > div:nth-of-type(3) > div > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

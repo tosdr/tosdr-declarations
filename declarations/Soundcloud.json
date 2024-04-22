@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://soundcloud.com/pages/privacy",
-      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(2) > div > div > div:first-of-type > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://soundcloud.com/terms-of-use",
@@ -15,7 +15,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://soundcloud.com/pages/cookies",
-      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(2) > div > div > div:first-of-type > div > div"
+      "select": "body"
     }
   }
 }

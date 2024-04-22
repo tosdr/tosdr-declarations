@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.wefi.com/terms-of-use",
-      "select": "html > body > div:nth-of-type(4) > div:nth-of-type(2) > div > main > section"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.wefi.com/privacy",

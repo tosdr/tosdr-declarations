@@ -3,19 +3,19 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://spideroak.com/privacy-policy/",
-      "select": "html > body > div:nth-of-type(2) > div > div > section:nth-of-type(2) > div > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://spideroak.com/service-agreement/",
-      "select": "html > body > div:nth-of-type(2) > div > div > section:nth-of-type(2) > div > div > div > div"
+      "select": "body"
     },
     "Law Enforcement Guidelines": {
       "fetch": "https://spideroak.com/law-enforcement/",
-      "select": "html > body > div:nth-of-type(2) > div > div > section:nth-of-type(2) > div > div > div > div"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://spideroak.com/hipaa/",
-      "select": "html > body > div:nth-of-type(2) > div > div > section:nth-of-type(2) > div > div > div > div"
+      "select": "body"
     }
   }
 }

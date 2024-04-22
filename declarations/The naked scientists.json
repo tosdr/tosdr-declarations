@@ -3,7 +3,7 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.thenakedscientists.com/privacy-cookie-and-copyright-policies",
-      "select": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > section"
+      "select": "body"
     }
   }
 }

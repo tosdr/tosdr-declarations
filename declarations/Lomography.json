@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.lomography.com/about/terms",
-      "select": "html > body > div:first-of-type > div:first-of-type > section > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.lomography.com/about/privacy",
-      "select": "html > body > div:first-of-type > div > section > div"
+      "select": "body"
     }
   }
 }

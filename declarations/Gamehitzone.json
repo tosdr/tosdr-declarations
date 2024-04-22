@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "http://www.gamehitzone.com/privacy.html",
-      "select": "html > body > div:first-of-type > div > p"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "http://www.gamehitzone.com/cookies.html",

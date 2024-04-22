@@ -7,7 +7,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://support.aminoapps.com/hc/en-us/articles/360004040313-Does-Amino-use-cookies-on-its-website-",
-      "select": " > article > section:first-of-type > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://narvii.com/tos.html",

@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://webcompat.com/terms",
-      "select": " > section > article > div"
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://github.com/webcompat/webcompat.com/blob/72d563cb22e46351c7b068fa838d77ed08ee91ca/CODE_OF_CONDUCT.md",
-      "select": " > article"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://webcompat.com/privacy",

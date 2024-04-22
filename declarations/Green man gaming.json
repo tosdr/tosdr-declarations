@@ -7,15 +7,15 @@
     },
     "Terms of Service": {
       "fetch": "https://www.greenmangaming.com/terms-and-conditions/",
-      "select": " > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.greenmangaming.com/cookie-policy/",
-      "select": " > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div"
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://www.greenmangaming.com/refund-policy/",
-      "select": " > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

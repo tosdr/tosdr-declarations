@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.regain.us/privacy/",
-      "select": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.regain.us/terms/",
-      "select": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

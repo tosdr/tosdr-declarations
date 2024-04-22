@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.makingfamiliescount.org.uk/privacy",
-      "select": "html > body > div:first-of-type > div > div:first-of-type > main > article > div"
+      "select": "body"
     }
   }
 }

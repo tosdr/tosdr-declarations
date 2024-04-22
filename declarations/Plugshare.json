@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://company.plugshare.com/privacy.html",
-      "select": "html > body > div:first-of-type > div > section > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://company.plugshare.com/cookies.html",
-      "select": "html > body > div:first-of-type > div > section > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://company.plugshare.com/terms.html",
-      "select": "html > body > div:first-of-type > div > section > div"
+      "select": "body"
     }
   }
 }

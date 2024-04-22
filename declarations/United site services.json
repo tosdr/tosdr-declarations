@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.unitedsiteservices.com/privacy-policy/",
-      "select": "html > body > main > div:nth-of-type(9) > div > div"
+      "select": "body"
     }
   }
 }

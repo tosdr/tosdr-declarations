@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.y8.com/privacy?commit=Privacy+Policy",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.y8.com/cookie-policy",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.y8.com/terms",

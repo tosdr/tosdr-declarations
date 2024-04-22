@@ -3,7 +3,7 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://www.s-config.com/privacy-notice/",
-      "select": "html > body > div:first-of-type > div > div > main > article > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.s-config.com/faq/",

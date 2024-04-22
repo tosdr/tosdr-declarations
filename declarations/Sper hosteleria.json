@@ -3,7 +3,7 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://superhosteleria.es/content/aviso-legal",
-      "select": " > div"
+      "select": "body"
     }
   }
 }

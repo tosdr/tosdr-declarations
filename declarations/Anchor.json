@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://anchor.fm/privacy",
-      "select": "html > body > div:first-of-type > div > main > div > div"
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://anchor.fm/dmca",

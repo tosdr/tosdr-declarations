@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.hackingwithswift.com/privacy",
-      "select": "html > body > div:first-of-type > section > div"
+      "select": "body"
     }
   }
 }

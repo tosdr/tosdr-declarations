@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://scratch.mit.edu/terms_of_use",
-      "select": " > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://scratch.mit.edu/privacy_policy",
@@ -15,7 +15,7 @@
     },
     "Copyright Claims Policy": {
       "fetch": "https://scratch.mit.edu/DMCA",
-      "select": " > div > div:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

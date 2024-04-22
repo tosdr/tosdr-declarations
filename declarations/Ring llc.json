@@ -3,7 +3,7 @@
   "documents": {
     "General Conditions of Sale": {
       "fetch": "https://shop.ring.com/pages/warranty",
-      "select": "html > body > div:nth-of-type(5) > div > div > div > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://ring.com/cookie-policy",
@@ -15,7 +15,7 @@
     },
     "Legal Information": {
       "fetch": "https://ring.com/privacy-notice",
-      "select": "html > body > section > main > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://ring.com/terms",

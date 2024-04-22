@@ -7,7 +7,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.nbi-sems.com/cookie-policy",
-      "select": "html > body > div:first-of-type > div > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.nbi-sems.com/terms-of-use",

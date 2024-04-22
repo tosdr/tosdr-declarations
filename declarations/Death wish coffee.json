@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.deathwishcoffee.com/pages/terms-conditions-1",
-      "select": "html > body > main > div"
+      "select": "body"
     }
   }
 }

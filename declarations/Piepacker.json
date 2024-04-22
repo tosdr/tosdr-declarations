@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://piepacker.com/privacy.html",
-      "select": " > div > div > div > div"
+      "select": "body"
     }
   }
 }

@@ -3,15 +3,15 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.malcare.com/cookie-policy/",
-      "select": " > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.malcare.com/privacy/",
-      "select": " > div > div > div > div > div > div > div > div > div:first-of-type"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.malcare.com/tos/",
-      "select": " > div"
+      "select": "body"
     }
   }
 }

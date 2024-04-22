@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.knoll.com/terms-of-use/terms-of-use",
-      "select": "html > body > section > div"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.millerknoll.com/legal/privacy/privacy-notice",
@@ -11,7 +11,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.knoll.com/cookie-notice",
-      "select": "html > body > section > div"
+      "select": "body"
     }
   }
 }

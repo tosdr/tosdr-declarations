@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.youneedabudget.com/terms/",
-      "select": "html > body > div:first-of-type > main > article > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.youneedabudget.com/security/",

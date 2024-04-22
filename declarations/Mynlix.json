@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.nl-ix.net/about/privacy/",
-      "select": "html > body > div:first-of-type > div:first-of-type > section > div > div > div > div"
+      "select": "body"
     }
   }
 }

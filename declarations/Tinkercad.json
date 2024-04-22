@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.tinkercad.com/privacy",
-      "select": "html > body > div > div > app > div > div > main"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.autodesk.com/company/legal-notices-trademarks/terms-of-service-autodesk360-web-services/terms-of-service-for-tinkercad",

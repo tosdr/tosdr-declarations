@@ -3,7 +3,7 @@
   "documents": {
     "Policy": {
       "fetch": "https://store.childsplaycharity.org/pages/policies",
-      "select": "html > body > main > div > div > div"
+      "select": "body"
     }
   }
 }

@@ -11,7 +11,7 @@
     },
     "Legal Information": {
       "fetch": "https://www.pearson.com/en-gb/privacy-center/privacy-notices/full-privacy-notice.html#2",
-      "select": "html > body > main > div:first-of-type > div > section"
+      "select": "body"
     },
     "Other": {
       "fetch": "https://www.pearson.com/content/dam/global-store/global/privacy-center/pearson-Internal-data-transfers-tia-united-states-of-america.pdf",
@@ -19,7 +19,7 @@
     },
     "Records Keeping Policy": {
       "fetch": "https://www.pearson.com/en-gb/privacy-center/international-data-transfers.html",
-      "select": "html > body > main > div:first-of-type > div > section:nth-of-type(2)"
+      "select": "body"
     }
   }
 }

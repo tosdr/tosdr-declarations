@@ -11,7 +11,7 @@
     },
     "Copyright Claims Policy": {
       "fetch": "https://xvpn.io/?n=best.free.xvpn.AbusePage",
-      "select": "html > body > div:nth-of-type(4) > div > div > div"
+      "select": "body"
     }
   }
 }

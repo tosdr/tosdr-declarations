@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.positivityblog.com/privacy-policy/",
-      "select": "html > body > div:nth-of-type(2) > div > div"
+      "select": "body"
     }
   }
 }

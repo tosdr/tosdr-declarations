@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://parkmobile.io/privacy-policy/",
-      "select": " > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://parkmobile.io/terms-of-use/",
-      "select": " > div"
+      "select": "body"
     }
   }
 }

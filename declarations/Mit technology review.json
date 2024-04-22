@@ -3,15 +3,15 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.technologyreview.com/cookies/",
-      "select": " > div > div:first-of-type > div > div > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.technologyreview.com/privacy",
-      "select": " > div > div:first-of-type > div > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.technologyreview.com/terms-of-service/",
-      "select": " > div > div:first-of-type > div > div > div > div"
+      "select": "body"
     }
   }
 }

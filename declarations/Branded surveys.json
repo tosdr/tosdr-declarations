@@ -11,7 +11,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://surveys.gobranded.com/branded-surveys-cookie-policy/",
-      "select": " > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://surveys.gobranded.com/page/branded-surveys-terms-of-service/",

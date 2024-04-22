@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://forecast7.com/en/terms/",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://forecast7.com/en/privacy/",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

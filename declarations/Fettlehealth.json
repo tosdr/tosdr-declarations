@@ -3,11 +3,11 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://fettle.health/privacy-and-cookies",
-      "select": "html > body > div:first-of-type > div > main > section:nth-of-type(2) > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://fettle.health/terms-of-service",
-      "select": "html > body > div:first-of-type > div > main > section:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

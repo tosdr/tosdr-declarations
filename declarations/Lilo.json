@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.lilo.org/charte-donnees-personnelles/",
-      "select": "html > body > main > section > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.lilo.org/cgu-lilo/",
-      "select": " > div"
+      "select": "body"
     }
   }
 }

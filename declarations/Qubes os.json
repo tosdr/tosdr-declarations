@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.qubes-os.org/terms/",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

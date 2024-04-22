@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://yourdigitalrights.org/privacy",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

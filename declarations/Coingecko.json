@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.coingecko.com/en/privacy",
-      "select": "html > body > div:nth-of-type(3) > div:nth-of-type(2) > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.coingecko.com/en/terms",
-      "select": "html > body > div:nth-of-type(3) > div:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://corporate.harpercollins.co.uk/reporting/privacy-policy/",
-      "select": " > div > section"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.collinsdictionary.com/terms-and-conditions",

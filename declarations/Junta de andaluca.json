@@ -7,7 +7,7 @@
     },
     "Legal Information": {
       "fetch": "https://www.juntadeandalucia.es/informacion/legal.html",
-      "select": " > div"
+      "select": "body"
     },
     "Other": {
       "fetch": "https://www.juntadeandalucia.es/informacion/accesibilidad.html",

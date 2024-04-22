@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://carrd.co/docs/general/terms",
-      "select": " > div > section:first-of-type"
+      "select": "body"
     }
   }
 }

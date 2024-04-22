@@ -3,11 +3,11 @@
   "documents": {
     "General Conditions of Sale": {
       "fetch": "https://www.xtrixtv.com/warranty-return-policy.html",
-      "select": "html > body > div:first-of-type > div:nth-of-type(5) > div > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.xtrixtv.com/privacy-policy.html",
-      "select": "html > body > div:first-of-type > div:nth-of-type(5) > div > div > div"
+      "select": "body"
     }
   }
 }

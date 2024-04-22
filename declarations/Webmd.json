@@ -11,7 +11,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.webmd.com/about-webmd-policies/about-editorial-policy",
-      "select": "html > body > main > div:nth-of-type(2) > div:nth-of-type(2) > article > div > div:nth-of-type(5)"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.webmd.com/about-webmd-policies/cookie-policy",

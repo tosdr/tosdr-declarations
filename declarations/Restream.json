@@ -3,15 +3,15 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://restream.io/gdpr-compliance",
-      "select": "html > body > div > div > section"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://restream.io/privacy-policy",
-      "select": "html > body > div > div > section"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://restream.io/terms-of-service",
-      "select": "html > body > div > div > section"
+      "select": "body"
     }
   }
 }

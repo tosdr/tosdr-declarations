@@ -7,11 +7,11 @@
     },
     "Privacy Policy": {
       "fetch": "https://thefloridachannel.org/privacy-policy/",
-      "select": "html > body > main > div > section"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://thefloridachannel.org/about-tfc/cookie-policy/",
-      "select": "html > body > main > div > section"
+      "select": "body"
     }
   }
 }

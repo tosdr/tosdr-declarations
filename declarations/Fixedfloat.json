@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://fixedfloat.com/privacy-policy",
-      "select": "html > body > main > div > section > section"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://fixedfloat.com/terms-of-service",
-      "select": "html > body > main > div > section > section"
+      "select": "body"
     }
   }
 }

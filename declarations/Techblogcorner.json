@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://techblogcorner.com/privacy-policy/",
-      "select": "html > body > div:first-of-type > div > div > main > article > div > div:first-of-type"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://techblogcorner.com/terms-conditions/",
-      "select": "html > body > div:first-of-type > div > div > main > article > div > div:first-of-type"
+      "select": "body"
     }
   }
 }

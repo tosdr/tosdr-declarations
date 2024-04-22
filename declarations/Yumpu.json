@@ -7,7 +7,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.yumpu.com/en/info/cookie_policy",
-      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div > div > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.yumpu.com/en/info/privacy_policy",

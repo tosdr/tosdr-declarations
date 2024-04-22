@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://iea.org.uk/privacy-policy/",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

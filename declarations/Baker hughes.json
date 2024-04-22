@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.bakerhughes.com/terms",
-      "select": "html > body > div:first-of-type > div > main"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.bakerhughes.com/privacy",
-      "select": "html > body > div:first-of-type > div > main"
+      "select": "body"
     }
   }
 }

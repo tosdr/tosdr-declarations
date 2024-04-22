@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.dickssportinggoods.com/s/policy/terms-of-use",
-      "select": "html > body > div:first-of-type > div > div > main"
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://speedy.bg/bg/cookies",
-      "select": " > div > div > div > article"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.speedy.bg/bg/gdpr",

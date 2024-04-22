@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.esrb.org/privacy_statement/",
-      "select": "html > body > div:first-of-type > div:first-of-type > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.esrb.org/terms-of-use/",
-      "select": "html > body > div:first-of-type > div:first-of-type > div > div"
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Other": {
       "fetch": "https://www.cisco.com/c/en/us/about/brand-center/copyright-use/copyright-material-guidelines.html",
-      "select": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2)"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.cisco.com/c/en/us/about/legal/privacy-full.html",

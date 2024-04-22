@@ -7,11 +7,11 @@
     },
     "Terms of Service": {
       "fetch": "https://mullvad.net/en/help/terms-service/",
-      "select": "html > body > section > div > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://mullvad.net/en/help/cookie-policy/",
-      "select": "html > body > section > div"
+      "select": "body"
     }
   }
 }

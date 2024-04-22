@@ -7,11 +7,11 @@
     },
     "Terms of Service": {
       "fetch": "https://www.interpol.int/Who-we-are/Terms-of-use",
-      "select": "html > body > div:first-of-type > div:first-of-type > div:nth-of-type(5) > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.interpol.int/Who-we-are/Privacy-policy",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(5) > div"
+      "select": "body"
     }
   }
 }

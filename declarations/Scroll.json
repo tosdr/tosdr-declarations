@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://scroll.com/terms",
-      "select": "html > body > div:first-of-type > div > div > main > div > div"
+      "select": "body"
     }
   }
 }

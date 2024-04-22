@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://yt1s.com/terms-of-service",
-      "select": "html > body > div:first-of-type > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://yt1s.com/privacy-policy",
-      "select": "html > body > div:first-of-type > div > div"
+      "select": "body"
     }
   }
 }

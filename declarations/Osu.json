@@ -7,11 +7,11 @@
     },
     "Copyright Claims Policy": {
       "fetch": "https://osu.ppy.sh/legal/en/Copyright",
-      "select": "html > body > div:nth-of-type(8) > div:nth-of-type(2) > div > div:nth-of-type(2)"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://osu.ppy.sh/legal/en/Terms",
-      "select": "html > body > div:nth-of-type(8) > div:nth-of-type(2) > div > div:nth-of-type(2)"
+      "select": "body"
     }
   }
 }

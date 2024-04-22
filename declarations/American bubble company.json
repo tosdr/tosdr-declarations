@@ -3,15 +3,15 @@
   "documents": {
     "General Conditions of Sale": {
       "fetch": "https://bubbletreeusa.com/pages/returns",
-      "select": "html > body > div:nth-of-type(2) > main > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://bubbletreeusa.com/pages/terms-of-use",
-      "select": "html > body > div:nth-of-type(2) > main > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://bubbletreeusa.com/pages/privacy-policy",
-      "select": "html > body > div:nth-of-type(2) > main > div"
+      "select": "body"
     }
   }
 }

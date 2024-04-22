@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.wikitree.com/wiki/Help:Privacy_Policy",
-      "select": " > div"
+      "select": "body"
     },
     "Acceptable Use Policy": {
       "fetch": "https://www.wikitree.com/about/acceptable-use.html",

@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://medicalid.app/eula",
-      "select": "html > body > div:first-of-type > div > div"
+      "select": "body"
     }
   }
 }

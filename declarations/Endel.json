@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.endel.io/privacy-policy/",
-      "select": " > div > div > div > div"
+      "select": "body"
     }
   }
 }

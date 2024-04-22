@@ -3,19 +3,19 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://squareup.com/us/en/legal/general/privacy",
-      "select": " > section > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://squareup.com/us/en/legal/general/ua",
-      "select": " > section > div > div > div:first-of-type"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://squareup.com/ie/en/legal/general/cookie",
-      "select": " > section > div > div"
+      "select": "body"
     },
     "Vulnerability Disclosure Policy": {
       "fetch": "https://squareup.com/us/en/legal/general/california-privacy",
-      "select": " > section > div > div > div:first-of-type"
+      "select": "body"
     }
   }
 }

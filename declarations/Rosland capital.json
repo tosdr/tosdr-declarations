@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.roslandcapital.com/privacy-policy",
-      "select": "html > body > main > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.roslandcapital.com/customer-agreement",
-      "select": "html > body > main > div"
+      "select": "body"
     }
   }
 }

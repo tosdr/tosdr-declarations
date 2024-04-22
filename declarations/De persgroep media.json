@@ -3,15 +3,15 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.dpgmedia.be/fr/politique-en-matiere-de-cookies",
-      "select": " > div > div > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.dpgmedia.be/fr/conditions-d-utilisation",
-      "select": " > div > div > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.dpgmedia.be/fr/politique-de-confidentialite",
-      "select": " > div > div > div > div > div"
+      "select": "body"
     }
   }
 }

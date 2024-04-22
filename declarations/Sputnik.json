@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://sputnikglobe.com/docs/privacy_policy.html",
-      "select": "html > body > div:nth-of-type(2) > div:nth-of-type(3) > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://sputnikglobe.com/docs/terms_of_use.html",
-      "select": "html > body > div:nth-of-type(2) > div:nth-of-type(3) > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.iubenda.com/privacy-policy/75109402/cookie-policy",

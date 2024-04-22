@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.deezer.com/legal/personal-datas",
-      "select": "html > body > section > div > article"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.deezer.com/legal/cgu",
-      "select": "html > body > section > div > article"
+      "select": "body"
     }
   }
 }

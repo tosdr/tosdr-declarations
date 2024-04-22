@@ -15,7 +15,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://paxful.com/cookie-policy",
-      "select": " > section"
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.dictionnairedesfrancophones.org/politiqueconfidentialite",
-      "select": "html > body > div:first-of-type > div > main"
+      "select": "body"
     }
   }
 }

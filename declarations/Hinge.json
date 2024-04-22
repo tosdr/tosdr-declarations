@@ -11,7 +11,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://hinge.co/privacy/",
-      "select": "html > body > div:first-of-type > main > div > article"
+      "select": "body"
     }
   }
 }

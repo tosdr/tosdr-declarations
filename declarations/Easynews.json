@@ -7,7 +7,7 @@
     },
     "Acceptable Use Policy": {
       "fetch": "https://easynews.com/agreement/",
-      "select": "html > body > div:nth-of-type(2) > div > div > div:nth-of-type(2)"
+      "select": "body"
     }
   }
 }

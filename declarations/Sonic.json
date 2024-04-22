@@ -19,7 +19,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.sonic.com/business/terms",
-      "select": "html > body > main > div > section > div > div:nth-of-type(2) > section > article > div > div > div"
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.stepping-stone.ch/en/terms-and-conditions/",
-      "select": "html > body > div:first-of-type > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

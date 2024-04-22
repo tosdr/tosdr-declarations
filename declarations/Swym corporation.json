@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://swym.it/tos/",
-      "select": "html > body > main > div > div:first-of-type > div > div > section:first-of-type"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://swym.it/privacy/",
-      "select": "html > body > main > div > div:first-of-type > div > div > section:first-of-type"
+      "select": "body"
     }
   }
 }

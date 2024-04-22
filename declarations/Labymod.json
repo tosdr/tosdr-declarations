@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.labymod.net/en/legal/privacy",
-      "select": "body > html > body > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.whosampled.com/privacy/",
-      "select": "html > body > div:first-of-type > main > div:nth-of-type(3) > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.whosampled.com/terms/",

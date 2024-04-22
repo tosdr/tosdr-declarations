@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.seagate.com/legal-privacy/electronic-and-physical-security-and-data-protection/",
-      "select": " > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.seagate.com/legal-privacy/terms-and-conditions/",
@@ -15,11 +15,11 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.seagate.com/legal-privacy/cookie-table/",
-      "select": " > div > div > div"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.seagate.com/legal-privacy/california-consumer-privacy-act-notice/",
-      "select": " > div > div"
+      "select": "body"
     }
   }
 }

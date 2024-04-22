@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://navient.com/terms-of-use",
-      "select": "html > body > div > div:nth-of-type(2) > div > section > article"
+      "select": "body"
     }
   }
 }

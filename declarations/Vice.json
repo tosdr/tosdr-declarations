@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://vice-web-statics-cdn.vice.com/privacy-policy/en_us/page/privacy-policy.html",
-      "select": "html > body > main > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://vice-web-statics-cdn.vice.com/privacy-policy/en_us/page/terms-of-use.html",

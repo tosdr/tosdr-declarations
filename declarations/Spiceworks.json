@@ -7,11 +7,11 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.spiceworks.com/privacy/",
-      "select": "html > body > main > div > div:nth-of-type(2) > section > div:nth-of-type(2) > div > div > div > section > div > div:nth-of-type(2) > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.spiceworks.com/privacy/cookies/",
-      "select": "html > body > main > div > div:nth-of-type(2) > section > div:nth-of-type(2) > div > div > div > section > div > div:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.pulsz.com/privacy",
-      "select": "html > body > div:first-of-type > div:nth-of-type(3) > main > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.pulsz.com/legal/terms-of-use",

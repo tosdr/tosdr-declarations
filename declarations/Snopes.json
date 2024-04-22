@@ -11,7 +11,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.snopes.com/privacy-policy/",
-      "select": " > div"
+      "select": "body"
     }
   }
 }

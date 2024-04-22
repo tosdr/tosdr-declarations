@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.textnow.com/privacy",
-      "select": "html > body > main > section > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.textnow.com/terms",
@@ -11,7 +11,7 @@
     },
     "Acceptable Use Policy": {
       "fetch": "https://www.textnow.com/fairUse",
-      "select": "html > body > main > section > div"
+      "select": "body"
     }
   }
 }

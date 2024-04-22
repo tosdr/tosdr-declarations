@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://appdb.to/info/tos",
-      "select": " > section > div"
+      "select": "body"
     }
   }
 }

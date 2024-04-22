@@ -11,7 +11,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.artix.com/policy-privacy",
-      "select": "html > body > div:nth-of-type(3) > div > div > div > div"
+      "select": "body"
     }
   }
 }

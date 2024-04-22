@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://deveroonie.xyz/privacy",
-      "select": "html > body > div"
+      "select": "body"
     }
   }
 }

@@ -3,15 +3,15 @@
   "documents": {
     "Human Rights Policy": {
       "fetch": "https://www.treetop.com/human-rights/",
-      "select": " > article > div > div > div > main > article"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.treetop.com/privacy-policy/",
-      "select": " > article > div > div > div > main > article"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.treetop.com/terms-conditions/",
-      "select": " > article > div > div > div > main > article"
+      "select": "body"
     }
   }
 }

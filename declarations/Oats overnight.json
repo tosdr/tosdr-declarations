@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.oatsovernight.com/pages/privacy",
-      "select": "html > body > div:nth-of-type(4) > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.oatsovernight.com/pages/terms",

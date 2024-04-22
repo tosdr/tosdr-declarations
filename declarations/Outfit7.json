@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://outfit7.com/terms",
-      "select": " > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://outfit7.com/privacy-web/en",
-      "select": "html > body > div > div:first-of-type > div > main > div:nth-of-type(2) > div"
+      "select": "body"
     },
     "Policy": {
       "fetch": "https://outfit7.com/video-policy/en/",
-      "select": " > div:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

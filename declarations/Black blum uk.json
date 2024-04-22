@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://black-blum.com/pages/t-c-privacy-policy",
-      "select": "html > body > main > section > div"
+      "select": "body"
     }
   }
 }

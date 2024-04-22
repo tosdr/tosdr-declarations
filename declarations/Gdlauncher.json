@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://github.com/gorilla-devs/GDLauncher/blob/master/src/common/components/PrivacyPolicy.js",
-      "select": "html > body > div:nth-of-type(4) > div > main > div:nth-of-type(2)"
+      "select": "body"
     },
     "Acceptable Use Policy": {
       "fetch": "https://raw.githubusercontent.com/gorilla-devs/GDLauncher/master/src/common/components/AcceptableUsePolicy.js",

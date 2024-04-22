@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://disroot.org/en/tos",
-      "select": " > div > div"
+      "select": "body"
     }
   }
 }

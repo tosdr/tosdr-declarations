@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://ifastnet.com/privacy.php",
-      "select": "html > body > div:first-of-type > div > section:nth-of-type(2)"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://ifastnet.com/terms.php",
-      "select": "html > body > div:first-of-type > div > section:nth-of-type(2)"
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://ifastnet.com/cancellation-refund.php",

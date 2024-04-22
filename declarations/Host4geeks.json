@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://host4geeks.com/privacy/",
-      "select": "html > body > div:nth-of-type(2) > div > div > section > div > div > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://host4geeks.com/tos/",

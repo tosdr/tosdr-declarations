@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://bittube.tv/about/policy",
-      "select": "html > body > div:nth-of-type(5) > div > div:nth-of-type(3) > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://bittube.tv/about/terms",
-      "select": "html > body > div:nth-of-type(5) > div > div:nth-of-type(3) > div > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://bittube.tv/about/cookie",
-      "select": "html > body > div:nth-of-type(5) > div > div:nth-of-type(3) > div"
+      "select": "body"
     }
   }
 }

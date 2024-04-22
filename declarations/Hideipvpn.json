@@ -3,7 +3,7 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.hideipvpn.com/privacy-policy/",
-      "select": " > div > div > div > div:nth-of-type(2) > div > div > div > div > div > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.hideipvpn.com/terms-of-service/",

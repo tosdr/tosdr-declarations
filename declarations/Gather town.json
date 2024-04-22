@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.gather.town/data-processing-agreement",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

@@ -11,7 +11,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.usnews.com/features/info/privacy",
-      "select": " > div > div:nth-of-type(2) > div > div > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

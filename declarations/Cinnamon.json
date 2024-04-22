@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://cinnamon.video/settings/terms-of-service",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://cinnamon.video/settings/privacy-policy",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > div > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://cinnamon.video/settings/cookie-policy",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > div > div"
+      "select": "body"
     }
   }
 }

@@ -7,11 +7,11 @@
     },
     "Trackers Policy": {
       "fetch": "https://alternativeto.net/about/cookie-policy/",
-      "select": "html > body > div:first-of-type > div > main > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://alternativeto.net/about/privacy/",
-      "select": "html > body > div:first-of-type > div > main > div > div:nth-of-type(2) > div:nth-of-type(2)"
+      "select": "body"
     }
   }
 }

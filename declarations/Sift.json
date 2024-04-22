@@ -3,19 +3,19 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://sift.com/cookie-policy",
-      "select": "html > body > div:first-of-type > main > div"
+      "select": "body"
     },
     "Acceptable Use Policy": {
       "fetch": "https://sift.com/aup",
-      "select": "html > body > div:first-of-type > main > div > div"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://sift.com/site-privacy",
-      "select": "html > body > div:first-of-type > main > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://sift.com/tos",
-      "select": "html > body > div:first-of-type > main > div > div:first-of-type"
+      "select": "body"
     }
   }
 }

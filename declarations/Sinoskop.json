@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.sinoskop.de/blog/datenschutzerklaerung/",
-      "select": "html > body > main > article > div:first-of-type > div"
+      "select": "body"
     },
     "Other": {
       "fetch": "https://www.sinoskop.de/blog/impressum/",
-      "select": "html > body > main > article > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

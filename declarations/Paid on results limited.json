@@ -3,11 +3,11 @@
   "documents": {
     "Policy": {
       "fetch": "https://www.paidonresults.com/privacy.html",
-      "select": "html > body > div:first-of-type > section:nth-of-type(2) > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.paidonresults.com/terms.html",
-      "select": "html > body > div:first-of-type > section:nth-of-type(2) > div > div"
+      "select": "body"
     }
   }
 }

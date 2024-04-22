@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://seravo.com/terms/",
-      "select": "html > body > div:nth-of-type(3) > div > main > article > div"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://seravo.com/privacy-notice/",
-      "select": "html > body > div:nth-of-type(3) > div > main > article > div"
+      "select": "body"
     }
   }
 }

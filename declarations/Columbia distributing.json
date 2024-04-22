@@ -3,11 +3,11 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://www.coldist.com/legal/",
-      "select": "html > body > div:first-of-type > div > div > section > div > article > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.coldist.com/privacy-policy",
-      "select": "html > body > div:first-of-type > div > div > section > div > article > div > p"
+      "select": "body"
     }
   }
 }

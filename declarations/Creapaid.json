@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://creapaid.com/p/terms-of-service",
-      "select": "html > body > main > section > div > div:nth-of-type(2) > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://creapaid.com/p/privacy",
-      "select": "html > body > main > section > div > div:nth-of-type(2) > div > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://creapaid.com/p/cookies",
-      "select": "html > body > main > section > div > div:nth-of-type(2) > div > div"
+      "select": "body"
     }
   }
 }

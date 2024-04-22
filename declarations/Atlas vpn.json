@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://atlasvpn.com/privacy-policy",
-      "select": " > div:nth-of-type(4) > main > div"
+      "select": "body"
     }
   }
 }

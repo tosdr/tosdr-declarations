@@ -3,11 +3,11 @@
   "documents": {
     "General Conditions of Sale": {
       "fetch": "https://solokeys.com/policies/refund-policy",
-      "select": "html > body > div:first-of-type > main > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://solokeys.com/policies/terms-of-service",
-      "select": "html > body > div:first-of-type > main > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://solokeys.com/policies/privacy-policy",

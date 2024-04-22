@@ -11,7 +11,7 @@
     },
     "General Conditions of Sale": {
       "fetch": "https://www.zevia.com/policies/refund-policy",
-      "select": " > div > div:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

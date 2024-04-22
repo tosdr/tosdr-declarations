@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.morningbrew.com/privacy",
-      "select": "html > body > div:first-of-type > main > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.morningbrew.com/terms-service",

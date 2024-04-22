@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.nearlyfreespeech.net/about/privacy",
-      "select": "html > body > div:first-of-type > div > main"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.nearlyfreespeech.net/about/terms",
-      "select": "html > body > div:first-of-type > div > main"
+      "select": "body"
     }
   }
 }

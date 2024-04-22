@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.adscore.com/privacy-policy",
-      "select": "html > body > app-root > app-homepage > div > div:nth-of-type(2) > app-static-md-page > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.adscore.com/tos",
-      "select": "html > body > app-root > app-homepage > div > div:nth-of-type(2) > app-static-md-page > div > div > div"
+      "select": "body"
     }
   }
 }

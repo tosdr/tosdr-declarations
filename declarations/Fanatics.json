@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.fanatics.com/terms-and-conditions/ch-2323",
-      "select": "html > body > div:nth-of-type(2) > div > div:nth-of-type(5)"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.fanatics.com/what-is-your-privacy-policy/ch-2349",
-      "select": "html > body > div:nth-of-type(2) > div > div:nth-of-type(5)"
+      "select": "body"
     }
   }
 }

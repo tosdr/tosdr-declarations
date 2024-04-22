@@ -11,7 +11,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.polarsteps.com/terms-of-use",
-      "select": "html > body > div:nth-of-type(10) > div > div:nth-of-type(2) > div:nth-of-type(3) > div"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.polarsteps.com/notice-and-takedown",

@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.actionnewsjax.com/privacy-policy/",
-      "select": "html > body > div:first-of-type > section > div"
+      "select": "body"
     }
   }
 }

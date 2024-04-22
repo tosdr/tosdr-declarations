@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.kelloggstore.com/privacy-policy",
-      "select": " > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.kelloggcompany.com/en_US/legal.html",
-      "select": " > div"
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://www.kelloggstore.com/return-policy",
-      "select": " > div > div"
+      "select": "body"
     }
   }
 }

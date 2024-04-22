@@ -3,7 +3,7 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://florenfile.com/dmca.html",
-      "select": " > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://florenfile.com/tos.html",

@@ -11,7 +11,7 @@
     },
     "Closed Captioning Policy": {
       "fetch": "http://www.foxnews.com/closed-captioning-policy.html",
-      "select": "html > body > div > div > div > div > div:nth-of-type(2)"
+      "select": "body"
     }
   }
 }

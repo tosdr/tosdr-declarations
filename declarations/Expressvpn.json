@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.expressvpn.com/tos",
-      "select": "html > body > div:first-of-type > section > div > div"
+      "select": "body"
     }
   }
 }

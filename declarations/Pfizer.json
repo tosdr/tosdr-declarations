@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.pfizer.com/Privacy",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.pfizer.com/general/terms",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.keepersecurity.com/termsofuse.html?t=v",
-      "select": "html > body > div:first-of-type > main > div > section:first-of-type"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.keepersecurity.com/privacypolicy.html",

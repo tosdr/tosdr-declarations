@@ -7,7 +7,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.ryanair.com/ie/en/cookie-policy/www_ryanair_com",
-      "select": "html > body > cookies-root > cookies-app-container > div > main"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.ryanair.com/ie/en/corporate/terms-of-use",

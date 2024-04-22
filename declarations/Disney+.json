@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.disneyplus.com/en-gb/legal/uk-&-eu-privacy-rights",
-      "select": " > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.disneyplus.com/en-gb/legal/subscriber-agreement",
-      "select": " > div > div > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.disneyplus.com/en-gb/legal/cookies-policy",

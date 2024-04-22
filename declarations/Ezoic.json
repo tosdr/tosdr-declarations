@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.ezoic.com/terms/",
-      "select": "html > body > div:first-of-type > div > div > main > article > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.ezoic.com/privacy-policy/",
-      "select": "html > body > div:first-of-type > div > div > main > article > div"
+      "select": "body"
     }
   }
 }

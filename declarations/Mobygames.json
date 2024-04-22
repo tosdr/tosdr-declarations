@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.mobygames.com/info/privacy",
-      "select": " > div"
+      "select": "body"
     },
     "Frequently Asked Questions": {
       "fetch": "https://www.mobygames.com/info/faq",
-      "select": " > div > div:nth-of-type(2)"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.mobygames.com/info/terms",
-      "select": " > div"
+      "select": "body"
     }
   }
 }

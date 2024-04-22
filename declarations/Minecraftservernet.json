@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://minecraft-server.net/page/privacy/",
-      "select": "html > body > section > div > div:nth-of-type(2)"
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://minecraft-server.net/page/refund/",
-      "select": "html > body > section > div > div:nth-of-type(2)"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://minecraft-server.net/page/terms/",
-      "select": "html > body > section > div > div:nth-of-type(2)"
+      "select": "body"
     }
   }
 }

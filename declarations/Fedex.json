@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.fedex.com/en-us/trust-center/global-privacy-policy.html",
-      "select": "html > body > div:first-of-type > div:nth-of-type(4) > div > div > div"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.fedex.com/en-us/trust-center/privacy.html",
-      "select": "html > body > div:first-of-type > div:nth-of-type(4) > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.fedex.com/en-us/terms-of-use.html",

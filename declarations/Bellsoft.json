@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://bell-sw.com/privacy-policy/",
-      "select": "html > body > main > div"
+      "select": "body"
     }
   }
 }

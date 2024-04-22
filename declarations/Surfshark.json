@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://surfshark.com/terms-of-service",
-      "select": " > main > section > div > div > div:first-of-type"
+      "select": "body"
     }
   }
 }

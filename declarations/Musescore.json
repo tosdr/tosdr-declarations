@@ -3,19 +3,19 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://musescore.com/legal/privacy",
-      "select": "html > body > div > div > section > section > main"
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://musescore.com/legal/dmca",
-      "select": "html > body > div > div > section > section > main > div > article"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://musescore.com/legal/cookies",
-      "select": "html > body > div > div > section > section > main > article"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://musescore.com/legal/terms",
-      "select": "html > body > div > div > section > section > main > article"
+      "select": "body"
     }
   }
 }

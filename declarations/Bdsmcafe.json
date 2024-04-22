@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://bdsmcafe.com/privacy-policy/",
-      "select": "html > body > div:first-of-type > div:nth-of-type(3) > div > div > article > div"
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://bdsmcafe.com/copyright-dmca-contact-info/",

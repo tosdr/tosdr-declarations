@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://fitjoyfoods.com/pages/terms-of-use",
-      "select": "html > body > div:nth-of-type(2) > div > main > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://fitjoyfoods.com/pages/privacy-policy",
-      "select": "html > body > div:nth-of-type(2) > div > main > div"
+      "select": "body"
     }
   }
 }

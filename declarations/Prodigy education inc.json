@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.prodigygame.com/main-en/privacy-policy/",
-      "select": "html > body > div:first-of-type > div:first-of-type > main > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.prodigygame.com/main-en/terms-and-conditions/",
-      "select": "html > body > div:first-of-type > div:first-of-type > main > div"
+      "select": "body"
     }
   }
 }

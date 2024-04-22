@@ -3,15 +3,15 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://influencermatchmaker.co.uk/cookie-policy",
-      "select": "html > body > main > section:nth-of-type(2) > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://influencermatchmaker.co.uk/privacy-policy",
-      "select": "html > body > main > section:nth-of-type(2) > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://influencermatchmaker.co.uk/terms-of-use",
-      "select": "html > body > main > section:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

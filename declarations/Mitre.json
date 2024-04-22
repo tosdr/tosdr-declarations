@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.mitre.org/privacy-policy",
-      "select": " > div > span"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.mitre.org/terms-of-use",
-      "select": " > div > span"
+      "select": "body"
     }
   }
 }

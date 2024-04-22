@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.viz.com/privacy",
-      "select": "html > body > section:first-of-type > div > section > section > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.viz.com/terms",

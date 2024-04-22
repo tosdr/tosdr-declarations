@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://earth2.io/privacy",
-      "select": "html > body > div:first-of-type > main > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://earth2.io/terms",
-      "select": "html > body > div:first-of-type > main > div > div"
+      "select": "body"
     }
   }
 }

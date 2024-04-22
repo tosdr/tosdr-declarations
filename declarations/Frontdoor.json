@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.frontdoorhome.com/privacy-policy/",
-      "select": "html > body > div:first-of-type > main > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.frontdoorhome.com/terms-of-use/",
-      "select": "html > body > div:first-of-type > main > div"
+      "select": "body"
     }
   }
 }

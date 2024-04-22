@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://aidaform.com/privacy-policy.html",
-      "select": "html > body > main > article > section > div > div > div"
+      "select": "body"
     }
   }
 }

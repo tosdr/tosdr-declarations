@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.staples.com/hc?id=dbb94c10-973c-478b-a078-00e58f66ba32",
-      "select": "html > body > div:first-of-type > div:first-of-type > div > div > div:nth-of-type(2) > div:nth-of-type(2)"
+      "select": "body"
     }
   }
 }

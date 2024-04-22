@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://serenade.ai/code-privacy/",
-      "select": "html > body > div:first-of-type > div:first-of-type > main > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://serenade.ai/terms",
-      "select": "html > body > div:first-of-type > div:first-of-type > main > div"
+      "select": "body"
     }
   }
 }

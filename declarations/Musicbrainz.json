@@ -7,11 +7,11 @@
     },
     "Privacy Policy": {
       "fetch": "https://metabrainz.org/privacy",
-      "select": "body > div"
+      "select": "body"
     },
     "Other": {
       "fetch": "https://metabrainz.org/social-contract",
-      "select": "body > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://musicbrainz.org/doc/About/Data_License",

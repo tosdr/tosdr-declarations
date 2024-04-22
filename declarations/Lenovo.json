@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.lenovo.com/us/en/legal/",
-      "select": " > div:nth-of-type(2) > div:first-of-type"
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://www.lenovo.com/us/en/privacy/external-submission-policy/",
-      "select": " > div:nth-of-type(2)"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.lenovo.com/us/en/privacy/",

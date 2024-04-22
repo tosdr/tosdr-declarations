@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.mylivesignature.com/terms",
-      "select": " > div:first-of-type"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.mylivesignature.com/usage-policy",

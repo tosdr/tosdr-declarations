@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://play.ht/terms/",
-      "select": "html > body > div:first-of-type > div > div"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://play.ht/privacy/",
-      "select": "html > body > div:first-of-type > div > div"
+      "select": "body"
     }
   }
 }

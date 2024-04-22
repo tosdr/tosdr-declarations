@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.cricketwireless.com/privacy",
-      "select": "html > body > div:first-of-type > div > div > div > div"
+      "select": "body"
     },
     "Other": {
       "fetch": "https://www.cricketwireless.com/legal-info/plan-terms.html",

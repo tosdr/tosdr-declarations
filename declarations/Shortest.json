@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://shorte.st/privacy",
-      "select": "html > body > div:nth-of-type(9) > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://shorte.st/tou",

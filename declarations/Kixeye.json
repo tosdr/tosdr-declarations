@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://corp.kixeye.com/pp.html",
-      "select": "html > body > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://corp.kixeye.com/cookie-policy.html",
-      "select": "html > body > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://corp.kixeye.com/tos.html",
-      "select": "html > body > div"
+      "select": "body"
     }
   }
 }

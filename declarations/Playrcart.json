@@ -3,11 +3,11 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.playrcart.com/cookie-policy",
-      "select": "html > body > main > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.playrcart.com/privacy-policy/",
-      "select": "html > body > main > div > div"
+      "select": "body"
     }
   }
 }

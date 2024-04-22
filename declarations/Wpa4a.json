@@ -11,7 +11,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://wpa4a.org/privacy-policy/",
-      "select": "html > body > div:first-of-type > div > div"
+      "select": "body"
     }
   }
 }

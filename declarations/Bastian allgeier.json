@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://bastianallgeier.com/privacy",
-      "select": "html > body > main > article > div"
+      "select": "body"
     }
   }
 }

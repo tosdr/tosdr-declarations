@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.getaround.com/terms",
-      "select": "html > body > div:nth-of-type(7) > div > div"
+      "select": "body"
     }
   }
 }

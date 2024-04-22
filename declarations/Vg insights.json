@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://vginsights.com/privacy-policy",
-      "select": "html > body > app-root > mat-sidenav-container > mat-sidenav-content > app-privacy-policy > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://vginsights.com/tos",
-      "select": "html > body > app-root > mat-sidenav-container > mat-sidenav-content > app-terms-conditions > div"
+      "select": "body"
     }
   }
 }

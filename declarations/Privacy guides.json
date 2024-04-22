@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://privacyguides.org/privacy-policy/",
-      "select": "html > body > main > div"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://privacyguides.org/terms-and-notices/",
-      "select": "html > body > main > div"
+      "select": "body"
     }
   }
 }

@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://intl.sonypictures.com/en/privacy-policy",
-      "select": " > article"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.crunchyroll.com/tos",
-      "select": " > div:nth-of-type(3)"
+      "select": "body"
     }
   }
 }

@@ -11,7 +11,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://automattic.com/cookies/",
-      "select": " > div > div:first-of-type"
+      "select": "body"
     }
   }
 }

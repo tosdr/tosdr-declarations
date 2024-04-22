@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.cdc-jp.com/health_check_privacy",
-      "select": "html > body > main > div > div > div"
+      "select": "body"
     }
   }
 }

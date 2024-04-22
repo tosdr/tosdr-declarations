@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://safing.io/privacy/",
-      "select": "html > body > section > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://safing.io/terms/",
-      "select": "html > body > section > div"
+      "select": "body"
     }
   }
 }

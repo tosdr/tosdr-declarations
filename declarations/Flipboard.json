@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://about.flipboard.com/privacy/",
-      "select": " > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://about.flipboard.com/terms/",
-      "select": " > div"
+      "select": "body"
     }
   }
 }

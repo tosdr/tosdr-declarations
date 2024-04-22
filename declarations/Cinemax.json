@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.cinemax.com/privacy-policy.html",
-      "select": "html > body > div:first-of-type > div > div > div > div > div > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.cinemax.com/ad-choices.html",

@@ -11,7 +11,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.independent.co.uk/service/privacy-policy-a6184181.html",
-      "select": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > article > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.independent.co.uk/service/user-policies-a6184151.html",

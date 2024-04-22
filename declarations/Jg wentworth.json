@@ -3,11 +3,11 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://www.jgwentworth.com/privacy-policy/",
-      "select": "html > body > main > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.jgwentworth.com/terms-of-use/",
-      "select": "html > body > main > div > div"
+      "select": "body"
     }
   }
 }

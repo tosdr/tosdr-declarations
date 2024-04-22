@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://filedm.com/privacy.php",
-      "select": "html > body > section > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://filedm.com/terms.php",
-      "select": "html > body > section > div"
+      "select": "body"
     }
   }
 }

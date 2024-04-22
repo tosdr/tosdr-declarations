@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.mintmobile.com/privacy-policy/",
-      "select": "html > body > div:first-of-type > section > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.mintmobile.com/plan-terms-and-conditions/",
-      "select": "html > body > div:first-of-type > section > div"
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://www.mintmobile.com/return-policy/",
@@ -15,7 +15,7 @@
     },
     "Acceptable Use Policy": {
       "fetch": "https://www.mintmobile.com/acceptable-use-policy/",
-      "select": "html > body > div:first-of-type > section > div"
+      "select": "body"
     }
   }
 }

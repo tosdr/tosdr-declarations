@@ -3,23 +3,23 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.justpark.com/privacy-policy",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > div > div:nth-of-type(2)"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.justpark.com/terms-and-conditions/",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > div > div:nth-of-type(2)"
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://www.justpark.com/cancellation-policy",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > div > div:nth-of-type(2)"
+      "select": "body"
     },
     "Miscellaneous Agreement": {
       "fetch": "https://www.justpark.com/owner-agreement",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(2) > ol"
+      "select": "body"
     },
     "Policy": {
       "fetch": "https://www.justpark.com/insurance-policy",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

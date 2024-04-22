@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.energyhelpline.com/privacy-policy",
-      "select": "html > body > div > section > main > div > div:first-of-type > div > div > div:first-of-type"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.energyhelpline.com/cookies",
-      "select": "html > body > div > section > main > div > div:first-of-type > div > div > div:first-of-type"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.energyhelpline.com/terms-conditions",
-      "select": "html > body > div > section > main > div > div:first-of-type > div > div > div:first-of-type"
+      "select": "body"
     }
   }
 }

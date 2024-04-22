@@ -7,15 +7,15 @@
     },
     "Copyright Claims Policy": {
       "fetch": "https://quizlet.com/dmca",
-      "select": " > section"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://quizlet.com/tos",
-      "select": " > section > hgroup"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://quizlet.com/cookies",
-      "select": " > section"
+      "select": "body"
     }
   }
 }

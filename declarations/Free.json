@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.free.fr/freebox/informations/politique-de-confidentialite/",
-      "select": "html > body > div:nth-of-type(2) > div > div:nth-of-type(2) > section > div > div > div > div:nth-of-type(2) > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.free.fr/freebox/cookies/",

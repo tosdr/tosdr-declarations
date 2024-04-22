@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.venus.com/privacy.aspx",
-      "select": " > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.venus.com/termsofuse.aspx",
-      "select": " > div > div"
+      "select": "body"
     }
   }
 }

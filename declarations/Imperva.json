@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.imperva.com/legal/website-terms-of-use/",
-      "select": "html > body > div:first-of-type > div > section > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.imperva.com/trust-center/privacy-statement/",
@@ -11,7 +11,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.imperva.com/trust-center/cookie-notice/",
-      "select": "html > body > div:first-of-type > div > section > div > div"
+      "select": "body"
     }
   }
 }

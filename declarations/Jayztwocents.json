@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://store.jayztwocents.com/pages/privacy-policy",
-      "select": "html > body > div:nth-of-type(2) > div:nth-of-type(4) > section > div > div:nth-of-type(2)"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://store.jayztwocents.com/pages/terms-of-service",
-      "select": "html > body > div:nth-of-type(2) > div:nth-of-type(4) > section > div > div:nth-of-type(2)"
+      "select": "body"
     }
   }
 }

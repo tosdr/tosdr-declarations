@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.hugedomains.com/terms.cfm",
-      "select": "html > body > main > section > div"
+      "select": "body"
     }
   }
 }

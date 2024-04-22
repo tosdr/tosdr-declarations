@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://alphabugs.co.za/tcs",
-      "select": "html > body > div:first-of-type > div:nth-of-type(4) > div > div > div > div > main > article > div > div > div:nth-of-type(2)"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://alphabugs.co.za/privacy-policy/",
-      "select": "html > body > div:first-of-type > div:nth-of-type(4) > div > div > div > div > main > article > div > div > div:nth-of-type(2)"
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Spam": {
       "fetch": "https://example.com",
-      "select": "body > div"
+      "select": "body"
     }
   }
 }

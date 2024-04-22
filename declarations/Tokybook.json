@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://tokybook.com/privacy-policy",
-      "select": " > div > div"
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.freshly.com/terms",
-      "select": "html > body > main > div > div"
+      "select": "body"
     }
   }
 }

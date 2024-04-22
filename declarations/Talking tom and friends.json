@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://talkingtomandfriends.com/terms/",
-      "select": " > div:nth-of-type(2)"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://outfit7.com/privacy-web/en",
-      "select": " > div > div:nth-of-type(2) > div > main > div > div"
+      "select": "body"
     }
   }
 }

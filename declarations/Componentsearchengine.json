@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://intelligence.supplyframe.com/terms/",
-      "select": "html > body > div:nth-of-type(2) > main > div > article > div > div"
+      "select": "body"
     }
   }
 }

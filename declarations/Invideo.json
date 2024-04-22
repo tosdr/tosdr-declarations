@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://invideo.io/privacy-policy/",
-      "select": "html > body > div:first-of-type > main > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://invideo.io/terms-and-conditions/",

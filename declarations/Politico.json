@@ -7,11 +7,11 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.politico.com/privacy-policy",
-      "select": "html > body > div:nth-of-type(2) > main > div:nth-of-type(2) > div > div > section:first-of-type > div:nth-of-type(2) > div > div"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.politico.com/do-not-sell",
-      "select": "html > body > div:nth-of-type(2) > main > div:nth-of-type(2) > div > div > section:first-of-type > div:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

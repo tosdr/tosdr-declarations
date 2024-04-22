@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://company.gamepix.com/privacy-policy/",
-      "select": "html > body > div:first-of-type > div > div > article > div > div"
+      "select": "body"
     }
   }
 }

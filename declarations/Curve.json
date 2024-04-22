@@ -3,19 +3,19 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.curve.com/legal/cookies/",
-      "select": " > main > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.curve.com/en-gb/legal/terms/",
-      "select": " > main > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.curve.com/legal/usa-privacy-policy/",
-      "select": " > main > div > div"
+      "select": "body"
     },
     "Acceptable Use Policy": {
       "fetch": "https://www.curve.com/legal/fair-use/",
-      "select": " > main > div > div"
+      "select": "body"
     }
   }
 }

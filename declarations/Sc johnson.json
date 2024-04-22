@@ -7,7 +7,7 @@
     },
     "Legal Information": {
       "fetch": "https://privacy.scjbrands.com/en-us",
-      "select": " > article"
+      "select": "body"
     }
   }
 }

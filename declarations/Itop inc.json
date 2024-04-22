@@ -7,11 +7,11 @@
     },
     "General Conditions of Sale": {
       "fetch": "https://www.itopvpn.com/refundpolicy",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.itopvpn.com/privacy",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

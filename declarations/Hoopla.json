@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.hoopladigital.com/privacy",
-      "select": " > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.hoopladigital.com/terms",
-      "select": "html > body > div:first-of-type > div > div > div > div"
+      "select": "body"
     }
   }
 }

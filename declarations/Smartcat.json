@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.smartcat.com/customer-agreement",
-      "select": "html > body > div:first-of-type > div > div > main > div > div"
+      "select": "body"
     },
     "Miscellaneous Agreement": {
       "fetch": "https://www.smartcat.com/supplier-agreement",
-      "select": "html > body > div:first-of-type > div > div > main > div > div"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.smartcat.com/privacy-policy/",
-      "select": "html > body > div:first-of-type > div > div > main > div > div"
+      "select": "body"
     }
   }
 }

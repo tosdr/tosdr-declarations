@@ -3,11 +3,11 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.mcleodgaming.com/cookie-policy",
-      "select": "html > body > div:nth-of-type(3) > div > div:first-of-type > div:nth-of-type(3)"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.mcleodgaming.com/privacy-policy",
-      "select": "html > body > div:nth-of-type(3) > div > div:first-of-type > div:nth-of-type(3)"
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://service-provider.zyxel.com/emea/en/privacy-policy",
-      "select": "html > body > div:first-of-type > div > main > div > div > article > section:nth-of-type(3) > div > div > div > div > div > div"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://service-provider.zyxel.com/emea/en/legal-notice",

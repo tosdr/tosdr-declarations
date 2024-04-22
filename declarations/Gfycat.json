@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://gfycat.com/privacy",
-      "select": "html > body > div:first-of-type > div > div > div > main > article"
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://gfycat.com/dmca",
-      "select": "html > body > div:first-of-type > div > div > div > main > article"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://gfycat.com/terms",
-      "select": "html > body > div:first-of-type > div > div > div > main > article"
+      "select": "body"
     }
   }
 }

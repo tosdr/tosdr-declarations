@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://owlmail.io/privacy",
-      "select": " > main > div:nth-of-type(5) > div > div"
+      "select": "body"
     }
   }
 }

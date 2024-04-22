@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://rivertownspediatricdentistry.com/privacy-policy",
-      "select": "html > body > div:first-of-type > main > div"
+      "select": "body"
     }
   }
 }

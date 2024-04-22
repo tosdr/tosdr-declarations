@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://greatergoods.com/legal/tos",
-      "select": "html > body > app-root > div > main > ng-component > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://greatergoods.com/legal/privacy-policy",
-      "select": "html > body > app-root > div > main > ng-component > div > div"
+      "select": "body"
     }
   }
 }

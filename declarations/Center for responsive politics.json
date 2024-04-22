@@ -7,11 +7,11 @@
     },
     "Terms of Service": {
       "fetch": "https://www.opensecrets.org/open-data/terms-of-service",
-      "select": " > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div"
+      "select": "body"
     },
     "Developer Terms": {
       "fetch": "https://www.opensecrets.org/open-data/api-terms-of-service",
-      "select": " > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

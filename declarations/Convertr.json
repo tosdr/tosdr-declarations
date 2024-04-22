@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://convertr.org/privacy",
-      "select": "html > body > div > div:first-of-type > main > section > div:first-of-type > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://convertr.org/terms",
-      "select": "html > body > div:first-of-type > div:first-of-type > main > section > div:first-of-type > div > div"
+      "select": "body"
     }
   }
 }

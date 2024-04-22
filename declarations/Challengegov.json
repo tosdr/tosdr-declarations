@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.challenge.gov/terms/",
-      "select": "html > body > main > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.challenge.gov/privacy-policy/",
-      "select": "html > body > main > div > div"
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.garmin.com/en-US/legal/terms-of-use/",
-      "select": " > main > div > div"
+      "select": "body"
     }
   }
 }

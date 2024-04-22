@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://usa.baidu.com/privacy/",
-      "select": " > div"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://ir.baidu.com/disclaimer",
-      "select": " > article > div > div > div > div > div > div > div > div > div > div"
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://www.baidu.com/duty/copyright.html",
-      "select": " > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://passport.baidu.com/static/passpc-account/html/protocal.html",

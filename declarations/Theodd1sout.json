@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://theodd1sout.com/pages/terms-of-service",
-      "select": "html > body > div:nth-of-type(6) > main > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://theodd1sout.com/pages/privacy-policy",
-      "select": "html > body > div:nth-of-type(6) > main > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

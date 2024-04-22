@@ -3,27 +3,27 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://unity.com/legal/one-operate-services-terms-of-service",
-      "select": "html > body > div > main > div > main > section:nth-of-type(2) > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://unity.com/legal/unity-data-processing-addendum-dpa",
-      "select": "html > body > div > main > div > main > section:nth-of-type(2) > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://unity.com/legal/additional-terms",
-      "select": "html > body > div > main > div > main > section:nth-of-type(2) > div"
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://unity.com/legal/terms-of-service/bug-submission-additional-terms",
-      "select": "html > body > div > main > div > main > section:nth-of-type(2) > div"
+      "select": "body"
     },
     "Other": {
       "fetch": "https://unity.com/legal/terms-of-service/site-and-communities",
-      "select": "html > body > div > main > div > main > section:nth-of-type(2) > div"
+      "select": "body"
     },
     "Miscellaneous Agreement": {
       "fetch": "https://unity.com/legal/provider",
-      "select": "html > body > div > main > div > main > section:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

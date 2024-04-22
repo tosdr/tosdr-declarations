@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://potatovpn.io/?n=potato.vpn.PrivacyPolicy",
-      "select": "html > body > div:nth-of-type(4) > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://potatovpn.io/?n=potato.vpn.TermsOfService",

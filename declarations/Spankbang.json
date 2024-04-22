@@ -3,27 +3,27 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://spankbang.com/info/protection",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://spankbang.com/info/tos",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://spankbang.com/info/dmca",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     },
     "Policy": {
       "fetch": "https://spankbang.com/info/repeat",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://spankbang.com/info/questionable",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     },
     "Records Keeping Policy": {
       "fetch": "https://spankbang.com/info/s2257",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

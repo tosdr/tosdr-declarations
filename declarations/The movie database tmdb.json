@@ -11,7 +11,7 @@
     },
     "Developer Terms": {
       "fetch": "https://www.themoviedb.org/documentation/api/terms-of-use",
-      "select": "html > body > div:first-of-type > main > div > div > div"
+      "select": "body"
     }
   }
 }

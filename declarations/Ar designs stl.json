@@ -3,7 +3,7 @@
   "documents": {
     "General Conditions of Sale": {
       "fetch": "https://www.ardesignsstl.com/reture-policy",
-      "select": "html > body > section > div"
+      "select": "body"
     }
   }
 }

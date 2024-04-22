@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://grants.mygrantresource.com/privacy",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://grants.mygrantresource.com/dmca",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://grants.mygrantresource.com/terms",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

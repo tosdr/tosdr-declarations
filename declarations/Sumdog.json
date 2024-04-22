@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://learn.sumdog.com/en-gb/about-us/privacy-policy",
-      "select": "html > body > main > div > div > div > div > div:first-of-type > div > div > div > div > div > div > section"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://learn.sumdog.com/en-gb/about-us/terms-of-use",

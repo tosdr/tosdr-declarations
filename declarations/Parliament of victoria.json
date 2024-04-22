@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://parliament.vic.gov.au/privacy",
-      "select": "html > body > div:first-of-type > main > div > div:nth-of-type(2)"
+      "select": "body"
     }
   }
 }

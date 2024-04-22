@@ -11,11 +11,11 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.change.org/policies/privacy",
-      "select": "html > body > div:first-of-type > main > div:nth-of-type(3) > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.change.org/policies/terms-of-service",
-      "select": "html > body > div:first-of-type > main > div:nth-of-type(3) > ol > li:nth-of-type(10) > div"
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.tidio.com/privacy-policy/",
-      "select": "html > body > div:first-of-type > div > main"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.tidio.com/terms/",

@@ -15,7 +15,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.htc.com/us/terms/terms-of-use",
-      "select": "html > body > div:first-of-type > aside > section > div > div:nth-of-type(2) > div:first-of-type"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.vive.com/uk/cookie-preferences/",

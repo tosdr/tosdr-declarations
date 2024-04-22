@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://codesandbox.io/legal/privacy",
-      "select": "html > body > div > div > div > main"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://codesandbox.io/legal/terms",
-      "select": "html > body > div > div > div > main"
+      "select": "body"
     }
   }
 }

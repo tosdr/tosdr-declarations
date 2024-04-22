@@ -3,7 +3,7 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://chipolo.net/en-us/pages/cookie-policy",
-      "select": "html > body > div:nth-of-type(2) > section > div > section"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://chipolo.net/en-us/pages/terms-of-use",

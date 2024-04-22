@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.namebright.com/Privacy",
-      "select": "html > body > div:first-of-type > div > div > div > div:nth-of-type(2) > div > div > div:nth-of-type(6) > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.namebright.com/Terms",
-      "select": "html > body > div:first-of-type > div > div > div > div:nth-of-type(2) > div > div > div:nth-of-type(6) > div > div > div"
+      "select": "body"
     }
   }
 }

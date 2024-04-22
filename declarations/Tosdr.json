@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://tosdr.community/privacy",
-      "select": " > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://tosdr.community/tos",
-      "select": " > div > div > div"
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://docs.tosdr.org/sp/community-etiquette",
-      "select": "html > body > main > div > div:nth-of-type(2) > article > section"
+      "select": "body"
     }
   }
 }

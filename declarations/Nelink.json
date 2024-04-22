@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.ne.link/site/privacy-policy",
-      "select": "html > body > div:first-of-type > div > div > section > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://ne.link/site/terms-of-service",
-      "select": "html > body > div:first-of-type > div > div > section > div"
+      "select": "body"
     }
   }
 }

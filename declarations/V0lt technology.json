@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://v0lttech.com/privacy.php",
-      "select": "html > body > main > div"
+      "select": "body"
     }
   }
 }

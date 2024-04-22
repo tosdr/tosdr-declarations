@@ -3,19 +3,19 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://prezi.com/desktop-eula/",
-      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div > div:nth-of-type(2) > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://prezi.com/privacy-policy/201910_NL/",
-      "select": "html > body > div:nth-of-type(2) > div:first-of-type > div:nth-of-type(5) > div > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://prezi.com/cookie-policy/",
-      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div > div:nth-of-type(2) > div"
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://prezi.com/copyright/ip/",
-      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div > div:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

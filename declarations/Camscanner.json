@@ -11,7 +11,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.camscanner.com/privacySettings",
-      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2)"
+      "select": "body"
     }
   }
 }

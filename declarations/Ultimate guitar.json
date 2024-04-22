@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.ultimate-guitar.com/about/privacy.htm",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://ultimate-guitar.com/about/tos.htm",
-      "select": "html > body > div > div"
+      "select": "body"
     }
   }
 }

@@ -3,11 +3,11 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.daybreakgames.com/cookies?locale=en_US",
-      "select": "html > body > div:nth-of-type(4) > div:nth-of-type(2) > div > div:nth-of-type(2)"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.daybreakgames.com/privacy",
-      "select": "html > body > div:nth-of-type(4) > div:nth-of-type(2) > div > div:nth-of-type(2)"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.daybreakgames.com/terms-of-service",

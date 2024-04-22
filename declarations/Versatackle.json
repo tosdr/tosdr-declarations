@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.versatackle.com/privacy",
-      "select": "html > body > div:first-of-type > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.versatackle.com/tou",
-      "select": "html > body > div:first-of-type > div > div"
+      "select": "body"
     }
   }
 }

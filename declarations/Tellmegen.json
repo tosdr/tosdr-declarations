@@ -3,19 +3,19 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://www.tellmegen.com/legal-terms/?lang=en",
-      "select": "html > body > main > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.tellmegen.com/privacy-policy/?lang=en",
-      "select": "html > body > main > div > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.tellmegen.com/cookie-policy/?lang=en",
-      "select": "html > body > main > div > div"
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://www.tellmegen.com/return-policy/?lang=en",
-      "select": "html > body > main > div"
+      "select": "body"
     }
   }
 }

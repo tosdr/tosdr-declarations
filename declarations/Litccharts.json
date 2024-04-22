@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.litcharts.com/privacy",
-      "select": "html > body > section:first-of-type > section:first-of-type > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.litcharts.com/terms",
-      "select": "html > body > section:first-of-type > section:first-of-type > div"
+      "select": "body"
     }
   }
 }

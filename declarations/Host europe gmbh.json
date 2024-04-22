@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.hosteurope.de/en/terms-and-conditions/",
-      "select": "html > body > div:first-of-type > div > main > section:nth-of-type(4) > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.hosteurope.de/en/terms-and-conditions/privacy/",

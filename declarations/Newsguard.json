@@ -3,15 +3,15 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.newsguardtech.com/cookie-notice/",
-      "select": " > div > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.newsguardtech.com/privacy-policy/",
-      "select": " > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.newsguardtech.com/terms-of-service/",
-      "select": " > div"
+      "select": "body"
     }
   }
 }

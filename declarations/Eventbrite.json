@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.eventbrite.com/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_US",
-      "select": "html > body > form > section > div > div:nth-of-type(2) > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.eventbrite.com/support/articles/en_US/Troubleshooting/eventbrite-terms-of-service?lg=en_US",
-      "select": "html > body > form > section > div > div:nth-of-type(2) > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.eventbrite.com/support/articles/en_US/Troubleshooting/eventbrite-cookie-policy?lg=en_US",
-      "select": "html > body > form > section > div > div:nth-of-type(2) > div > span:nth-of-type(2) > p"
+      "select": "body"
     }
   }
 }

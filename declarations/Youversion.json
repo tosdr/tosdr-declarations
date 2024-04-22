@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.bible.com/privacy",
-      "select": "html > body > div:first-of-type > div > main > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.bible.com/terms",

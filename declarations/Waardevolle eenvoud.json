@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.waardevolle-eenvoud.nl/privacy/",
-      "select": " > div > div > div > div > div > div > div"
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.wellbeats.com/privacy-policy/",
-      "select": "html > body > main > div > div:first-of-type > section > div > div > div"
+      "select": "body"
     }
   }
 }

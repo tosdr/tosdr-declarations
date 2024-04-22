@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://discoelysium.com/end-user-licence-agreement",
-      "select": " > main > div > article"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://discoelysium.com/privacy-policy",
-      "select": " > div:nth-of-type(3) > div > article"
+      "select": "body"
     }
   }
 }

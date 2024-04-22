@@ -11,7 +11,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.squadhelp.com/privacy-policy",
-      "select": "html > body > section:first-of-type > div"
+      "select": "body"
     }
   }
 }

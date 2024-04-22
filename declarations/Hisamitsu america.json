@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://us.hisamitsu/privacy-policy",
-      "select": "html > body > section > article > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://us.hisamitsu/terms-use",
-      "select": "html > body > section > article > div"
+      "select": "body"
     }
   }
 }

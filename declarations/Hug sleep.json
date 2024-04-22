@@ -11,7 +11,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://hugsleep.com/pages/privacy-policy",
-      "select": "html > body > main > section > div"
+      "select": "body"
     }
   }
 }

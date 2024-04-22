@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.samsung.com/us/account/privacy-policy/",
-      "select": " > div:nth-of-type(2)"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://terms.account.samsung.com/contents/legal/zaf/eng/general.html",

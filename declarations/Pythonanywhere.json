@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.pythonanywhere.com/terms_v2/",
-      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.pythonanywhere.com/privacy_v2/",
-      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div > div"
+      "select": "body"
     }
   }
 }

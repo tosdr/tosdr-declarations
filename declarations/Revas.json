@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.revas.online/en/privacy-policy/",
-      "select": "html > body > div:first-of-type > div > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

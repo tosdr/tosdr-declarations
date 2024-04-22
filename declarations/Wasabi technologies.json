@@ -11,7 +11,7 @@
     },
     "Legal Information": {
       "fetch": "https://wasabi.com/legal/privacy-policy/",
-      "select": "html > body > main > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div"
+      "select": "body"
     },
     "Service Level Agreement": {
       "fetch": "https://wasabi.com/legal/sla/",

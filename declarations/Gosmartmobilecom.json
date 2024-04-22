@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.verizon.com/about/terms-conditions/terms-of-use",
-      "select": "html > body > div:nth-of-type(2) > main > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.tracfonewirelessinc.com/en/Privacy+Policy/",

@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://guardianlegal.wpengine.com/privacy-policy/",
-      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div > main > section > div > div > div > div > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://guardianlegal.wpengine.com/terms-of-use/",
-      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div > main > section > div > div > div > div > div"
+      "select": "body"
     }
   }
 }

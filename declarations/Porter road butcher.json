@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://porterroad.com/pages/privacy-policy",
-      "select": "html > body > main > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://porterroad.com/pages/terms-of-use",
-      "select": "html > body > main > div > div"
+      "select": "body"
     }
   }
 }

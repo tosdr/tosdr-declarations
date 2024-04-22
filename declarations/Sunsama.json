@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://sunsama.com/privacy",
-      "select": "html > body > div:first-of-type > main > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.sunsama.com/terms",
-      "select": "html > body > div:first-of-type > main > div > div"
+      "select": "body"
     }
   }
 }

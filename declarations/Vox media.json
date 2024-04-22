@@ -15,7 +15,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.voxmedia.com/pages/security",
-      "select": "html > body > div > section > div:nth-of-type(2) > div:first-of-type"
+      "select": "body"
     }
   }
 }

@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.darebee.com/privacy",
-      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div > main > div:nth-of-type(3)"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://darebee.com/terms-of-use.html",
-      "select": " > div:nth-of-type(3) > div"
+      "select": "body"
     }
   }
 }

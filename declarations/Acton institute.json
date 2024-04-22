@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.acton.org/privacy",
-      "select": "html > body > div:first-of-type > main > div > article"
+      "select": "body"
     }
   }
 }

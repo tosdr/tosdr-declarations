@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://eldamar-studio.com/privacy-policy/",
-      "select": "html > body > div:first-of-type > div > div > div > div > article > div > div > section > div > div > div"
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://eldamar-studio.com/refund-policy/",
-      "select": "html > body > div:first-of-type > div > div > div > div > article > div > div > section > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://eldamar-studio.com/terms-of-use/",
-      "select": "html > body > div:first-of-type > div > div > div > div > article > div > div > section > div > div > div"
+      "select": "body"
     }
   }
 }

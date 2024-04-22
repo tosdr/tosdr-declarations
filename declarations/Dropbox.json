@@ -15,11 +15,11 @@
     },
     "Terms of Service": {
       "fetch": "https://www.dropbox.com/terms",
-      "select": " > div > div > div > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://help.dropbox.com/security/cookies",
-      "select": "html > body > div:nth-of-type(4) > div > div > div:nth-of-type(4) > div > div > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

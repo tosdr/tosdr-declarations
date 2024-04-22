@@ -3,7 +3,7 @@
   "documents": {
     "General Conditions of Sale": {
       "fetch": "https://www.7mind.de/agb",
-      "select": "html > body > div:nth-of-type(3) > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.7mind.de/datenschutz",

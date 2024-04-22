@@ -7,7 +7,7 @@
     },
     "Other": {
       "fetch": "https://www.openmediavault.org/?page_id=1216",
-      "select": " > div > div"
+      "select": "body"
     }
   }
 }

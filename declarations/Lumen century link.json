@@ -3,31 +3,31 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.centurylink.com/aboutus/legal/website-user-agreement1.html",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > section > div > div > div > div:first-of-type"
+      "select": "body"
     },
     "Policy": {
       "fetch": "https://www.centurylink.com/aboutus/legal/peering-policy.html",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > section > div > div > div > div:first-of-type"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.centurylink.com/aboutus/legal/gdpr.html",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > section > div > div > div > div:first-of-type"
+      "select": "body"
     },
     "Vulnerability Disclosure Policy": {
       "fetch": "https://www.centurylink.com/aboutus/legal/internet-service-disclosure/full-version.html",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > section > div > div > div > div:first-of-type"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.centurylink.com/aboutus/legal/online-security.html",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > section > div > div > div > div:first-of-type"
+      "select": "body"
     },
     "Law Enforcement Guidelines": {
       "fetch": "https://www.centurylink.com/aboutus/legal/privacy-notice/law-enforcement-support.html",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > section > div > div > div > div:first-of-type"
+      "select": "body"
     },
     "Acceptable Use Policy": {
       "fetch": "https://www.centurylink.com/aboutus/legal/acceptable-use-policy.html",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(2) > section > div > div > div > div:first-of-type"
+      "select": "body"
     },
     "Miscellaneous Agreement": {
       "fetch": "https://www.centurylink.com/asset/aboutus/downloads/legal/CTL_ElectronicAndOnlinePaymentTermsAndConditions.pdf",

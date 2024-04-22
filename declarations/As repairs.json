@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.skoufi.co.uk/privacy-policy/",
-      "select": "html > body > div:first-of-type > div > main > div > div > section:first-of-type > div > div"
+      "select": "body"
     }
   }
 }

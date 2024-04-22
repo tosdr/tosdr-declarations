@@ -7,11 +7,11 @@
     },
     "Privacy Policy": {
       "fetch": "https://vsco.co/about/privacy_policy",
-      "select": " > div > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://vsco.co/about/cookie_policy",
-      "select": " > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://vsco.co/about/terms_of_use",

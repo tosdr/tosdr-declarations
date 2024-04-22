@@ -3,11 +3,11 @@
   "documents": {
     "Trackers Policy": {
       "fetch": "https://www.veygo.com/cookie-policy/",
-      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div > div > section:nth-of-type(2)"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.veygo.com/privacy-policy/",
-      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div > div > section:nth-of-type(2)"
+      "select": "body"
     }
   }
 }

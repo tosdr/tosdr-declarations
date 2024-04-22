@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.kickstarter.com/privacy?ref=global-footer",
-      "select": "html > body > main > div > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.kickstarter.com/cookies?ref=global-footer",
-      "select": "html > body > main > div > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.kickstarter.com/terms-of-use?ref=global-footer",
-      "select": "html > body > main > div > div > div"
+      "select": "body"
     }
   }
 }

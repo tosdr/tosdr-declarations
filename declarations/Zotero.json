@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.zotero.org/support/privacy",
-      "select": "html > body > div:first-of-type > div > div:first-of-type"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.zotero.org/support/terms/terms_of_service",
-      "select": "html > body > div:first-of-type > div > div:first-of-type"
+      "select": "body"
     }
   }
 }

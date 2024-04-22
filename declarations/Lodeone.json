@@ -7,7 +7,7 @@
     },
     "Legal Information": {
       "fetch": "https://lode.one/gdpr-notice/",
-      "select": " > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://lode.one/terms-of-service/",

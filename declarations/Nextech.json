@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.nex-tech.com/legal/terms-of-service/",
-      "select": "html > body > div:first-of-type > div:first-of-type > div > div > article > div > div > div > div:nth-of-type(3)"
+      "select": "body"
     },
     "Vulnerability Disclosure Policy": {
       "fetch": "https://www.nex-tech.com/Portals/0/INTERNET/Nex-Tech_Network_Management_Disclosure.pdf",

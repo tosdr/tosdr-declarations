@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.animaljam.com/en/privacy",
-      "select": "html > body > app-root > app-page-layout > div > app-side-nav > div > mat-sidenav-container > mat-sidenav-content > div > div > app-section > div > app-privacy-policy"
+      "select": "body"
     }
   }
 }

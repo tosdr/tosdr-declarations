@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.cyon.ch/legal/datenschutzerklaerung",
-      "select": "html > body > main > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.cyon.ch/legal/agb",
-      "select": "html > body > main > div"
+      "select": "body"
     }
   }
 }

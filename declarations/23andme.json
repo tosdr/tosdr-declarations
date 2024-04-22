@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.23andme.com/about/privacy/",
-      "select": "html > body > main > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.23andme.com/about/tos/",
-      "select": "html > body > main > div > div"
+      "select": "body"
     },
     "Other": {
       "fetch": "http://tabletvilla.com/product/cenforce-professional/",

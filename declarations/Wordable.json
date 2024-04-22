@@ -3,11 +3,11 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://wordable.io/privacy/",
-      "select": "html > body > article > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://wordable.io/terms/",
-      "select": "html > body > article > div"
+      "select": "body"
     }
   }
 }

@@ -3,15 +3,15 @@
   "documents": {
     "Copyright Claims Policy": {
       "fetch": "https://kodi.tv/about/dmca/",
-      "select": "html > body > div:first-of-type > div:first-of-type > div > main > div > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://kodi.tv/about/privacy-policy/",
-      "select": "html > body > div:first-of-type > div:first-of-type > div > main > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://kodi.tv/about/terms-of-service/",
-      "select": "html > body > div:first-of-type > div:first-of-type > div > main > div > div > div"
+      "select": "body"
     }
   }
 }

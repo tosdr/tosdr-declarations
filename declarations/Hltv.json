@@ -11,7 +11,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.hltv.org/terms",
-      "select": "html > body > div:nth-of-type(2) > div:nth-of-type(5) > div:nth-of-type(2) > div:first-of-type > div:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

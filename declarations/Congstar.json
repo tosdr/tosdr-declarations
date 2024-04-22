@@ -7,7 +7,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.congstar.de/cookies/",
-      "select": "html > body > div > div"
+      "select": "body"
     },
     "Other": {
       "fetch": "https://www.congstar.de/verbraucherinformation/",

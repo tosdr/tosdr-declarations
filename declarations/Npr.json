@@ -11,7 +11,7 @@
     },
     "General Conditions of Sale": {
       "fetch": "https://shopnpr.org/shipping-returns",
-      "select": " > div:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

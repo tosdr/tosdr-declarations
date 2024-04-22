@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://stacksocial.com/terms",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(5)"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://stacksocial.com/privacy",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(5)"
+      "select": "body"
     }
   }
 }

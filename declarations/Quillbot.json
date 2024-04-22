@@ -7,11 +7,11 @@
     },
     "Trackers Policy": {
       "fetch": "https://quillbot.com/cookie-policy",
-      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(3) > section:first-of-type > div > div > div"
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://quillbot.com/copyright-policy",
-      "select": "html > body > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(3) > section:first-of-type > div > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://quillbot.com/privacy",

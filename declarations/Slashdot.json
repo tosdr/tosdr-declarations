@@ -7,11 +7,11 @@
     },
     "Trackers Policy": {
       "fetch": "https://slashdotmedia.com/opt-out-choices/",
-      "select": "html > body > div:nth-of-type(3) > div > div > article > div > div > div > div > div:nth-of-type(2)"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://slashdotmedia.com/terms-of-use/",
-      "select": "html > body > div:nth-of-type(3) > div > div > article > div > div > div > div > div:nth-of-type(2)"
+      "select": "body"
     }
   }
 }

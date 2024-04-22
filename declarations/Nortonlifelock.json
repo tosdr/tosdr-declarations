@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.nortonlifelock.com/us/en/privacy/global-privacy-statement/",
-      "select": "html > body > div > main > div > div > div > div > div > div > div > div > div:nth-of-type(5)"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://ie.norton.com/terms-of-sale",

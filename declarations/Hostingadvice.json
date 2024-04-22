@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.hostingadvice.com/terms/",
-      "select": "html > body > div:first-of-type > div > div:first-of-type > section"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.hostingadvice.com/privacy/",

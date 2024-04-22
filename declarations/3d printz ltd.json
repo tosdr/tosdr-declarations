@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://3dprintz.co.uk/pages/privacy-policy",
-      "select": "html > body > main > article > div"
+      "select": "body"
     }
   }
 }

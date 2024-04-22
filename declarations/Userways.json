@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://userway.org/privacy",
-      "select": "html > body > div:nth-of-type(8) > div:first-of-type > div:nth-of-type(2) > div > div > div > div > div > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://userway.org/cookies/",

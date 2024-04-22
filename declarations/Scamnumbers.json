@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://scam-numbers.com/privacy-policy/",
-      "select": "html > body > main > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://scam-numbers.com/terms-of-service/",

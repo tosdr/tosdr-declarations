@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://tab.gladly.io/privacy/",
-      "select": "html > body > div > div > div > div:first-of-type > div:nth-of-type(2) > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://tab.gladly.io/terms/",
-      "select": "html > body > div > div:first-of-type > div > div:first-of-type > div:nth-of-type(2) > div > div"
+      "select": "body"
     }
   }
 }

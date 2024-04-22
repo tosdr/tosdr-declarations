@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://tenor.com/legal-terms",
-      "select": " > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://policies.google.com/privacy?hl=en",
-      "select": " > c-wiz > div > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(3) > c-wiz"
+      "select": "body"
     }
   }
 }

@@ -3,7 +3,7 @@
   "documents": {
     "Other": {
       "fetch": "https://bitcoin.org/en/scams",
-      "select": " > div:nth-of-type(2) > div > div:nth-of-type(2)"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://bitcoin.org/en/privacy",

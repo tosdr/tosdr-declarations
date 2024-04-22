@@ -3,19 +3,19 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://adguard-dns.io/en/privacy.html",
-      "select": " > div:first-of-type > div:nth-of-type(2) > div > div > div"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://adguard.com/en/privacy/home.html",
-      "select": "html > body > div > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(2) > div:first-of-type"
+      "select": "body"
     },
     "Other": {
       "fetch": "https://adguard.com/en/privacy/content-blocker.html",
-      "select": "html > body > div > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(2) > div:first-of-type > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://adguard.com/en/eula.html",
-      "select": "html > body > div > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

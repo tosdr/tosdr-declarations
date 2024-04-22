@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.verteco.nl/algemene-voorwaarden/",
-      "select": " > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.verteco.nl/privacy-policy/",
-      "select": " > div"
+      "select": "body"
     }
   }
 }

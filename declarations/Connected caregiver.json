@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://myconnectedcaregiver.com/terms/",
-      "select": "html > body > div:first-of-type > div > div > div > div > article > div > div > div > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://myconnectedcaregiver.com/privacy/",
-      "select": "html > body > div:first-of-type > div > div > div > div > article > div > div > div > div > div"
+      "select": "body"
     }
   }
 }

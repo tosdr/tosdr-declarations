@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.theage.com.au/privacy",
-      "select": " > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.theage.com.au/conditions-of-use",

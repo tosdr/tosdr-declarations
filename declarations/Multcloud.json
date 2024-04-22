@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.multcloud.com/terms",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.multcloud.com/policy",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

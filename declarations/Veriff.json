@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.veriff.com/starter-data-processing-addendum/ver-SDPA-2301",
-      "select": "html > body > div:first-of-type > div > div:first-of-type"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.veriff.com/cookie-policy",
-      "select": "html > body > div:first-of-type > div > div:first-of-type"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.veriff.com/starter-terms-of-service/ver-STOS-2301",
-      "select": "html > body > div:first-of-type > div > div:first-of-type"
+      "select": "body"
     }
   }
 }

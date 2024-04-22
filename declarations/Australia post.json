@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://auspost.com.au/terms-conditions/mypost-account-terms-of-use",
-      "select": " > div > section > div > div"
+      "select": "body"
     }
   }
 }

@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://timetreeapp.com/intl/en/terms/service",
-      "select": "html > body > div:first-of-type > div:first-of-type > div > main > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://timetreeapp.com/intl/en/terms/privacy",
-      "select": "html > body > div:first-of-type > div:first-of-type > div > main > div"
+      "select": "body"
     }
   }
 }

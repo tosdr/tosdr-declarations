@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://canarymail.io/terms.html",
-      "select": "html > body > section:first-of-type > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://canarymail.io/privacy.html",
-      "select": "html > body > section:first-of-type > div"
+      "select": "body"
     }
   }
 }

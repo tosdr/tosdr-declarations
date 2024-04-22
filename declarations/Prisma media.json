@@ -7,11 +7,11 @@
     },
     "Legal Information": {
       "fetch": "https://www.prismamedia.com/charte-pour-la-protection-des-donnees/",
-      "select": "html > body > div:nth-of-type(3) > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.prismamedia.com/cgu-prisma-connect/",
-      "select": "html > body > div:nth-of-type(3) > div > div"
+      "select": "body"
     }
   }
 }

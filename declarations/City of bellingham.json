@@ -3,7 +3,7 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://cob.org/about/policies",
-      "select": "html > body > div:first-of-type > div > div > main > article > div > div"
+      "select": "body"
     }
   }
 }

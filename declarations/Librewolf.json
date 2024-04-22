@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://librewolf.net/privacy-policy/",
-      "select": "html > body > div:first-of-type > div > div > article > main"
+      "select": "body"
     }
   }
 }

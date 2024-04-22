@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.ajc.com/visitor-agreement/",
-      "select": "html > body > div:first-of-type > main > article > div > div > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.ajc.com/privacy-policy/",
-      "select": "html > body > div:first-of-type > main > article > div > div > div > div"
+      "select": "body"
     }
   }
 }

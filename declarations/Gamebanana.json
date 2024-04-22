@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://gamebanana.com/wikis/334",
-      "select": "html > body > wrapper > section > wrapper > div > row > column:first-of-type"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://gamebanana.com/wikis/1873",
-      "select": "html > body > wrapper > section > wrapper > div > row > column:first-of-type"
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://gamebanana.com/wikis/677",
-      "select": "html > body > wrapper > section > wrapper > div > row > column:first-of-type"
+      "select": "body"
     }
   }
 }

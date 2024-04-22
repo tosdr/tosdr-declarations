@@ -11,7 +11,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.ancestry.com/cs/legal/termsandconditions",
-      "select": "html > body > div:nth-of-type(2) > div > div > div"
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://www.ancestry.com/cs/legal/community-rules",

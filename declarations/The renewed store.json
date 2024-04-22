@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.therenewedstore.com/pages/t-cs",
-      "select": "html > body > main > div > section"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.therenewedstore.com/pages/privacy",
-      "select": "html > body > main > div > section"
+      "select": "body"
     }
   }
 }

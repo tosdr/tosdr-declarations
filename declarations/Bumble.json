@@ -11,7 +11,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://bumble.com/cookie-policy",
-      "select": "html > body > div:nth-of-type(2) > div > div > div:nth-of-type(2)"
+      "select": "body"
     }
   }
 }

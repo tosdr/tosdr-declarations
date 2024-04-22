@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://fliphtml5.com/terms-of-service.php",
-      "select": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div"
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://fliphtml5.com/dmca-policy.php",
-      "select": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://fliphtml5.com/privacy-policy.php",
-      "select": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div"
+      "select": "body"
     }
   }
 }

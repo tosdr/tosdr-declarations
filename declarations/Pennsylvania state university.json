@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.psu.edu/web-privacy-statement/",
-      "select": " > section:first-of-type > div > div > div"
+      "select": "body"
     },
     "Policy": {
       "fetch": "https://policy.psu.edu/policies/hr11#B",

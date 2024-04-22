@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://transistor.fm/terms/",
-      "select": "html > body > main > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://transistor.fm/privacy/",
-      "select": "html > body > main > div"
+      "select": "body"
     }
   }
 }

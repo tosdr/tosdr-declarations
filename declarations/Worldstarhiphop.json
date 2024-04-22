@@ -3,15 +3,15 @@
   "documents": {
     "Copyright Claims Policy": {
       "fetch": "https://worldstarhiphop.com/videos/dmca.php",
-      "select": "html > body > div:first-of-type > div > main > section > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://worldstarhiphop.com/videos/terms.php",
-      "select": "html > body > div:first-of-type > div > main > section > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://worldstarhiphop.com/videos/privacy.php",
-      "select": "html > body > div:first-of-type > div > main > section > div"
+      "select": "body"
     }
   }
 }

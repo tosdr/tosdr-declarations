@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://fedidb.org/privacy",
-      "select": "html > body > section > div > div > div:nth-of-type(2) > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://fedidb.org/terms",
-      "select": "html > body > section > div > div > div:nth-of-type(2) > div > div"
+      "select": "body"
     }
   }
 }

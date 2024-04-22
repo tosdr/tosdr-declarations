@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.nexon.com/main/en/legal/privacy/",
-      "select": "html > body > div:first-of-type > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.nexon.com/main/en/legal/tou",
-      "select": "html > body > div:first-of-type > div > div"
+      "select": "body"
     }
   }
 }

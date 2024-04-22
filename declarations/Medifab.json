@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.medifab.co.nz/terms-and-conditions",
-      "select": "html > body > div:first-of-type > div:first-of-type > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.medifab.co.nz/privacy-policy",
-      "select": "html > body > div:first-of-type > div:first-of-type > div"
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://www.medifab.co.nz/copyright",
-      "select": "html > body > div:first-of-type > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.marmiton.org/sp/aide/conditions-generales-utilisation.html",
-      "select": "html > body > div:nth-of-type(8) > div"
+      "select": "body"
     }
   }
 }

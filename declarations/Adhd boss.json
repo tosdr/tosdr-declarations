@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://adhdboss.com/tos/",
-      "select": " > article > div"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://adhdboss.com/medical-disclaimer/",

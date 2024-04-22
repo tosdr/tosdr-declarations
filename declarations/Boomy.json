@@ -3,11 +3,11 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://boomy.com/privacy",
-      "select": " > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://boomy.com/terms",
-      "select": " > div > div"
+      "select": "body"
     }
   }
 }

@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://cookidoo.thermomix.com/commerce/en-US/terms-of-use",
-      "select": "html > body > div:first-of-type > div > core-richtext"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://cookidoo.thermomix.com/commerce/en-US/privacy-policy",
-      "select": "html > body > div:first-of-type > div > core-richtext"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://cookidoo.thermomix.com/foundation/en-US/cookie-policy",

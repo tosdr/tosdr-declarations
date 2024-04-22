@@ -3,11 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://neverinstall.com/terms",
-      "select": "html > body > div:first-of-type > div > main > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://neverinstall.com/privacy",
-      "select": "html > body > div:first-of-type > div > main > div"
+      "select": "body"
     }
   }
 }

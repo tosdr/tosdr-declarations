@@ -7,11 +7,11 @@
     },
     "Terms of Service": {
       "fetch": "https://www.fitocracy.com/tos/",
-      "select": "html > body > div:first-of-type > div:nth-of-type(8) > div:nth-of-type(3) > div"
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://www.fitocracy.com/code-of-conduct/",
-      "select": "html > body > div:first-of-type > div:nth-of-type(8) > div:nth-of-type(3) > div"
+      "select": "body"
     }
   }
 }

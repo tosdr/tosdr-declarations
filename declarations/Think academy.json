@@ -7,11 +7,11 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.thinkacademy.uk/cookies-policy",
-      "select": "html > body > div:first-of-type > div > div > div:nth-of-type(2)"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.thinkacademy.uk/user-agreement",
-      "select": "html > body > div:first-of-type > div > div > div:nth-of-type(2)"
+      "select": "body"
     }
   }
 }

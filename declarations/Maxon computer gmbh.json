@@ -11,7 +11,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.maxon.net/en/legal/privacy-policy/",
-      "select": " > div > div > section > div"
+      "select": "body"
     }
   }
 }

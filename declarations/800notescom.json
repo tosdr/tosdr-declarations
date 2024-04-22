@@ -11,7 +11,7 @@
     },
     "Legal Information": {
       "fetch": "https://800notes.com/nb/legal",
-      "select": "html > body > div:first-of-type > div > div:first-of-type > div > div:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

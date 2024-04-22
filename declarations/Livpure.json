@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.livpure.com/pages/privacy-policy",
-      "select": " > div:nth-of-type(2) > main"
+      "select": "body"
     },
     "General Conditions of Sale": {
       "fetch": "https://www.livpure.com/pages/sales-return-policy",

@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.midlandcredit.com/terms-of-use/",
-      "select": " > div > div"
+      "select": "body"
     },
     "Corporate Social Responsibility": {
       "fetch": "https://mcmpay.com/#/accessibility",
@@ -11,7 +11,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.midlandcredit.com/web-privacy-policy/",
-      "select": " > div > div"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.midlandcredit.com/privacy-policy-and-state-disclosures/",

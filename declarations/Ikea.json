@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.ikea.com/us/en/customer-service/terms-conditions/",
-      "select": " > div > div > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.ikea.com/ms/en_US/privacy_policy/privacy_policy.html?itm_campaign=Footer&itm_element=Button-DTFooter&itm_content=PrivacyPolicy",
@@ -11,7 +11,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.ikea.com/us/en/customer-service/cookie-policy/",
-      "select": " > div > div > div > div > div:nth-of-type(2) > article > section:first-of-type"
+      "select": "body"
     }
   }
 }

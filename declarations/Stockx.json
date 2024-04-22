@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://stockx.com/terms",
-      "select": "html > body > div:first-of-type > div > main > div"
+      "select": "body"
     }
   }
 }

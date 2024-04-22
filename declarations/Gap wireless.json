@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://www.gapwireless.com/terms-of-use/",
-      "select": "html > body > div:first-of-type > div > div > section > div:nth-of-type(2) > div > div"
+      "select": "body"
     }
   }
 }

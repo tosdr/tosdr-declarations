@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.connectify.me/privacy-policy",
-      "select": "html > body > div:first-of-type > div > div > div > article > div > div > div > div > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://connectify.me/eula/",
-      "select": "html > body > div:first-of-type > div > div > div > article > div > div > div > div > div > div"
+      "select": "body"
     }
   }
 }

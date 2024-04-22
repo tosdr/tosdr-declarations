@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://securisend.com/privacy",
-      "select": "html > body > section > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://securisend.com/terms",
-      "select": "html > body > section > div > div"
+      "select": "body"
     }
   }
 }

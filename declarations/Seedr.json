@@ -7,7 +7,7 @@
     },
     "Copyright Claims Policy": {
       "fetch": "https://www.seedr.cc/dynamic/dmca",
-      "select": "html > body > div:nth-of-type(15) > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.seedr.cc/dynamic/privacy_policy",

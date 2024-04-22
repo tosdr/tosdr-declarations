@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.irccloud.com/terms",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     },
     "Community Guidelines": {
       "fetch": "https://www.irccloud.com/abuse",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.irccloud.com/privacy",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

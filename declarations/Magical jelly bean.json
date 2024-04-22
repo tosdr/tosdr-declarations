@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.magicaljellybean.com/privacy",
-      "select": "html > body > div:first-of-type > div > p"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.magicaljellybean.com/tos/",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     }
   }
 }

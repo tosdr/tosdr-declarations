@@ -11,11 +11,11 @@
     },
     "General Conditions of Sale": {
       "fetch": "https://www.1mg.com/return-policy",
-      "select": " > div:nth-of-type(2)"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.1mg.com/Tnc",
-      "select": " > div:nth-of-type(2)"
+      "select": "body"
     }
   }
 }

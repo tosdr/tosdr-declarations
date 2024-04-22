@@ -7,15 +7,15 @@
     },
     "Acceptable Use Policy": {
       "fetch": "https://www.viber.com/en/terms/viber-public-content-policy/",
-      "select": "html > body > div:first-of-type > div > main"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.viber.com/en/terms/viber-terms-use/",
-      "select": "html > body > div:first-of-type > div > main"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.viber.com/en/terms/cookies-and-tracking/",
-      "select": "html > body > div:first-of-type > div > main"
+      "select": "body"
     }
   }
 }

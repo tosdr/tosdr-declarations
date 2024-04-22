@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.cdn77.com/privacy-policy",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(3) > section > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://www.cdn77.com/service-level-agreement",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(3) > section > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.cdn77.com/cookie-policy",
-      "select": "html > body > div:first-of-type > div > div:nth-of-type(3) > section > div"
+      "select": "body"
     }
   }
 }

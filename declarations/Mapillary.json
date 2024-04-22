@@ -3,19 +3,19 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://mapillary.com/legal",
-      "select": "html > body > div > div:nth-of-type(4)"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://mapillary.com/commercialterms",
-      "select": "html > body > div > div:nth-of-type(4)"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://mapillary.com/privacy",
-      "select": "html > body > div > div:nth-of-type(4)"
+      "select": "body"
     },
     "Developer Terms": {
       "fetch": "https://mapillary.com/developerpolicy",
-      "select": "html > body > div > div:nth-of-type(4)"
+      "select": "body"
     },
     "Other": {
       "fetch": "https://mapillary.com/credits",
@@ -23,7 +23,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://mapillary.com/cookies",
-      "select": "html > body > div > div:nth-of-type(4)"
+      "select": "body"
     }
   }
 }

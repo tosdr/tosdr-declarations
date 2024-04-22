@@ -7,7 +7,7 @@
     },
     "Legal Information": {
       "fetch": "https://www.verisign.com/en_US/legal-notices/index.xhtml",
-      "select": "html > body > article > div:nth-of-type(2) > div > section"
+      "select": "body"
     }
   }
 }

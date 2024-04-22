@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://interstitial-07.com/feed/pages/privacy-policy",
-      "select": "html > body > div:first-of-type > div > section"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://interstitial-07.com/feed/pages/terms-of-use",
-      "select": "html > body > div:first-of-type > div > section"
+      "select": "body"
     }
   }
 }

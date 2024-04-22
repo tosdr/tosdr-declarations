@@ -3,19 +3,19 @@
   "documents": {
     "Community Guidelines": {
       "fetch": "https://foony.com/community-guidelines",
-      "select": "html > body > div:first-of-type > div > main > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://foony.com/privacy-policy",
-      "select": "html > body > div:first-of-type > div > main > div > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://foony.com/cookie-policy",
-      "select": "html > body > div:first-of-type > div > main > div > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://foony.com/terms",
-      "select": "html > body > div:first-of-type > div > main > div > div"
+      "select": "body"
     }
   }
 }

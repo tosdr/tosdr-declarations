@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://dart.dev/terms",
-      "select": "html > body > main > article > div"
+      "select": "body"
     }
   }
 }

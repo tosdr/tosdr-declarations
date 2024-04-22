@@ -7,7 +7,7 @@
     },
     "Terms of Service": {
       "fetch": "https://brianrole.com/terms-of-use/",
-      "select": "html > body > div:first-of-type > main > div > div"
+      "select": "body"
     }
   }
 }

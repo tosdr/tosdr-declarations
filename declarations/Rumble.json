@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://rumble.com/s/terms",
-      "select": "html > body > main > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://rumble.com/s/privacy",
-      "select": "html > body > main > div"
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://rumble.com/s/dmca",
-      "select": "html > body > main > div"
+      "select": "body"
     }
   }
 }

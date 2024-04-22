@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.fraudlabspro.com/sla",
-      "select": "html > body > main > div:first-of-type > div > div"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.fraudlabspro.com/privacy-policy",
-      "select": "html > body > main > div:first-of-type > div > div"
+      "select": "body"
     },
     "Trackers Policy": {
       "fetch": "https://www.fraudlabspro.com/cookie-notice",
-      "select": "html > body > main > div:first-of-type > div > div"
+      "select": "body"
     }
   }
 }

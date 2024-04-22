@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://www.americansteamship.com/terms-of-service/",
-      "select": "html > body > div:first-of-type > section > div"
+      "select": "body"
     }
   }
 }

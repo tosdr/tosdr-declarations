@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.parkmobile.com/uk/privacypolicy",
-      "select": " > div:first-of-type"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://parkmobile.nl/en/privacy-notice/",

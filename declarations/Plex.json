@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.plex.tv/about/privacy-legal/plex-terms-of-service/",
-      "select": " > section:nth-of-type(2) > div > div > div:first-of-type"
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.plex.tv/about/privacy-legal/",
@@ -11,7 +11,7 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.plex.tv/about/privacy-legal/tracking-technologies/",
-      "select": "html > body > div:first-of-type > section:nth-of-type(2) > div > div > div:first-of-type"
+      "select": "body"
     }
   }
 }

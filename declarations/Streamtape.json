@@ -11,7 +11,7 @@
     },
     "Copyright Claims Policy": {
       "fetch": "https://streamtape.com/copyright",
-      "select": " > div"
+      "select": "body"
     }
   }
 }

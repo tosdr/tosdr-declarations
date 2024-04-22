@@ -3,7 +3,7 @@
   "documents": {
     "Legal Information": {
       "fetch": "https://www.opensubtitles.org/en/disclaimer",
-      "select": " > div:first-of-type"
+      "select": "body"
     },
     "Copyright Claims Policy": {
       "fetch": "https://www.opensubtitles.org/en/dmca",

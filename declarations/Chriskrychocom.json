@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://v5.chriskrycho.com/colophon",
-      "select": "html > body > main > div"
+      "select": "body"
     }
   }
 }

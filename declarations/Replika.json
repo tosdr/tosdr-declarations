@@ -3,11 +3,11 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://replika.ai/legal/privacy",
-      "select": " > div:first-of-type > div:nth-of-type(2) > div"
+      "select": "body"
     },
     "Terms of Service": {
       "fetch": "https://replika.ai/legal/terms",
-      "select": " > div:first-of-type > div:nth-of-type(2) > div"
+      "select": "body"
     }
   }
 }

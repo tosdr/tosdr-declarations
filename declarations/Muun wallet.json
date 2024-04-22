@@ -3,7 +3,7 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://muun.com/privacy_policy.html",
-      "select": "html > body > div:first-of-type > div:first-of-type > div > div > div > div > div"
+      "select": "body"
     }
   }
 }

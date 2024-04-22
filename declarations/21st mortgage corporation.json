@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.21stmortgage.com/web/21stSite.nsf/terms-conditions.html",
-      "select": "html > body > form > section:nth-of-type(2) > div > div > div > div"
+      "select": "body"
     },
     "Legal Information": {
       "fetch": "https://www.21stmortgage.com/web/21stSite.nsf/files/privacy_notice.pdf",

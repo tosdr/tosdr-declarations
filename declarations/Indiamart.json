@@ -7,7 +7,7 @@
     },
     "Privacy Policy": {
       "fetch": "https://www.indiamart.com/privacy-policy.html",
-      "select": "html > body > div:first-of-type > div"
+      "select": "body"
     }
   }
 }
