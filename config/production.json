@@ -1,62 +1,64 @@
 {
-  "name": "tosdr",
-  "services": {
-    "repository": "https://github.com/tosdr/tosdr-declarations.git",
-    "declarationsPath": "./declarations"
-  },
-  "recorder": {
-    "versions": {
-      "storage": {
-        "git": {
-          "snapshotIdentiferTemplate": "https://github.com/tosdr/tosdr-snapshots/commit/%SNAPSHOT_ID",
-          "repository": "git@github.com:tosdr/tosdr-versions.git",
-          "path": "./data/versions"
+  "@opentermsarchive/engine": {
+    "recorder": {
+      "versions": {
+        "storage": {
+          "git": {
+            "snapshotIdentiferTemplate": "https://github.com/tosdr/tosdr-snapshots/commit/%SNAPSHOT_ID",
+            "repository": "git@github.com:tosdr/tosdr-versions.git",
+            "path": "./data/versions"
+          }
+        }
+      },
+      "snapshots": {
+        "storage": {
+          "git": {
+            "repository": "git@github.com:tosdr/tosdr-snapshots.git",
+            "path": "./data/snapshots"
+          }
         }
       }
     },
-    "snapshots": {
-      "storage": {
-        "git": {
-          "repository": "git@github.com:tosdr/tosdr-snapshots.git",
-          "path": "./data/snapshots"
+    "fetcher": {
+      "language": "en"
+    },
+    "notifier": {
+      "sendInBlue": {
+        "updatesListId": 0,
+        "updateTemplateId": 0
+      }
+    },
+    "logger": {
+      "smtp": {
+        "host": "smtp.sendgrid.net",
+        "username": "apikey"
+      },
+      "sendMailOnError": {
+        "to": "tosdr.alerts@gmail.com",
+        "from": "no-reply@tosdr.org",
+        "sendWarnings": false
+      }
+    },
+    "reporter": {
+      "githubIssues": {
+        "repositories": {
+          "declarations": "tosdr/tosdr-declarations",
+          "versions": "tosdr/tosdr-versions",
+          "snapshots": "tosdr/tosdr-snapshots"
         }
       }
-    }
-  },
-  "fetcher": {
-    "language": "en"
-  },
-  "notifier": {
-    "sendInBlue": {
-      "updatesListId": 0,
-      "updateTemplateId": 0
-    }
-  },
-  "logger": {
-    "smtp": {
-      "host": "smtp.sendgrid.net",
-      "username": "apikey"
     },
-    "sendMailOnError": {
-      "to": "tosdr.alerts@gmail.com",
-      "from": "no-reply@tosdr.org",
-      "sendWarnings": false
+    "dataset": {
+      "title": "tosdr",
+      "versionsRepositoryURL": "https://github.com/tosdr/tosdr-versions"
+    },
+    "collection-api": {
+      "port": 3000,
+      "basePath": "/collection-api"
     }
   },
-  "reporter": {
-    "githubIssues": {
-      "repositories": {
-        "declarations": "tosdr/tosdr-declarations",
-        "versions": "tosdr/tosdr-versions",
-        "snapshots": "tosdr/tosdr-snapshots"
-      }
-    }
-  },
-  "dataset": {
-    "title": "tosdr",
-    "versionsRepositoryURL": "https://github.com/tosdr/tosdr-versions"
-  },
-  "api": {
-    "port": 3000
+  "@opentermsarchive/federation-api": {
+    "port": 3003,
+    "basePath": "/federation-api"
   }
 }

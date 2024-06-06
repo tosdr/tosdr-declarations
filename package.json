@@ -9,13 +9,15 @@
     "test:modified": "ota validate --modified",
     "start": "ota track",
     "start:api": "ota serve",
+    "start:federation-api": "ota-federation-api serve",
     "start:schedule": "npm run start -- --schedule",
     "start:modified": "git diff --name-only HEAD $(git merge-base HEAD origin/main) -- ./declarations/ | grep -v .history | grep -v .filters | sed 's/declarations\\///g' | sed 's/.json//g' | sed 's/.*/\"&\"/' | xargs -r npm run start -- --services",
     "dataset": "ota dataset",
     "dataset:schedule": "npm run dataset -- --publish --remove-local-copy --schedule"
   },
   "dependencies": {
-    "@opentermsarchive/engine": "~1.2.1",
+    "@opentermsarchive/engine": "~2.2.0",
+    "@opentermsarchive/federation-api": "~1.0.0",
     "@opentermsarchive/terms-types": "tosdr/terms-types#main",
     "xpath-to-css": "^1.1.0"
   }
