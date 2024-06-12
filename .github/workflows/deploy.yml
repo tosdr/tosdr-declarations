@@ -40,12 +40,8 @@ jobs:
         working-directory: ./deployment
         run: ansible-galaxy collection install -p ./ -r requirements.yml --force
 
-      - name: Deploy engine
+      - name: Deploy
         working-directory: ./deployment
-        run: ansible-playbook ./ansible_collections/opentermsarchive/deployment/playbooks/engine/all.yml
-
-      - name: Deploy federated-api
-        working-directory: ./deployment
-        run: ansible-playbook ./ansible_collections/opentermsarchive/deployment/playbooks/federated_api/all.yml
+        run: ansible-playbook ./ansible_collections/opentermsarchive/deployment/playbooks/deploy.yml
 
 
