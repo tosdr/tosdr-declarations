@@ -59,6 +59,14 @@
     }
   },
   "@opentermsarchive/federation-api": {
+    "collections": [
+      "https://opentermsarchive.org/collections.json",
+      {
+        "id": "tosdr",
+        "name": "ToS;DR",
+        "endpoint": "http://vps-a965881e.vps.ovh.net/collection-api/v1"
+      }
+    ],
     "port": 3003,
     "basePath": "/federation-api"
   }
