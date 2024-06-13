@@ -34,11 +34,7 @@
         "host": "smtp.sendgrid.net",
         "username": "apikey"
       },
-      "sendMailOnError": {
-        "to": "tosdr.alerts@gmail.com",
-        "from": "no-reply@tosdr.org",
-        "sendWarnings": false
-      }
+      "sendMailOnError": {}
     },
     "reporter": {
       "githubIssues": {
