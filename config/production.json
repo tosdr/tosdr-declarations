@@ -34,7 +34,7 @@
         "host": "smtp.sendgrid.net",
         "username": "apikey"
       },
-      "sendMailOnError": {}
+      "sendMailOnError": false
     },
     "reporter": {
       "githubIssues": {
