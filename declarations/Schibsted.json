@@ -1,13 +1,29 @@
 {
   "name": "Schibsted",
   "documents": {
-    "Trackers Policy": {
-      "fetch": "https://info.privacy.schibsted.com/en/privacy-and-cookie-policy-english-schibsted-sverige/",
-      "select": "body"
+    "Schibsted Account Terms of Service - Schibsted Norge": {
+      "fetch": "https://payment.schibsted.no/about/terms",
+      "select": ".agreement"
     },
-    "Terms of Service": {
-      "fetch": "https://login.schibsted.com/about/terms",
-      "select": "body"
+    "Privacy Policy - Schibsted Norge": {
+      "fetch": "https://info.privacy.schibsted.com/no/schibsted-norge-personvernerklaering/",
+      "select": ".site-content"
+    },
+    "Cookie Policy - Schibsted Norge": {
+      "fetch": "https://info.privacy.schibsted.com/no/cookies-pa-tjenester-fra-schibsted-norge/",
+      "select": ".content-area"
+    },
+    "Data Storage Regulations - Schibsted Norge": {
+      "fetch": "https://info.privacy.schibsted.com/no/data-retention-rules-full-details-schibsted-norge-norsk/",
+      "select": ".content-area"
+    },
+    "Processing of personal data about customers, partners and advertisers in connection with advertising sales (B2B) - Schibsted Norge": {
+      "fetch": "https://info.privacy.schibsted.com/no/schibsted-norge-as-processing-of-personal-data-about-customers-partners-and-advertisers-in-connection-with-advertising-sales-b2b/",
+      "select": ".content-area"
+    },
+    "Data Usage and Control Guide - Schibsted Norge": {
+      "fetch": "https://info.privacy.schibsted.com/no/schibsted-norge-as-processing-of-personal-data-about-customers-partners-and-advertisers-in-connection-with-advertising-sales-b2b/",
+      "select": ".content-area"
     }
   }
 }
