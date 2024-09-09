@@ -1,9 +1,0 @@
-{
-  "name": "Asbestosstar",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://asbestosstar.com/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

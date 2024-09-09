@@ -1,9 +1,0 @@
-{
-  "name": "Brand metrics",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://collector.brandmetrics.com/brandmetrics_privacypolicy.pdf",
-      "select": "body"
-    }
-  }
-}

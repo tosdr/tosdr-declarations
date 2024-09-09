@@ -1,9 +1,0 @@
-{
-  "name": "Extra space storage",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.extraspace.com/help/privacy/",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Electronic privacy information center",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://epic.org/about/privacy/",
-      "select": "body"
-    }
-  }
-}

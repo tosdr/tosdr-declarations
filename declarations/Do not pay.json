@@ -1,9 +1,0 @@
-{
-  "name": "Do not pay",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://donotpay.com/learn/terms-of-service-and-privacy-policy",
-      "select": "body"
-    }
-  }
-}

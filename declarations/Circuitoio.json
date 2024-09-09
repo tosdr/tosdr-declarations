@@ -1,9 +1,0 @@
-{
-  "name": "Circuitoio",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://www.circuito.io/terms",
-      "select": "body"
-    }
-  }
-}

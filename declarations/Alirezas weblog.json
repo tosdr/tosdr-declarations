@@ -1,9 +1,0 @@
-{
-  "name": "Alirezas weblog",
-  "documents": {
-    "Legal Information": {
-      "fetch": "https://alirezahayati.com/copyleft",
-      "select": "body"
-    }
-  }
-}

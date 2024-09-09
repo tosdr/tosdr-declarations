@@ -1,9 +1,0 @@
-{
-  "name": "12amrun",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://www.12amrun.com/pages/terms-conditions",
-      "select": "body"
-    }
-  }
-}

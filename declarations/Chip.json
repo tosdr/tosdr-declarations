@@ -1,9 +1,0 @@
-{
-  "name": "Chip",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "http://www.chip.de/s_specials/Datenschutz-CHIP-Online_45829526.html",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Apk pure",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://apkpure.com/privacy-policy.html",
-      "select": "body"
-    }
-  }
-}

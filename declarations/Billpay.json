@@ -1,9 +1,0 @@
-{
-  "name": "Billpay",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.billpay.de/en/privacy-de/",
-      "select": "body"
-    }
-  }
-}

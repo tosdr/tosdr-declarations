@@ -1,9 +1,0 @@
-{
-  "name": "Cambium assessment",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.cambiumassessment.com/en/about/privacy-policy",
-      "select": "body"
-    }
-  }
-}

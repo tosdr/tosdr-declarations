@@ -1,9 +1,0 @@
-{
-  "name": "Constant contact",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://www.constantcontact.com/legal/terms",
-      "select": "body"
-    }
-  }
-}

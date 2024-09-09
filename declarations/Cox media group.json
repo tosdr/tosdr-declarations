@@ -1,9 +1,0 @@
-{
-  "name": "Cox media group",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.cmg.com/fp/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

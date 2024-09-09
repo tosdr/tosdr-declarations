@@ -1,9 +1,0 @@
-{
-  "name": "Codeup",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.codeup.edu/privacy",
-      "select": "html > body > div:first-of-type"
-    }
-  }
-}

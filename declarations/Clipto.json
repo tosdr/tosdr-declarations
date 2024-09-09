@@ -1,9 +1,0 @@
-{
-  "name": "Clipto",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://clipto.pro/#/policy",
-      "select": "body"
-    }
-  }
-}

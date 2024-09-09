@@ -1,9 +1,0 @@
-{
-  "name": "Childrens assistive technology services",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://hr.atdevicesforkids.org/terms",
-      "select": "body"
-    }
-  }
-}

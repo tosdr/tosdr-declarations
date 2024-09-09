@@ -1,9 +1,0 @@
-{
-  "name": "1apps",
-  "documents": {
-    "Other": {
-      "fetch": "https://totohelper.com",
-      "select": "body"
-    }
-  }
-}

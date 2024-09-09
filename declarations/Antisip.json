@@ -1,9 +1,0 @@
-{
-  "name": "Antisip",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.antisip.com/service/privacy.html",
-      "select": "body"
-    }
-  }
-}

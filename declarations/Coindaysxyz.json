@@ -1,9 +1,0 @@
-{
-  "name": "Coindaysxyz",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://coindays.xyz/privacy-policy-2/",
-      "select": "body"
-    }
-  }
-}

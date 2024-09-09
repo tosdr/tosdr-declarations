@@ -1,9 +1,0 @@
-{
-  "name": "Bunnings warehouse new zealand",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.bunnings.co.nz/policies/privacy-policy",
-      "select": "body"
-    }
-  }
-}

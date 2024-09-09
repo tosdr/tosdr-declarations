@@ -1,9 +1,0 @@
-{
-  "name": "Fakhriid",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.fakhri.id/p/privacy-policy.html",
-      "select": "body"
-    }
-  }
-}

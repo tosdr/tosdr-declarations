@@ -1,9 +1,0 @@
-{
-  "name": "Evergreentech",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://evergreentech.io/terms-of-service",
-      "select": "body"
-    }
-  }
-}

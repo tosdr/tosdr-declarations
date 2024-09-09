@@ -1,9 +1,0 @@
-{
-  "name": "Agrale",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.agrale.com.br/en/politica-de-privacidade",
-      "select": "body"
-    }
-  }
-}

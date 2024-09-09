@@ -1,9 +1,0 @@
-{
-  "name": "Fake person generator",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.fakepersongenerator.com/Site/privacy",
-      "select": "body"
-    }
-  }
-}

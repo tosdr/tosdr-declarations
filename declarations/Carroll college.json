@@ -1,9 +1,0 @@
-{
-  "name": "Carroll college",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.carroll.edu/consumer-information/privacy-policy",
-      "select": "body"
-    }
-  }
-}

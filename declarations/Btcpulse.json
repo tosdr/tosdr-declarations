@@ -1,9 +1,0 @@
-{
-  "name": "Btcpulse",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://www.btc-pulse.com/terms-and-conditions/",
-      "select": "body"
-    }
-  }
-}

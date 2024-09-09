@@ -1,9 +1,0 @@
-{
-  "name": "Alivebarinstance",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://alive.bar/terms",
-      "select": "body"
-    }
-  }
-}

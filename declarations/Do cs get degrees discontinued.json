@@ -1,9 +1,0 @@
-{
-  "name": "Do cs get degrees discontinued",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://ww.docsgetdegrees.com/privacy/",
-      "select": "body"
-    }
-  }
-}

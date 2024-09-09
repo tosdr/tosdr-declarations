@@ -1,9 +1,0 @@
-{
-  "name": "Asian tv",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.asiantv.com.bd/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

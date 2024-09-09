@@ -1,9 +1,0 @@
-{
-  "name": "Bluearchive discontinued",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://blue-archive.org/home/faqs/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

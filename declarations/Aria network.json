@@ -1,9 +1,0 @@
-{
-  "name": "Aria network",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-      "select": "body"
-    }
-  }
-}

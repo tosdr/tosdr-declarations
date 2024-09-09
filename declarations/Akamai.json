@@ -1,9 +1,0 @@
-{
-  "name": "Akamai",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.akamai.com/legal/privacy-and-policies/privacy-statement",
-      "select": "body"
-    }
-  }
-}

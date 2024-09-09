@@ -1,9 +1,0 @@
-{
-  "name": "Charitywatch",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.charitywatch.org/privacy-tos#Privacy_Policy",
-      "select": "body"
-    }
-  }
-}

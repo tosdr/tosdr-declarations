@@ -1,9 +1,0 @@
-{
-  "name": "Black lives matter global network foundation inc",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://blacklivesmatter.com/privacy-policy",
-      "select": "body"
-    }
-  }
-}

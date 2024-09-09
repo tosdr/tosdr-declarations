@@ -1,9 +1,0 @@
-{
-  "name": "Aapks",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://aapks.com/privacy-policy",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Crohns  colitis foundation",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.crohnscolitisfoundation.org/donate/donor-privacy-policy",
-      "select": "body"
-    }
-  }
-}

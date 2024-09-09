@@ -1,9 +1,0 @@
-{
-  "name": "Duradek",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://duradek.com/terms-conditions",
-      "select": "body"
-    }
-  }
-}

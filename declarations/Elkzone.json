@@ -1,9 +1,0 @@
-{
-  "name": "Elkzone",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://docs.elk.zone/docs/privacy",
-      "select": "body"
-    }
-  }
-}

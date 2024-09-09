@@ -1,9 +1,0 @@
-{
-  "name": "Discordtop",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://discordtop.org/terms.php",
-      "select": "body"
-    }
-  }
-}

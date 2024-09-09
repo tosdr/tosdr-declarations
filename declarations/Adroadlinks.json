@@ -1,9 +1,0 @@
-{
-  "name": "Adroadlinks",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://adroadlinks.com/terms",
-      "select": "body"
-    }
-  }
-}

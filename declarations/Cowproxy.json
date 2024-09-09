@@ -1,9 +1,0 @@
-{
-  "name": "Cowproxy",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://vpnis.lol/privacy.html",
-      "select": "body"
-    }
-  }
-}

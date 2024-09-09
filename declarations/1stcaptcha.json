@@ -1,9 +1,0 @@
-{
-  "name": "1stcaptcha",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://docs.1stcaptcha.com/policies/privacy-policy",
-      "select": "body"
-    }
-  }
-}

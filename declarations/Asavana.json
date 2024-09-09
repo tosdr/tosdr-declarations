@@ -1,9 +1,0 @@
-{
-  "name": "Asavana",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://asavana.com/privacy-policy",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Digital privacy news",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://digitalprivacy.news/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

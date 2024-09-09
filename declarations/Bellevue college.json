@@ -1,9 +1,0 @@
-{
-  "name": "Bellevue college",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.bellevuecollege.edu/website/privacy/",
-      "select": "body"
-    }
-  }
-}

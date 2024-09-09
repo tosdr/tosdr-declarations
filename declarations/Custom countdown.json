@@ -1,9 +1,0 @@
-{
-  "name": "Custom countdown",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://customcountdown.io/wizard/",
-      "select": "body"
-    }
-  }
-}

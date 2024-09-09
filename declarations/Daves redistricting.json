@@ -1,9 +1,0 @@
-{
-  "name": "Daves redistricting",
-  "documents": {
-    "Policy": {
-      "fetch": "https://davesredistricting.org/TermsOfUse-Nov-2023.pdf",
-      "select": "body"
-    }
-  }
-}

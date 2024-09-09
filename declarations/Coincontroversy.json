@@ -1,9 +1,0 @@
-{
-  "name": "Coincontroversy",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://coincontroversy.com/privacy/",
-      "select": "body"
-    }
-  }
-}

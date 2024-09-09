@@ -1,9 +1,0 @@
-{
-  "name": "Donswelt",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://donswelt.de/imprint/",
-      "select": "body"
-    }
-  }
-}

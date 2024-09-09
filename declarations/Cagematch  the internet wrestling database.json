@@ -1,9 +1,0 @@
-{
-  "name": "Cagematch  the internet wrestling database",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.cagematch.net/?id=402",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Addoncloud",
-  "documents": {
-    "Copyright Claims Policy": {
-      "fetch": "https://addoncloud.org/disclaimer",
-      "select": "body"
-    }
-  }
-}

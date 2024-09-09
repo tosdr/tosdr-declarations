@@ -1,9 +1,0 @@
-{
-  "name": "Deverooniexyz",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://deveroonie.xyz/privacy",
-      "select": "body"
-    }
-  }
-}

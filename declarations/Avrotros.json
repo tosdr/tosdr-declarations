@@ -1,9 +1,0 @@
-{
-  "name": "Avrotros",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.avrotros.nl/privacy/privacy/",
-      "select": "html > body > main > div:nth-of-type(2) > article"
-    }
-  }
-}

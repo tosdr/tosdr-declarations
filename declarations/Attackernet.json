@@ -1,9 +1,0 @@
-{
-  "name": "Attackernet",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://attacker.net/terms",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Dr aron medical weight loss center weightlossnyc",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://weightlossnyc.com/privacy-policy.php",
-      "select": "html > body > main"
-    }
-  }
-}

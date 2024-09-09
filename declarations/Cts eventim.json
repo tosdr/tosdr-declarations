@@ -1,9 +1,0 @@
-{
-  "name": "Cts eventim",
-  "documents": {
-    "General Conditions of Sale": {
-      "fetch": "https://www.eventim.de/help/terms/",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Cyberpost",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://cyberpost.co/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

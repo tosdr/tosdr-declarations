@@ -1,9 +1,0 @@
-{
-  "name": "Enjin",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.enjin.com/privacy",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Biblioreadsml",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://biblioreads.ml/privacy",
-      "select": "body"
-    }
-  }
-}

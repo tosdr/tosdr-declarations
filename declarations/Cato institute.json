@@ -1,9 +1,0 @@
-{
-  "name": "Cato institute",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.cato.org/privacy",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Credit up builder",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.creditupbuilder.com/pdf/privacy-policy.pdf",
-      "select": "body"
-    }
-  }
-}
