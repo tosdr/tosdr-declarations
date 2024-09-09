@@ -2,8 +2,8 @@
   "name": "Snapchat",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.snapchat.com/create/terms.html",
-      "select": "body"
+      "fetch": "https://www.snap.com/en-US/terms",
+      "select": "main"
     },
     "Trackers Policy": {
       "fetch": "https://www.snap.com/en-US/cookie-policy/",
