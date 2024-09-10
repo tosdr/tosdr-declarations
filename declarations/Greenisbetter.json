@@ -1,9 +1,0 @@
-{
-  "name": "Greenisbetter",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://www.green-is-better.com/terms-of-service/",
-      "select": "body"
-    }
-  }
-}

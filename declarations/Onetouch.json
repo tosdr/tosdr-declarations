@@ -1,9 +1,0 @@
-{
-  "name": "Onetouch",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.onetouch.com/privacy-policy",
-      "select": "body"
-    }
-  }
-}

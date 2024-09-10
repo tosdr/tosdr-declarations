@@ -1,9 +1,0 @@
-{
-  "name": "Privau",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://vid.priv.au/privacy",
-      "select": "body"
-    }
-  }
-}

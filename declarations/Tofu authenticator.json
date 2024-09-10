@@ -1,9 +1,0 @@
-{
-  "name": "Tofu authenticator",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.tofuauth.com/privacy",
-      "select": "body"
-    }
-  }
-}

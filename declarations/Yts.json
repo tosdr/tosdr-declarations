@@ -1,9 +1,0 @@
-{
-  "name": "Yts",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://yts.mx/terms",
-      "select": "body"
-    }
-  }
-}

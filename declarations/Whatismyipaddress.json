@@ -1,9 +1,0 @@
-{
-  "name": "Whatismyipaddress",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://whatismyipaddress.com/privacy-policy",
-      "select": "body"
-    }
-  }
-}

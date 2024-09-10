@@ -1,9 +1,0 @@
-{
-  "name": "Updatestar",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://client.updatestar.com/en/privacy",
-      "select": "body"
-    }
-  }
-}

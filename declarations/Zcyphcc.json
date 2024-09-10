@@ -1,9 +1,0 @@
-{
-  "name": "Zcyphcc",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://lbry.zcyph.cc/privacy",
-      "select": "body"
-    }
-  }
-}

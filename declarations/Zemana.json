@@ -1,9 +1,0 @@
-{
-  "name": "Zemana",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.zemana.com/privacy",
-      "select": "body"
-    }
-  }
-}

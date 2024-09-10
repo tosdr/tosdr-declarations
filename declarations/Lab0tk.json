@@ -1,9 +1,0 @@
-{
-  "name": "Lab0tk",
-  "documents": {
-    "Other": {
-      "fetch": "https://www.lab0.tk/main/about",
-      "select": "body"
-    }
-  }
-}

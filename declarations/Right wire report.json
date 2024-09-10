@@ -1,9 +1,0 @@
-{
-  "name": "Right wire report",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://rightwirereport.com/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

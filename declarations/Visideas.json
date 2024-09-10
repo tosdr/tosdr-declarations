@@ -1,9 +1,0 @@
-{
-  "name": "Visideas",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://visideas.com/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

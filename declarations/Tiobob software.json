@@ -1,9 +1,0 @@
-{
-  "name": "Tiobob software",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.tiobobsoftware.com/6love-privacy-policy.php",
-      "select": "body"
-    }
-  }
-}

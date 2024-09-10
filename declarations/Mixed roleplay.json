@@ -1,9 +1,0 @@
-{
-  "name": "Mixed roleplay",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://help.mxrp.chat/en/blog/terms-of-service",
-      "select": "body"
-    }
-  }
-}

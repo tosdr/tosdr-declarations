@@ -1,9 +1,0 @@
-{
-  "name": "Upwork",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.upwork.com/legal#privacy",
-      "select": "body"
-    }
-  }
-}

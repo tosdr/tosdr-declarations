@@ -1,9 +1,0 @@
-{
-  "name": "Shopforex",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://shopforex.online/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

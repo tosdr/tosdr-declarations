@@ -1,9 +1,0 @@
-{
-  "name": "Will robots take my job",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://willrobotstakemyjob.com/privacy-policy.aspx",
-      "select": "body"
-    }
-  }
-}

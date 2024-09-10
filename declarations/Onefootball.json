@@ -1,9 +1,0 @@
-{
-  "name": "Onefootball",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://static.onefootball.com/legal/consumer-web-privacy-policy/en",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Toshiba tec spain",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.toshibatec-tsis.com/footer/aviso-legal.html",
-      "select": "body"
-    }
-  }
-}

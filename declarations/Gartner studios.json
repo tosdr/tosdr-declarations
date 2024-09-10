@@ -1,9 +1,0 @@
-{
-  "name": "Gartner studios",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.gartnerstudios.com/privacy-policy",
-      "select": "body"
-    }
-  }
-}

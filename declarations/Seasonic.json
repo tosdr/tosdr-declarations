@@ -1,9 +1,0 @@
-{
-  "name": "Seasonic",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://seasonic.com/privacy-policy-cookie-restriction-mode",
-      "select": "body"
-    }
-  }
-}

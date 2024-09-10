@@ -1,9 +1,0 @@
-{
-  "name": "Pnas",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.pnas.org/about/terms",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Vocaroo",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://vocaroo.com/privacy",
-      "select": "body"
-    }
-  }
-}

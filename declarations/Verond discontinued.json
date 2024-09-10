@@ -1,9 +1,0 @@
-{
-  "name": "Verond discontinued",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.verond.com/terms/privacy-policy",
-      "select": "body"
-    }
-  }
-}

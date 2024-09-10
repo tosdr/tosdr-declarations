@@ -1,9 +1,0 @@
-{
-  "name": "Jario blog",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://jar.io/about/tos",
-      "select": "body"
-    }
-  }
-}

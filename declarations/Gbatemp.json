@@ -1,9 +1,0 @@
-{
-  "name": "Gbatemp",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://gbatemp.net/dynamic/gbatemp-net-privacy-policy.78/",
-      "select": "body"
-    }
-  }
-}

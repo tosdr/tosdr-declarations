@@ -1,9 +1,0 @@
-{
-  "name": "Zombsio",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "http://zombs.io/privacy",
-      "select": "body"
-    }
-  }
-}

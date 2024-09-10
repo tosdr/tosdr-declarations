@@ -1,9 +1,0 @@
-{
-  "name": "Unicorn childrens foundation",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://www.unicornchildrensfoundation.org/terms_of_service.html",
-      "select": "body"
-    }
-  }
-}

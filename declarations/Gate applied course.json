@@ -1,9 +1,0 @@
-{
-  "name": "Gate applied course",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://appliedroots.com/terms-and-conditions",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Waycom",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://way.com/aboutUs/userAgreement",
-      "select": "body"
-    }
-  }
-}

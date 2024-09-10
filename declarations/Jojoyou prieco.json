@@ -1,9 +1,0 @@
-{
-  "name": "Jojoyou prieco",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://jojoyou.org/legal/",
-      "select": "body"
-    }
-  }
-}

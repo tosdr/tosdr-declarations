@@ -1,9 +1,0 @@
-{
-  "name": "Tenta",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://tenta.com/privacy-policy",
-      "select": "body"
-    }
-  }
-}

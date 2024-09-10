@@ -1,9 +1,0 @@
-{
-  "name": "Rewasd",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.rewasd.com/privacy",
-      "select": "html > body > div:first-of-type > section"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Fatafeat",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.fatafeat.com/privacy",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Heaven clix",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://www.heavenclix.com/index.php?view=terms",
-      "select": "body"
-    }
-  }
-}

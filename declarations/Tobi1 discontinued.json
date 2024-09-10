@@ -1,9 +1,0 @@
-{
-  "name": "Tobi1 discontinued",
-  "documents": {
-    "Other": {
-      "fetch": "https://tobi1.dk/policy.php",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Sloth software",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://slothsoftware.com/privacy.html",
-      "select": "body"
-    }
-  }
-}

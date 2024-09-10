@@ -1,9 +1,0 @@
-{
-  "name": "Musictastespace",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://musictaste.space/privacy-policy",
-      "select": "body"
-    }
-  }
-}

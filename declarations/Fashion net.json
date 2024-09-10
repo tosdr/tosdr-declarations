@@ -1,9 +1,0 @@
-{
-  "name": "Fashion net",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.fashion.net/privacy.php",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Trust no wan",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://trustnowan.com/privacy-policy",
-      "select": "body"
-    }
-  }
-}

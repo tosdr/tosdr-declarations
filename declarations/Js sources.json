@@ -1,9 +1,0 @@
-{
-  "name": "Js sources",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://www.jssources.com/termsandpol",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Mexiconewsdaily",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://mexiconewsdaily.com/mexico-news-daily-privacy-policy",
-      "select": "body"
-    }
-  }
-}

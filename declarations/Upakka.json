@@ -1,9 +1,0 @@
-{
-  "name": "Upakka",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://upakka.com/privacy/",
-      "select": "body"
-    }
-  }
-}

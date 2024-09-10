@@ -1,9 +1,0 @@
-{
-  "name": "Wsi",
-  "documents": {
-    "Policy": {
-      "fetch": "https://www.kritionlinemarketing.com/Policy",
-      "select": "body"
-    }
-  }
-}

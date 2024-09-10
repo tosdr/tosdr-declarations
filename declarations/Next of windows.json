@@ -1,9 +1,0 @@
-{
-  "name": "Next of windows",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.nextofwindows.com/privacy",
-      "select": "body"
-    }
-  }
-}

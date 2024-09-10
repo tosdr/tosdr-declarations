@@ -1,9 +1,0 @@
-{
-  "name": "Teenspresso",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "http://teenspresso.com/",
-      "select": "html > body > div:first-of-type > div:nth-of-type(3)"
-    }
-  }
-}

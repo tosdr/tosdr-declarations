@@ -1,9 +1,0 @@
-{
-  "name": "Icursos",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.icursos.org/privacidad",
-      "select": "body"
-    }
-  }
-}

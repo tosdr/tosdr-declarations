@@ -1,9 +1,0 @@
-{
-  "name": "How long to beat",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://howlongtobeat.com/privacy",
-      "select": "body"
-    }
-  }
-}

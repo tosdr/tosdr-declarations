@@ -1,9 +1,0 @@
-{
-  "name": "Wonderchurchco",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://wonderchurch.co/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

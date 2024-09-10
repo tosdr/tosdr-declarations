@@ -1,9 +1,0 @@
-{
-  "name": "Privnote",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://privnote.com/info/privacy",
-      "select": "body"
-    }
-  }
-}

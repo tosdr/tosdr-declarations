@@ -1,9 +1,0 @@
-{
-  "name": "Invidious nerdvpnde",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://invidious.nerdvpn.de/privacy",
-      "select": "body"
-    }
-  }
-}

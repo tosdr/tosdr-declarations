@@ -1,9 +1,0 @@
-{
-  "name": "Switching to mac",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.switchingtomac.com/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

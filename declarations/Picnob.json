@@ -1,9 +1,0 @@
-{
-  "name": "Picnob",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.picnob.com/privacy/",
-      "select": "body"
-    }
-  }
-}

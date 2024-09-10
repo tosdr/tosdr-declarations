@@ -1,9 +1,0 @@
-{
-  "name": "International fellowship of christians and jews",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.ifcj.org/donor-privacy-policy",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Sharex",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://getsharex.com/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Papercups",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://papercups.io/privacy",
-      "select": "body"
-    }
-  }
-}

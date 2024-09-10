@@ -1,9 +1,0 @@
-{
-  "name": "Schemaorg",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.tunnelventilation.pro/en/privacy.html",
-      "select": "body"
-    }
-  }
-}

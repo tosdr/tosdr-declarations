@@ -1,9 +1,0 @@
-{
-  "name": "Tweet deleter",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://tweetdeleter.com/terms-of-service",
-      "select": "html > body > div:first-of-type > main > section"
-    }
-  }
-}

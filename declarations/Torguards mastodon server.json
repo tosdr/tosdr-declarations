@@ -1,9 +1,0 @@
-{
-  "name": "Torguards mastodon server",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://torguard.social/privacy-policy",
-      "select": "body"
-    }
-  }
-}

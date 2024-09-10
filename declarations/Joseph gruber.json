@@ -1,9 +1,0 @@
-{
-  "name": "Joseph gruber",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://josephgruber.space/privacy-policy",
-      "select": "body"
-    }
-  }
-}

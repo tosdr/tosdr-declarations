@@ -1,9 +1,0 @@
-{
-  "name": "Typeform",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://admin.typeform.com/to/dwk6gt/",
-      "select": "body"
-    }
-  }
-}

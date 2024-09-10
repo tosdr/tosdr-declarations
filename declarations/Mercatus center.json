@@ -1,9 +1,0 @@
-{
-  "name": "Mercatus center",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.mercatus.org/mercatus-center-george-mason-university-privacy-policy",
-      "select": "body"
-    }
-  }
-}

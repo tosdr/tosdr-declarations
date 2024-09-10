@@ -1,9 +1,0 @@
-{
-  "name": "Geolognecom",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "http://geologne.com/privacy.php",
-      "select": "body"
-    }
-  }
-}

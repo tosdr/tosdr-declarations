@@ -1,9 +1,0 @@
-{
-  "name": "Sec",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.sec.gov/privacy",
-      "select": "body"
-    }
-  }
-}

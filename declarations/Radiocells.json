@@ -1,9 +1,0 @@
-{
-  "name": "Radiocells",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://radiocells.org/license",
-      "select": "body"
-    }
-  }
-}

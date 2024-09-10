@@ -1,9 +1,0 @@
-{
-  "name": "Hussmann corporation",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.hussmann.com/hussmann-corporation-privacy-cookies-policies",
-      "select": "body"
-    }
-  }
-}

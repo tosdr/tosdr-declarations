@@ -1,9 +1,0 @@
-{
-  "name": "Rockmods",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.rockmods.net/p/privacy-policy.html",
-      "select": "body"
-    }
-  }
-}

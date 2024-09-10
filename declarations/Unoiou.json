@@ -1,9 +1,0 @@
-{
-  "name": "Unoiou",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.unoiou.com",
-      "select": "body"
-    }
-  }
-}

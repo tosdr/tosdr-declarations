@@ -1,9 +1,0 @@
-{
-  "name": "Viva recipes",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.vivarecipes.com/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

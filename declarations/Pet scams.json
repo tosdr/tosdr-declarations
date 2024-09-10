@@ -1,9 +1,0 @@
-{
-  "name": "Pet scams",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://petscams.com/privacy-policy/",
-      "select": "html > body > div:nth-of-type(7)"
-    }
-  }
-}

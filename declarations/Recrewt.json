@@ -1,9 +1,0 @@
-{
-  "name": "Recrewt",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://recrewt.de/html/privacy",
-      "select": "body"
-    }
-  }
-}

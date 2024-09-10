@@ -1,9 +1,0 @@
-{
-  "name": "Regulationsgov",
-  "documents": {
-    "Legal Information": {
-      "fetch": "https://www.regulations.gov/privacy-notice",
-      "select": "body"
-    }
-  }
-}

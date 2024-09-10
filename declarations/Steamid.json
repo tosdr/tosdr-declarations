@@ -1,9 +1,0 @@
-{
-  "name": "Steamid",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://steamid.uk/privacy/",
-      "select": "body"
-    }
-  }
-}

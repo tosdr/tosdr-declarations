@@ -1,9 +1,0 @@
-{
-  "name": "Kreditkortsjakt",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.kreditkortsjakt.com/about",
-      "select": "body"
-    }
-  }
-}

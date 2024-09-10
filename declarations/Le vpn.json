@@ -1,9 +1,0 @@
-{
-  "name": "Le vpn",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://le-vpn.com/clients/knowledgebase.php?action=displayarticle&id=82&language=english",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Firefishsocial",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://firefish.social/@admin/pages/tos",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Telaria",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://telaria.com/privacy-policy",
-      "select": "body"
-    }
-  }
-}

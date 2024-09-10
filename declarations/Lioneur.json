@@ -1,9 +1,0 @@
-{
-  "name": "Lioneur",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://lioneur.com/legal-stuff/",
-      "select": "body"
-    }
-  }
-}

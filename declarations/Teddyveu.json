@@ -1,9 +1,0 @@
-{
-  "name": "Teddyveu",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://teddyv.eu/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

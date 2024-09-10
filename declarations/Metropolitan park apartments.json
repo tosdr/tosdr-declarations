@@ -1,9 +1,0 @@
-{
-  "name": "Metropolitan park apartments",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.metropolitanparkapts.com/apartments/wa/seattle/privacy-policy",
-      "select": "body"
-    }
-  }
-}

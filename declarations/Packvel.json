@@ -1,9 +1,0 @@
-{
-  "name": "Packvel",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.packvel.com/privacy-policy",
-      "select": "body"
-    }
-  }
-}

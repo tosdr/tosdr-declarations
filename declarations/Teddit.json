@@ -1,9 +1,0 @@
-{
-  "name": "Teddit",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://tedd.it/privacy",
-      "select": "body"
-    }
-  }
-}

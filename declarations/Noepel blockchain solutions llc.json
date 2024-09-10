@@ -1,9 +1,0 @@
-{
-  "name": "Noepel blockchain solutions llc",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://noepel.net/privacy",
-      "select": "body"
-    }
-  }
-}

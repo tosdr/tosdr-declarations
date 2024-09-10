@@ -1,9 +1,0 @@
-{
-  "name": "Hellthy junk food",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://shop.hellthyjunkfood.com/privacy",
-      "select": "body"
-    }
-  }
-}

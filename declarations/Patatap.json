@@ -1,9 +1,0 @@
-{
-  "name": "Patatap",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.patatap.com/privacy-policy.html",
-      "select": "body"
-    }
-  }
-}

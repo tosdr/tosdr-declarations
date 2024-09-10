@@ -1,9 +1,0 @@
-{
-  "name": "Pracujpl",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://grupapracuj.pl/polityka-prywatnosci",
-      "select": "body"
-    }
-  }
-}

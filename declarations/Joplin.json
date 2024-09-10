@@ -1,9 +1,0 @@
-{
-  "name": "Joplin",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://joplinapp.org/privacy/",
-      "select": "body"
-    }
-  }
-}

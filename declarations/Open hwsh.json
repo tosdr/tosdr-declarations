@@ -1,9 +1,0 @@
-{
-  "name": "Open hwsh",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://hwshsee.lionfree.net/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

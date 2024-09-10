@@ -1,9 +1,0 @@
-{
-  "name": "Wcla credit union",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://loggerscu.com/wp-content/uploads/2019/11/Privacy-Policy-2014.pdf",
-      "select": "body"
-    }
-  }
-}

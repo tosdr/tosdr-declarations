@@ -1,9 +1,0 @@
-{
-  "name": "Rogerty",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://rogerty.com/privacy-policy",
-      "select": "body"
-    }
-  }
-}

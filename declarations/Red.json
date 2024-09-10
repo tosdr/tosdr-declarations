@@ -1,9 +1,0 @@
-{
-  "name": "Red",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.red.org/terms-privacy",
-      "select": "body"
-    }
-  }
-}

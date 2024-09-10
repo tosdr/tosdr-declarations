@@ -1,9 +1,0 @@
-{
-  "name": "United states department of energy",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.energy.gov/about-us/web-policies/privacy",
-      "select": "body"
-    }
-  }
-}

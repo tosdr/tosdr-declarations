@@ -1,9 +1,0 @@
-{
-  "name": "Northwest association of independent schools",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://nwais.org/page/privacy_policy",
-      "select": "body"
-    }
-  }
-}

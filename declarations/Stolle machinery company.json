@@ -1,9 +1,0 @@
-{
-  "name": "Stolle machinery company",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.stollemachinery.com/legal-notices",
-      "select": "body"
-    }
-  }
-}

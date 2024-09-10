@@ -1,9 +1,0 @@
-{
-  "name": "Stanford lagunita",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://lagunita.stanford.edu/tos_and_honor",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Lamina technologies sa",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://online.lamina-tech.ch/security-policy",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Twitlonger",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.twitlonger.com/privacy",
-      "select": "body"
-    }
-  }
-}

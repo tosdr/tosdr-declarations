@@ -1,9 +1,0 @@
-{
-  "name": "Roboquest",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.roboquest.com/privacy.php",
-      "select": "body"
-    }
-  }
-}

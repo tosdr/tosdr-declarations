@@ -1,9 +1,0 @@
-{
-  "name": "Yogeshdama",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.yogeshdama.com/privacy-policy.html",
-      "select": "body"
-    }
-  }
-}

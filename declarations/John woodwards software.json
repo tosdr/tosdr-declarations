@@ -1,9 +1,0 @@
-{
-  "name": "John woodwards software",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://thewoodwards.us/sw/Privacy.html",
-      "select": "body"
-    }
-  }
-}

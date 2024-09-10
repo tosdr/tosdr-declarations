@@ -1,9 +1,0 @@
-{
-  "name": "Sublime",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.sublime.xyz/en/privacy",
-      "select": "body"
-    }
-  }
-}

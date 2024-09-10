@@ -1,9 +1,0 @@
-{
-  "name": "Summer of hyperlocal discontinued",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.sohl.party/privacy",
-      "select": "body"
-    }
-  }
-}

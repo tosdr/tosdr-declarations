@@ -1,9 +1,0 @@
-{
-  "name": "Warhammer",
-  "documents": {
-    "Trackers Policy": {
-      "fetch": "https://www.warhammer.com/en-GB/legal",
-      "select": "body"
-    }
-  }
-}

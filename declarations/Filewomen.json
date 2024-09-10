@@ -1,9 +1,0 @@
-{
-  "name": "Filewomen",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://filewomen.com/privacy-policy-filewomen",
-      "select": "body"
-    }
-  }
-}

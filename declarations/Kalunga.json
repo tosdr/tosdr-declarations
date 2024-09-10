@@ -1,9 +1,0 @@
-{
-  "name": "Kalunga",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.kalunga.com.br/hotsite/politica-de-privacidade",
-      "select": "body"
-    }
-  }
-}

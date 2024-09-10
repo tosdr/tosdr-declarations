@@ -1,9 +1,0 @@
-{
-  "name": "Safervpn",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://www.safervpn.com/legal/terms",
-      "select": "body"
-    }
-  }
-}

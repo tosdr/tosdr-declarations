@@ -1,9 +1,0 @@
-{
-  "name": "Tor browser",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://donate.torproject.org/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

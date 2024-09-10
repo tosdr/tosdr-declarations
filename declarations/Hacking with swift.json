@@ -1,9 +1,0 @@
-{
-  "name": "Hacking with swift",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.hackingwithswift.com/privacy",
-      "select": "body"
-    }
-  }
-}

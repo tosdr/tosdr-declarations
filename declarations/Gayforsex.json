@@ -1,9 +1,0 @@
-{
-  "name": "Gayforsex",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://gayforsex.com/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

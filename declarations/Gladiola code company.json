@@ -1,9 +1,0 @@
-{
-  "name": "Gladiola code company",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.gladiola.codes/pagePrivacyPolicy.php",
-      "select": "body"
-    }
-  }
-}

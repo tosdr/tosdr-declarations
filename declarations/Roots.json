@@ -1,9 +1,0 @@
-{
-  "name": "Roots",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://rootsinfo.org/privacy-policy",
-      "select": "body"
-    }
-  }
-}

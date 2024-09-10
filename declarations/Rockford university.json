@@ -1,9 +1,0 @@
-{
-  "name": "Rockford university",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.rockford.edu/privacy",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Linuxquestionsorg",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.linuxquestions.org/linux/privacy.html",
-      "select": "body"
-    }
-  }
-}

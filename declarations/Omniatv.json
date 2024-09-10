@@ -1,9 +1,0 @@
-{
-  "name": "Omniatv",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://omniatv.com/privacy",
-      "select": "body"
-    }
-  }
-}

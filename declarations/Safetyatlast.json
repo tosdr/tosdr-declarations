@@ -1,9 +1,0 @@
-{
-  "name": "Safetyatlast",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://safetyatlast.net/privacy-policy",
-      "select": "body"
-    }
-  }
-}

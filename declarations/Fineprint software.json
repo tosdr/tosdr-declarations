@@ -1,9 +1,0 @@
-{
-  "name": "Fineprint software",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://fineprint.com/company/policies/",
-      "select": "body"
-    }
-  }
-}

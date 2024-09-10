@@ -1,9 +1,0 @@
-{
-  "name": "Mobitaak",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://mobitaak.com/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

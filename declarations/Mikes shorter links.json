@@ -1,9 +1,0 @@
-{
-  "name": "Mikes shorter links",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://mikes.link/terms.html",
-      "select": "body"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Saraiva",
-  "documents": {
-    "Trackers Policy": {
-      "fetch": "https://www.saraiva.com.br/central-de-atendimento/politica",
-      "select": "body"
-    }
-  }
-}

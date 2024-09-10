@@ -1,9 +1,0 @@
-{
-  "name": "Pollpayapp",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://pollpay.app/web-privacy-en",
-      "select": "body"
-    }
-  }
-}

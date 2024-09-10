@@ -1,9 +1,0 @@
-{
-  "name": "Justworks",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://justworks.com/privacy-policy",
-      "select": "body"
-    }
-  }
-}

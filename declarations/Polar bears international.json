@@ -1,9 +1,0 @@
-{
-  "name": "Polar bears international",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://polarbearsinternational.org/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

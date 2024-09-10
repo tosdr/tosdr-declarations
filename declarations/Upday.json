@@ -1,9 +1,0 @@
-{
-  "name": "Upday",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.upday.com/privacy-policy",
-      "select": "body"
-    }
-  }
-}

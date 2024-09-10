@@ -1,9 +1,0 @@
-{
-  "name": "Sciextor",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://sciextor.space/policy",
-      "select": "body"
-    }
-  }
-}

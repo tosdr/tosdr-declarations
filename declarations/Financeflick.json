@@ -1,9 +1,0 @@
-{
-  "name": "Financeflick",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.financeflick.com/pages/privacy_policy",
-      "select": "html > body > div:nth-of-type(2)"
-    }
-  }
-}

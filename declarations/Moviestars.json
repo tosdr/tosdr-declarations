@@ -1,9 +1,0 @@
-{
-  "name": "Moviestars",
-  "documents": {
-    "Copyright Claims Policy": {
-      "fetch": "https://moviestars.to/dmca/",
-      "select": "body"
-    }
-  }
-}

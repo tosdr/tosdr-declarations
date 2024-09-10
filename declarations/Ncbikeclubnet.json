@@ -1,9 +1,0 @@
-{
-  "name": "Ncbikeclubnet",
-  "documents": {
-    "Privacy Policy": {
-      "fetch": "https://www.ncbikeclub.net/privacy-policy/",
-      "select": "body"
-    }
-  }
-}

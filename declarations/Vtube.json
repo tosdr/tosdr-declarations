@@ -1,9 +1,0 @@
-{
-  "name": "Vtube",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://vtube.to/tos",
-      "select": "body"
-    }
-  }
-}

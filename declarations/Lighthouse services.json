@@ -1,9 +1,0 @@
-{
-  "name": "Lighthouse services",
-  "documents": {
-    "Terms of Service": {
-      "fetch": "https://store.lighthouse-services.com/pages/terms-and-conditions",
-      "select": "body"
-    }
-  }
-}
